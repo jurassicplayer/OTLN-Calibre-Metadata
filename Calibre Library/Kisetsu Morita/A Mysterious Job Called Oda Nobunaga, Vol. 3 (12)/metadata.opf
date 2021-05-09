@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd8047fb-b6d6-4948-825a-ad644fc78aa6</dc:identifier>
+        <dc:title>A Mysterious Job Called Oda Nobunaga, Vol. 3</dc:title>
+        <dc:creator opf:file-as="Morita, Kisetsu &amp; Shibano, Kaito" opf:role="aut">Kisetsu Morita</dc:creator>
+        <dc:creator opf:file-as="Morita, Kisetsu &amp; Shibano, Kaito" opf:role="aut">Kaito Shibano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-20T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;A JOB WELL DONE&lt;/p&gt;
+&lt;p&gt;​Alsrod is now closer to his goal of conquest than Oda Nobunaga himself ever was. All that stands between him and the throne is the current king, Hasse, leaving the young conqueror no choice but to defy the crown if he wants full control of the kingdom. With his vassals and their powerful jobs of Akechi Mitsuhide and Takeda Shingen at his disposal, Alsrod’s military prowess is a significant threat to Hasse’s half-hearted reign… Who will live, who will die, and who will claim the ultimate victory in this final chapter of &lt;em&gt;A Mysterious Job Called Oda Nobunaga&lt;/em&gt;?!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen On</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975305604</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">54818240</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Martial Arts</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Completed</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kisetsu Morita&quot;: &quot;&quot;, &quot;Kaito Shibano&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="A Mysterious Job Called Oda Nobunaga"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2021-05-09T23:30:22.072791+00:00"/>
+        <meta name="calibre:title_sort" content="Mysterious Job Called Oda Nobunaga, Vol. 3, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

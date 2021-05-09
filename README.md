@@ -8,18 +8,30 @@ Curated calibre metadata for OTLN, going through the suffering so you don't have
     - Any tech-savvy person would tell you that backups are your lifeline when things go south. A lot of tech-savvy people also don't have regular backups. This is my backup so the time I invest in this doesn't vanish due to some accident.
 - What is OTLN?
     - It stands for "Officially Translated Light Novels".
+- Why no subtitles as "Title" and the title as the series?
+    - Not every series has subtitles, and though nice to have, `Under Pressure` doesn't really give an indication of what volume or series it's from.
 
 ### Guidelines
 - Metadata source preference when available: YenPress/YenOn > GoodReads > Amazon
+#### Tags
 - Remove all `Manga` tags 
 - Add `Light Novel` and `Official Translation` tags
 - Add tags from metadata source and MAL to all books in the series
+#### Titles
 - Uniform title structure (per series...until I'm further along)
+    - Remove any `Novel` or `Light Novel`
+    - Volumes should be denoted after the title as `<Title>, Vol. XX`
+    - Subtitles should be ignored
+    - Series should be named the same as the title without volume
+#### Authors/Artists/Publishers
 - Include artist as an author when available.
 - Publishers should follow publishing imprint. Ex. Yen Press publishes light novels under Yen On, so Yen Press LNs should have Yen On as the publisher.
+#### Descriptions
+- Try to keep consistent sources for descriptions.
+- Use your brain. If YenPress has the same description for multiple volumes, but GoodReads has a unique description, opt for the unique one unless it deviates too far from the other descriptions structure. (Ex. 86 vol.5 & vol.6)
 
 ### To-Do
 - Make a script that move files from a fresh copy to the correct folders with the correct filenames
 
 ### Current Progress (based on v15.1)
-0/1792
+1/1792

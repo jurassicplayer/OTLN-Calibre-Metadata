@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f8beb18e-c2c6-427b-a4d9-d4bf64231220</dc:identifier>
+        <dc:title>Children Who Chase Lost Voices From Deep Below + 5 Centimeters Per Second</dc:title>
+        <dc:creator opf:file-as="Shinkai, Makoto &amp; Akisaka, Asahi" opf:role="aut">Makoto Shinkai</dc:creator>
+        <dc:creator opf:file-as="Shinkai, Makoto &amp; Akisaka, Asahi" opf:role="aut">Asahi Akisaka</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-20T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p id="book-description-full"&gt;&lt;strong&gt;5&lt;/strong&gt;&lt;strong&gt; Centimeters per Second&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When Takaki meets Akari in elementary school, they are as thick as thieves. She always teaches him the important things, while he does his best to protect her. After they are separated in middle school, though, they have to find their paths in life without each other…&lt;/p&gt;
+&lt;p&gt;Director Makoto Shinkai delicately depicts the internal landscapes of his characters through three chapters in the life of one boy.&lt;/p&gt;
+&lt;p style="font-weight: 600"&gt; &lt;/p&gt;
+&lt;p style="font-weight: 600"&gt;Children Who Chase Lost Voices&lt;/p&gt;
+&lt;p&gt;Asuna is a shy and diffident girl who lives in the mountain town of Mizunofuchi. One day, she meets Shun, a boy who claims to be from a mythical land known as Agartha. However, just as a bond is beginning to form between them, Shun vanishes. As Asuna wishes she could see him again, she encounters Shin, another boy who looks just like Shun, and Morisaki, a teacher searching for Agartha. The three of them set out for the legendary country, each with their own goal in mind—and their own lessons to learn along the way .&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen On</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975315702</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">55922122</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Makoto Shinkai&quot;: &quot;&quot;, &quot;Asahi Akisaka&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-05-09T20:38:42.310432+00:00"/>
+        <meta name="calibre:title_sort" content="Children Who Chase Lost Voices From Deep Below + 5 Centimeters Per Second"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

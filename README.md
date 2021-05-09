@@ -16,7 +16,7 @@ Curated calibre metadata for OTLN, going through the suffering so you don't have
 #### Tags
 - Remove all `Manga` tags 
 - Add `Light Novel` and `Official Translation` tags
-- Add tags from metadata source and MAL to all books in the series
+- Add genre tags from metadata source and NovelUpdates to all books in the series (non-spoiler tags)
 #### Titles
 - Uniform title structure (per series...until I'm further along)
     - Remove any `Novel` or `Light Novel`

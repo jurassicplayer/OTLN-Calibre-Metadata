@@ -10,9 +10,13 @@ Curated calibre metadata for OTLN, going through the suffering so you don't have
     - It stands for "Officially Translated Light Novels".
 
 ### Guidelines
-- Prefer GoodReads when available
-- Remove `Manga` tags and add tags from MAL to all books in the series
+- Metadata source preference when available: YenPress/YenOn > GoodReads > Amazon
+- Remove all `Manga` tags 
+- Add `Light Novel` and `Official Translation` tags
+- Add tags from metadata source and MAL to all books in the series
 - Uniform title structure (per series...until I'm further along)
+- Include artist as an author when available.
+- Publishers should follow publishing imprint. Ex. Yen Press publishes light novels under Yen On, so Yen Press LNs should have Yen On as the publisher.
 
 ### To-Do
 - Make a script that move files from a fresh copy to the correct folders with the correct filenames

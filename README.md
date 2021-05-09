@@ -31,7 +31,7 @@ Curated calibre metadata for OTLN, going through the suffering so you don't have
 - Use your brain. If YenPress has the same description for multiple volumes, but GoodReads has a unique description, opt for the unique one unless it deviates too far from the other descriptions structure. (Ex. 86 vol.5 & vol.6)
 
 ### To-Do
-- Make a script that move files from a fresh copy to the correct folders with the correct filenames
+- Make a script that move files from a fresh copy to the correct folders with the correct filenames (generate list from my list and use checksums to determine filepaths)
 - Provide a clean update path and directions for updating set
 
 ### Current Progress (based on v15.1)

@@ -34,4 +34,4 @@ Curated calibre metadata for OTLN, going through the suffering so you don't have
 - Make a script that move files from a fresh copy to the correct folders with the correct filenames
 
 ### Current Progress (based on v15.1)
-1/1792
+8/1792

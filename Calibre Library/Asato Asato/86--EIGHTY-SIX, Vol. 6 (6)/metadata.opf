@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bdce19dd-4f0d-4372-825a-0d5fb52a0acb</dc:identifier>
+        <dc:title>86—EIGHTY-SIX, Vol. 6</dc:title>
+        <dc:creator opf:file-as="Asato, Asato &amp; Shirabii" opf:role="aut">Asato Asato</dc:creator>
+        <dc:creator opf:file-as="Asato, Asato &amp; Shirabii" opf:role="aut">Shirabii</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-17T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;WE ARE NOT THE SAME.&lt;/p&gt;
+&lt;p&gt;Live to fight. Die with honor. That was all the Eighty-Six knew, and they were proud. However, seeing themselves reflected in the Sirins-slaughtered by the thousands, with nothing to show for it-a crack has formed in their ironclad resolve. Shin's mind festers with doubt. At the same time, Lena's heart tears at the seams as she struggles to understand him. Will the two find common ground over the course of the United Kingdom operation? Or will they only drift further apart...?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen On</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975314514</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1975314514</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">54504125</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Mecha</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Politics</dc:subject>
+        <dc:subject>War</dc:subject>
+        <dc:subject>Young Adult</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Asato Asato&quot;: &quot;&quot;, &quot;Shirabii&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="86—EIGHTY-SIX"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-05-09T21:42:38.311848+00:00"/>
+        <meta name="calibre:title_sort" content="86—EIGHTY-SIX, Vol. 6"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

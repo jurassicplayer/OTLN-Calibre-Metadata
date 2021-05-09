@@ -12,7 +12,7 @@ Curated calibre metadata for OTLN, going through the suffering so you don't have
     - Not every series has subtitles, and though nice to have, `Under Pressure` doesn't really give an indication of what volume or series it's from.
 
 ### Guidelines
-- Metadata source preference when available: YenPress/YenOn > GoodReads > Amazon
+- Metadata source preference when available: YenPress/YenOn/J-Novel Club/etc. > GoodReads > Amazon
 #### Tags
 - Remove all `Manga` tags 
 - Add `Light Novel` and `Official Translation` tags
@@ -32,6 +32,7 @@ Curated calibre metadata for OTLN, going through the suffering so you don't have
 
 ### To-Do
 - Make a script that move files from a fresh copy to the correct folders with the correct filenames
+- Provide a clean update path and directions for updating set
 
 ### Current Progress (based on v15.1)
-8/1792
+9/1792

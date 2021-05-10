@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24777ba1-f8f8-412a-8547-70d0615bf0ee</dc:identifier>
+        <dc:title>Accel World, Vol. 14: Archangel of Savage Light</dc:title>
+        <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">Reki Kawahara</dc:creator>
+        <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">HiMA</dc:creator>
+        <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">Jocelyne Allen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-07T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p id="book-description-full"&gt;&lt;strong&gt;P&lt;/strong&gt;&lt;strong&gt;repare for a full dive!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sparks have been flying on the Umesato campus ever since Kuroyukihime discovered that Haruyuki invited not one but multiple girls to the exciting school festival. However, when Rin collapses in the real world after Magenta Scissor infects her with an ISS kit, Haruyuki and the others put aside their issues to save their friend! The first step of their plan is to pull off a daring rescue to free Aqua Current, but lying in wait at the Castle's gate is Seiryu, one of the Four Gods...Even if they have Aqua Current on their side, how will they overcome Seiryu's horrifying ability Level Drain?!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen On</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975327231</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1975327233</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">36504698</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Reki Kawahara&quot;: &quot;&quot;, &quot;HiMA&quot;: &quot;&quot;, &quot;Jocelyne Allen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Accel World"/>
+        <meta name="calibre:series_index" content="14"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-05-10T03:25:10.168560+00:00"/>
+        <meta name="calibre:title_sort" content="Accel World, Vol. 14: Archangel of Savage Light"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

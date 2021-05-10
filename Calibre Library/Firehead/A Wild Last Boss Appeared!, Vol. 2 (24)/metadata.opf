@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e453e8d-45bc-433f-b826-bfc53970951a</dc:identifier>
+        <dc:title>A Wild Last Boss Appeared!, Vol. 2</dc:title>
+        <dc:creator opf:file-as="Firehead &amp; YahaKo &amp; Chen, Kevin &amp; Townsend, Kathleen" opf:role="aut">Firehead</dc:creator>
+        <dc:creator opf:file-as="Firehead &amp; YahaKo &amp; Chen, Kevin &amp; Townsend, Kathleen" opf:role="aut">YahaKo</dc:creator>
+        <dc:creator opf:file-as="Firehead &amp; YahaKo &amp; Chen, Kevin &amp; Townsend, Kathleen" opf:role="aut">Kevin Chen</dc:creator>
+        <dc:creator opf:file-as="Firehead &amp; YahaKo &amp; Chen, Kevin &amp; Townsend, Kathleen" opf:role="aut">Kathleen Townsend</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-29T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Aries ‘the Ram’ may be at her side once more, but Lufas Maphaahl’s journey to find the rest of the Twelve Heavenly Stars is only beginning. Now, Lufas, Dina, and Aries are headed towards…Lufas’ grave?! &lt;/p&gt;
+&lt;p&gt;Lufas’ next target, the Grave of the Black-Winged King, is guarded by Libra of the Scales, one of Lufas’ faithful subjects. But regaining this member of the Twelve Heavenly Stars won’t be simple. Though many adventurers have tried to raid Lufas’ grave in the last two hundred years, none have ever returned alive… &lt;/p&gt;
+&lt;p&gt;But there are still many of the Twelve Heavenly Stars to welcome back into the fold. Who else waits for our deposed King? Maybe another one of the Seven Heroes…?!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B08CL6XYR9</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">54575462</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Gender Bender</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Firehead&quot;: &quot;&quot;, &quot;YahaKo&quot;: &quot;&quot;, &quot;Kevin Chen&quot;: &quot;&quot;, &quot;Kathleen Townsend&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="A Wild Last Boss Appeared!"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-10T03:01:47.102147+00:00"/>
+        <meta name="calibre:title_sort" content="Wild Last Boss Appeared!, Vol. 2, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

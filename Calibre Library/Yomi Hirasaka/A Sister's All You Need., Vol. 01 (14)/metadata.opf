@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b4c8ac7-e4f8-41e6-a2b1-7e31379e36f7</dc:identifier>
+        <dc:title>A Sister's All You Need., Vol. 01</dc:title>
+        <dc:creator opf:file-as="Hirasaka, Yomi &amp; Kantoku &amp; Gifford, Kevin" opf:role="aut">Yomi Hirasaka</dc:creator>
+        <dc:creator opf:file-as="Hirasaka, Yomi &amp; Kantoku &amp; Gifford, Kevin" opf:role="aut">Kantoku</dc:creator>
+        <dc:creator opf:file-as="Hirasaka, Yomi &amp; Kantoku &amp; Gifford, Kevin" opf:role="aut">Kevin Gifford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-18T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Itsuki Hashima is a novelist who's hopelessly enamored with the idea of little sisters and is constantly surrounded by colorful characters. A world class genius and love-guru who's beauty almost seems a waste on her. A girl who's constantly troubled by her friendships, love interests, and can't even find refuge in her dreams. A ridiculously talented illustrator. Each of them have as many problems and worries as the next and they never have a dull day together as they play games, travel, and work together. From the same author of the famous &lt;em&gt;I Don't Have Many Friends&lt;/em&gt;, Yomi Hirasaka!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen On</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">36504689</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1975326423</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781975326425</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Slice Of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yomi Hirasaka&quot;: &quot;&quot;, &quot;Kantoku&quot;: &quot;&quot;, &quot;Kevin Gifford&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="A Sister's All You Need."/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-09T23:59:31+00:00"/>
+        <meta name="calibre:title_sort" content="Sister's All You Need., Vol. 01, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9590d724-7ad6-496c-bc11-caae4456ad2d</dc:identifier>
+        <dc:title>A Sister's All You Need., Vol. 06</dc:title>
+        <dc:creator opf:file-as="Hirasaka, Yomi &amp; Kantoku &amp; Gifford, Kevin" opf:role="aut">Yomi Hirasaka</dc:creator>
+        <dc:creator opf:file-as="Hirasaka, Yomi &amp; Kantoku &amp; Gifford, Kevin" opf:role="aut">Kantoku</dc:creator>
+        <dc:creator opf:file-as="Hirasaka, Yomi &amp; Kantoku &amp; Gifford, Kevin" opf:role="aut">Kevin Gifford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-20T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p id="book-description-full"&gt;&lt;strong&gt;N&lt;/strong&gt;&lt;strong&gt;ayuta Kani gets serious.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Itsuki and his friends want to believe they would never let confessions of love affect their relationships with one another. But beneath the surface, confessions change everything...Matters of the heart can alter the flow of a story, sweeping other characters up in the tide. Itsuki's anime project is also making waves, but rather than add a refreshing twist to his life, it threatens to swallow him whole. Meanwhile, on a distant shore, Puriketsu continues his search for the girl with the "ass of the millennium." Little does he know that a new development is about to flood his well of inspiration...!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen On</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">49988175</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781975353636</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Slice Of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yomi Hirasaka&quot;: &quot;&quot;, &quot;Kantoku&quot;: &quot;&quot;, &quot;Kevin Gifford&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="A Sister's All You Need."/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-05-09T23:59:54+00:00"/>
+        <meta name="calibre:title_sort" content="Sister's All You Need., Vol. 06, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

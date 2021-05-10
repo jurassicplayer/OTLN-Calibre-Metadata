@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ffb6a5f0-e89b-42a0-9adb-d9348a5bf7d5</dc:identifier>
+        <dc:title>A Mysterious Job Called Oda Nobunaga, Vol. 02</dc:title>
+        <dc:creator opf:file-as="Morita, Kisetsu &amp; Shibano, Kaito" opf:role="aut">Kisetsu Morita</dc:creator>
+        <dc:creator opf:file-as="Morita, Kisetsu &amp; Shibano, Kaito" opf:role="aut">Kaito Shibano</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-18T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;KEEP YOUR ALLIES CLOSE AND YOUR TRAITORS CLOSER!&lt;/p&gt;
+&lt;p&gt;Budding conqueror Alsrod has proved himself to be one of the most powerful forces in the kingdom upon subjugating the massive Nagurry Prefecture with the help of his powerful job and mentor, Oda Nobunaga. Now he intends to invade the royal capital and install the son of the former king as the sovereign...But can Alsrod trust his newest vassal-who possesses the equally mysterious job of Akechi Mitsuhide-not to pull the rug out from under him and foil his lofty plans?!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen On</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975305581</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1975305582</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">49988091</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Martial Arts</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Completed</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kisetsu Morita&quot;: &quot;&quot;, &quot;Kaito Shibano&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="A Mysterious Job Called Oda Nobunaga"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-09T23:30:24+00:00"/>
+        <meta name="calibre:title_sort" content="Mysterious Job Called Oda Nobunaga, Vol. 02, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

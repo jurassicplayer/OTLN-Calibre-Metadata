@@ -3,7 +3,7 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">51</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">f62b4b75-a76d-4002-81dd-e5fdf0980ebd</dc:identifier>
-        <dc:title>Accel World, Vol. 04: Flight Toward A Blue Sky</dc:title>
+        <dc:title>Accel World, Vol. 04: Flight Toward a Blue Sky</dc:title>
         <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">Reki Kawahara</dc:creator>
         <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">HiMA</dc:creator>
         <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">Jocelyne Allen</dc:creator>
@@ -30,7 +30,7 @@
         <meta name="calibre:series_index" content="4"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2021-05-10T03:25:46.941826+00:00"/>
-        <meta name="calibre:title_sort" content="Accel World, Vol. 04: Flight Toward A Blue Sky"/>
+        <meta name="calibre:title_sort" content="Accel World, Vol. 04: Flight Toward a Blue Sky"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

@@ -3,7 +3,7 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">89c99845-e5f3-4ee0-8a01-c6d40c3e2cb2</dc:identifier>
-        <dc:title>86—EIGHTY-SIX, Vol. 3</dc:title>
+        <dc:title>86—EIGHTY-SIX, Vol. 03: Run Through the Battlefront (Finish)</dc:title>
         <dc:creator opf:file-as="Asato, Asato &amp; Shirabii" opf:role="aut">Asato Asato</dc:creator>
         <dc:creator opf:file-as="Asato, Asato &amp; Shirabii" opf:role="aut">Shirabii</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
@@ -11,9 +11,7 @@
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;Pride is all we have&lt;/p&gt;
 &lt;p&gt;The attack Shin foresaw has finally come to pass. Wielding a weapon with destructive force hitherto unseen, the Long-Range Artillery-type Legion unit rains unmitigated chaos over the battlefield. Both the Federacy's western front and the Gran Mur of the Republic crumble under the might of the monolithic railgun, capable of dealing catastrophic damage from hundreds of kilometers away. With their backs against the wall, the Giadian military makes a controversial decision: A special strike force will charge into the heart of Legion territory, engage the Railgun type from close range, and destroy it. Shin and the Eighty-Six will spearhead the operation. &lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;...But Shin has not been himself lately. Having defeated his brother's ghost and freed himself from the Republic, the Reaper finds himself without purpose. What reason does he have to go &lt;/p&gt;
-&lt;p&gt;on living? For whose sake does he fight...?&lt;/p&gt;&lt;/div&gt;</dc:description>
+&lt;p&gt;...But Shin has not been himself lately. Having defeated his brother's ghost and freed himself from the Republic, the Reaper finds himself without purpose. What reason does he have to go on living? For whose sake does he fight...?&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Yen On</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781975303112</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">45731735</dc:identifier>
@@ -35,7 +33,7 @@
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2021-05-09T21:42:35+00:00"/>
-        <meta name="calibre:title_sort" content="86—EIGHTY-SIX, Vol. 3"/>
+        <meta name="calibre:title_sort" content="86—EIGHTY-SIX, Vol. 03: Run Through the Battlefront (Finish)"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

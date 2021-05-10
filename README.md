@@ -18,11 +18,11 @@ Curated calibre metadata for OTLN, going through the suffering so you don't have
 - Add `Light Novel` and `Official Translation` tags
 - Add genre tags from metadata source and NovelUpdates to all books in the series (non-spoiler tags)
 #### Titles
-- Uniform title structure (per series...until I'm further along)
-    - Remove any `Novel` or `Light Novel`
-    - Volumes should be denoted after the title as `<Title>, Vol. XX`
-    - Subtitles should be ignored
-    - Series should be named the same as the title without volume
+- Uniform title structure
+- Remove any `Novel` or `Light Novel`
+- Volumes should be denoted after the title as `<Title>, Vol. XX`
+- Subtitles should be added after the volume `<Title>, Vol. XX: Subtitle`
+- Series should be named the same as the title without extras `<Title>`
 #### Authors/Artists/Publishers
 - Include artist as an author when available.
 - Publishers should follow publishing imprint. Ex. Yen Press publishes light novels under Yen On, so Yen Press LNs should have Yen On as the publisher.
@@ -35,4 +35,4 @@ Curated calibre metadata for OTLN, going through the suffering so you don't have
 - Provide a clean update path and directions for updating set
 
 ### Current Progress (based on v15.1)
-21/1792
+50/1792 (2.79%)

@@ -11,12 +11,11 @@
         <dc:description>&lt;div&gt;
 &lt;p id="book-description-full"&gt;&lt;strong&gt;T&lt;/strong&gt;&lt;strong&gt;he greatest conqueror history's never seen!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;At last, the time has come for the gods to bestow young Alsrod Nayvil with his official profession. As a minor feudal lord, Alsrod hopes he'll get a job impressive enough to let him step out of his older brother's shadow. However, he ends up with an unheard-of job called..."Oda Nobunaga"?!&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;It's not long before Alsrod learns the Oda Nobunaga entity involved is a famous conqueror from another world who will forever change his destiny! Now the young ruler has his sights set on greater endeavors?-namely, taking over the entire kingdom!&lt;/p&gt;&lt;/div&gt;</dc:description>
+&lt;p&gt; It's not long before Alsrod learns the Oda Nobunaga entity involved is a famous conqueror from another world who will forever change his destiny! Now the young ruler has his sights set on greater endeavors?-namely, taking over the entire kingdom!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Yen On</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781975305567</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">1975305566</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">44782526</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1975305566</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781975305567</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Comedy</dc:subject>
@@ -32,7 +31,7 @@
         <meta name="calibre:series" content="A Mysterious Job Called Oda Nobunaga"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-05-09T23:30:18.856380+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-09T23:30:18+00:00"/>
         <meta name="calibre:title_sort" content="Mysterious Job Called Oda Nobunaga, Vol. 1, A"/>
     </metadata>
     <guide>

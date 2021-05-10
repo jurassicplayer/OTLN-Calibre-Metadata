@@ -3,7 +3,7 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">32a9bdb5-78e8-43f1-a352-1d02c8dfad99</dc:identifier>
-        <dc:title>86—EIGHTY-SIX, Vol. 2</dc:title>
+        <dc:title>86—EIGHTY-SIX, Vol. 02: Run Through the Battlefront (Start)</dc:title>
         <dc:creator opf:file-as="Asato, Asato &amp; Shirabii" opf:role="aut">Asato Asato</dc:creator>
         <dc:creator opf:file-as="Asato, Asato &amp; Shirabii" opf:role="aut">Shirabii</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
@@ -33,7 +33,7 @@
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2021-05-09T21:42:33+00:00"/>
-        <meta name="calibre:title_sort" content="86—EIGHTY-SIX, Vol. 2"/>
+        <meta name="calibre:title_sort" content="86—EIGHTY-SIX, Vol. 02: Run Through the Battlefront (Start)"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

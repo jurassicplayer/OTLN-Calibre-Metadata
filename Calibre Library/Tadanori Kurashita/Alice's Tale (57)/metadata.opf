@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">57</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dab91a9f-e4b3-4556-b343-f45a2f8a655b</dc:identifier>
+        <dc:title>Alice's Tale</dc:title>
+        <dc:creator opf:file-as="Kurashita, Tadanori &amp; POYOYON♥ROCK &amp; Fujii, Taiyo &amp; Noyes, Braden &amp; Suzuki, Mami" opf:role="aut">Tadanori Kurashita</dc:creator>
+        <dc:creator opf:file-as="Kurashita, Tadanori &amp; POYOYON♥ROCK &amp; Fujii, Taiyo &amp; Noyes, Braden &amp; Suzuki, Mami" opf:role="aut">POYOYON♥ROCK</dc:creator>
+        <dc:creator opf:file-as="Kurashita, Tadanori &amp; POYOYON♥ROCK &amp; Fujii, Taiyo &amp; Noyes, Braden &amp; Suzuki, Mami" opf:role="aut">Taiyo Fujii</dc:creator>
+        <dc:creator opf:file-as="Kurashita, Tadanori &amp; POYOYON♥ROCK &amp; Fujii, Taiyo &amp; Noyes, Braden &amp; Suzuki, Mami" opf:role="aut">Braden Noyes</dc:creator>
+        <dc:creator opf:file-as="Kurashita, Tadanori &amp; POYOYON♥ROCK &amp; Fujii, Taiyo &amp; Noyes, Braden &amp; Suzuki, Mami" opf:role="aut">Mami Suzuki</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-01-01T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Officially, I deal in stocks. My partner, a highly advanced A.I. named Alice, and I constantly monitor current events and search through the news to find information that might be lurking beneath the official story. I’ve had my eye on a particular brand for a while now, and we have been following it closely. I thought things were going pretty well, however… One day, as I was leaving my room, I had the strange feeling somebody was watching me. Turning back to look, I saw Alice’s hologram still active. Usually, she turns herself off before I even get to the door… But today, she just stood there, staring intently at me.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Impress QuickBooks</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">24784026</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Completed</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Tadanori Kurashita&quot;: &quot;&quot;, &quot;POYOYON♥ROCK&quot;: &quot;&quot;, &quot;Taiyo Fujii&quot;: &quot;&quot;, &quot;Braden Noyes&quot;: &quot;&quot;, &quot;Mami Suzuki&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2021-05-10T07:38:43.292202+00:00"/>
+        <meta name="calibre:title_sort" content="Alice's Tale"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

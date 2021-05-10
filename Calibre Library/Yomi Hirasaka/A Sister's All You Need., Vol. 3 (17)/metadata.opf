@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44bf7d28-d0aa-4ed9-9439-ba2e80936e16</dc:identifier>
+        <dc:title>A Sister's All You Need., Vol. 3</dc:title>
+        <dc:creator opf:file-as="Hirasaka, Yomi &amp; Kantoku &amp; Gifford, Kevin" opf:role="aut">Yomi Hirasaka</dc:creator>
+        <dc:creator opf:file-as="Hirasaka, Yomi &amp; Kantoku &amp; Gifford, Kevin" opf:role="aut">Kantoku</dc:creator>
+        <dc:creator opf:file-as="Hirasaka, Yomi &amp; Kantoku &amp; Gifford, Kevin" opf:role="aut">Kevin Gifford</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-18T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p id="book-description-full"&gt;&lt;strong&gt;A&lt;/strong&gt;&lt;strong&gt; LOVE TRIANGLE'S ALL YOU (DON'T) NEED.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Itsuki Hashima, the little-sister-obsessed author whose novels feature nothing but his favorite character trope, presses on through day after frenetic day, despite all his trials and tribulations. Deadlines, love, even his own family weigh heavily upon his mind-but when his friend Haruto Fuwa (still reeling from the awful anime adaptation of his series) discusses a potential love interest, the results could shake up Itsuki's entire social life. Will peace prevail?! &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen On</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975353605</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">40944229</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Slice Of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yomi Hirasaka&quot;: &quot;&quot;, &quot;Kantoku&quot;: &quot;&quot;, &quot;Kevin Gifford&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="A Sister's All You Need."/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-09T23:59:41.741239+00:00"/>
+        <meta name="calibre:title_sort" content="Sister's All You Need., Vol. 3, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">88</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0e02923-574f-437b-b225-8c0f0ecaa03f</dc:identifier>
+        <dc:title>Another World’s Zombie Apocalypse Is Not My Problem!, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Yayari, Haru &amp; Fuyuki &amp; Messier, Charis" opf:role="aut">Haru Yayari</dc:creator>
+        <dc:creator opf:file-as="Yayari, Haru &amp; Fuyuki &amp; Messier, Charis" opf:role="aut">Fuyuki</dc:creator>
+        <dc:creator opf:file-as="Yayari, Haru &amp; Fuyuki &amp; Messier, Charis" opf:role="aut">Charis Messier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-08T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;Just when I thought navigating high school was bad enough, I woke up to a rotting, post-apocalyptic world!&lt;/p&gt;
+&lt;p&gt;I thought that the poisonous swamp surrounding my small island would have protected me from all the drama, but what did I see staggering my way? A nasty, putrid zombie! With nothing left to lose, I shoved it away! To my surprise, it turned into a living, breathing, not-so-dead human!&lt;/p&gt;
+&lt;p&gt;So, I have the power to purify zombies. And now I’m expected to save this undead world from the zombie apocalypse? Great.&lt;/p&gt;
+&lt;p style="font-weight: 600"&gt;This is so NOT my problem!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cross Infinite World</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781945341403</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">49012256</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Haru Yayari&quot;: &quot;&quot;, &quot;Fuyuki&quot;: &quot;&quot;, &quot;Charis Messier&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Another World’s Zombie Apocalypse Is Not My Problem!"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-11T04:57:45.010199+00:00"/>
+        <meta name="calibre:title_sort" content="Another World’s Zombie Apocalypse Is Not My Problem!, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

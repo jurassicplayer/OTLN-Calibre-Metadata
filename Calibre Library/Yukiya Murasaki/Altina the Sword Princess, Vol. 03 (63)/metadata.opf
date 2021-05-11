@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">63</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">32c7625a-2985-481a-a805-13b41fee7037</dc:identifier>
+        <dc:title>Altina the Sword Princess, Vol. 03</dc:title>
+        <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz &amp; Nukia, Roy" opf:role="aut">Yukiya Murasaki</dc:creator>
+        <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz &amp; Nukia, Roy" opf:role="aut">himesuz</dc:creator>
+        <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz &amp; Nukia, Roy" opf:role="aut">Roy Nukia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-06-29T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;“I’ll go to the capital. Even if nothing but darkness awaits me there!”&lt;/p&gt;
+&lt;p&gt;Despite the odds, Princess Altina succeeds in capturing what was once considered to be an impregnable fortress. However, as the newly labeled “Marie Quatre’s Army” settles into their new base of operations, a letter arrives. It is a request from Second Prince Latrielle—an invitation for Altina to return to the capital to celebrate the day the nation was founded.&lt;/p&gt;
+&lt;p&gt;The second prince is a considerable threat, especially given his complete authority over the Belgarian military, but the princess has no shortage of possible enemies. First-Grade Admin Officer Germain, First Prince Auguste, and the Vixen of the South are all in attendance, and a clash of sides seems almost certain.&lt;/p&gt;
+&lt;p&gt;But have those dead set on obstructing Altina’s ambitions already made the first move...!?&lt;/p&gt;
+&lt;p&gt;Here is the third volume of a tale of war, love, and politics, woven by the bookworm and the sword princess.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0842YNCNY</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">50624883</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Martial Arts</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yukiya Murasaki&quot;: &quot;&quot;, &quot;himesuz&quot;: &quot;&quot;, &quot;Roy Nukia&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Altina the Sword Princess"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-11T03:55:16.328197+00:00"/>
+        <meta name="calibre:title_sort" content="Altina the Sword Princess: Volume 3"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

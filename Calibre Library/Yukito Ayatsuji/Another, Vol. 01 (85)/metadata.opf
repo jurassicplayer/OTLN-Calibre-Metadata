@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">85</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e497574e-d63c-4ecc-b095-026b96b7f0da</dc:identifier>
+        <dc:title>Another, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Ayatsuji, Yukito &amp; McGillicuddy, Karen" opf:role="aut">Yukito Ayatsuji</dc:creator>
+        <dc:creator opf:file-as="Ayatsuji, Yukito &amp; McGillicuddy, Karen" opf:role="aut">Karen McGillicuddy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-25T08:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;In the spring of 1998, Kouichi Sakakibara transfers to Yomiyama North Middle School. In class, he develops a sense of unease as he notices that the people around him act like they're walking on eggshells, and students and teachers alike seem frightened. As a chain of horrific deaths begin to unfold around him, he comes to discover that he has been placed in the cursed Class 3 in which the student body head count is always one more than expected. Class 3 is haunted by a vengeful spirit responsible for gruesome deaths in an effort to satisfy its spite. To stop the vicious cycle gripping his new school, Kouichi decides to get to the bottom of the curse, but is he prepared for the horror that lies ahead...?</dc:description>
+        <dc:publisher>Yen On</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316252751</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">16160838</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Psychological</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Completed</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yukito Ayatsuji&quot;: &quot;&quot;, &quot;Karen McGillicuddy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Another"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-11T04:45:35.182825+00:00"/>
+        <meta name="calibre:title_sort" content="Another, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

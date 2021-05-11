@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">95</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e29850d-92b6-4041-854f-df64b94d7078</dc:identifier>
+        <dc:title>Apparently It's My Fault That My Husband Has the Head of a Beast, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Shiduki, Eri &amp; Nagi, Kasumi &amp; Evelyn, David" opf:role="aut">Eri Shiduki</dc:creator>
+        <dc:creator opf:file-as="Shiduki, Eri &amp; Nagi, Kasumi &amp; Evelyn, David" opf:role="aut">Kasumi Nagi</dc:creator>
+        <dc:creator opf:file-as="Shiduki, Eri &amp; Nagi, Kasumi &amp; Evelyn, David" opf:role="aut">David Evelyn</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-20T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Love Is a Beastly Business! &lt;/p&gt;
+&lt;p&gt;Rumor has it that Princess Rosemarie is an antisocial shut-in, but the truth is far stranger. The young princess hides from the world because of a strange condition: whenever someone expresses a negative emotion, she sees their head transform into that of a fearsome beast. &lt;/p&gt;
+&lt;p&gt;It seems there's no one in the dishonest world of courtly manners she can trust... until she meets Prince Claudio of Baltzar, whose features remain ever human. The two marry at once, but she learns too late that his human features aren't thanks to a kindly nature. Claudio has become a very real beast, all because of Rosemarie's accidental theft of his mana many years prior! &lt;/p&gt;
+&lt;p&gt;Claudio's life and future are on the line until he gets his mana back — and Rosemarie would give anything to know how to do it. Will they break their mutual curse in time for Rosemarie to get home for tea, or will Claudio lose his temper first? Find out in this new romantic fantasy.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B07J1NJZ3K</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">42188108</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Completed</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Eri Shiduki&quot;: &quot;&quot;, &quot;Kasumi Nagi&quot;: &quot;&quot;, &quot;David Evelyn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Apparently it's My Fault That My Husband Has The Head of a Beast"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2021-05-11T05:11:36.465222+00:00"/>
+        <meta name="calibre:title_sort" content="Apparently It's My Fault That My Husband Has the Head of a Beast, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

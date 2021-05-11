@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">71</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f386df4-e73e-4d3e-abe2-ccf681a5d369</dc:identifier>
+        <dc:title>Amagi Brilliant Park, Vol. 05</dc:title>
+        <dc:creator opf:file-as="Gatou, Shouji &amp; Nakajima, Yuka &amp; Ellis, Elizabeth" opf:role="aut">Shouji Gatou</dc:creator>
+        <dc:creator opf:file-as="Gatou, Shouji &amp; Nakajima, Yuka &amp; Ellis, Elizabeth" opf:role="aut">Yuka Nakajima</dc:creator>
+        <dc:creator opf:file-as="Gatou, Shouji &amp; Nakajima, Yuka &amp; Ellis, Elizabeth" opf:role="aut">Elizabeth Ellis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-10-20T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;It's important to keep your work life and personal life separate... right? Well, the two are about to collide for Adachi Eiko when her boss, Macaron, stumbles into a fight with her fiancé in a bar! Now, to keep her influential father from taking his anger out on Amagi Brilliant Park, Macaron will have to win him over. Can he, Seiya, and Tricen put on a show good enough to impress the discerning doctor? And what sinister magical device has Seiya arranged to help facilitate the process?!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B07QPKZF7M</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">45204350</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shouji Gatou&quot;: &quot;&quot;, &quot;Yuka Nakajima&quot;: &quot;&quot;, &quot;Elizabeth Ellis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Amagi Brilliant Park"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2021-05-11T04:15:53.776999+00:00"/>
+        <meta name="calibre:title_sort" content="Amagi Brilliant Park, Vol. 05"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

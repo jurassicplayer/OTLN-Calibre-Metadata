@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">98</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ffdd7687-4d05-42cd-9339-908ce54dba48</dc:identifier>
+        <dc:title>Are You Okay With a Slightly Older Girlfriend?, Vol. 02</dc:title>
+        <dc:creator opf:file-as="Nozomi, Kota &amp; Nanasemeruchi &amp; Orth, Sean" opf:role="aut">Kota Nozomi</dc:creator>
+        <dc:creator opf:file-as="Nozomi, Kota &amp; Nanasemeruchi &amp; Orth, Sean" opf:role="aut">Nanasemeruchi</dc:creator>
+        <dc:creator opf:file-as="Nozomi, Kota &amp; Nanasemeruchi &amp; Orth, Sean" opf:role="aut">Sean Orth</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-12T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;High school student Momota Kaoru is in a relationship with his slightly older girlfriend, Orihara-san.&lt;/p&gt;
+&lt;p&gt;Today they’re going to have a hot date playing video games at her house, and tomorrow they're going on a drive to a faraway town! They’re not going to let their twelve-year age difference get in their way, and are only going to grow closer—or so they thought...&lt;/p&gt;
+&lt;p&gt;Just what did Momota say to insult Orihara-san’s dignity, and why was it so bad he had to make up for it with a mind-blowing massage? Who is this new girl who confessed her feelings to Momota? How will a shocking encounter with Orihara-san’s older sister Kisaki-san shake up their secret relationship?&lt;/p&gt;
+&lt;p&gt;Hijinks ensue in the second volume of the super sweet romcom about a miraculously cute woman pushing thirty and a devoted high school boy who are madly in love with each other.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B08VWGQ43C</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">57608924</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kota Nozomi&quot;: &quot;&quot;, &quot;Nanasemeruchi&quot;: &quot;&quot;, &quot;Sean Orth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Are You Okay With a Slightly Older Girlfriend?"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-11T05:18:17.906274+00:00"/>
+        <meta name="calibre:title_sort" content="Are You Okay With a Slightly Older Girlfriend?, Vol. 02"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

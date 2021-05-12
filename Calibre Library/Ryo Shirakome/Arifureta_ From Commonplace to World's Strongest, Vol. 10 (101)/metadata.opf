@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">101</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4c4271a7-ad12-4c17-8873-3753d2bc5f71</dc:identifier>
+        <dc:title>Arifureta: From Commonplace to World’s Strongest, Vol. 10</dc:title>
+        <dc:creator opf:file-as="Shirakome, Ryo &amp; Takaya-Ki &amp; Ningen" opf:role="aut">Ryo Shirakome</dc:creator>
+        <dc:creator opf:file-as="Shirakome, Ryo &amp; Takaya-Ki &amp; Ningen" opf:role="aut">Takaya-Ki</dc:creator>
+        <dc:creator opf:file-as="Shirakome, Ryo &amp; Takaya-Ki &amp; Ningen" opf:role="aut">Ningen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-03T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The end of Hajime's journey is finally in sight. So long as he and his comrades can overcome this final trial, his long-awaited dream of returning home can be realized. But one last obstacle stands in their way: Yue, Shea, Tio, and Kaori must still overcome their copies. With all of the baggage they're carrying with them, will they be able to accept themselves for who they are?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ASIN">B07W8XCYV8</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07W8XCYV8</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">51020196</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Mecha</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ryo Shirakome&quot;: &quot;&quot;, &quot;Takaya-Ki&quot;: &quot;&quot;, &quot;Ningen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Arifureta: From Commonplace to World's Strongest"/>
+        <meta name="calibre:series_index" content="10"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-12T07:16:41+00:00"/>
+        <meta name="calibre:title_sort" content="Arifureta: From Commonplace to World’s Strongest, Vol. 10"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

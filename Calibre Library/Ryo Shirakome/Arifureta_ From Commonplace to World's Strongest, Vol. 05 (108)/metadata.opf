@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">108</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc01fbcf-87c5-4982-ab8e-7fc63e502d5e</dc:identifier>
+        <dc:title>Arifureta: From Commonplace to World's Strongest, Vol. 05</dc:title>
+        <dc:creator opf:file-as="Shirakome, Ryo &amp; Takaya-Ki &amp; Ningen" opf:role="aut">Ryo Shirakome</dc:creator>
+        <dc:creator opf:file-as="Shirakome, Ryo &amp; Takaya-Ki &amp; Ningen" opf:role="aut">Takaya-Ki</dc:creator>
+        <dc:creator opf:file-as="Shirakome, Ryo &amp; Takaya-Ki &amp; Ningen" opf:role="aut">Ningen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-21T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;With the addition of Kaori into their party, Hajime and his friends make for Myu's hometown, the coastal city of Erisen. While crossing the Gruen Desert, they save a young Ankajian man, Bize, from a sandworm attack. Apparently, he was searching for a cure to the mysterious disease that has struck his people. His travels led him to conclude that a mineral known as stillrock held the key to saving his country, but it can only be found inside the Grand Gruen Volcano, a labyrinth far too dangerous for most. Hajime agrees to help Bize procure some, and the party begins their quest to conquer yet another labyrinth. But along the way, they meet a most unexpected foe...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B078PM8WGZ</dc:identifier>
+        <dc:identifier opf:scheme="ASIN">B078PM8WGZ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">37785519</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Mecha</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ryo Shirakome&quot;: &quot;&quot;, &quot;Takaya-Ki&quot;: &quot;&quot;, &quot;Ningen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Arifureta: From Commonplace to World's Strongest"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-12T07:17:03+00:00"/>
+        <meta name="calibre:title_sort" content="Arifureta: From Commonplace to World's Strongest, Vol. 05"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

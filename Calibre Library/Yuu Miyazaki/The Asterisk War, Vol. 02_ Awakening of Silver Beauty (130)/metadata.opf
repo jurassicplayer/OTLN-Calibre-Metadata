@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">130</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">04f9d5dc-0e2f-4fae-8a4a-8a9bcabd6cbe</dc:identifier>
+        <dc:title>The Asterisk War, Vol. 02: Awakening of Silver Beauty</dc:title>
+        <dc:creator opf:file-as="Miyazaki, Yuu &amp; okiura" opf:role="aut">Yuu Miyazaki</dc:creator>
+        <dc:creator opf:file-as="Miyazaki, Yuu &amp; okiura" opf:role="aut">okiura</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-25T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Having formed their tag-team partnership, Ayato and Julis begin polishing their skills and their teamwork in preparation for the Festa. But soon Ayato meets another girl--Kirin Toudou. She has long, silver hair and a petite charm--and despite her thirteen years of age, she's one of the strongest fighters of Seidoukan Academy. She seems to like Ayato, but that's not going to stop her from challenging him to a duel...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen On</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316398589</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">29775394</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yuu Miyazaki&quot;: &quot;&quot;, &quot;okiura&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="The Asterisk War"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-13T01:07:50+00:00"/>
+        <meta name="calibre:title_sort" content="Asterisk War, Vol. 02: Awakening of Silver Beauty, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

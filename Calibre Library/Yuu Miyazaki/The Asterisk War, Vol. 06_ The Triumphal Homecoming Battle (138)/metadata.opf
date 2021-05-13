@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">138</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2749a794-5535-47fd-a0bf-d2127554e222</dc:identifier>
+        <dc:title>The Asterisk War, Vol. 06: The Triumphal Homecoming Battle</dc:title>
+        <dc:creator opf:file-as="Miyazaki, Yuu &amp; okiura" opf:role="aut">Yuu Miyazaki</dc:creator>
+        <dc:creator opf:file-as="Miyazaki, Yuu &amp; okiura" opf:role="aut">okiura</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-24T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Things are heating up in Liesentania!&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;At long last, the Phoenix is over, and New Year's Eve approaches. For winter vacations, Julis invites Ayato to visit her home in Lieseltania. As the king throws lavish parades and parties in their honor, Ayato comes to understand Julis's concerns for her country. To make matters worse, the king insists that Ayato and Julis marry each other! After the ruckus at their welcome party, another visitor makes her appearance--the Witch of Solitary Venom. She sets her sights on the pair, and Julis seems to know more than she's letting on...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen On</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">41073927</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780316398688</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yuu Miyazaki&quot;: &quot;&quot;, &quot;okiura&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="The Asterisk War"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-13T01:08:14+00:00"/>
+        <meta name="calibre:title_sort" content="Asterisk War, Vol. 06: The Triumphal Homecoming Battle, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

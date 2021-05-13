@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">131</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a909618f-eb61-49f5-87e4-bbd59e245677</dc:identifier>
+        <dc:title>The Asterisk War, Vol. 14: Struggle for Supremacy</dc:title>
+        <dc:creator opf:file-as="Miyazaki, Yuu &amp; okiura" opf:role="aut">Yuu Miyazaki</dc:creator>
+        <dc:creator opf:file-as="Miyazaki, Yuu &amp; okiura" opf:role="aut">okiura</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-24T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;The best of the best are in one place!&lt;/p&gt;
+&lt;p&gt;At long last, the main battles of the Lindvolus have begun! Sixteen formidable fighters are set to vie for the glory of the championship, and there's plenty of competition. In the Lindvolus's fifth round, Ayato will have to face Le Wolfe Black Institute's number two, while Ayato's friends and previous teammates Julis and Saya have their work cut out for them. This tournament has everyone buzzing, and the stakes are high-can Ayato take home the crown? And will his friends find what they're seeking at the Lindvolus...?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen On</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">53916648</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781975359454</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yuu Miyazaki&quot;: &quot;&quot;, &quot;okiura&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="The Asterisk War"/>
+        <meta name="calibre:series_index" content="14"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-13T01:07:53+00:00"/>
+        <meta name="calibre:title_sort" content="Asterisk War, Vol. 14: Struggle for Supremacy, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

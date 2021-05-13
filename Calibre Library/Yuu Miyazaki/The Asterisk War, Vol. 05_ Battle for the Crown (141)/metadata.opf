@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">141</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a4dd646b-de9e-46cf-a837-db8542f78c17</dc:identifier>
+        <dc:title>The Asterisk War, Vol. 05: Battle for the Crown</dc:title>
+        <dc:creator opf:file-as="Miyazaki, Yuu &amp; okiura" opf:role="aut">Yuu Miyazaki</dc:creator>
+        <dc:creator opf:file-as="Miyazaki, Yuu &amp; okiura" opf:role="aut">okiura</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-03-25T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;Not everyone in the Phoenix fights fair...&lt;/p&gt;
+&lt;p&gt;At long last, Ayato and Julis have reached the final matches of the Phoenix...but Flora Klemm has been kidnapped! Not only that, but Ayato can't use his greatest weapon-or her captors will do their worst. If he and Julis want to rescue their friend and win the tournament, they'll need their wits, allies, and more than a little good luck!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen On</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316398657</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">34848789</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0316398659</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yuu Miyazaki&quot;: &quot;&quot;, &quot;okiura&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="The Asterisk War"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-05-13T01:08:26+00:00"/>
+        <meta name="calibre:title_sort" content="Asterisk War, Vol. 05: Battle for the Crown, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

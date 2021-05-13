@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">129</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05cffb35-8d73-4ec9-95c3-a456bf5ca7f5</dc:identifier>
+        <dc:title>The Asterisk War, Vol. 03: The Phoenix War Dance</dc:title>
+        <dc:creator opf:file-as="Miyazaki, Yuu &amp; okiura" opf:role="aut">Yuu Miyazaki</dc:creator>
+        <dc:creator opf:file-as="Miyazaki, Yuu &amp; okiura" opf:role="aut">okiura</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-05-25T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;The Festa begins!&lt;/p&gt;
+&lt;p&gt;At long last, the largest fighting tournament in the world gets under way! Ayato and Julis blast through the tag team Phoenix event with their sights set on the semifinals, along with Saya and Kirin. But time is not on their side, as each passing match risks revealing Ayato's greatest weakness--the time limit on his power. And when he's facing opponents like Le Wolfe's Irene and Priscilla Urzaiz, he needs all the help he can get...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen On</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316398602</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">31423202</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0316398608</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yuu Miyazaki&quot;: &quot;&quot;, &quot;okiura&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="The Asterisk War"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-13T01:07:47+00:00"/>
+        <meta name="calibre:title_sort" content="Asterisk War, Vol. 03: The Phoenix War Dance, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

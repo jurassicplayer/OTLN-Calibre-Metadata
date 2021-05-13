@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">136</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">78846769-6db1-4e4a-91b2-e8d7dd131fa3</dc:identifier>
+        <dc:title>The Asterisk War, Vol. 09: Whispers of a Long Farewell</dc:title>
+        <dc:creator opf:file-as="Miyazaki, Yuu &amp; okiura" opf:role="aut">Yuu Miyazaki</dc:creator>
+        <dc:creator opf:file-as="Miyazaki, Yuu &amp; okiura" opf:role="aut">okiura</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-19T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;"You probably don't know...just how long I've been waiting for this..."&lt;/p&gt;
+&lt;p&gt;The Lindvolus has reached its conclusion, and Team Enfield would be ready to prepare for future battles if they weren't missing a crucial member-Claudia! With confidential information about the integrated enterprise foundation Galaxy, she's become a target for their troops, and when Ayato desperately searches for her, his roommate, Eishirou Yabuki, stands in his way. Claudia's Orga Lux, Pan-Dora, has allowed her to foresee this turn of events, but Ayato has to find her before it's too late...The day of destiny has arrived!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen On</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975302801</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">41825370</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yuu Miyazaki&quot;: &quot;&quot;, &quot;okiura&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="The Asterisk War"/>
+        <meta name="calibre:series_index" content="9"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-13T01:08:08+00:00"/>
+        <meta name="calibre:title_sort" content="Asterisk War, Vol. 09: Whispers of a Long Farewell, The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

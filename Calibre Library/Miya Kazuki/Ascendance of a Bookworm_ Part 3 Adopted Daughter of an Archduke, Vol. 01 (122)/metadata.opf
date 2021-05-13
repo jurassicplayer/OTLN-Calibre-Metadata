@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">122</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3e07b999-4ab9-4a92-9949-7ed3f7d64f62</dc:identifier>
+        <dc:title>Ascendance of a Bookworm: Part 3 Adopted Daughter of an Archduke, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">Miya Kazuki</dc:creator>
+        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">You Shiina</dc:creator>
+        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">Quof</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-09-10T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Following a disastrous encounter with a noble, Myne finally resolves to say goodbye to her family and friends in the lower city, changing her name to "Rozemyne" and beginning her new life as the adopted daughter of Ehrenfest's archduke. However, her days as an archnoble in noble society are brutal, as she is put through rigorous etiquette and magic training on top of her duties as High Bishop and forewoman. It all proves too much for a weak little seven-year-old girl... Or it would have, had the High Priest not offered her the keys to the temple's book room as a reward. If she could get her hands on those, she'd be able to read all sorts of precious books! Her name may have changed, but Rozemyne's passion for books remains the same as she charges into a whole new world! &lt;/p&gt;
+&lt;p&gt;The detailed setting expands as the printing industry grows in size. Here begins Part 3 of this bibliofantasy for book lovers everywhere!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B089GVG8TB</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">53937732</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Miya Kazuki&quot;: &quot;&quot;, &quot;You Shiina&quot;: &quot;&quot;, &quot;Quof&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Ascendance of a Bookworm"/>
+        <meta name="calibre:series_index" content="3.10"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-13T00:40:33.516401+00:00"/>
+        <meta name="calibre:title_sort" content="Ascendance of a Bookworm: Part 3 Adopted Daughter of an Archduke, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

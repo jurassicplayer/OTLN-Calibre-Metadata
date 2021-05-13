@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">119</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">85c60f91-baff-4dcc-9caf-77239f5c8492</dc:identifier>
+        <dc:title>Ascendance of a Bookworm: Part 3 Adopted Daughter of an Archduke, Vol. 02</dc:title>
+        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">Miya Kazuki</dc:creator>
+        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">You Shiina</dc:creator>
+        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">Quof</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-10T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Rozemyne, now both the High Bishop and the archduke’s adopted daughter, finds herself lost in a position of power she just isn’t used to. Preparing for the Harvest Festival, taking care of new orphans, dealing with the dissatisfaction of a neighboring town—her list of problems just keeps on growing. On top of all that, Ferdinand the High Priest is being as harsh as can be. Still, Rozemyne doesn’t give up! Encouraged by meetings with her lower city family and friends, she recharges by reading books in the temple! She’ll need as much energy as she can get as the yearly Night of Schutzaria is fast approaching, where Rozemyne will need to travel to the forest bordering Dorvan to gather materials...&lt;/p&gt;
+&lt;p&gt;This is the most action-packed volume of this biblio-fantasy yet! Being the High Bishop is hard, okay?!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B08DP5Y7C6</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">54902598</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Miya Kazuki&quot;: &quot;&quot;, &quot;You Shiina&quot;: &quot;&quot;, &quot;Quof&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Ascendance of a Bookworm"/>
+        <meta name="calibre:series_index" content="3.20"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-13T00:40:22.571267+00:00"/>
+        <meta name="calibre:title_sort" content="Ascendance of a Bookworm: Part 3 Adopted Daughter of an Archduke, Vol. 02"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

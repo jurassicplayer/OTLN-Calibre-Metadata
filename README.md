@@ -35,4 +35,4 @@ Curated calibre metadata for OTLN, going through the suffering so you don't have
 - Provide a clean update path and directions for updating set
 
 ### Current Progress (based on v15.1)
-140/1792 (7.81%)
+141/1792 (7.87%)

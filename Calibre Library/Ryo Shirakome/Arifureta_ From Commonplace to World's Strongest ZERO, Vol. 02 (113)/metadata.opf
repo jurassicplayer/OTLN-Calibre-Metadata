@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">113</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">841dd7f8-ce4c-41a3-a351-0dc7c1b5310f</dc:identifier>
+        <dc:title>Arifureta: From Commonplace to World's Strongest ZERO, Vol. 02</dc:title>
+        <dc:creator opf:file-as="Shirakome, Ryo &amp; Takayaki &amp; Ningen" opf:role="aut">Ryo Shirakome</dc:creator>
+        <dc:creator opf:file-as="Shirakome, Ryo &amp; Takayaki &amp; Ningen" opf:role="aut">Takayaki</dc:creator>
+        <dc:creator opf:file-as="Shirakome, Ryo &amp; Takayaki &amp; Ningen" opf:role="aut">Ningen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-25T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Now that both Oscar and Naiz have joined the Liberators, Miledi sets her sight westward, hoping to recruit the fabled Saint of the Western Seas. The party heads to the island city of Andika, where they run into the kind-looking sadistic pirate queen, Meiru. At the same time, the Holy Church tasks their knight commander, Laus Bahn, with the extermination of the Melusine Pirate Group that Meiru leads. As various powers gather on the small island city, tensions rise. A battle greater than any before looms as three separate powers clash.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B08LP8VYW8</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">56037360</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ryo Shirakome&quot;: &quot;&quot;, &quot;Takayaki&quot;: &quot;&quot;, &quot;Ningen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Arifureta: From Commonplace to World's Strongest ZERO"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-13T00:16:17.332890+00:00"/>
+        <meta name="calibre:title_sort" content="Arifureta: From Commonplace to World's Strongest ZERO, Vol. 02"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

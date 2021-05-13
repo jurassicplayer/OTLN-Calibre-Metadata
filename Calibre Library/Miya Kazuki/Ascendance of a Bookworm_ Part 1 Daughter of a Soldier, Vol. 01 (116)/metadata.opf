@@ -4,10 +4,9 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">116</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">45f096aa-f9d3-4963-b969-037b51a24d39</dc:identifier>
         <dc:title>Ascendance of a Bookworm: Part 1 Daughter of a Soldier, Vol. 01</dc:title>
-        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof &amp; Zink, Aimee" opf:role="aut">Miya Kazuki</dc:creator>
-        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof &amp; Zink, Aimee" opf:role="aut">You Shiina</dc:creator>
-        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof &amp; Zink, Aimee" opf:role="aut">Quof</dc:creator>
-        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof &amp; Zink, Aimee" opf:role="aut">Aimee Zink</dc:creator>
+        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">Miya Kazuki</dc:creator>
+        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">You Shiina</dc:creator>
+        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">Quof</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-01-17T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -26,11 +25,11 @@
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Slice of Life</dc:subject>
         <dc:subject>Supernatural</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Miya Kazuki&quot;: &quot;&quot;, &quot;You Shiina&quot;: &quot;&quot;, &quot;Quof&quot;: &quot;&quot;, &quot;Aimee Zink&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Miya Kazuki&quot;: &quot;&quot;, &quot;You Shiina&quot;: &quot;&quot;, &quot;Quof&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Ascendance of a Bookworm"/>
         <meta name="calibre:series_index" content="1.10"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-05-13T00:40:12.021868+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-13T00:40:12+00:00"/>
         <meta name="calibre:title_sort" content="Ascendance of a Bookworm: Part 1 Daughter of a Soldier, Vol. 01"/>
     </metadata>
     <guide>

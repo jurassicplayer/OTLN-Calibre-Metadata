@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">149</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b175748b-4563-4aa4-be6b-d4b6810a1ded</dc:identifier>
+        <dc:title>Baccano!, Vol. 15: 1710 Crack Flag</dc:title>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Enami, Katsumi" opf:role="aut">Ryohgo Narita</dc:creator>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Enami, Katsumi" opf:role="aut">Katsumi Enami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-04-10T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The year 1707 was the start of it all, when Maiza introduced playwright Jean-Pierre to an alchemist named Fermet who, in turn, introduced Maiza to the study of alchemy. Two years later, Huey finds himself opening his heart more than he&lt;/p&gt;
+&lt;p&gt;ever expected to Elmer and Monica about his troubled past. The relative peace is interrupted, though, by the arrival of an aristocratic envoy who claims to be searching for a criminal. Meanwhile, a series of new plays written by Jean-Pierre threatens&lt;/p&gt;
+&lt;p&gt;to expose secrets the Mask Makers would rather have kept hidden forever...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen On</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975384777</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">54818253</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ryohgo Narita&quot;: &quot;&quot;, &quot;Katsumi Enami&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Baccano!"/>
+        <meta name="calibre:series_index" content="15"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-06-02T01:14:18.591455+00:00"/>
+        <meta name="calibre:title_sort" content="Baccano!, Vol. 15: 1710 Crack Flag"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">160</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d09d47c4-09d7-4c57-b00c-dd355d3bd43b</dc:identifier>
+        <dc:title>Baccano!, Vol. 04: 1932 Drug &amp; the Dominos</dc:title>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Enami, Katsumi" opf:role="aut">Ryohgo Narita</dc:creator>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Enami, Katsumi" opf:role="aut">Katsumi Enami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-10-10T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The year 1932.&lt;/p&gt;
+&lt;p&gt;The alchemist Begg believes the drugs he created will guide people to the highest plane of existence. Drugs that the junkie Roy can't break free from. Drugs that the Runorata Family executive loses to a thief. And where were those packets of white powder manufactured? The young girl Eve is about to find out--and discover her family's true colors. Trouble stirs in the city that never sleeps as fate links these individuals together like a chain of falling dominos... &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen On</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316270434</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">26200915</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ryohgo Narita&quot;: &quot;&quot;, &quot;Katsumi Enami&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Baccano!"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-06-02T01:14:45.506740+00:00"/>
+        <meta name="calibre:title_sort" content="Baccano!, Vol. 04: 1932 Drug &amp; the Dominos"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">147</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d11a8264-e154-4d3d-88fc-8171eae4be24</dc:identifier>
+        <dc:title>Baccano!, Vol. 01: The Rolling Bootlegs</dc:title>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Enami, Katsumi" opf:role="aut">Ryohgo Narita</dc:creator>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Enami, Katsumi" opf:role="aut">Katsumi Enami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-02-10T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;New York, 1931.&lt;/p&gt;
+&lt;p&gt;The manufacture and sale of alcoholic beverages is prohibited by law, but behind this prohibition, organized crime flourishes-so, too, do bank robbers, bootleggers, assassins, and homunculi. Some want money, some are chasing the secret to immortality, and others just want to have a really good time. You know what they say, though: You can't always get what you want.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen On</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0151YR2OQ</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780316270366</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">26200066</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ryohgo Narita&quot;: &quot;&quot;, &quot;Katsumi Enami&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Baccano!"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-06-02T01:14:13.875013+00:00"/>
+        <meta name="calibre:title_sort" content="Baccano!, Vol. 01: The Rolling Bootlegs"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

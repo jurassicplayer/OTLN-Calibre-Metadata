@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">154</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9d212d19-4d3f-4bde-a7bd-3396ca4a978f</dc:identifier>
+        <dc:title>Baccano!, Vol. 10: 1934 Peter Pan in Chains: Finale</dc:title>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Enami, Katsumi" opf:role="aut">Ryohgo Narita</dc:creator>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Enami, Katsumi" opf:role="aut">Katsumi Enami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-04-10T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The year 1934.&lt;/p&gt;
+&lt;p&gt;In the depths of Alcatraz, Firo, Ladd, Leeza, and the others involved in the underground brawl attempt to figure out their next moves. Meanwhile, in Chicago, as Isaac and Miria try to find each other, the aftermath of what happened at the Russo mansion is affecting the entire city. As the connections between the two locations become clear, the chaos comes to a head in this explosive and heartfelt conclusion to the commotion of 1934! &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen On</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316442367</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">41181494</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ryohgo Narita&quot;: &quot;&quot;, &quot;Katsumi Enami&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Baccano!"/>
+        <meta name="calibre:series_index" content="10"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-06-02T01:14:30.315617+00:00"/>
+        <meta name="calibre:title_sort" content="Baccano!, Vol. 10: 1934 Peter Pan in Chains: Finale"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

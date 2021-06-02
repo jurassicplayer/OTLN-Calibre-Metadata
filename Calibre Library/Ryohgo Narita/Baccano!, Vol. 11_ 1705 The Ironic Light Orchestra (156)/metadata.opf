@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">156</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">72745416-ea2a-4b84-8178-b0ba0556d500</dc:identifier>
+        <dc:title>Baccano!, Vol. 11: 1705 The Ironic Light Orchestra</dc:title>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Enami, Katsumi" opf:role="aut">Ryohgo Narita</dc:creator>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Enami, Katsumi" opf:role="aut">Katsumi Enami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-07-10T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The year 1705, in a town on the coast of Italy. All 15-year-old Huey Laforet feels towards his life is tedium and despair, and he dreams of the day when he can destroy the world he despises. Meanwhile, there are rumors of a strange sting of murders performed by a figure in a white mask-and whoever witnesses the killing is doomed to be the next target. As the serial killer shakes the town of Lotto Valentino, Huey's life is about to change, too...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen On</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975356859</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">9781975356859</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">43886656</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ryohgo Narita&quot;: &quot;&quot;, &quot;Katsumi Enami&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Baccano!"/>
+        <meta name="calibre:series_index" content="11"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-06-02T01:14:35.173685+00:00"/>
+        <meta name="calibre:title_sort" content="Baccano!, Vol. 11: 1705 The Ironic Light Orchestra"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

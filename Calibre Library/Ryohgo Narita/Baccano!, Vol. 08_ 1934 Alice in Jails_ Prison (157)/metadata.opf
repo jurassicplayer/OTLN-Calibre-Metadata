@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">157</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c1742334-e165-4b25-bc09-17b8a53bd3e5</dc:identifier>
+        <dc:title>Baccano!, Vol. 08: 1934 Alice in Jails: Prison</dc:title>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Enami, Katsumi" opf:role="aut">Ryohgo Narita</dc:creator>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Enami, Katsumi" opf:role="aut">Katsumi Enami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-10T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The year 1934.&lt;/p&gt;
+&lt;p&gt;After the incident at the Mist Wall, the Martillo Family's youngest capo finds himself on his way to prison to protect the one he loves. The rest are there for their own reasons--the homicidal maniac wants to taste the thrill of killing an immortal, the thief simply got himself caught, the hitman is there on a mission for Nebula, and the alchemist was incarcerated years ago. As the FBI attempts to get to the bottom of Huey's machinations, another ruckus is about erupt across the San Francisco Bay--deep in the heart of Alcatraz.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen On</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316442329</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">9780316442329</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">36978134</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ryohgo Narita&quot;: &quot;&quot;, &quot;Katsumi Enami&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Baccano!"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-06-02T01:14:37.840297+00:00"/>
+        <meta name="calibre:title_sort" content="Baccano!, Vol. 08: 1934 Alice in Jails: Prison"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

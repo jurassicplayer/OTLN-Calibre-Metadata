@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">Miya Kazuki</dc:creator>
         <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">You Shiina</dc:creator>
         <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">Quof</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-11-25T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;As Myne continues her busy life as an apprentice blue shrine maiden, some good news changes everything: Her mother is pregnant! Naturally, Myne immediately sets out to make a picture book for her future little sibling. &lt;/p&gt;
@@ -15,8 +15,8 @@
 &lt;p&gt;As always Myne has bitten off more than she can chew, but she charges forward with her love of books giving her strength. And as it becomes clear that someone with her level of mana will not continue to go unnoticed, the door to the world of nobles opens and the plot escalates dramatically! &lt;/p&gt;
 &lt;p&gt;Winter approaches, and a blizzard is about to fall upon this bibliofantasy!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B081CCLTXN</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">48758307</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B081CCLTXN</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Isekai</dc:subject>
@@ -28,11 +28,12 @@
         <dc:subject>Magic</dc:subject>
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Miya Kazuki&quot;: &quot;&quot;, &quot;You Shiina&quot;: &quot;&quot;, &quot;Quof&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Ascendance of a Bookworm"/>
         <meta name="calibre:series_index" content="2.20"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-05-13T00:40:44.103957+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-13T00:40:44+00:00"/>
         <meta name="calibre:title_sort" content="Ascendance of a Bookworm: Part 2 Apprentice Shrine Maiden, Vol. 02"/>
     </metadata>
     <guide>

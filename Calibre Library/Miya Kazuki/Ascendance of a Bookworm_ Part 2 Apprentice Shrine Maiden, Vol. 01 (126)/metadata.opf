@@ -7,13 +7,13 @@
         <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">Miya Kazuki</dc:creator>
         <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">You Shiina</dc:creator>
         <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">Quof</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-09-25T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;With her baptism ceremony complete, Myne begins work in the temple as an apprentice shrine maiden. Awaiting within is what she always wanted: a room full of books! But her new life isn't quite the dream she was hoping for; she's surrounded by nobles who scorn her commoner origins, and even her own servants are causing her trouble. On top of that, she has to constantly battle the weakness of her own body. But with her love for books burning in her heart, she gives her all to her new apprentice duties. Thus begins part two of this bibliofantasy!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B07YCYXQ8M</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">52181039</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07YCYXQ8M</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Isekai</dc:subject>
@@ -25,11 +25,12 @@
         <dc:subject>Magic</dc:subject>
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Miya Kazuki&quot;: &quot;&quot;, &quot;You Shiina&quot;: &quot;&quot;, &quot;Quof&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Ascendance of a Bookworm"/>
         <meta name="calibre:series_index" content="2.10"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-05-13T00:40:47.653623+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-13T00:40:47+00:00"/>
         <meta name="calibre:title_sort" content="Ascendance of a Bookworm: Part 2 Apprentice Shrine Maiden, Vol. 01"/>
     </metadata>
     <guide>

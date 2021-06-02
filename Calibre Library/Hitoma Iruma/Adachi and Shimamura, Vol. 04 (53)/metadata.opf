@@ -6,14 +6,14 @@
         <dc:title>Adachi and Shimamura, Vol. 04</dc:title>
         <dc:creator opf:file-as="Iruma, Hitoma &amp; Non" opf:role="aut">Hitoma Iruma</dc:creator>
         <dc:creator opf:file-as="Iruma, Hitoma &amp; Non" opf:role="aut">Non</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-02-09T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;NEW YEAR, NEW WOES&lt;/p&gt;
 &lt;p&gt;It’s spring, the cherry blossoms are in full bloom, and Adachi and Shimamura have been assigned to the same second-year class! Hooray! But now Shimamura’s making new friends—so where does that leave Adachi? Can she overcome her shyness to get Shimamura back, or will she lose all the progress she’s made? Perhaps a sleepover is in order!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Seven Seas</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781645057208</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">53426720</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781645057208</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Contemporary</dc:subject>
         <dc:subject>Romance</dc:subject>
@@ -21,11 +21,12 @@
         <dc:subject>Yuri</dc:subject>
         <dc:subject>Light Novel</dc:subject>
         <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Hitoma Iruma&quot;: &quot;&quot;, &quot;Non&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Adachi and Shimamura"/>
         <meta name="calibre:series_index" content="4"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-05-10T04:42:11.983982+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-10T04:42:11+00:00"/>
         <meta name="calibre:title_sort" content="Adachi and Shimamura, Vol. 04"/>
     </metadata>
     <guide>

@@ -6,7 +6,7 @@
         <dc:title>The Asterisk War, Vol. 11: The Way of the Sword</dc:title>
         <dc:creator opf:file-as="Miyazaki, Yuu &amp; okiura" opf:role="aut">Yuu Miyazaki</dc:creator>
         <dc:creator opf:file-as="Miyazaki, Yuu &amp; okiura" opf:role="aut">okiura</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-10-15T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;Team Enfield may have won, but that doesn't mean they have all the answers...&lt;/p&gt;
@@ -24,6 +24,7 @@
         <dc:subject>Romance</dc:subject>
         <dc:subject>Science Fiction</dc:subject>
         <dc:subject>School Life</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Yuu Miyazaki&quot;: &quot;&quot;, &quot;okiura&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="The Asterisk War"/>
         <meta name="calibre:series_index" content="11"/>

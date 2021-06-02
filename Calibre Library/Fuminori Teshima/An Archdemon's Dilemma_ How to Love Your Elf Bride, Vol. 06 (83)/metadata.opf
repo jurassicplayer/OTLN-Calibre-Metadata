@@ -7,13 +7,13 @@
         <dc:creator opf:file-as="Teshima, Fuminori &amp; COMTA &amp; Hikoki" opf:role="aut">Fuminori Teshima</dc:creator>
         <dc:creator opf:file-as="Teshima, Fuminori &amp; COMTA &amp; Hikoki" opf:role="aut">COMTA</dc:creator>
         <dc:creator opf:file-as="Teshima, Fuminori &amp; COMTA &amp; Hikoki" opf:role="aut">Hikoki</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-07-31T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Zagan and the others turn Foll older temporarily to help her grow stronger. However, the ritual goes berserk, and when Foll grows bigger, Zagan shrinks! Following Orias' advice, they decide to attend the Continental Interracial Elders Conference in the Far-East in order to obtain powers aside from sorcery. What awaits them there is a member of the Night Clan, beings who live eternal lives, Alshiera. And somehow, this girl they meet for the first time seems to know Zagan and Nephy...&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B07RD7VGY6</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">45451267</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07RD7VGY6</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Official Translation</dc:subject>
@@ -25,11 +25,12 @@
         <dc:subject>Slice of Life</dc:subject>
         <dc:subject>Action</dc:subject>
         <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Fuminori Teshima&quot;: &quot;&quot;, &quot;COMTA&quot;: &quot;&quot;, &quot;Hikoki&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="An Archdemon's Dilemma: How to Love Your Elf Bride"/>
         <meta name="calibre:series_index" content="6"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-05-11T04:29:33.793102+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-11T04:29:33+00:00"/>
         <meta name="calibre:title_sort" content="Archdemon's Dilemma: How to Love Your Elf Bride, Vol. 06, An"/>
     </metadata>
     <guide>

@@ -7,15 +7,15 @@
         <dc:creator opf:file-as="Shiduki, Eri &amp; Nagi, Kasumi &amp; Evelyn, David" opf:role="aut">Eri Shiduki</dc:creator>
         <dc:creator opf:file-as="Shiduki, Eri &amp; Nagi, Kasumi &amp; Evelyn, David" opf:role="aut">Kasumi Nagi</dc:creator>
         <dc:creator opf:file-as="Shiduki, Eri &amp; Nagi, Kasumi &amp; Evelyn, David" opf:role="aut">David Evelyn</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-07-20T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A magical mishap years ago caused Princess Rosemarie to inadvertently steal Prince Claudio's mana — leaving him with the head of a beast, and her cursed to see the head of anyone with negative emotions as equally beastly. Now married, the two are off to the seaside, but the trip is anything but a royal honeymoon. &lt;/p&gt;
 &lt;p&gt;The new couple travel to the holy lands by the sea to return Claudio's mana to him and break their mutual curses. But things don't go as planned while they're there. Not only that, but their marriage of convenience may well be becoming something more. &lt;/p&gt;
 &lt;p&gt;Will Claudio ever get his mana back? Will Rosemarie's eyes ever be normal again? Will a bucket forever stand between them? Find out as their fairy tale romance continues!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B07KNL9V6M</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">42921072</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07KNL9V6M</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Romance</dc:subject>
@@ -24,11 +24,12 @@
         <dc:subject>Magic</dc:subject>
         <dc:subject>Completed</dc:subject>
         <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Eri Shiduki&quot;: &quot;&quot;, &quot;Kasumi Nagi&quot;: &quot;&quot;, &quot;David Evelyn&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Apparently it's My Fault That My Husband Has The Head of a Beast"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="6"/>
-        <meta name="calibre:timestamp" content="2021-05-11T05:11:40.040351+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-11T05:11:40+00:00"/>
         <meta name="calibre:title_sort" content="Apparently It's My Fault That My Husband Has the Head of a Beast, Vol. 02"/>
     </metadata>
     <guide>

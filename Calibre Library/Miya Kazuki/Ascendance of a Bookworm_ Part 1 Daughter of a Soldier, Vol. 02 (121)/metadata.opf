@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">Miya Kazuki</dc:creator>
         <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">You Shiina</dc:creator>
         <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">Quof</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-04-08T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;It has been a year since our hero was reborn into a new world in the body of Myne, a sickly little girl from a poor family. She's been doing her best to fulfill her dream of making books, but her plans have been foiled at every turn. &lt;/p&gt;
@@ -27,11 +27,12 @@
         <dc:subject>Magic</dc:subject>
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Miya Kazuki&quot;: &quot;&quot;, &quot;You Shiina&quot;: &quot;&quot;, &quot;Quof&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Ascendance of a Bookworm"/>
         <meta name="calibre:series_index" content="1.20"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-05-13T00:40:30.020859+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-13T00:40:30+00:00"/>
         <meta name="calibre:title_sort" content="Ascendance of a Bookworm: Part 1 Daughter of a Soldier, Vol. 02"/>
     </metadata>
     <guide>

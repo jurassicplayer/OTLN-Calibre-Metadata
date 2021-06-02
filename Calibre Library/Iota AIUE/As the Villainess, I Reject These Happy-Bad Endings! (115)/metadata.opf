@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="AIUE, Iota &amp; Kuroyuki &amp; Lee, Molly" opf:role="aut">Iota AIUE</dc:creator>
         <dc:creator opf:file-as="AIUE, Iota &amp; Kuroyuki &amp; Lee, Molly" opf:role="aut">Kuroyuki</dc:creator>
         <dc:creator opf:file-as="AIUE, Iota &amp; Kuroyuki &amp; Lee, Molly" opf:role="aut">Molly Lee</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-02-12T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Iris has awoken as the villainess in the world of her favorite otome game. But not just ANY otome game—one with nothing but bittersweet “Happy-Bad” Endings! If the heroine hooks up with one of her problematic love interests, the rest of the world is doomed... but if she fails, it's the villainess who will pay with her life! &lt;/p&gt;
@@ -23,9 +23,10 @@
         <dc:subject>Completed</dc:subject>
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Iota AIUE&quot;: &quot;&quot;, &quot;Kuroyuki&quot;: &quot;&quot;, &quot;Molly Lee&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-05-13T00:36:03.585262+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-13T00:36:03+00:00"/>
         <meta name="calibre:title_sort" content="As the Villainess, I Reject These Happy-Bad Endings!"/>
     </metadata>
     <guide>

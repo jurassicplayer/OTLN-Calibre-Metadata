@@ -8,7 +8,7 @@
         <dc:creator opf:file-as="Firehead &amp; YahaKo &amp; Chen, Kevin &amp; Townsend, Kathleen" opf:role="aut">YahaKo</dc:creator>
         <dc:creator opf:file-as="Firehead &amp; YahaKo &amp; Chen, Kevin &amp; Townsend, Kathleen" opf:role="aut">Kevin Chen</dc:creator>
         <dc:creator opf:file-as="Firehead &amp; YahaKo &amp; Chen, Kevin &amp; Townsend, Kathleen" opf:role="aut">Kathleen Townsend</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-02-15T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;The year is 2800 and Lufas Maphaahl – The Black-Winged Tyrant, Great Conqueror, and leader of the Twelve Heavenly Stars – has returned. &lt;/p&gt;
@@ -26,11 +26,12 @@
         <dc:subject>Light Novel</dc:subject>
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Firehead&quot;: &quot;&quot;, &quot;YahaKo&quot;: &quot;&quot;, &quot;Kevin Chen&quot;: &quot;&quot;, &quot;Kathleen Townsend&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="A Wild Last Boss Appeared!"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-05-10T03:01:44.065571+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-10T03:01:44+00:00"/>
         <meta name="calibre:title_sort" content="Wild Last Boss Appeared!, Vol. 01, A"/>
     </metadata>
     <guide>

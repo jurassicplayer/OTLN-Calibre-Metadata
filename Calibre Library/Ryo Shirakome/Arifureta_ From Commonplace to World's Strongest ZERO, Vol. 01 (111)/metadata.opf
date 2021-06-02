@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Shirakome, Ryo &amp; Takayaki &amp; Ningen" opf:role="aut">Ryo Shirakome</dc:creator>
         <dc:creator opf:file-as="Shirakome, Ryo &amp; Takayaki &amp; Ningen" opf:role="aut">Takayaki</dc:creator>
         <dc:creator opf:file-as="Shirakome, Ryo &amp; Takayaki &amp; Ningen" opf:role="aut">Ningen</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-12-27T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;This is the story of what happened long before Hajime was summoned to Tortus. Oscar Orcus is considered a third-rate Synergist by most people. He spends his days peacefully, working so he can send money back to an orphanage. All that changes when the whirlwind that is Miledi Reisen storms into his life. Miledi sees the hidden potential in Oscar, and invites him on her journey to defeat the gods. Oscar wants no part of any journey, and he refuses. But Miledi is persistent, and the situation changes drastically when the orphanage he wants to protect is attacked. In the end, what will our unlikely hero decide?&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -24,6 +24,7 @@
         <dc:subject>Light Novel</dc:subject>
         <dc:subject>Magic</dc:subject>
         <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Ryo Shirakome&quot;: &quot;&quot;, &quot;Takayaki&quot;: &quot;&quot;, &quot;Ningen&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Arifureta: From Commonplace to World's Strongest ZERO"/>
         <meta name="calibre:series_index" content="1"/>

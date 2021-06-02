@@ -6,7 +6,7 @@
         <dc:title>Adachi and Shimamura, Vol. 01</dc:title>
         <dc:creator opf:file-as="Iruma, Hitoma &amp; Non" opf:role="aut">Hitoma Iruma</dc:creator>
         <dc:creator opf:file-as="Iruma, Hitoma &amp; Non" opf:role="aut">Non</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-03-10T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;The yuri light novels about a sweet romance between high school girls–now an anime series!&lt;/p&gt;
@@ -21,11 +21,12 @@
         <dc:subject>Yuri</dc:subject>
         <dc:subject>Light Novel</dc:subject>
         <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Hitoma Iruma&quot;: &quot;&quot;, &quot;Non&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Adachi and Shimamura"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-05-10T04:42:08.634646+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-10T04:42:08+00:00"/>
         <meta name="calibre:title_sort" content="Adachi and Shimamura, Vol. 01"/>
     </metadata>
     <guide>

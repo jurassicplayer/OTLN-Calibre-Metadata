@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Gatou, Shouji &amp; Nakajima, Yuka &amp; Ellis, Elizabeth" opf:role="aut">Shouji Gatou</dc:creator>
         <dc:creator opf:file-as="Gatou, Shouji &amp; Nakajima, Yuka &amp; Ellis, Elizabeth" opf:role="aut">Yuka Nakajima</dc:creator>
         <dc:creator opf:file-as="Gatou, Shouji &amp; Nakajima, Yuka &amp; Ellis, Elizabeth" opf:role="aut">Elizabeth Ellis</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-02-20T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Amusement parks are places of wonder and fun for all ages... right? Well, that's not quite the case for Amagi Brilliant Park, a "crummy" amusement park on the outskirts of Tokyo where the snacks are inedible, the attractions are falling apart, and the mascots regularly get into fistfights with the guests. It's the kind of place that cool, handsome, brilliant Kanie Seiya wouldn't be caught dead in... until a mysterious girl drags him there--at literal gunpoint--and demands that he help them save the park! &lt;/p&gt;
@@ -24,11 +24,12 @@
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Romance</dc:subject>
         <dc:subject>Slice of Life</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Shouji Gatou&quot;: &quot;&quot;, &quot;Yuka Nakajima&quot;: &quot;&quot;, &quot;Elizabeth Ellis&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Amagi Brilliant Park"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-05-11T04:15:38.278041+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-11T04:15:38+00:00"/>
         <meta name="calibre:title_sort" content="Amagi Brilliant Park, Vol. 01"/>
     </metadata>
     <guide>

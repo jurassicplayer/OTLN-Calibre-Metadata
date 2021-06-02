@@ -7,14 +7,14 @@
         <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">Miya Kazuki</dc:creator>
         <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">You Shiina</dc:creator>
         <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">Quof</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-06-10T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;The long winter comes to an end and vibrant spring returns to Ehrenfest. The temple swirls busily as attempts to control Myne's future escalate and the High Bishop, fueled by hate, shrouds the city in the darkness of his nefarious plots. But Myne just wants everything to stay the same. Her little brother has been born, she's making new books thanks to her progress making ink, and she wants nothing more than to just keep spending more heart-warming time with her family and friends. The world, however, forces her to make a cruel and unbearable decision. To protect those she loves, she must begin walking a new road. &lt;/p&gt;
 &lt;p&gt;Part two of this biblio-fantasy concludes in this heart-wrenching volume! There's a collection of short stories following the shocking climax, as well as two completely original short stories and a four-panel manga drawn by You Shiina.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B086V6CST5</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">53046882</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B086V6CST5</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Isekai</dc:subject>
@@ -26,11 +26,12 @@
         <dc:subject>Magic</dc:subject>
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Miya Kazuki&quot;: &quot;&quot;, &quot;You Shiina&quot;: &quot;&quot;, &quot;Quof&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Ascendance of a Bookworm"/>
         <meta name="calibre:series_index" content="2.40"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-05-13T00:40:37.103760+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-13T00:40:37+00:00"/>
         <meta name="calibre:title_sort" content="Ascendance of a Bookworm: Part 2 Apprentice Shrine Maiden, Vol. 04"/>
     </metadata>
     <guide>

@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz &amp; Nukia, Roy" opf:role="aut">Yukiya Murasaki</dc:creator>
         <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz &amp; Nukia, Roy" opf:role="aut">himesuz</dc:creator>
         <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz &amp; Nukia, Roy" opf:role="aut">Roy Nukia</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-08-04T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;What will happen when the bibliophagic tactician Regis faces off against the strategy officer chosen by a queen?&lt;/p&gt;
@@ -16,8 +16,8 @@
 &lt;p&gt;As the battle continues, an unexpected encounter reveals more about Regis’s past...&lt;/p&gt;
 &lt;p&gt;Here is the fifth volume of a tale of war, love, and politics, woven by the bookworm and the sword princess.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B08F9XCCZP</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">54826533</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08F9XCCZP</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Official Translation</dc:subject>
@@ -29,11 +29,12 @@
         <dc:subject>Martial Arts</dc:subject>
         <dc:subject>Harem</dc:subject>
         <dc:subject>Drama</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Yukiya Murasaki&quot;: &quot;&quot;, &quot;himesuz&quot;: &quot;&quot;, &quot;Roy Nukia&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Altina the Sword Princess"/>
         <meta name="calibre:series_index" content="5"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-05-11T03:55:20.161132+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-11T03:55:20+00:00"/>
         <meta name="calibre:title_sort" content="Altina the Sword Princess, Vol. 05"/>
     </metadata>
     <guide>

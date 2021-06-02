@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz &amp; Nukia, Roy" opf:role="aut">Yukiya Murasaki</dc:creator>
         <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz &amp; Nukia, Roy" opf:role="aut">himesuz</dc:creator>
         <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz &amp; Nukia, Roy" opf:role="aut">Roy Nukia</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2012-10-29T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Inept with a sword, unable to ride a horse, and apathetic toward the empire he serves, Regis Aurick is a hopeless soldier who spends his days buried in books. Banished to the borderlands, he encounters a stirring young woman with red hair and ruby eyes. She is Fourth Princess Marie Quatre Argentina de Belgaria, known simply to Regis as Altina.&lt;/p&gt;
@@ -15,8 +15,8 @@
 &lt;p&gt;Having sought him for his rumored strategic prowess, she aspires to reform an empire led by self-seeking nobles and driven to pointless wars, the legendary blade of an emperor, the Grand Tonnerre Quatre, at her hip. Continuously underestimated by her regiment, including her would-be tactician, the princess resolves to prove her worth beyond a shadow of a doubt—no matter the risk.&lt;/p&gt;
 &lt;p&gt;Here is a tale of war, love, and politics, woven by the bookworm and the sword princess.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B08QM6VYMM</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">56314825</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08QM6VYMM</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Official Translation</dc:subject>
@@ -28,11 +28,12 @@
         <dc:subject>Martial Arts</dc:subject>
         <dc:subject>Harem</dc:subject>
         <dc:subject>Drama</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Yukiya Murasaki&quot;: &quot;&quot;, &quot;himesuz&quot;: &quot;&quot;, &quot;Roy Nukia&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Altina the Sword Princess"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-05-11T03:55:00.645559+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-11T03:55:00+00:00"/>
         <meta name="calibre:title_sort" content="Altina the Sword Princess, Vol. 01"/>
     </metadata>
     <guide>

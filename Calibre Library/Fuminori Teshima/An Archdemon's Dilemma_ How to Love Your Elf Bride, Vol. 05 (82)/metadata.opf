@@ -7,13 +7,13 @@
         <dc:creator opf:file-as="Teshima, Fuminori &amp; COMTA &amp; Hikoki" opf:role="aut">Fuminori Teshima</dc:creator>
         <dc:creator opf:file-as="Teshima, Fuminori &amp; COMTA &amp; Hikoki" opf:role="aut">COMTA</dc:creator>
         <dc:creator opf:file-as="Teshima, Fuminori &amp; COMTA &amp; Hikoki" opf:role="aut">Hikoki</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-03-31T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Nephy and Zagan have finally confessed their feelings to each other, but neither of them have any idea how to act like a normal couple. After getting some advice, Zagan finds out about a mysterious event know as a 'date,' and goes on a research trip in town where he coincidentally saves the blind therianthrope, Kuroka, a newly dispatched priest. At the same time, Nephteros discovers the truth of her origins and escapes to Zagan's territory while being pursued by Bifrons' chimera.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B07NWHXKYM</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">44100347</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07NWHXKYM</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Comedy</dc:subject>
@@ -25,11 +25,12 @@
         <dc:subject>Romance</dc:subject>
         <dc:subject>Slice of Life</dc:subject>
         <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Fuminori Teshima&quot;: &quot;&quot;, &quot;COMTA&quot;: &quot;&quot;, &quot;Hikoki&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="An Archdemon's Dilemma: How to Love Your Elf Bride"/>
         <meta name="calibre:series_index" content="5"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-05-11T04:29:30.651750+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-11T04:29:30+00:00"/>
         <meta name="calibre:title_sort" content="Archdemon's Dilemma: How to Love Your Elf Bride, Vol. 05, An"/>
     </metadata>
     <guide>

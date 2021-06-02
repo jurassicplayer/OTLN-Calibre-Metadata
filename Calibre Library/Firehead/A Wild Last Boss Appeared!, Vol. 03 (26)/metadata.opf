@@ -8,15 +8,15 @@
         <dc:creator opf:file-as="Firehead &amp; YahaKo &amp; Chen, Kevin &amp; Townsend, Kathleen" opf:role="aut">YahaKo</dc:creator>
         <dc:creator opf:file-as="Firehead &amp; YahaKo &amp; Chen, Kevin &amp; Townsend, Kathleen" opf:role="aut">Kevin Chen</dc:creator>
         <dc:creator opf:file-as="Firehead &amp; YahaKo &amp; Chen, Kevin &amp; Townsend, Kathleen" opf:role="aut">Kathleen Townsend</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-01-11T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;The legendary Lufas Maphaahl continues on her journey as new information arises that the sword country Laevateinn has summoned a hero...successfully this time! However, it seems that the devilfolk are also aware of this...? &lt;/p&gt;
 &lt;p&gt;The hero, Sei, the very hope of humanity, and his party are in danger of getting wiped out by the devilfolk before their adventure has even begun! &lt;/p&gt;
 &lt;p&gt;But there are plenty more Twelve Heavenly Stars to bring back into the fold, too. Vanaheim, the original home of the heaven-winged, has been taken over by Parthenos the Maiden, and Scorpius the Scorpion has fully allied with the devilfolk! Will the other former members of the Twelve Heavenly Stars come back peacefully? Or are there more unexpected events in store for Lufas?!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B08KBPNN75</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">55749573</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08KBPNN75</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>
@@ -27,11 +27,12 @@
         <dc:subject>Light Novel</dc:subject>
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Firehead&quot;: &quot;&quot;, &quot;YahaKo&quot;: &quot;&quot;, &quot;Kevin Chen&quot;: &quot;&quot;, &quot;Kathleen Townsend&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="A Wild Last Boss Appeared!"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-05-10T03:01:53.493046+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-10T03:01:53+00:00"/>
         <meta name="calibre:title_sort" content="Wild Last Boss Appeared!, Vol. 03, A"/>
     </metadata>
     <guide>

@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Shirakome, Ryo &amp; Takayaki &amp; Ningen" opf:role="aut">Ryo Shirakome</dc:creator>
         <dc:creator opf:file-as="Shirakome, Ryo &amp; Takayaki &amp; Ningen" opf:role="aut">Takayaki</dc:creator>
         <dc:creator opf:file-as="Shirakome, Ryo &amp; Takayaki &amp; Ningen" opf:role="aut">Ningen</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-12-25T08:00:00+00:00</dc:date>
         <dc:publisher>J-Novel Club</dc:publisher>
         <dc:identifier opf:scheme="AMAZON">B08LQ44QPL</dc:identifier>
@@ -22,11 +22,12 @@
         <dc:subject>Light Novel</dc:subject>
         <dc:subject>Magic</dc:subject>
         <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Ryo Shirakome&quot;: &quot;&quot;, &quot;Takayaki&quot;: &quot;&quot;, &quot;Ningen&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Arifureta: From Commonplace to World's Strongest ZERO"/>
         <meta name="calibre:series_index" content="4"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-05-13T00:16:14.124409+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-13T00:16:14+00:00"/>
         <meta name="calibre:title_sort" content="Arifureta: From Commonplace to World's Strongest ZERO, Vol. 04"/>
     </metadata>
     <guide>

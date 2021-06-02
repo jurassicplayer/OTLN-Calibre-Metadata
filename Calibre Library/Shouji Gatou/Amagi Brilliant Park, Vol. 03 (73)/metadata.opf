@@ -7,13 +7,13 @@
         <dc:creator opf:file-as="Gatou, Shouji &amp; Nakajima, Yuka &amp; Ellis, Elizabeth" opf:role="aut">Shouji Gatou</dc:creator>
         <dc:creator opf:file-as="Gatou, Shouji &amp; Nakajima, Yuka &amp; Ellis, Elizabeth" opf:role="aut">Yuka Nakajima</dc:creator>
         <dc:creator opf:file-as="Gatou, Shouji &amp; Nakajima, Yuka &amp; Ellis, Elizabeth" opf:role="aut">Elizabeth Ellis</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-01-18T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Working at your favorite amusement park is awesome... right? Well, it's not so easy for Chujo Shiina, a painfully shy girl who takes a job at AmaBri to escape a miserable first year of high school. Her favorite mascots are cranky old men, the star of the live show keeps catching fire, and her boss barely acknowledges her existence! What she doesn't know is that the park is in a new scramble to quintuple its yearly attendance or close... and she's about to become an integral part of that effort!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B08Q7M84VP</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">42753967</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08Q7M84VP</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Official Translation</dc:subject>
@@ -23,11 +23,12 @@
         <dc:subject>Comedy</dc:subject>
         <dc:subject>Slice of Life</dc:subject>
         <dc:subject>Magic</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Shouji Gatou&quot;: &quot;&quot;, &quot;Yuka Nakajima&quot;: &quot;&quot;, &quot;Elizabeth Ellis&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Amagi Brilliant Park"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-05-11T04:15:59.751687+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-11T04:15:59+00:00"/>
         <meta name="calibre:title_sort" content="Amagi Brilliant Park, Vol. 03"/>
     </metadata>
     <guide>

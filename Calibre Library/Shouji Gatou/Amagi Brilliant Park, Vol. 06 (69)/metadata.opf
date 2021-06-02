@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Gatou, Shouji &amp; Nakajima, Yuka &amp; Ellis, Elizabeth" opf:role="aut">Shouji Gatou</dc:creator>
         <dc:creator opf:file-as="Gatou, Shouji &amp; Nakajima, Yuka &amp; Ellis, Elizabeth" opf:role="aut">Yuka Nakajima</dc:creator>
         <dc:creator opf:file-as="Gatou, Shouji &amp; Nakajima, Yuka &amp; Ellis, Elizabeth" opf:role="aut">Elizabeth Ellis</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-04-18T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Drawing three million people in a year is impossible for a tiny park... right? Well, Seiya thinks so, but he's about to get help. The leader of the world's most popular theme park has taken interest in Amagi, and he wants to see Seiya reach his goal, no matter what the cost! Unfortunately, for Seiya, the cost might prove too high... when Latifah loses her memory again, he'll have to make a grim decision about what really matters.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -23,11 +23,12 @@
         <dc:subject>Comedy</dc:subject>
         <dc:subject>Slice of Life</dc:subject>
         <dc:subject>Magic</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Shouji Gatou&quot;: &quot;&quot;, &quot;Yuka Nakajima&quot;: &quot;&quot;, &quot;Elizabeth Ellis&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Amagi Brilliant Park"/>
         <meta name="calibre:series_index" content="6"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-05-12T04:15:47.694000+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-12T04:15:47+00:00"/>
         <meta name="calibre:title_sort" content="Amagi Brilliant Park, Vol. 06"/>
     </metadata>
     <guide>

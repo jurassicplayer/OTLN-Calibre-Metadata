@@ -6,7 +6,7 @@
         <dc:title>A Mysterious Job Called Oda Nobunaga, Vol. 02</dc:title>
         <dc:creator opf:file-as="Morita, Kisetsu &amp; Shibano, Kaito" opf:role="aut">Kisetsu Morita</dc:creator>
         <dc:creator opf:file-as="Morita, Kisetsu &amp; Shibano, Kaito" opf:role="aut">Kaito Shibano</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-08-18T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;KEEP YOUR ALLIES CLOSE AND YOUR TRAITORS CLOSER!&lt;/p&gt;
@@ -26,6 +26,7 @@
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Romance</dc:subject>
         <dc:subject>Completed</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Kisetsu Morita&quot;: &quot;&quot;, &quot;Kaito Shibano&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="A Mysterious Job Called Oda Nobunaga"/>
         <meta name="calibre:series_index" content="2"/>

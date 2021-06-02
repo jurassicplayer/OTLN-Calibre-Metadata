@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Yayari, Haru &amp; Fuyuki &amp; Messier, Charis" opf:role="aut">Haru Yayari</dc:creator>
         <dc:creator opf:file-as="Yayari, Haru &amp; Fuyuki &amp; Messier, Charis" opf:role="aut">Fuyuki</dc:creator>
         <dc:creator opf:file-as="Yayari, Haru &amp; Fuyuki &amp; Messier, Charis" opf:role="aut">Charis Messier</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-09-08T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;Just when I thought navigating high school was bad enough, I woke up to a rotting, post-apocalyptic world!&lt;/p&gt;
@@ -24,11 +24,12 @@
         <dc:subject>Ecchi</dc:subject>
         <dc:subject>Romance</dc:subject>
         <dc:subject>Isekai</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Haru Yayari&quot;: &quot;&quot;, &quot;Fuyuki&quot;: &quot;&quot;, &quot;Charis Messier&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Another World’s Zombie Apocalypse Is Not My Problem!"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-05-11T04:57:45.010199+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-11T04:57:45+00:00"/>
         <meta name="calibre:title_sort" content="Another World’s Zombie Apocalypse Is Not My Problem!, Vol. 01"/>
     </metadata>
     <guide>

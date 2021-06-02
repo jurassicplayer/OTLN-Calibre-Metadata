@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">146</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cfa9206c-c075-4213-bdd4-7c75a2db8460</dc:identifier>
+        <dc:title>Attack on Titan: The Harsh Mistress of the City, Part 2</dc:title>
+        <dc:creator opf:file-as="Isayama, Hajime &amp; Murata, Range &amp; Kawakami, Ryo" opf:role="aut">Hajime Isayama</dc:creator>
+        <dc:creator opf:file-as="Isayama, Hajime &amp; Murata, Range &amp; Kawakami, Ryo" opf:role="aut">Range Murata</dc:creator>
+        <dc:creator opf:file-as="Isayama, Hajime &amp; Murata, Range &amp; Kawakami, Ryo" opf:role="aut">Ryo Kawakami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-09-29T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Shiganshina has been breached, and humanity has retreated to Wall Rose-for the most part. Quinta District, situated at the western end of Wall Maria, is holding out despite being hemmed in by the Titans on both the exterior and the formerly interior sides. &lt;/p&gt;
+&lt;p&gt;In this concluding half of this side story, Rita Iglehaut, acting commander of the local forces, struggles to turn her isolated hometown into something of a city of its own. Her draconian methods, however, shock the residents, not least Mathias Kramer, her childhood friend.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Vertical</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781942993292</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">25430823</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hajime Isayama&quot;: &quot;&quot;, &quot;Range Murata&quot;: &quot;&quot;, &quot;Ryo Kawakami&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Attack on Titan: The Harsh Mistress of the City"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-29T02:30:16+00:00"/>
+        <meta name="calibre:title_sort" content="Attack on Titan: The Harsh Mistress of the City, Part 2"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

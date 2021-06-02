@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">143</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a918d251-ecee-42f8-85b3-c29e3d5c9e07</dc:identifier>
+        <dc:title>Attack on Titan: Kuklo Unbound</dc:title>
+        <dc:creator opf:file-as="Isayama, Hajime &amp; Suzukaze, Ryo &amp; Shibamoto, Thores" opf:role="aut">Hajime Isayama</dc:creator>
+        <dc:creator opf:file-as="Isayama, Hajime &amp; Suzukaze, Ryo &amp; Shibamoto, Thores" opf:role="aut">Ryo Suzukaze</dc:creator>
+        <dc:creator opf:file-as="Isayama, Hajime &amp; Suzukaze, Ryo &amp; Shibamoto, Thores" opf:role="aut">Thores Shibamoto</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-19T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A prequel to the blockbuster Attack on Titan series, Before the Fall is a three volume young adult fiction fantasy novel series set years before the events that transpire with Eren and Mikasa. Together, the second and third volumes of Before the Fall are yet another prequel story and they are for the most part separate from the story of Angel and Wall Maria. &lt;/p&gt;
+&lt;p&gt;In this collection we are introduced to a new character Kuklo was found as a baby crying in a mass of Titan vomit, amidst the dead titan corpses. He is called "a child of titan" and is essentially hated by the people inside the walls. Kyklo despite his horrible beginnings and a single-functioning eye also seems to grow unnaturally fast. He parts himself from his past and gambles on the fate of humanity by enlisting in the Survey Corps. This group functions primarily outside of the safety of the walls. And here with his strength and determination Kyklo survives and thrives. &lt;/p&gt;
+&lt;p&gt;But to accomplish this he gets his hands on the Vertical Maneuvering Equipment. Although the gear is still imperfect and causes a troublesome incident for Kyklo, he fights the titans. Whether it is because it is his fate to fight them, or it is because of his past, he fights against them.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Vertical</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">23395810</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781939130877</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hajime Isayama&quot;: &quot;&quot;, &quot;Ryo Suzukaze&quot;: &quot;&quot;, &quot;Thores Shibamoto&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Attack on Titan: Before the Fall Light Novels"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-29T02:24:47+00:00"/>
+        <meta name="calibre:title_sort" content="Attack on Titan: Kuklo Unbound"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

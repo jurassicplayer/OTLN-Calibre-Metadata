@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">144</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">51ef8b57-de3c-4f79-94b8-87405b9f791b</dc:identifier>
+        <dc:title>Attack on Titan: Before the Fall</dc:title>
+        <dc:creator opf:file-as="Isayama, Hajime &amp; Suzukaze, Ryo &amp; Shibamoto, Thores" opf:role="aut">Hajime Isayama</dc:creator>
+        <dc:creator opf:file-as="Isayama, Hajime &amp; Suzukaze, Ryo &amp; Shibamoto, Thores" opf:role="aut">Ryo Suzukaze</dc:creator>
+        <dc:creator opf:file-as="Isayama, Hajime &amp; Suzukaze, Ryo &amp; Shibamoto, Thores" opf:role="aut">Thores Shibamoto</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-12-02T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Before the fall, and before the trials of "the Titan's son" Kyklo, a young smith by the name of Angel Aaltonen grappled with the giants as only a craftsman could... &lt;/p&gt;
+&lt;p&gt;The first of the three-part &lt;span style="font-weight: 600; font-style: italic"&gt;Before the Fall&lt;/span&gt; light novels, whose second and third installments have been adapted into a manga of the same name, this prequel of prequels details the origins of the devices that humanity developed to take on the mysterious Titans.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Vertical</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781939130860</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B07L1BD1K5</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1939130867</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">19337398</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hajime Isayama&quot;: &quot;&quot;, &quot;Ryo Suzukaze&quot;: &quot;&quot;, &quot;Thores Shibamoto&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Attack on Titan: Before the Fall Light Novels"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-05-29T02:24:50+00:00"/>
+        <meta name="calibre:title_sort" content="Attack on Titan: Before the Fall"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

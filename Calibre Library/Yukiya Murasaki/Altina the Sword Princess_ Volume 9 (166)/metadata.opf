@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">166</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c846512f-7da7-495b-90ff-4d1e58220463</dc:identifier>
+        <dc:title>Altina the Sword Princess: Volume 9</dc:title>
+        <dc:creator opf:file-as="Murasaki, Yukiya &amp; Himesuz &amp; Nukia, Roy" opf:role="aut">Yukiya Murasaki</dc:creator>
+        <dc:creator opf:file-as="Murasaki, Yukiya &amp; Himesuz &amp; Nukia, Roy" opf:role="aut">Himesuz</dc:creator>
+        <dc:creator opf:file-as="Murasaki, Yukiya &amp; Himesuz &amp; Nukia, Roy" opf:role="aut">Roy Nukia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-05T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The bibliophagic tactician is once again thrust into a siege! Answering a summons to the capital, he must aid Second Prince Latrielle in his pursuit of the High Britannian Army. Altina pushes onward even during Regis’s absence—having taken his words to heart, she builds up her forces as she awaits his return.&lt;/p&gt;
+&lt;p&gt;Meanwhile, Third Prince Bastian has returned to Belgaria. Carrying on the will of a friend, he too is about to take a stand to change the nation.&lt;/p&gt;
+&lt;p&gt;Three royals, each with their own ideals, take their first steps down the paths they believe in.&lt;/p&gt;
+&lt;p&gt;Here is the ninth volume of a tale of war, love, and politics, woven by the bookworm and the sword princess.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B093212NXZ</dc:identifier>
+        <dc:identifier opf:scheme="ASIN">B093212NXZ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">58489200</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Martial Arts</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yukiya Murasaki&quot;: &quot;&quot;, &quot;Himesuz&quot;: &quot;&quot;, &quot;Roy Nukia&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Altina the Sword Princess"/>
+        <meta name="calibre:series_index" content="9"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-09T01:48:20.972726+00:00"/>
+        <meta name="calibre:title_sort" content="Altina the Sword Princess: Volume 9"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

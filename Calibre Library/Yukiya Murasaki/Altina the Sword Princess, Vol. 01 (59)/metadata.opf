@@ -4,11 +4,11 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">59</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">272e02cc-9c2e-4a88-b35c-cff5f71f5c59</dc:identifier>
         <dc:title>Altina the Sword Princess, Vol. 01</dc:title>
-        <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz &amp; Nukia, Roy" opf:role="aut">Yukiya Murasaki</dc:creator>
-        <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz &amp; Nukia, Roy" opf:role="aut">himesuz</dc:creator>
-        <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz &amp; Nukia, Roy" opf:role="aut">Roy Nukia</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2012-10-29T07:00:00+00:00</dc:date>
+        <dc:creator opf:file-as="Murasaki, Yukiya &amp; Himesuz &amp; Nukia, Roy" opf:role="aut">Yukiya Murasaki</dc:creator>
+        <dc:creator opf:file-as="Murasaki, Yukiya &amp; Himesuz &amp; Nukia, Roy" opf:role="aut">Himesuz</dc:creator>
+        <dc:creator opf:file-as="Murasaki, Yukiya &amp; Himesuz &amp; Nukia, Roy" opf:role="aut">Roy Nukia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-23T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Inept with a sword, unable to ride a horse, and apathetic toward the empire he serves, Regis Aurick is a hopeless soldier who spends his days buried in books. Banished to the borderlands, he encounters a stirring young woman with red hair and ruby eyes. She is Fourth Princess Marie Quatre Argentina de Belgaria, known simply to Regis as Altina.&lt;/p&gt;
 &lt;p&gt;“…Do you want to become my tactician or not?”&lt;/p&gt;
@@ -29,7 +29,7 @@
         <dc:subject>Harem</dc:subject>
         <dc:subject>Drama</dc:subject>
         <dc:subject>Fiction</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Yukiya Murasaki&quot;: &quot;&quot;, &quot;himesuz&quot;: &quot;&quot;, &quot;Roy Nukia&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Yukiya Murasaki&quot;: &quot;&quot;, &quot;Himesuz&quot;: &quot;&quot;, &quot;Roy Nukia&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Altina the Sword Princess"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

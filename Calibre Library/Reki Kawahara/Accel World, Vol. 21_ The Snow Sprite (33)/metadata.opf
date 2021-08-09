@@ -7,12 +7,12 @@
         <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">Reki Kawahara</dc:creator>
         <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">HiMA</dc:creator>
         <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">Jocelyne Allen</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2016-12-10T08:00:00+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-21T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p id="book-description-full"&gt;&lt;strong&gt;P&lt;/strong&gt;&lt;strong&gt;repare for a full dive!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The frigid face-off with Oscillatory Universe heats up when a mysterious adversary launches a surprise attack against Nega Nebulus! Silver Crow retreats to the Highest Level with Metatron to try to get ahold of the situation but fails to realize he and Metatron have been followed by Snow Fairy: an F-type avatar of the White Legion who unleashes a strange ability and attempts to sever the link between the two of them! Meanwhile, the other Black Legion members fall victim to a devious trap laid by the White Legion and are put at risk of Unlimited PK! Just how much can Nega Nebulus endure before the ice finally cracks beneath their feet?!&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>Yen On</dc:publisher>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781975332730</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">48718067</dc:identifier>
         <dc:language>eng</dc:language>
@@ -29,7 +29,7 @@
         <meta name="calibre:series" content="Accel World"/>
         <meta name="calibre:series_index" content="21"/>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2021-05-10T03:24:46.694663+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-10T03:24:46+00:00"/>
         <meta name="calibre:title_sort" content="Accel World, Vol. 21: The Snow Sprite"/>
     </metadata>
     <guide>

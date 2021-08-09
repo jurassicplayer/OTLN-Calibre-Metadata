@@ -7,15 +7,15 @@
         <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">Reki Kawahara</dc:creator>
         <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">HiMA</dc:creator>
         <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">Jocelyne Allen</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2013-02-10T08:00:00+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-10T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p id="book-description-full"&gt;&lt;strong&gt;P&lt;/strong&gt;&lt;strong&gt;repare for a full dive!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Umesato Junior High's culture festival is just around the corner, and Haruyuki is busy helping his classmates prepare for their exhibit. While everything may appear calm in the real world, however, the Accelerated World is steadily falling into chaos. Magenta Scissors is zeroing in on Silver Crow from an unexpected direction, and even his newfound Optical Conduction ability may not be enough to avert a tragedy!&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>Yen On</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781975300067</dc:identifier>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
         <dc:identifier opf:scheme="AMAZON">1975300068</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">36205205</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781975300067</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>
@@ -30,7 +30,7 @@
         <meta name="calibre:series" content="Accel World"/>
         <meta name="calibre:series_index" content="13"/>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2021-05-10T03:25:23.876129+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-10T03:25:23+00:00"/>
         <meta name="calibre:title_sort" content="Accel World, Vol. 13: Signal Fire at the Water's Edge"/>
     </metadata>
     <guide>

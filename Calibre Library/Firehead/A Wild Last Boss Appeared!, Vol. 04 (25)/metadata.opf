@@ -8,7 +8,7 @@
         <dc:creator opf:file-as="Firehead &amp; YahaKo &amp; Chen, Kevin &amp; Townsend, Kathleen" opf:role="aut">YahaKo</dc:creator>
         <dc:creator opf:file-as="Firehead &amp; YahaKo &amp; Chen, Kevin &amp; Townsend, Kathleen" opf:role="aut">Kevin Chen</dc:creator>
         <dc:creator opf:file-as="Firehead &amp; YahaKo &amp; Chen, Kevin &amp; Townsend, Kathleen" opf:role="aut">Kathleen Townsend</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-04-07T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Things are as busy as ever as the legendary Lufas Maphaahl continues her journey, setting out to collect more members of the Twelve Heavenly Stars and beat the evil threatening the world! &lt;/p&gt;
@@ -23,12 +23,12 @@
         <dc:subject>Adventure</dc:subject>
         <dc:subject>Comedy</dc:subject>
         <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
         <dc:subject>Gender Bender</dc:subject>
         <dc:subject>Isekai</dc:subject>
         <dc:subject>Light Novel</dc:subject>
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Supernatural</dc:subject>
-        <dc:subject>Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Firehead&quot;: &quot;&quot;, &quot;YahaKo&quot;: &quot;&quot;, &quot;Kevin Chen&quot;: &quot;&quot;, &quot;Kathleen Townsend&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="A Wild Last Boss Appeared!"/>
         <meta name="calibre:series_index" content="4"/>

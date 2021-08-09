@@ -7,13 +7,13 @@
         <dc:creator opf:file-as="Ayatsuji, Yukito &amp; Kiyohara, Hiro &amp; McGillicuddy, Karen" opf:role="aut">Yukito Ayatsuji</dc:creator>
         <dc:creator opf:file-as="Ayatsuji, Yukito &amp; Kiyohara, Hiro &amp; McGillicuddy, Karen" opf:role="aut">Hiro Kiyohara</dc:creator>
         <dc:creator opf:file-as="Ayatsuji, Yukito &amp; Kiyohara, Hiro &amp; McGillicuddy, Karen" opf:role="aut">Karen McGillicuddy</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2013-07-31T07:00:00+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-05-24T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Summer, 1998. Mei Misaki, age fifteen, has gone with her family to their seaside vacation home. There she meets the ghost of Teruya Sakaki, her classmate from Yomiyama North Middle School Class 3-3 who, like Mei, witnessed the mysterious events that had transpired at the school. There begins an adventure of memory and mystery as they search for the ghost's body and his memories alike.&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>Yen On</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9780316312318</dc:identifier>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
         <dc:identifier opf:scheme="GOODREADS">26245054</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780316312318</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Fiction</dc:subject>
@@ -27,7 +27,7 @@
         <meta name="calibre:series" content="Another"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-05-11T04:45:40.432709+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-11T04:45:40+00:00"/>
         <meta name="calibre:title_sort" content="Another: Episode S / 0"/>
     </metadata>
     <guide>

@@ -7,14 +7,14 @@
         <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">Reki Kawahara</dc:creator>
         <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">HiMA</dc:creator>
         <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">Jocelyne Allen</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2010-06-10T07:00:00+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-17T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p id="book-description-full"&gt;&lt;strong&gt;P&lt;/strong&gt;&lt;strong&gt;repare for a full dive! &lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Seiji Nomi's scheming from his position atop the school social hierarchy has ceased. Sky Raker has returned to the Accelerated World, and upon joining Nega Nebulus, she and Kuroyukihime have become a force to be reckoned with. But one day, Haruyuki hears the news that the social camera network has been expanded to include the Hermes' Cord space elevator, and he realizes what the next stage of the game will be: space. Upon arriving, he is aided by a mysterious operator in taking on the biggest mission in the history of Brain Burst! Plus, Kuroyukihime and Haruyuki have a chance to experience their first overnight event--except they have gatecrashers!&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>Yen On</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9780316296397</dc:identifier>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
         <dc:identifier opf:scheme="GOODREADS">25066562</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780316296397</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>
@@ -29,7 +29,7 @@
         <meta name="calibre:series" content="Accel World"/>
         <meta name="calibre:series_index" content="5"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-05-10T03:25:43.047216+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-10T03:25:43+00:00"/>
         <meta name="calibre:title_sort" content="Accel World, Vol. 05: The Floating Starlight Bridge"/>
     </metadata>
     <guide>

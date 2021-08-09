@@ -4,11 +4,11 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">61</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">7809e4f2-d9c1-4c90-aee3-824b73fe5dd7</dc:identifier>
         <dc:title>Altina the Sword Princess, Vol. 02</dc:title>
-        <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz &amp; Nukia, Roy" opf:role="aut">Yukiya Murasaki</dc:creator>
-        <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz &amp; Nukia, Roy" opf:role="aut">himesuz</dc:creator>
-        <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz &amp; Nukia, Roy" opf:role="aut">Roy Nukia</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2013-02-28T08:00:00+00:00</dc:date>
+        <dc:creator opf:file-as="Murasaki, Yukiya &amp; Himesuz &amp; Nukia, Roy" opf:role="aut">Yukiya Murasaki</dc:creator>
+        <dc:creator opf:file-as="Murasaki, Yukiya &amp; Himesuz &amp; Nukia, Roy" opf:role="aut">Himesuz</dc:creator>
+        <dc:creator opf:file-as="Murasaki, Yukiya &amp; Himesuz &amp; Nukia, Roy" opf:role="aut">Roy Nukia</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-01-25T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;An impregnable fortress able to withstand ten thousand men lies before them. If they refuse to capture it... the princess is a traitor!? &lt;/p&gt;
 &lt;p&gt;Through a duel with Black Knight Jerome, Princess Altina earns the respect of her regiment and becomes the recognized commander of Fort Sierck. But celebrations are cut short by a barbarian attack, and in their vanguard stands an infamous warrior known as the barbarian king. &lt;/p&gt;
@@ -30,7 +30,7 @@
         <dc:subject>Harem</dc:subject>
         <dc:subject>Drama</dc:subject>
         <dc:subject>Fiction</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Yukiya Murasaki&quot;: &quot;&quot;, &quot;himesuz&quot;: &quot;&quot;, &quot;Roy Nukia&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Yukiya Murasaki&quot;: &quot;&quot;, &quot;Himesuz&quot;: &quot;&quot;, &quot;Roy Nukia&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Altina the Sword Princess"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>

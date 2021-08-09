@@ -7,12 +7,12 @@
         <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">Reki Kawahara</dc:creator>
         <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">HiMA</dc:creator>
         <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">Jocelyne Allen</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-04-27T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;Prepare for a full dive!&lt;/p&gt;
 &lt;p&gt;​Physical attacks and special abilities mean next to nothing against the overwhelming might of the Sun God Inti. However, its defeat is the key to reaching Snow White, which means the hopes of the six Legions once again rest with Haruyuki and his Lucid Blade. In order to succeed in this death-defying endeavor, he’ll have to hone his skill with the Incarnate weapon. And so, he sets out to master the mysterious Omega style of swordsmanship. His instructor? The third Chrome Disaster: Centaurea Sentry...&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>Yen On</dc:publisher>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781975321338</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">55922140</dc:identifier>
         <dc:language>eng</dc:language>
@@ -29,7 +29,7 @@
         <meta name="calibre:series" content="Accel World"/>
         <meta name="calibre:series_index" content="24"/>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2021-05-10T03:24:34.861949+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-10T03:24:34+00:00"/>
         <meta name="calibre:title_sort" content="Accel World, Vol. 24: Sword Sage of the Blue Flower"/>
     </metadata>
     <guide>

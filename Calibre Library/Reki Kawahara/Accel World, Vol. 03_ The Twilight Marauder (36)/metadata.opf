@@ -7,14 +7,14 @@
         <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">Reki Kawahara</dc:creator>
         <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">HiMA</dc:creator>
         <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">Jocelyne Allen</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.17.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2009-10-10T07:00:00+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-24T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;"That's game over, Arita--I mean, Silver Crow."&lt;/p&gt;
 &lt;p&gt;His life completely transformed since meeting Kuroyukihime, the most beautiful girl in school, Haruyuki has grown up into a magnificent knight, fat and bullied though he might be. &lt;/p&gt;
 &lt;p&gt;As the season turns to spring, a strange new student appears before Haruyuki and his friends, now in eighth grade. This mysterious seventh grader has mastered the art of using Brain Burst in everyday life, despite being curiously absent from the Duel matching list. &lt;/p&gt;
 &lt;p&gt; With Kuroyukihime away on a field trip for the ninth grade class, this new member of the student body, in the guise of a warped duel avatar called Dusk Taker, steals "something precious" from Haruyuki with overwhelming force. Cast once again to the bottom rungs of the school hierarchy ladder, Haruyuki is driven into a corner, and his only course of action is--?! &lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>Yen On</dc:publisher>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9780316296373</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">22675856</dc:identifier>
         <dc:language>eng</dc:language>
@@ -31,7 +31,7 @@
         <meta name="calibre:series" content="Accel World"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-05-10T03:24:55.219169+00:00"/>
+        <meta name="calibre:timestamp" content="2021-05-10T03:24:55+00:00"/>
         <meta name="calibre:title_sort" content="Accel World, Vol. 03: The Twilight Marauder"/>
     </metadata>
     <guide>

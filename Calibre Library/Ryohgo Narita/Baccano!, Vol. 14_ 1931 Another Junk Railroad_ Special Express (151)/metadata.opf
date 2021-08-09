@@ -6,25 +6,28 @@
         <dc:title>Baccano!, Vol. 14: 1931 Another Junk Railroad: Special Express</dc:title>
         <dc:creator opf:file-as="Narita, Ryohgo &amp; Enami, Katsumi" opf:role="aut">Ryohgo Narita</dc:creator>
         <dc:creator opf:file-as="Narita, Ryohgo &amp; Enami, Katsumi" opf:role="aut">Katsumi Enami</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2009-01-10T08:00:00+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-22T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;The year 1931.&lt;/p&gt;
-&lt;p&gt;The Flying Pussyfoot incident is over, but it's still making waves. Where did it start? When Chané carved her message on the roof of the transcontinental express? When Graham's idol Ladd fell from the train? When immortals chose to climb aboard? Or was it due to Chané's unusual friendship with the delinquents? Whatever the case may be, Claire has taken Chané's message to heart and plans to scour the city until he finds her. What kinds of sparks will fly when these two meet?&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>Yen On</dc:publisher>
+&lt;p&gt;The Flying Pussyfoot incident is over, but it's still making waves.&lt;/p&gt;
+&lt;p&gt;Where did it start? When Chané carved her message on the roof of the transcontinental express? When Graham's idol Ladd fell from the train? When immortals chose to climb aboard? Or was it due to Chané's unusual friendship with the delinquents?&lt;/p&gt;
+&lt;p&gt;Whatever the case may be, Claire has taken Chané's message to heart and plans to scour the city until he finds her.&lt;/p&gt;
+&lt;p&gt;What kinds of sparks will fly when these two meet?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781975384753</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">52725596</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>Mystery</dc:subject>
         <dc:subject>Fantasy</dc:subject>
-        <dc:subject>Official Translation</dc:subject>
-        <dc:subject>Light Novel</dc:subject>
         <dc:subject>Fiction</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Ryohgo Narita&quot;: &quot;&quot;, &quot;Katsumi Enami&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Baccano!"/>
         <meta name="calibre:series_index" content="14"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-06-02T01:14:23.399481+00:00"/>
+        <meta name="calibre:timestamp" content="2021-06-02T01:14:23+00:00"/>
         <meta name="calibre:title_sort" content="Baccano!, Vol. 14: 1931 Another Junk Railroad: Special Express"/>
     </metadata>
     <guide>

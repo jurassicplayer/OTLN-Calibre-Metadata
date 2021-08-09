@@ -6,16 +6,18 @@
         <dc:title>Baccano!, Vol. 03: 1931 The Grand Punk Railroad: Express</dc:title>
         <dc:creator opf:file-as="Narita, Ryohgo &amp; Enami, Katsumi" opf:role="aut">Ryohgo Narita</dc:creator>
         <dc:creator opf:file-as="Narita, Ryohgo &amp; Enami, Katsumi" opf:role="aut">Katsumi Enami</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2003-09-10T07:00:00+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-20T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;The year 1931.&lt;/p&gt;
-&lt;p&gt;A boy boards a train to visit his friend in New York. A woman in a jumpsuit boards a train to meet her employer in New York. And the conductor? He boards because it's his job. If it had been any other day, they all would have gotten where they were going just fine. But it's not any other day. The Rail Tracer is on the hunt. The gonzo tale of gangsters, immortals, and outrageous luck (both bad and good) speeds into its third volume!&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>Yen On</dc:publisher>
-        <dc:identifier opf:scheme="MOBI-ASIN">B01DSTTQZE</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9780316270410</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">9780316270410</dc:identifier>
+&lt;p&gt;A boy boards a train to visit his friend in New York. A woman in a jumpsuit boards a train to meet her employer in New York. And the conductor? He boards because it's his job.&lt;/p&gt;
+&lt;p&gt;If it had been any other day, they all would have gotten where they were going just fine. But it's not any other day. The Rail Tracer is on the hunt.&lt;/p&gt;
+&lt;p&gt;The gonzo tale of gangsters, immortals, and outrageous luck (both bad and good) speeds into its third volume!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
         <dc:identifier opf:scheme="GOODREADS">26200914</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">9780316270410</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780316270410</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01DSTTQZE</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Mystery</dc:subject>
@@ -26,7 +28,7 @@
         <meta name="calibre:series" content="Baccano!"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-06-02T01:14:16.266326+00:00"/>
+        <meta name="calibre:timestamp" content="2021-06-02T01:14:16+00:00"/>
         <meta name="calibre:title_sort" content="Baccano!, Vol. 03: 1931 The Grand Punk Railroad: Express"/>
     </metadata>
     <guide>

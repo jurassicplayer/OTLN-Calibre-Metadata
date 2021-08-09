@@ -6,15 +6,16 @@
         <dc:title>Baccano!, Vol. 09: 1934 Alice in Jails: Street</dc:title>
         <dc:creator opf:file-as="Narita, Ryohgo &amp; Enami, Katsumi" opf:role="aut">Ryohgo Narita</dc:creator>
         <dc:creator opf:file-as="Narita, Ryohgo &amp; Enami, Katsumi" opf:role="aut">Katsumi Enami</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2006-12-10T08:00:00+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-12-18T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;The year 1934.&lt;/p&gt;
-&lt;p&gt;All kinds of strange people are gathering in Chicago-the newspaper's vice-president and young camerawoman, a bizarre group moving on Huey's orders, a wrecker with ties to the Russos, a researcher who works for a certain company there, and even a "vampire" and his friend. Things are gearing up for another great commotion in the Windy City...&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>Yen On</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9780316442343</dc:identifier>
+&lt;p&gt;All kinds of strange people are gathering in Chicago-the newspaper's vice-president and young camerawoman, a bizarre group moving on Huey's orders, a wrecker with ties to the Russos, a researcher who works for a certain company there, and even a "vampire" and his friend.&lt;/p&gt;
+&lt;p&gt;Things are gearing up for another great commotion in the Windy City...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
         <dc:identifier opf:scheme="AMAZON">0316442348</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">39834479</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780316442343</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Mystery</dc:subject>
@@ -26,7 +27,7 @@
         <meta name="calibre:series" content="Baccano!"/>
         <meta name="calibre:series_index" content="9"/>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2021-06-02T01:14:32.937528+00:00"/>
+        <meta name="calibre:timestamp" content="2021-06-02T01:14:32+00:00"/>
         <meta name="calibre:title_sort" content="Baccano!, Vol. 09: 1934 Alice in Jails: Street"/>
     </metadata>
     <guide>

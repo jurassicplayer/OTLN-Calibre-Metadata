@@ -6,14 +6,16 @@
         <dc:title>Baccano!, Vol. 02: 1931 The Grand Punk Railroad</dc:title>
         <dc:creator opf:file-as="Narita, Ryohgo &amp; Enami, Katsumi" opf:role="aut">Ryohgo Narita</dc:creator>
         <dc:creator opf:file-as="Narita, Ryohgo &amp; Enami, Katsumi" opf:role="aut">Katsumi Enami</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2003-08-09T07:00:00+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-30T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
-&lt;p&gt;The place: America. The year: 1931. The setting: the transcontinental express train known as the "Flying Pussyfoot." Aboard the train are a gang aiming to make some extra cash, a group of revolutionary terrorists trying to recapture their leader, and a pair of thieves looking to meet up with an old friend in New York City. But drunk on the excitement of their departure, none of them are prepared for what awaits them on the rails...&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>Yen On</dc:publisher>
+&lt;p&gt;America, 1931.&lt;/p&gt;
+&lt;p&gt;The setting: the transcontinental express train known as the "Flying Pussyfoot."&lt;/p&gt;
+&lt;p&gt;Aboard the train are a gang aiming to make some extra cash, a group of revolutionary terrorists trying to recapture their leader, and a pair of thieves looking to meet up with an old friend in New York City. But drunk on the excitement of their departure, none of them are prepared for what awaits them on the rails...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">26200913</dc:identifier>
         <dc:identifier opf:scheme="MOBI-ASIN">B01922I1CA</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9780316270397</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">26200913</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Mystery</dc:subject>
@@ -24,7 +26,7 @@
         <meta name="calibre:series" content="Baccano!"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-06-02T01:14:21.132771+00:00"/>
+        <meta name="calibre:timestamp" content="2021-06-02T01:14:21+00:00"/>
         <meta name="calibre:title_sort" content="Baccano!, Vol. 02: 1931 The Grand Punk Railroad"/>
     </metadata>
     <guide>

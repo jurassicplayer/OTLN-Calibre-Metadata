@@ -25,14 +25,14 @@ Curated calibre metadata for OTLN, going through the suffering so you don't have
 - Series should be named the same as the title without extras `<Title>`
 #### Authors/Artists/Publishers
 - Include artist as an author when available.
-- Publishers should follow publishing imprint. Ex. Yen Press publishes light novels under Yen On, so Yen Press LNs should have Yen On as the publisher.
+- Publishers should have both publisher and publishing imprint if available. Ex. Yen Press publishes light novels under Yen On, so Yen Press LNs should have `Yen Press (Yen On)` as the publisher.
 #### Descriptions
 - Try to keep consistent sources for descriptions.
-- Use your brain. If YenPress has the same description for multiple volumes, but GoodReads has a unique description, opt for the unique one unless it deviates too far from the other descriptions structure. (Ex. 86 vol.5 & vol.6)
+- Use your brain. If Yen Press has the same description for multiple volumes, but GoodReads has a unique description, opt for the unique one unless it deviates too far from the other descriptions structure. (Ex. 86 vol.5 & vol.6)
 
 ### To-Do
 - Make a script that move files from a fresh copy to the correct folders with the correct filenames (generate list from my list and use checksums to determine filepaths)
 - Provide a clean update path and directions for updating set
 
-### Current Progress (based on v15.1)
-160/1792 (8.93%)
+### Current Progress (based on v16.3)
+175/1995 (8.77%)

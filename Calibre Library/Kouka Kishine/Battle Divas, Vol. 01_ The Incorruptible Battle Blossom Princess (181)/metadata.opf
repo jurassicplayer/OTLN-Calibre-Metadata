@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">181</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fe619352-3e23-4d1f-822e-c7b173c25e2f</dc:identifier>
+        <dc:title>Battle Divas, Vol. 01: The Incorruptible Battle Blossom Princess</dc:title>
+        <dc:creator opf:file-as="Kishine, Kouka &amp; Nekonabeao &amp; Prileszky, David" opf:role="aut">Kouka Kishine</dc:creator>
+        <dc:creator opf:file-as="Kishine, Kouka &amp; Nekonabeao &amp; Prileszky, David" opf:role="aut">Nekonabeao</dc:creator>
+        <dc:creator opf:file-as="Kishine, Kouka &amp; Nekonabeao &amp; Prileszky, David" opf:role="aut">David Prileszky</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-04-30T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p id="freeText17289845384879841721"&gt;Once upon a time, our world was blessed by the Valkyrie, a goddess of war whose fleeting beauty shone brilliantly on the battlefield. Her campaign against the wretched Demon King proved victorious, with the evil being sealed away by the beautiful warrior.&lt;br&gt;&lt;br&gt;Many years later, the young King Alnoa has just returned home after staving off another invasion of his homeland. Before he can even change out of his battle attire, his sister Cecilia comes to him with startling news: Sharon and Lesfina, both princesses and Divas blessed with the power of the Valkyrie, seek his hand in marriage.&lt;br&gt;&lt;br&gt;Alnoa isn’t fond of the idea, but his feelings mean little in the face of politics. He arranges to meet them one month apart and will choose one to be his bride, ushering in a new era for his kingdom.&lt;br&gt;&lt;br&gt;Now it’s time for our young king to meet the first candidate. He awaits her at the castle gates... But wait! Both candidates showed up at the same time!?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Sol Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781948838016</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">40974027</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07CJHDY13</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Completed</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kouka Kishine&quot;: &quot;&quot;, &quot;Nekonabeao&quot;: &quot;&quot;, &quot;David Prileszky&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Battle Divas"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2021-08-09T06:08:20.580321+00:00"/>
+        <meta name="calibre:title_sort" content="Battle Divas, Vol. 01: The Incorruptible Battle Blossom Princess"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

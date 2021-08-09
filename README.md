@@ -25,7 +25,9 @@ Curated calibre metadata for OTLN, going through the suffering so you don't have
 - Series should be named the same as the title without extras `<Title>`
 #### Authors/Artists/Publishers
 - Include artist as an author when available.
+#### Publishers
 - Publishers should have both publisher and publishing imprint if available. Ex. Yen Press publishes light novels under Yen On, so Yen Press LNs should have `Yen Press (Yen On)` as the publisher.
+- Publishing date should be the date that the English release became widely available (digital or hard copy), but not early releases.
 #### Descriptions
 - Try to keep consistent sources for descriptions.
 - Use your brain. If Yen Press has the same description for multiple volumes, but GoodReads has a unique description, opt for the unique one unless it deviates too far from the other descriptions structure. (Ex. 86 vol.5 & vol.6)

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">176</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">abb577ea-9a28-4268-a50e-66efb3005a79</dc:identifier>
+        <dc:title>Baccano!, Vol. 16: 1932 Summer: Man in the Killer</dc:title>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Enami, Katsumi" opf:role="aut">Ryohgo Narita</dc:creator>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Enami, Katsumi" opf:role="aut">Katsumi Enami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-27T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The year 1932.&lt;/p&gt;
+&lt;p&gt;Legend tells of a murderer who sent fear throughout New York city that rainy summer-Icepick Thompson.&lt;/p&gt;
+&lt;p&gt;While the rumors spread through the Daily Days, police suspicion turns on Graham Specter and his band of ne'er-do-wells.&lt;/p&gt;
+&lt;p&gt;Meanwhile, Elmer is quickly swept up in the incident during a visit to New York, and the Gandors can't avoid involvement after one of their associates is killed...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975321567</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">55922142</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ryohgo Narita&quot;: &quot;&quot;, &quot;Katsumi Enami&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Baccano!"/>
+        <meta name="calibre:series_index" content="16"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-09T01:57:51.310294+00:00"/>
+        <meta name="calibre:title_sort" content="Baccano!, Vol. 16: 1932 Summer: Man in the Killer"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

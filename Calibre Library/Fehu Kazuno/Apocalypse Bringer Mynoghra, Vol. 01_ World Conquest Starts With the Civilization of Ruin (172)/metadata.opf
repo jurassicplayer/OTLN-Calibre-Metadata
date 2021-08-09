@@ -3,7 +3,7 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">172</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">400dec25-ac59-4e59-ac88-f81c55637006</dc:identifier>
-        <dc:title>Apocalypse Bringer Mynoghra: World Conquest Starts With the Civilization of Ruin, Vol. 01</dc:title>
+        <dc:title>Apocalypse Bringer Mynoghra, Vol. 01: World Conquest Starts With the Civilization of Ruin</dc:title>
         <dc:creator opf:file-as="Kazuno, Fehu &amp; Jun &amp; Translator, Charis Messier" opf:role="aut">Fehu Kazuno</dc:creator>
         <dc:creator opf:file-as="Kazuno, Fehu &amp; Jun &amp; Translator, Charis Messier" opf:role="aut">Jun</dc:creator>
         <dc:creator opf:file-as="Kazuno, Fehu &amp; Jun &amp; Translator, Charis Messier" opf:role="aut">Charis Messier Translator</dc:creator>
@@ -27,11 +27,11 @@
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Shounen</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Fehu Kazuno&quot;: &quot;&quot;, &quot;Jun&quot;: &quot;&quot;, &quot;Charis Messier Translator&quot;: &quot;&quot;}"/>
-        <meta name="calibre:series" content="Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin"/>
+        <meta name="calibre:series" content="Apocalypse Bringer Mynoghra"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-08-09T01:52:32.356746+00:00"/>
-        <meta name="calibre:title_sort" content="Apocalypse Bringer Mynoghra: World Conquest Starts With the Civilization of Ruin, Vol. 01"/>
+        <meta name="calibre:timestamp" content="2021-08-09T01:52:32+00:00"/>
+        <meta name="calibre:title_sort" content="Apocalypse Bringer Mynoghra, Vol. 01: World Conquest Starts With the Civilization of Ruin"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

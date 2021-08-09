@@ -10,12 +10,24 @@ Curated calibre metadata for OTLN, going through the suffering so you don't have
     - It stands for "Officially Translated Light Novels".
 - Why no subtitles as "Title" and the title as the series?
     - Not every series has subtitles, and though nice to have, `Under Pressure` doesn't really give an indication of what volume or series it's from.
-
+- What is the difference between Shounen, Seinen, Shoujo, Josei, Shounen Ai, etc.?
+    - They are more or less the target audience and provide a decent indication of what sorts of things are going to be in the light novel
+        - Seinen: Mainly targeted towards an older demographic of men ages 18-45
+        - Josei: Mainly targeted towards an older demographic of women ages 18-45
+        - Shounen: Mainly targeted towards teenage boys below age 18
+        - Shoujo: Mainly targeted towards teenage girls below age 18
+        - Shounen Ai: Usually focuses on developing male/male relationships (not necessarily love, can be close friendships, but usually nothing physical)
+        - Shoujo Ai: Usually focuses on developing female/female relationships (not necessarily love, can be close friendships, but usually nothing physical)
+        - Yaoi (Boy's Love): Focuses on male/male relationships, usually the physical kind
+        - Yuri (Girl's Love): Focuses on female/female relationships, usually the physical kind
 ### Guidelines
 - Metadata source preference when available: YenPress/YenOn/J-Novel Club/etc. > GoodReads > Amazon
 #### Tags
 - Remove all `Manga` tags 
 - Add `Light Novel` and `Official Translation` tags
+- Add `Seinen`, `Shounen`, `Shoujo`, `Josei`, `Shounen Ai`, `Shoujo Ai`, `Yuri`, and `Yaoi` tags if possible, refer to the FAQ for a vague description of each category
+    - Check wikipedia/novelupdates/somewhere about the series and see if they list it
+- Add `Completed` status to light novels that are completed series
 - Add genre tags from metadata source and NovelUpdates to all books in the series (non-spoiler tags)
 #### Titles
 - Uniform title structure

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">174</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">da84ac2d-4f7c-493e-bdde-99d12236ffb0</dc:identifier>
+        <dc:title>Ascendance of a Bookworm: Part 4 Founder of the Royal Academy's So-Called Library Committee, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">Miya Kazuki</dc:creator>
+        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">You Shiina</dc:creator>
+        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">Quof</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-30T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Rozemyne awakens from her two-year sleep to a world that isn’t as she remembers it. The strange sensation fills her with unease, but she has no time to rest—she is soon to be enrolled in the Royal Academy as an archduke candidate, where she will be taught how to control her mana, make magic tools, and perform the magic needed to rule as an archduke.&lt;/p&gt;
+&lt;p&gt;She begins dormitory life with colorful teachers and students from other duchies, aiming to be the best big sister possible... but there is little chance things will go according to plan when there is a massive library on the premises.&lt;/p&gt;
+&lt;p&gt;She charges there at once, the other archduke candidates and even the royal family disappearing from her mind entirely. She truly will do anything for books!&lt;/p&gt;
+&lt;p&gt;Now begins a new chapter of this biblio-fantasy, with a school as its setting! This volume includes two original short stories, a four-panel manga drawn by You Shiina, and the results of the second popularity poll.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B093TX4G54</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">57905624</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Miya Kazuki&quot;: &quot;&quot;, &quot;You Shiina&quot;: &quot;&quot;, &quot;Quof&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Ascendance of a Bookworm"/>
+        <meta name="calibre:series_index" content="4.10"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-09T01:55:49.305503+00:00"/>
+        <meta name="calibre:title_sort" content="Ascendance of a Bookworm: Part 4 Founder of the Royal Academy's So-Called Library Committee, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

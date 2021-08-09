@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">172</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">400dec25-ac59-4e59-ac88-f81c55637006</dc:identifier>
+        <dc:title>Apocalypse Bringer Mynoghra: World Conquest Starts With the Civilization of Ruin, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Kazuno, Fehu &amp; Jun &amp; Translator, Charis Messier" opf:role="aut">Fehu Kazuno</dc:creator>
+        <dc:creator opf:file-as="Kazuno, Fehu &amp; Jun &amp; Translator, Charis Messier" opf:role="aut">Jun</dc:creator>
+        <dc:creator opf:file-as="Kazuno, Fehu &amp; Jun &amp; Translator, Charis Messier" opf:role="aut">Charis Messier Translator</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-30T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;I Reincarnated As The Evil God Of My Favorite Civilization.&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Takuto Ira succumbed to illness at a young age and ended up reincarnating in a world that resembles the fantasy turn-based strategy game Eternal Nations. Not only did he reincarnate into his favorite game, but as the god who commands the evil civilization Mynoghra. With Mynoghra’s beautiful hero unit, Sludge Witch Atou by his side, not even legendarily difficult race traits will stand in the way of restarting their civilization! &lt;/p&gt;
+&lt;p&gt;“Lord Takuto…won’t you start over with me?” &lt;/p&gt;
+&lt;p style="font-weight: 600"&gt;Explore, Expand, Exploit, Exterminate! A tactical fantasy world is waiting for heroes like you! Join Eternal Nations today!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cross Infinite World</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B08Z29D6ZB</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">57452768</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fehu Kazuno&quot;: &quot;&quot;, &quot;Jun&quot;: &quot;&quot;, &quot;Charis Messier Translator&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-09T01:52:32.356746+00:00"/>
+        <meta name="calibre:title_sort" content="Apocalypse Bringer Mynoghra: World Conquest Starts With the Civilization of Ruin, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

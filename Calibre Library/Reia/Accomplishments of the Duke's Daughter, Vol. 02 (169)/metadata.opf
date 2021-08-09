@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">169</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f447370-c1f3-45c3-aea7-b89339060a97</dc:identifier>
+        <dc:title>Accomplishments of the Duke's Daughter, Vol. 02</dc:title>
+        <dc:creator opf:file-as="Reia &amp; Futaba, Hazuki" opf:role="aut">Reia</dc:creator>
+        <dc:creator opf:file-as="Reia &amp; Futaba, Hazuki" opf:role="aut">Hazuki Futaba</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-07T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;THE PERILS OF HIGH SOCIETY&lt;/p&gt;
+&lt;p&gt;When Iris was expelled from the royal academy, she was banished from high society. Two years later, she may be the beloved acting governor of Armelia and president of a flourishing company, but she dares not consort with the rest of the nobility. Now she’s received an invitation to the annual Foundation Day celebration—an invitation from the royal family no less, who she cannot afford to refuse. Thrust into the fray of society politics, Iris must rapidly learn to stand her ground, lest she lose everything she’s worked so hard to build.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781648274398</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">57170287</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Josei</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Politics</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shoujo</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Reia&quot;: &quot;&quot;, &quot;Hazuki Futaba&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Accomplishments of the Duke’s Daughter"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-09T01:49:07.693546+00:00"/>
+        <meta name="calibre:title_sort" content="Accomplishments of the Duke's Daughter, Vol. 02"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">168</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a1fe9322-949a-49db-9442-6444fec60389</dc:identifier>
+        <dc:title>Accomplishments of the Duke's Daughter, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Reia &amp; Futaba, Hazuki &amp; Keller-Nelson, Alexander" opf:role="aut">Reia</dc:creator>
+        <dc:creator opf:file-as="Reia &amp; Futaba, Hazuki &amp; Keller-Nelson, Alexander" opf:role="aut">Hazuki Futaba</dc:creator>
+        <dc:creator opf:file-as="Reia &amp; Futaba, Hazuki &amp; Keller-Nelson, Alexander" opf:role="aut">Alexander Keller-Nelson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-06T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;You love the manga, now try the original light novels about one woman's search for a happy ending when she's trapped in an otome romance game--as the antagonist! &lt;/p&gt;
+&lt;p&gt;Iris Almeria, the daughter of a powerful duke, is arrested and forced to her knees in front of her fiancée. Her betrothed, Prince Edward, is rejecting her for another woman! As Iris’s life flashes before her eyes, she suddenly realizes she knows exactly what is coming next–because she has been reincarnated into her favorite otome game as its villainess. Quick thinking saves her from exile, but Iris can’t rest yet. If she wants to survive this world that sees her as wicked, she’ll have to change the world itself.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781648274213</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">56952722</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Josei</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Politics</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shoujo</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Reia&quot;: &quot;&quot;, &quot;Hazuki Futaba&quot;: &quot;&quot;, &quot;Alexander Keller-Nelson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Accomplishments of the Duke’s Daughter"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-09T01:49:07.425996+00:00"/>
+        <meta name="calibre:title_sort" content="Accomplishments of the Duke's Daughter, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

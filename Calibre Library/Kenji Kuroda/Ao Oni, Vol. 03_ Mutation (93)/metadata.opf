@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Kuroda, Kenji &amp; Suzuragi, Karin &amp; Keller-Nelson, Alexander" opf:role="aut">Kenji Kuroda</dc:creator>
         <dc:creator opf:file-as="Kuroda, Kenji &amp; Suzuragi, Karin &amp; Keller-Nelson, Alexander" opf:role="aut">Karin Suzuragi</dc:creator>
         <dc:creator opf:file-as="Kuroda, Kenji &amp; Suzuragi, Karin &amp; Keller-Nelson, Alexander" opf:role="aut">Alexander Keller-Nelson</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-08-07T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Even if he has his closest friends on his side now, no one else seems to be willing to believe Shun about the dangers of the Jailhouse. Deciding to take matters into his own hands, he desperately codes an emergency update for his game to try and prevent any further tragedy. But they say the path to the Jailhouse is paved with good intentions... Will he give whoever gets stuck inside the tools to survive? Or will it all be used against them? Whoever the unlucky victims are next just might be in for an ugly, mutant surprise...&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -20,6 +20,7 @@
         <dc:subject>Light Novel</dc:subject>
         <dc:subject>Completed</dc:subject>
         <dc:subject>Fiction</dc:subject>
+        <dc:subject>Shounen</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Kenji Kuroda&quot;: &quot;&quot;, &quot;Karin Suzuragi&quot;: &quot;&quot;, &quot;Alexander Keller-Nelson&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Ao Oni"/>
         <meta name="calibre:series_index" content="3"/>

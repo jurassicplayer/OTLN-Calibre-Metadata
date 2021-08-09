@@ -15,9 +15,9 @@
 &lt;p&gt;Three royals, each with their own ideals, take their first steps down the paths they believe in.&lt;/p&gt;
 &lt;p&gt;Here is the ninth volume of a tale of war, love, and politics, woven by the bookworm and the sword princess.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">58489200</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B093212NXZ</dc:identifier>
         <dc:identifier opf:scheme="ASIN">B093212NXZ</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">58489200</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>
@@ -30,11 +30,12 @@
         <dc:subject>Military</dc:subject>
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Romance</dc:subject>
+        <dc:subject>Shounen</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Yukiya Murasaki&quot;: &quot;&quot;, &quot;Himesuz&quot;: &quot;&quot;, &quot;Roy Nukia&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Altina the Sword Princess"/>
         <meta name="calibre:series_index" content="9"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-08-09T01:48:20.972726+00:00"/>
+        <meta name="calibre:timestamp" content="2021-08-09T01:48:20+00:00"/>
         <meta name="calibre:title_sort" content="Altina the Sword Princess: Volume 9"/>
     </metadata>
     <guide>

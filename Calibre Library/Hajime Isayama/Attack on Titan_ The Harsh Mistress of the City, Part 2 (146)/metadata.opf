@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Isayama, Hajime &amp; Murata, Range &amp; Kawakami, Ryo" opf:role="aut">Hajime Isayama</dc:creator>
         <dc:creator opf:file-as="Isayama, Hajime &amp; Murata, Range &amp; Kawakami, Ryo" opf:role="aut">Range Murata</dc:creator>
         <dc:creator opf:file-as="Isayama, Hajime &amp; Murata, Range &amp; Kawakami, Ryo" opf:role="aut">Ryo Kawakami</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-09-29T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Shiganshina has been breached, and humanity has retreated to Wall Rose-for the most part. Quinta District, situated at the western end of Wall Maria, is holding out despite being hemmed in by the Titans on both the exterior and the formerly interior sides. &lt;/p&gt;
@@ -23,6 +23,7 @@
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Light Novel</dc:subject>
         <dc:subject>Fiction</dc:subject>
+        <dc:subject>Shounen</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Hajime Isayama&quot;: &quot;&quot;, &quot;Range Murata&quot;: &quot;&quot;, &quot;Ryo Kawakami&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Attack on Titan: The Harsh Mistress of the City"/>
         <meta name="calibre:series_index" content="2"/>

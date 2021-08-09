@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Yayari, Haru &amp; Fuyuki &amp; Messier, Charis" opf:role="aut">Haru Yayari</dc:creator>
         <dc:creator opf:file-as="Yayari, Haru &amp; Fuyuki &amp; Messier, Charis" opf:role="aut">Fuyuki</dc:creator>
         <dc:creator opf:file-as="Yayari, Haru &amp; Fuyuki &amp; Messier, Charis" opf:role="aut">Charis Messier</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-10-30T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;Zombies, cults, mutated animals, and now zombie catgirls and…dragons?&lt;/p&gt;
@@ -16,13 +16,17 @@
         <dc:identifier opf:scheme="GOODREADS">54503362</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B08BTTKJ9K</dc:identifier>
         <dc:language>eng</dc:language>
-        <dc:subject>Fantasy</dc:subject>
-        <dc:subject>Horror</dc:subject>
-        <dc:subject>Ecchi</dc:subject>
-        <dc:subject>Romance</dc:subject>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
         <dc:subject>Comedy</dc:subject>
-        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
         <dc:subject>Fiction</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Completed</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Haru Yayari&quot;: &quot;&quot;, &quot;Fuyuki&quot;: &quot;&quot;, &quot;Charis Messier&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Another World’s Zombie Apocalypse Is Not My Problem!"/>
         <meta name="calibre:series_index" content="2"/>

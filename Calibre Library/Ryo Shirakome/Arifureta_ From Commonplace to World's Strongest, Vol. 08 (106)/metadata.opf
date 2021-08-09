@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Shirakome, Ryo &amp; Takaya-Ki &amp; Ningen" opf:role="aut">Ryo Shirakome</dc:creator>
         <dc:creator opf:file-as="Shirakome, Ryo &amp; Takaya-Ki &amp; Ningen" opf:role="aut">Takaya-Ki</dc:creator>
         <dc:creator opf:file-as="Shirakome, Ryo &amp; Takaya-Ki &amp; Ningen" opf:role="aut">Ningen</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.19.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-10-28T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;With the Haulia clan's battle behind them, Hajime and the others return to Verbergen. Amidst the cheers of the freed beastmen, Hajime is forced to re-examine his relationship with Shea. Still unsure of his own feelings, he heads to the next labyrinth, the Haltina Woods. But this time there's a challenge like no other lying in wait; the party is forced to deal with impostor doppelgangers of themselves! Will they be able to find their way through the most difficult labyrinth yet as Hajime and the others' bonds are tested like never before!?&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -30,6 +30,7 @@
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Supernatural</dc:subject>
         <dc:subject>Fiction</dc:subject>
+        <dc:subject>Shounen</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Ryo Shirakome&quot;: &quot;&quot;, &quot;Takaya-Ki&quot;: &quot;&quot;, &quot;Ningen&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Arifureta: From Commonplace to World's Strongest"/>
         <meta name="calibre:series_index" content="8"/>

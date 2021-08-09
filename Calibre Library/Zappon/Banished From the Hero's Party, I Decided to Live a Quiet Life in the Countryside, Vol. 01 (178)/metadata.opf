@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">178</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5b83fd66-9b63-49c2-bdd4-c808d14aeeb2</dc:identifier>
+        <dc:title>Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Zappon &amp; Yasumo" opf:role="aut">Zappon</dc:creator>
+        <dc:creator opf:file-as="Zappon &amp; Yasumo" opf:role="aut">Yasumo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-22T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A heroic and mighty adventurer dreams of...opening a pharmacy?&lt;/p&gt;
+&lt;p&gt;Red was once a member of the Hero's party, a powerful group destined to save the world from the evil forces of Taraxon, the Raging Demon Lord. That is, until one of his comrades kicked him out.&lt;/p&gt;
+&lt;p&gt;Hoping to live the easy life on the frontier, Red's new goal is to open an apothecary. However, keeping the secret of his former life may not be as simple as he thinks. Especially when the beautiful Rit, an adventurer from his past, shows up and asks to move in with him!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975312459</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1975312457</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">50358882</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Zappon&quot;: &quot;&quot;, &quot;Yasumo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-09T05:57:56.214643+00:00"/>
+        <meta name="calibre:title_sort" content="Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

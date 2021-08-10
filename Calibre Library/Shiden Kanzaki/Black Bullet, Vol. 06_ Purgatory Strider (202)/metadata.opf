@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">202</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6a9dd2dc-e0fc-479f-adf0-2296a2524d9b</dc:identifier>
+        <dc:title>Black Bullet, Vol. 06: Purgatory Strider</dc:title>
+        <dc:creator opf:file-as="Kanzaki, Shiden &amp; Ukai, Saki" opf:role="aut">Shiden Kanzaki</dc:creator>
+        <dc:creator opf:file-as="Kanzaki, Shiden &amp; Ukai, Saki" opf:role="aut">Saki Ukai</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-04-18T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Rentaro is still a fugitive, running from the law for a murder he didn't commit. Negotiating the advancing police perimeter with Hotaru, he devotes all of his waking hours to tracking down the shadowy foe who sprung this trap upon him.&lt;/p&gt;
+&lt;p&gt;He is relentlessly pursued by Police Superintendent Hitsuma, even as Inspector Tadashima begins to have misgivings about his boss's behavior.&lt;/p&gt;
+&lt;p&gt;Hitsuma's impending marriage to Kisara, meanwhile, advances closer and closer, as Hotaru finds herself starting to have feelings for Rentaro.&lt;/p&gt;
+&lt;p&gt;A seemingly boundless web of emotions intertwines with itself--but what does it spell for Rentaro's future...? You won't want to miss a single word of this thrilling, non-stop adventure, one with enough drama to keep your spine tingling from start to finish. &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316344944</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">32052061</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <dc:subject>Tragedy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shiden Kanzaki&quot;: &quot;&quot;, &quot;Saki Ukai&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Black Bullet"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-10T03:03:25.671825+00:00"/>
+        <meta name="calibre:title_sort" content="Black Bullet, Vol. 06: Purgatory Strider"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

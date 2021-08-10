@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">200</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0079b9f-cd7c-4d1d-b93e-7a15caafcb73</dc:identifier>
+        <dc:title>Black Bullet, Vol. 01: Those Who Would Be Gods</dc:title>
+        <dc:creator opf:file-as="Kanzaki, Shiden &amp; Ukai, Saki" opf:role="aut">Shiden Kanzaki</dc:creator>
+        <dc:creator opf:file-as="Kanzaki, Shiden &amp; Ukai, Saki" opf:role="aut">Saki Ukai</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-18T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The World Has Already Ended.&lt;/p&gt;
+&lt;p&gt;The future--where a terrible battle against a parasitic virus called "Gastrea" has been fought...and lost. Humanity is cornered and lives in despair. Rentaro and Enju face constant danger in their work as a team of anti-Gastrea specialists known as "civil security officers."&lt;/p&gt;
+&lt;p&gt;As if the daily fight against oblivion weren't enough, they'll soon face a threat that could destroy all of Tokyo...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316304993</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">0316304999</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">24487010</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <dc:subject>Tragedy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shiden Kanzaki&quot;: &quot;&quot;, &quot;Saki Ukai&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Black Bullet"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-10T03:03:24.976137+00:00"/>
+        <meta name="calibre:title_sort" content="Black Bullet, Vol. 01: Those Who Would Be Gods"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

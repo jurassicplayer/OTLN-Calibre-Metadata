@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">201</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc89d822-01b7-4781-bd89-6c4f148cf329</dc:identifier>
+        <dc:title>Black Bullet, Vol. 05: Rentaro Satomi, Fugitive</dc:title>
+        <dc:creator opf:file-as="Kanzaki, Shiden &amp; Ukai, Saki" opf:role="aut">Shiden Kanzaki</dc:creator>
+        <dc:creator opf:file-as="Kanzaki, Shiden &amp; Ukai, Saki" opf:role="aut">Saki Ukai</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-20T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;With the chaos of the Third Kanto Battle subsiding, peace is finally returning to the Tendo Civil Security Agency, and Rentaro, Kisara, Enju, and Tina are taking full advantage of the quiet. But when an old friend from Rentaro's childhood reappears, their bright days turn suddenly dark--and Rentaro finds himself imprisoned for a senseless murder.&lt;/p&gt;
+&lt;p&gt;He plans a desperate escape, but his enemies keep coming, and they are like nothing he's ever fought before...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01M653BF2</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780316344920</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">30621308</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <dc:subject>Tragedy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shiden Kanzaki&quot;: &quot;&quot;, &quot;Saki Ukai&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Black Bullet"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-10T03:03:25.405431+00:00"/>
+        <meta name="calibre:title_sort" content="Black Bullet, Vol. 05: Rentaro Satomi, Fugitive"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

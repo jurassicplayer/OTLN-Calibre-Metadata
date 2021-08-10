@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">198</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9b0aab70-b5fe-4d45-8b2c-57ddd08d01c6</dc:identifier>
+        <dc:title>Black Bullet, Vol. 07: The Bullet That Changed the World</dc:title>
+        <dc:creator opf:file-as="Kanzaki, Shiden &amp; Ukai, Saki" opf:role="aut">Shiden Kanzaki</dc:creator>
+        <dc:creator opf:file-as="Kanzaki, Shiden &amp; Ukai, Saki" opf:role="aut">Saki Ukai</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-19T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The Akasaka Palace reception hall is playing host to a summit welcoming the leaders of Japan's five governmental Areas. The Seitenshi, host and head of Tokyo Area, greets her equivalents from Osaka, Sendai, Hakata, and Hokkaido, and few are willing to lend a sympathetic ear to her attempts at brokering peace.&lt;/p&gt;
+&lt;p&gt;The conference falls into chaos, the Seitenshi shocked that someone leaked out a state secret. The fallout soon brings the two Areas down the path to all-out war with each other--just as the Seitenshi vanishes from the palace!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316510646</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B06Y12WNFZ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">34523217</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <dc:subject>Tragedy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shiden Kanzaki&quot;: &quot;&quot;, &quot;Saki Ukai&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Black Bullet"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-10T03:03:24.549770+00:00"/>
+        <meta name="calibre:title_sort" content="Black Bullet, Vol. 07: The Bullet That Changed the World"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

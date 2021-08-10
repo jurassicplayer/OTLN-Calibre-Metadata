@@ -4,9 +4,9 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">172</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">400dec25-ac59-4e59-ac88-f81c55637006</dc:identifier>
         <dc:title>Apocalypse Bringer Mynoghra, Vol. 01: World Conquest Starts With the Civilization of Ruin</dc:title>
-        <dc:creator opf:file-as="Kazuno, Fehu &amp; Jun &amp; Translator, Charis Messier" opf:role="aut">Fehu Kazuno</dc:creator>
-        <dc:creator opf:file-as="Kazuno, Fehu &amp; Jun &amp; Translator, Charis Messier" opf:role="aut">Jun</dc:creator>
-        <dc:creator opf:file-as="Kazuno, Fehu &amp; Jun &amp; Translator, Charis Messier" opf:role="aut">Charis Messier Translator</dc:creator>
+        <dc:creator opf:file-as="Kazuno, Fehu &amp; Jun &amp; Messier, Charis" opf:role="aut">Fehu Kazuno</dc:creator>
+        <dc:creator opf:file-as="Kazuno, Fehu &amp; Jun &amp; Messier, Charis" opf:role="aut">Jun</dc:creator>
+        <dc:creator opf:file-as="Kazuno, Fehu &amp; Jun &amp; Messier, Charis" opf:role="aut">Charis Messier</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-06-30T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -26,7 +26,7 @@
         <dc:subject>Light Novel</dc:subject>
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Shounen</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Fehu Kazuno&quot;: &quot;&quot;, &quot;Jun&quot;: &quot;&quot;, &quot;Charis Messier Translator&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Fehu Kazuno&quot;: &quot;&quot;, &quot;Jun&quot;: &quot;&quot;, &quot;Charis Messier&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Apocalypse Bringer Mynoghra"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

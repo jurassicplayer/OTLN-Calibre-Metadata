@@ -17,7 +17,6 @@
         <dc:publisher>J-Novel Club</dc:publisher>
         <dc:identifier opf:scheme="GOODREADS">57806330</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B091J535LK</dc:identifier>
-        <dc:identifier opf:scheme="ASIN">B091J535LK</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Comedy</dc:subject>
         <dc:subject>Fiction</dc:subject>
@@ -30,7 +29,7 @@
         <meta name="calibre:series" content="Are You Okay With a Slightly Older Girlfriend?"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="6"/>
-        <meta name="calibre:timestamp" content="2021-08-09T01:52:58+00:00"/>
+        <meta name="calibre:timestamp" content="2021-08-10T01:52:58+00:00"/>
         <meta name="calibre:title_sort" content="Are You Okay With a Slightly Older Girlfriend?, Vol. 03"/>
     </metadata>
     <guide>

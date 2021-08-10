@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">186</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9326d00f-a7b9-4b7f-86d8-550117d573b8</dc:identifier>
+        <dc:title>Beast † Blood, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Fumino, Sato &amp; Egawa, Akira &amp; Messier, Charis" opf:role="aut">Sato Fumino</dc:creator>
+        <dc:creator opf:file-as="Fumino, Sato &amp; Egawa, Akira &amp; Messier, Charis" opf:role="aut">Akira Egawa</dc:creator>
+        <dc:creator opf:file-as="Fumino, Sato &amp; Egawa, Akira &amp; Messier, Charis" opf:role="aut">Charis Messier</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-28T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;Desperate to escape her successful sister’s shadow, Euphemia seeks independence as a biotech researcher fixated on destroying Nightz, a dangerous narcotic sought across the colonies. She never believed her life was in danger until a group of men pulled her from her car at gunpoint.&lt;/p&gt;
+&lt;p&gt;Euphemia had also never met a Beast Blood, the nonhuman subspecies with animalistic qualities, until she was rescued by one.&lt;/p&gt;
+&lt;p&gt;Zelaide is a Muta Hunter and a Beast Blood. When his hunt is interrupted by Euphemia’s attackers, he saves her on a whim. Never expecting to see Euphemia again, he’s shocked to receive a job protecting the spunky researcher who just might be his lifelong mate.&lt;/p&gt;
+&lt;p&gt;Follow Euphemia and Zelaide as they navigate a colony world brimming with peculiar beasts, powerful narcotics, dangerous criminals, and a budding, interspecies romance!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Warning:&lt;/strong&gt; Beast Blood contains action-packed Sci-Fi violence, attempted sexual assault, dark themes, steamy and sexy romance scenes, alien romance, and other trigger-worthy adult situations.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cross Infinite World</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B07MR2SP53</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">43419432</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Josei</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Completed</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sato Fumino&quot;: &quot;&quot;, &quot;Akira Egawa&quot;: &quot;&quot;, &quot;Charis Messier&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="The Beast's Mate"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2021-08-10T03:02:43.543449+00:00"/>
+        <meta name="calibre:title_sort" content="Beast † Blood, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

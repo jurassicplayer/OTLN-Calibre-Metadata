@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">194</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">69c6a304-cd73-4bb7-b70f-c00052c153b3</dc:identifier>
+        <dc:title>Bibliophile Princess, Vol. 02</dc:title>
+        <dc:creator opf:file-as="Yui &amp; Sheena, Satsuki &amp; Niioka, Alyssa" opf:role="aut">Yui</dc:creator>
+        <dc:creator opf:file-as="Yui &amp; Sheena, Satsuki &amp; Niioka, Alyssa" opf:role="aut">Satsuki Sheena</dc:creator>
+        <dc:creator opf:file-as="Yui &amp; Sheena, Satsuki &amp; Niioka, Alyssa" opf:role="aut">Alyssa Niioka</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-23T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Now that her misunderstanding about their engagement being a farce to please the nobles and pacify the current political climate has been resolved, Elianna and Prince Christopher are able to set a date for the official wedding in the spring.&lt;/p&gt;
+&lt;p&gt;In the meantime, the prince is sent off on a diplomatic errand, and Eli is selected to act as his proxy in this year’s Autumn Hunting Festival.&lt;/p&gt;
+&lt;p&gt;Scheming is afoot as someone suspicious from a foreign land infiltrates the festivities—their sight set on Eli. But just what are their intentions? And who is the mysterious phantom of the past, “Ladybird”?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B085VSPJ6L</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">53275617</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Shoujo</dc:subject>
+        <dc:subject>Politics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yui&quot;: &quot;&quot;, &quot;Satsuki Sheena&quot;: &quot;&quot;, &quot;Alyssa Niioka&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Bibliophile Princess"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2021-08-10T03:03:10.568166+00:00"/>
+        <meta name="calibre:title_sort" content="Bibliophile Princess, Vol. 02"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

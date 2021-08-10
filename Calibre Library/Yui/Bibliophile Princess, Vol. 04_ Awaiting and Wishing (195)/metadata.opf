@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">195</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">56266310-a62a-4e81-a9f9-c146080a5c29</dc:identifier>
+        <dc:title>Bibliophile Princess, Vol. 04: Awaiting and Wishing</dc:title>
+        <dc:creator opf:file-as="Yui &amp; Sheena, Satsuki &amp; Niioka, Alyssa" opf:role="aut">Yui</dc:creator>
+        <dc:creator opf:file-as="Yui &amp; Sheena, Satsuki &amp; Niioka, Alyssa" opf:role="aut">Satsuki Sheena</dc:creator>
+        <dc:creator opf:file-as="Yui &amp; Sheena, Satsuki &amp; Niioka, Alyssa" opf:role="aut">Alyssa Niioka</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-13T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The winds of change are whipping through Sauslind. Malduran officials are headed for the capital to discuss diplomacy, and although it was Eli’s actions that spurred these talks, she has a different errand to attend to.&lt;/p&gt;
+&lt;p&gt;The king’s younger brother, Bernard, has fallen ill. Since it’s customary for someone from the royal family to visit in such times, Eli is sent in the prince’s stead.&lt;/p&gt;
+&lt;p&gt;Along the way, devastating secrets are unearthed that threaten to rock the very foundation upon which Eli stands. Is everything she thought she knew a lie? Or does the truth even matter when the worst comes to pass and Sauslind finds itself on the brink of disaster?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B08DCGKTZQ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">54620350</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Shoujo</dc:subject>
+        <dc:subject>Politics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yui&quot;: &quot;&quot;, &quot;Satsuki Sheena&quot;: &quot;&quot;, &quot;Alyssa Niioka&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Bibliophile Princess"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-10T03:03:11.079328+00:00"/>
+        <meta name="calibre:title_sort" content="Bibliophile Princess, Vol. 04: Awaiting and Wishing"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

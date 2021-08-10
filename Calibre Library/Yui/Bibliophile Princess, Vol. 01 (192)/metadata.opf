@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">192</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">59c30558-4d5c-49ec-96b1-b53c999e2720</dc:identifier>
+        <dc:title>Bibliophile Princess, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Yui &amp; Sheena, Satsuki &amp; Niioka, Alyssa" opf:role="aut">Yui</dc:creator>
+        <dc:creator opf:file-as="Yui &amp; Sheena, Satsuki &amp; Niioka, Alyssa" opf:role="aut">Satsuki Sheena</dc:creator>
+        <dc:creator opf:file-as="Yui &amp; Sheena, Satsuki &amp; Niioka, Alyssa" opf:role="aut">Alyssa Niioka</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-17T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;When book-loving Lady Elianna spots Prince Christopher—her betrothed in name only—consorting with another noble lady, she realizes the recent rumors must be true. The prince has someone he truly loves, which means the annulment of their engagement is both inevitable and fast-approaching.&lt;/p&gt;
+&lt;p&gt;What she doesn’t realize is that this is merely a surface ripple—one of many where the truth runs deep, in a conspiracy surpassing her imagination!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0849YRFP7</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">50712655</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Shoujo</dc:subject>
+        <dc:subject>Politics</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yui&quot;: &quot;&quot;, &quot;Satsuki Sheena&quot;: &quot;&quot;, &quot;Alyssa Niioka&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Bibliophile Princess"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2021-08-10T03:03:09.118305+00:00"/>
+        <meta name="calibre:title_sort" content="Bibliophile Princess, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

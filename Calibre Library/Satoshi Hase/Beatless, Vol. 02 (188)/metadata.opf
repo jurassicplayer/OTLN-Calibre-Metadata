@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">188</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2d8ef81-699c-4841-b12f-8e2e46ee6714</dc:identifier>
+        <dc:title>Beatless, Vol. 02</dc:title>
+        <dc:creator opf:file-as="Hase, Satoshi &amp; Redjuice &amp; Gessel, Ben" opf:role="aut">Satoshi Hase</dc:creator>
+        <dc:creator opf:file-as="Hase, Satoshi &amp; Redjuice &amp; Gessel, Ben" opf:role="aut">Redjuice</dc:creator>
+        <dc:creator opf:file-as="Hase, Satoshi &amp; Redjuice &amp; Gessel, Ben" opf:role="aut">Ben Gessel</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-28T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Boy meets girl... you know how it goes. But while the boy (Arato) might be a typical 17-year-old, the girl (Lacia) is a beautiful android equipped with an enormous black device that defies human understanding. &lt;/p&gt;
+&lt;p&gt;Set 100 years from now, BEATLESS depicts a familiar yet futuristic vision of Japan in which society is run by incredibly human-looking robots, known as hIE. Most people regard them as mere convenient tools. Yet some hIE–like Lacia–now appear bearing technology that far surpasses anything regular humans can produce. &lt;/p&gt;
+&lt;p&gt;Humans and ultra-advanced artificial beings: who is the master and who is the servant? Who made Lacia, and what ties her fate together with Arato? Bewildered by the turmoil of danger and mystery that Lacia brings into his life, Arato will find himself forced to make choices with profound implications not just for himself, but for all of humanity. &lt;/p&gt;
+&lt;p&gt;The direct continuation from volume 1!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B085KNZV5D</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <dc:subject>Completed</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Satoshi Hase&quot;: &quot;&quot;, &quot;Redjuice&quot;: &quot;&quot;, &quot;Ben Gessel&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Beatless"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:timestamp" content="2021-08-10T03:02:51.736713+00:00"/>
+        <meta name="calibre:title_sort" content="Beatless, Vol. 02"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

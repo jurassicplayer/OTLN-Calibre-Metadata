@@ -4,9 +4,9 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">63</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">32c7625a-2985-481a-a805-13b41fee7037</dc:identifier>
         <dc:title>Altina the Sword Princess, Vol. 03</dc:title>
-        <dc:creator opf:file-as="Murasaki, Yukiya &amp; Himesuz &amp; Nukia, Roy" opf:role="aut">Yukiya Murasaki</dc:creator>
-        <dc:creator opf:file-as="Murasaki, Yukiya &amp; Himesuz &amp; Nukia, Roy" opf:role="aut">Himesuz</dc:creator>
-        <dc:creator opf:file-as="Murasaki, Yukiya &amp; Himesuz &amp; Nukia, Roy" opf:role="aut">Roy Nukia</dc:creator>
+        <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz &amp; Nukia, Roy" opf:role="aut">Yukiya Murasaki</dc:creator>
+        <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz &amp; Nukia, Roy" opf:role="aut">himesuz</dc:creator>
+        <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz &amp; Nukia, Roy" opf:role="aut">Roy Nukia</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-04-05T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -31,7 +31,7 @@
         <dc:subject>Drama</dc:subject>
         <dc:subject>Fiction</dc:subject>
         <dc:subject>Shounen</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Yukiya Murasaki&quot;: &quot;&quot;, &quot;Himesuz&quot;: &quot;&quot;, &quot;Roy Nukia&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Yukiya Murasaki&quot;: &quot;&quot;, &quot;himesuz&quot;: &quot;&quot;, &quot;Roy Nukia&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Altina the Sword Princess"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="8"/>

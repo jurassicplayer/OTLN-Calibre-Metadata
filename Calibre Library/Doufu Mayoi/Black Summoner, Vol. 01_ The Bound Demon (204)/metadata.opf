@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">204</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ae4ea71-a83e-46d5-8ce7-4f119d4b277d</dc:identifier>
+        <dc:title>Black Summoner, Vol. 01: The Bound Demon</dc:title>
+        <dc:creator opf:file-as="Mayoi, Doufu &amp; Kurogin &amp; Taishi" opf:role="aut">Doufu Mayoi</dc:creator>
+        <dc:creator opf:file-as="Mayoi, Doufu &amp; Kurogin &amp; Taishi" opf:role="aut">Kurogin</dc:creator>
+        <dc:creator opf:file-as="Mayoi, Doufu &amp; Kurogin &amp; Taishi" opf:role="aut">Taishi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-09T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Waking up in a strange new place with no memory of his past life, Kelvin learns that he’s bartered away those very memories in exchange for powerful new abilities during his recent transmigration.&lt;/p&gt;
+&lt;p&gt;Heading out into a whole new world as a Summoner — with his first Follower being the very goddess who brought him over! — Kelvin begins his new life as an adventurer, and it isn’t long before he discovers his hidden disposition as a battle junkie. From the Black Knight of the Ancient Castle of Evil Spirits to the demon within the Hidden Cave of the Sage, he revels in the fight against one formidable foe after another. &lt;/p&gt;
+&lt;p&gt;Join this OP adventurer in an exhilarating and epic saga as he and his allies carve their way into the annals of history!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B08CD4K947</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">54804933</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Doufu Mayoi&quot;: &quot;&quot;, &quot;Kurogin&quot;: &quot;&quot;, &quot;Taishi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Black Summoner"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-10T03:03:49.357024+00:00"/>
+        <meta name="calibre:title_sort" content="Black Summoner, Vol. 01: The Bound Demon"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

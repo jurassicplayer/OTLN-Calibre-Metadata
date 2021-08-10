@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">206</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44ef36f4-6fbe-413b-9015-608997f07ccd</dc:identifier>
+        <dc:title>Black Summoner, Vol. 04: The Pristine Ice Princess</dc:title>
+        <dc:creator opf:file-as="Mayoi, Doufu &amp; Kurogin &amp; Taishi" opf:role="aut">Doufu Mayoi</dc:creator>
+        <dc:creator opf:file-as="Mayoi, Doufu &amp; Kurogin &amp; Taishi" opf:role="aut">Kurogin</dc:creator>
+        <dc:creator opf:file-as="Mayoi, Doufu &amp; Kurogin &amp; Taishi" opf:role="aut">Taishi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-16T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;After having fulfilled the requirements for his promotion to Rank S, Kelvin, the eccentric Summoner who transmigrated from another world, finds that a series of festivities are being prepared in his honor.&lt;/p&gt;
+&lt;p&gt;To his surprise and delight, he learns that part of it involves a one-on-one practice round with Silvia, a Rank S adventurer nicknamed “Ice Princess. Eagerly anticipating this match against a truly worthy opponent, he promptly dives into his training like never before. &lt;/p&gt;
+&lt;p&gt;At the same time, his companions head off to a dungeon to procure a special high-ranked food ingredient for his sake, but a shocking encounter lies in wait! &lt;/p&gt;
+&lt;p&gt;Come along for the ride as this black-clad battle junkie and his allies continue to make a name for themselves in the fourth volume of this epic journey!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B08THWCBCL</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">56925968</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Doufu Mayoi&quot;: &quot;&quot;, &quot;Kurogin&quot;: &quot;&quot;, &quot;Taishi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Black Summoner"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-10T03:03:50.523390+00:00"/>
+        <meta name="calibre:title_sort" content="Black Summoner, Vol. 04: The Pristine Ice Princess"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

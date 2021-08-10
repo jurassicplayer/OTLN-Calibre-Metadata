@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">189</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2c6f727-bb5f-49bb-98a3-3888f4fd5f05</dc:identifier>
+        <dc:title>Berserk of Gluttony, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Ichika, Isshiki &amp; fame" opf:role="aut">Isshiki Ichika</dc:creator>
+        <dc:creator opf:file-as="Ichika, Isshiki &amp; fame" opf:role="aut">fame</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-05T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;A strikingly illustrated dark fantasy, in which a frail young man's terrible magic could lead him to ultimate power. And don't miss the manga version, also from Seven Seas!&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Fate Graphite is one of the forsaken. Cursed with the skill “Gluttony,” he is ever starving, never sated…until the day he kills a dying thief and devours the man’s strength—and his soul. The true hunger of Fate’s Gluttony has awakened, and if he can learn to control his power, he will at last be the master of his own destiny.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781648270680</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1648270689</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">54589746</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Isshiki Ichika&quot;: &quot;&quot;, &quot;fame&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Berserk of Gluttony"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-10T03:03:00.204145+00:00"/>
+        <meta name="calibre:title_sort" content="Berserk of Gluttony, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

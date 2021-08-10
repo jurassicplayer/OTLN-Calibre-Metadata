@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">190</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c734bd9-3716-440d-9312-26a9cf2ebb60</dc:identifier>
+        <dc:title>Berserk of Gluttony, Vol. 03</dc:title>
+        <dc:creator opf:file-as="Ichika, Isshiki &amp; fame" opf:role="aut">Isshiki Ichika</dc:creator>
+        <dc:creator opf:file-as="Ichika, Isshiki &amp; fame" opf:role="aut">fame</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-13T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;HEART OF DARKNESS&lt;/p&gt;
+&lt;p&gt;At last, Fate reaches Babylon, the border town on the edge of Galia where Roxy is stationed. But the moment Fate arrives, a mysterious woman calling herself Eris intercepts him to deliver an ominous message: “Roxy Hart must die.”&lt;/p&gt;
+&lt;p&gt;If Fate wants to rescue the girl who saved him, he must journey into the heart of vast, monster-ridden Galia and face whatever darkness lies within.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781648272424</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">56994106</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Isshiki Ichika&quot;: &quot;&quot;, &quot;fame&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Berserk of Gluttony"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-08-10T03:03:00.753578+00:00"/>
+        <meta name="calibre:title_sort" content="Berserk of Gluttony, Vol. 03"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

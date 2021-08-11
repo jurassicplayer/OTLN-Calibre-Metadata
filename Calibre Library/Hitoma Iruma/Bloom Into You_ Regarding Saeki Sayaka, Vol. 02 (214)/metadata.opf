@@ -3,7 +3,7 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">214</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">1d53e5c4-c30b-4037-92f8-0b3e27158624</dc:identifier>
-        <dc:title>Bloom Into You: Regarding Saeki Sayaka Vol. 02</dc:title>
+        <dc:title>Bloom Into You: Regarding Saeki Sayaka, Vol. 02</dc:title>
         <dc:creator opf:file-as="Iruma, Hitoma &amp; Nakatani, Nio" opf:role="aut">Hitoma Iruma</dc:creator>
         <dc:creator opf:file-as="Iruma, Hitoma &amp; Nakatani, Nio" opf:role="aut">Nio Nakatani</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
@@ -28,7 +28,7 @@
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2021-08-11T05:38:00.115585+00:00"/>
-        <meta name="calibre:title_sort" content="Bloom Into You: Regarding Saeki Sayaka Vol. 02"/>
+        <meta name="calibre:title_sort" content="Bloom Into You: Regarding Saeki Sayaka, Vol. 02"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

@@ -4,9 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">211</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">fbb339b1-9274-467e-a382-8c66144d2089</dc:identifier>
         <dc:title>Bleach: Can't Fear Your Own World, Vol. 03</dc:title>
-        <dc:creator opf:file-as="Kubo, Tite &amp; Narita, Ryohgo &amp; Cash, Jan Mitsuko" opf:role="aut">Tite Kubo</dc:creator>
-        <dc:creator opf:file-as="Kubo, Tite &amp; Narita, Ryohgo &amp; Cash, Jan Mitsuko" opf:role="aut">Ryohgo Narita</dc:creator>
-        <dc:creator opf:file-as="Kubo, Tite &amp; Narita, Ryohgo &amp; Cash, Jan Mitsuko" opf:role="aut">Jan Mitsuko Cash</dc:creator>
+        <dc:creator opf:file-as="Kubo, Tite &amp; Narita, Ryohgo" opf:role="aut">Tite Kubo</dc:creator>
+        <dc:creator opf:file-as="Kubo, Tite &amp; Narita, Ryohgo" opf:role="aut">Ryohgo Narita</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-04-20T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -14,20 +13,21 @@
 &lt;p&gt;As the Soul Society’s secrets are brought to light, the full terror of Tokinada’s plan is revealed. In the midst of this, Shuhei Hisagi discovers the true ability of his zanpaku-to and the meaning of its name. Can a blade that controls death also sever the consequences of death?&lt;/p&gt;
 &lt;p&gt;A host of powerful characters—including Kenpachi Zaraki and Grimmjow Zaraki Jeagerjaques—make an appearance in the decisive battle, and the volume is complemented by a generous selection of Tite Kubo illustrations!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>VIZ Media LLC (SHOUNEN JUMP)</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781974713288</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">54303394</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781974713288</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Light Novel</dc:subject>
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Shounen</dc:subject>
+        <dc:subject>Completed</dc:subject>
         <dc:subject>Supernatural</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Tite Kubo&quot;: &quot;&quot;, &quot;Ryohgo Narita&quot;: &quot;&quot;, &quot;Jan Mitsuko Cash&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Tite Kubo&quot;: &quot;&quot;, &quot;Ryohgo Narita&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Bleach: Can't Fear Your Own World"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-08-12T05:17:04.866000+00:00"/>
+        <meta name="calibre:timestamp" content="2021-08-12T05:17:04+00:00"/>
         <meta name="calibre:title_sort" content="Bleach: Can't Fear Your Own World, Vol. 03"/>
     </metadata>
     <guide>

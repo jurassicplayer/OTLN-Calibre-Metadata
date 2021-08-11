@@ -12,10 +12,10 @@
         <dc:date>2017-10-01T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Yukinari has created a viable system of agriculture for Friedland, and the town once reliant on their erdgod's whims looks like it might finally be able to thrive on its own. Yuki seems content to settle down at his sanctuary along with Dasa, Berta, and Ulrike, the erdgod from Rostruch, when a unit of the Missionary Order arrives in town with mercenaries on their heels. When the Order discovers that Friedland hasn't been converted, contrary to what the True Church of Harris was told, Yukinari and his friends find themselves in trouble as the missionaries prepare a fresh assault on their home. Arlen has built his life on the Church, while Berta has learned to fight but hates hurting people... In the upcoming battle, everyone will have their own difficult choices to make.&lt;/p&gt;
-&lt;p&gt;It’s volume 3 of the smash-hit guns-meet-swords action-fantasy, Bluesteel Blasphemer!&lt;/p&gt;&lt;/div&gt;</dc:description>
+&lt;p&gt;It’s volume 3 of the alternate-reality action-fantasy, Bluesteel Blasphemer!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B074K8XYLG</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">35919518</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B074K8XYLG</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Adventure</dc:subject>
         <dc:subject>Completed</dc:subject>
@@ -26,12 +26,15 @@
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Action</dc:subject>
         <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Shounen</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Ichirou Sakaki&quot;: &quot;&quot;, &quot;Tera Akai&quot;: &quot;&quot;, &quot;James Rushton&quot;: &quot;&quot;, &quot;Kevin Steinbach&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Bluesteel Blasphemer"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="6"/>
-        <meta name="calibre:timestamp" content="2021-08-11T05:52:16.298002+00:00"/>
+        <meta name="calibre:timestamp" content="2021-08-11T05:52:16+00:00"/>
         <meta name="calibre:title_sort" content="Bluesteel Blasphemer, Vol. 03"/>
+        <meta name="calibre:user_metadata:#status" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;enumeration&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Status&quot;, &quot;search_terms&quot;: [&quot;#status&quot;], &quot;label&quot;: &quot;status&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;enum_values&quot;: [&quot;Completed&quot;, &quot;On-Going&quot;, &quot;Hiatus&quot;], &quot;enum_colors&quot;: [], &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;Current Light Novel publishing status&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

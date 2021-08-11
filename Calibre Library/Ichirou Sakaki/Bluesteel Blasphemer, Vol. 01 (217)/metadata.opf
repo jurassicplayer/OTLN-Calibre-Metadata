@@ -26,12 +26,15 @@
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Action</dc:subject>
         <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Shounen</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Ichirou Sakaki&quot;: &quot;&quot;, &quot;Tera Akai&quot;: &quot;&quot;, &quot;James Rushton&quot;: &quot;&quot;, &quot;Kevin Steinbach&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Bluesteel Blasphemer"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="6"/>
-        <meta name="calibre:timestamp" content="2021-08-11T05:52:14.948536+00:00"/>
+        <meta name="calibre:timestamp" content="2021-08-11T05:52:14+00:00"/>
         <meta name="calibre:title_sort" content="Bluesteel Blasphemer, Vol. 01"/>
+        <meta name="calibre:user_metadata:#status" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;enumeration&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Status&quot;, &quot;search_terms&quot;: [&quot;#status&quot;], &quot;label&quot;: &quot;status&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;enum_values&quot;: [&quot;Completed&quot;, &quot;On-Going&quot;, &quot;Hiatus&quot;], &quot;enum_colors&quot;: [], &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;Current Light Novel publishing status&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

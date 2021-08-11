@@ -11,10 +11,10 @@
         <dc:description>&lt;div&gt;
 &lt;p&gt;Koushun Takami's notorious high-octane thriller is based on an irresistible premise: a class of junior high school students is taken to a deserted island where, as part of a ruthless authoritarian program, they are provided arms and forced to kill one another until only one survivor is left standing. Criticized as violent exploitation when first published in Japan - where it then proceeded to become a runaway bestseller - Battle Royale is a Lord of the Flies for the 21st century, a potent allegory of what it means to be young and (barely) alive in a dog-eat-dog world. &lt;/p&gt;
 &lt;p&gt;Made into a controversial hit movie of the same name, Battle Royale is already a contemporary Japanese pulp classic, now available for the first time in the English language.&lt;/p&gt;&lt;/div&gt;</dc:description>
-        <dc:publisher>VIZ Media</dc:publisher>
+        <dc:publisher>VIZ Media LLC</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781569317785</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">57891</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B015QNIM7S</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">57891</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Dystopian</dc:subject>
@@ -27,7 +27,7 @@
         <dc:subject>Thriller</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Koushun Takami&quot;: &quot;&quot;, &quot;Yuji Oniki&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-08-09T06:08:29.443819+00:00"/>
+        <meta name="calibre:timestamp" content="2021-08-09T06:08:29+00:00"/>
         <meta name="calibre:title_sort" content="Battle Royale"/>
     </metadata>
     <guide>

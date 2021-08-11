@@ -18,11 +18,12 @@
         <dc:language>eng</dc:language>
         <dc:subject>Adventure</dc:subject>
         <dc:subject>Fantasy</dc:subject>
-        <dc:subject>Horror</dc:subject>
-        <dc:subject>Science Fiction</dc:subject>
-        <dc:subject>Official Translation</dc:subject>
-        <dc:subject>Light Novel</dc:subject>
         <dc:subject>Fiction</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Completed</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
         <dc:subject>Shounen</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Hajime Isayama&quot;: &quot;&quot;, &quot;Range Murata&quot;: &quot;&quot;, &quot;Ryo Kawakami&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Attack on Titan: The Harsh Mistress of the City"/>

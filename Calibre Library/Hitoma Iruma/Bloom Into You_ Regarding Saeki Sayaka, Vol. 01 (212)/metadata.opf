@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">212</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46809752-24c4-4c84-b728-b7b3012bba5e</dc:identifier>
+        <dc:title>Bloom Into You: Regarding Saeki Sayaka, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Iruma, Hitoma &amp; Nakatani, Nio" opf:role="aut">Hitoma Iruma</dc:creator>
+        <dc:creator opf:file-as="Iruma, Hitoma &amp; Nakatani, Nio" opf:role="aut">Nio Nakatani</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-11T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;A light novel spin-off for the hit &lt;/strong&gt;&lt;span style="font-weight: 600; font-style: italic"&gt;yuri&lt;/span&gt;&lt;strong&gt; manga and anime series &lt;/strong&gt;&lt;span style="font-weight: 600; font-style: italic"&gt;Bloom Into You&lt;/span&gt;&lt;strong&gt;!&lt;br&gt;&lt;/strong&gt;&lt;br&gt;Saeki Sayaka has always been an old soul—serious and reserved, preferring to focus on her studies rather than make friends. Until, that is, a romantic confession from another girl in middle school turns her carefully ordered world upside down. Though none of her classes have prepared her for this, Saeki must now come to terms with her sexuality in this gentle, coming-of-age novel about grappling with first love, growing up, and relating to other people.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781642757545</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">49882195</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Completed</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Yuri</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hitoma Iruma&quot;: &quot;&quot;, &quot;Nio Nakatani&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Bloom Into You: Regarding Saeki Sayaka"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-11T05:37:59.208405+00:00"/>
+        <meta name="calibre:title_sort" content="Bloom Into You: Regarding Saeki Sayaka, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

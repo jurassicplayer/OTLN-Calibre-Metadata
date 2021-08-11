@@ -4,9 +4,9 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">56</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">50e40996-40e0-4498-91f1-b5f0c6cffaba</dc:identifier>
         <dc:title>Akaoni: Contract With a Vampire</dc:title>
-        <dc:creator opf:file-as="Hiroro &amp; Mokoppe &amp; Messier, Charis" opf:role="aut">Hiroro</dc:creator>
-        <dc:creator opf:file-as="Hiroro &amp; Mokoppe &amp; Messier, Charis" opf:role="aut">Mokoppe</dc:creator>
-        <dc:creator opf:file-as="Hiroro &amp; Mokoppe &amp; Messier, Charis" opf:role="aut">Charis Messier</dc:creator>
+        <dc:creator opf:file-as="Hiroro &amp; mokoppe &amp; Messier, Charis" opf:role="aut">Hiroro</dc:creator>
+        <dc:creator opf:file-as="Hiroro &amp; mokoppe &amp; Messier, Charis" opf:role="aut">mokoppe</dc:creator>
+        <dc:creator opf:file-as="Hiroro &amp; mokoppe &amp; Messier, Charis" opf:role="aut">Charis Messier</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-07-31T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -25,10 +25,11 @@
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Light Novel</dc:subject>
         <dc:subject>Fiction</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Hiroro&quot;: &quot;&quot;, &quot;Mokoppe&quot;: &quot;&quot;, &quot;Charis Messier&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Hiroro&quot;: &quot;&quot;, &quot;mokoppe&quot;: &quot;&quot;, &quot;Charis Messier&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2021-05-10T07:26:51+00:00"/>
         <meta name="calibre:title_sort" content="Akaoni: Contract With a Vampire"/>
+        <meta name="calibre:user_metadata:#status" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;enumeration&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Status&quot;, &quot;search_terms&quot;: [&quot;#status&quot;], &quot;label&quot;: &quot;status&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;enum_values&quot;: [&quot;Completed&quot;, &quot;On-Going&quot;, &quot;Hiatus&quot;], &quot;enum_colors&quot;: [], &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;Current Light Novel publishing status&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

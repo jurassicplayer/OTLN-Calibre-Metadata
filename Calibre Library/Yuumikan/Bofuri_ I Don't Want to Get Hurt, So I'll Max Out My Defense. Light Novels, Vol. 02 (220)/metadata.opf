@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">220</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d958daa6-56b1-49b7-ae85-012b74bf1f14</dc:identifier>
+        <dc:title>Bofuri: I Don't Want to Get Hurt, So I'll Max Out My Defense. Light Novels, Vol. 02</dc:title>
+        <dc:creator opf:file-as="Yuumikan &amp; KOIN" opf:role="aut">Yuumikan</dc:creator>
+        <dc:creator opf:file-as="Yuumikan &amp; KOIN" opf:role="aut">KOIN</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-29T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Double Trouble… &lt;/p&gt;
+&lt;p&gt;​Maple has become famous overnight after finishing in the top three of the battle royale and defeating a shocking two hundred players without taking any damage at all. Now, with the treasure hunt event about to start, Maple and Sally set off in search of rare gear and adventure! The game admins and other players look on in both fear and excitement as they wait to see what crazy new development is about to hit the server!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975323547</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">56817472</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yuumikan&quot;: &quot;&quot;, &quot;KOIN&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Bofuri: I Don't Want to Get Hurt, So I'll Max Out My Defense."/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-11T06:40:13.336968+00:00"/>
+        <meta name="calibre:title_sort" content="Bofuri: I Don't Want to Get Hurt, So I'll Max Out My Defense. Light Novels, Vol. 02"/>
+        <meta name="calibre:user_metadata:#status" content="{&quot;table&quot;: &quot;custom_column_1&quot;, &quot;column&quot;: &quot;value&quot;, &quot;datatype&quot;: &quot;enumeration&quot;, &quot;is_multiple&quot;: null, &quot;kind&quot;: &quot;field&quot;, &quot;name&quot;: &quot;Status&quot;, &quot;search_terms&quot;: [&quot;#status&quot;], &quot;label&quot;: &quot;status&quot;, &quot;colnum&quot;: 1, &quot;display&quot;: {&quot;enum_values&quot;: [&quot;Completed&quot;, &quot;On-Going&quot;, &quot;Hiatus&quot;], &quot;enum_colors&quot;: [], &quot;use_decorations&quot;: 0, &quot;description&quot;: &quot;Current Light Novel publishing status&quot;}, &quot;is_custom&quot;: true, &quot;is_category&quot;: true, &quot;link_column&quot;: &quot;value&quot;, &quot;category_sort&quot;: &quot;value&quot;, &quot;is_csp&quot;: false, &quot;is_editable&quot;: true, &quot;rec_index&quot;: 22, &quot;#value#&quot;: null, &quot;#extra#&quot;: null, &quot;is_multiple2&quot;: {}}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

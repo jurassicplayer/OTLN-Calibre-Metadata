@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">239</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ef97b76-b7cd-47d5-acd2-b39d9f2ac7b5</dc:identifier>
+        <dc:title>Buck Naked in Another World, Vol. 02</dc:title>
+        <dc:creator opf:file-as="Kotani, Madoka &amp; Mochiusa" opf:role="aut">Madoka Kotani</dc:creator>
+        <dc:creator opf:file-as="Kotani, Madoka &amp; Mochiusa" opf:role="aut">Mochiusa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-27T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;HORNED ADVERSARY&lt;/p&gt;
+&lt;p&gt;College dropout Yoshida “Shooter” Shuta has survived enslavement, a basilisk, and his first dungeon crawl. Now, he just wants to get back to Apegut village—and to Cassandra, the wife he accidentally abandoned. But all’s not well on the home front… A minotaur clan lurks on the other side of the lake, and it’s up to bare-bottom warrior Shooter to grab the bull by the horns!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781645057505</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">49672303</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Madoka Kotani&quot;: &quot;&quot;, &quot;Mochiusa&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Buck Naked in Another World"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-12T05:50:50.667386+00:00"/>
+        <meta name="calibre:title_sort" content="Buck Naked in Another World, Vol. 02"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

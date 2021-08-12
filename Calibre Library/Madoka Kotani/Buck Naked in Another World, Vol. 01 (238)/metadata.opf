@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">238</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6a5ac67a-69cc-425f-932e-ecba4499bf68</dc:identifier>
+        <dc:title>Buck Naked in Another World, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Kotani, Madoka &amp; Mochiusa" opf:role="aut">Madoka Kotani</dc:creator>
+        <dc:creator opf:file-as="Kotani, Madoka &amp; Mochiusa" opf:role="aut">Mochiusa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-21T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Most Embarrassing Reincarnation &lt;/strong&gt;&lt;span style="font-weight: 600; font-style: italic"&gt;Ever!&lt;/span&gt; &lt;/p&gt;
+&lt;p&gt;Thirty-two-year-old college dropout Shuta Yoshida has no idea how he ended up in another world, let alone bound naked at the feet of the beautiful village chieftan. But as a resourceful serial freelancer who knows his way around manual labor, “Shooter” is ready to do whatever it takes to earn his place in this fantasy frontier town. Maybe he’ll even earn himself some clothes! A hilarious romp with a savvy leading man who’s just doing his best to cover his ass in a land of swords and sorcery.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781645055433</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1645055434</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">49672351</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Madoka Kotani&quot;: &quot;&quot;, &quot;Mochiusa&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Buck Naked in Another World"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2021-08-12T05:50:50.434868+00:00"/>
+        <meta name="calibre:title_sort" content="Buck Naked in Another World, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

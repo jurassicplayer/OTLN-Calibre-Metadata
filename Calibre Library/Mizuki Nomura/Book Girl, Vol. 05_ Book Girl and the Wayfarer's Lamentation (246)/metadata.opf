@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">246</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3b3c1f59-7365-4e32-b6e5-ed554fd5bdb5</dc:identifier>
+        <dc:title>Book Girl, Vol. 05: Book Girl and the Wayfarer's Lamentation</dc:title>
+        <dc:creator opf:file-as="Nomura, Mizuki &amp; Takeoka, Miho &amp; McGillicuddy, Karen" opf:role="aut">Mizuki Nomura</dc:creator>
+        <dc:creator opf:file-as="Nomura, Mizuki &amp; Takeoka, Miho &amp; McGillicuddy, Karen" opf:role="aut">Miho Takeoka</dc:creator>
+        <dc:creator opf:file-as="Nomura, Mizuki &amp; Takeoka, Miho &amp; McGillicuddy, Karen" opf:role="aut">Karen McGillicuddy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-07-17T07:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;While Konoha is aware that he will soon be losing his book-eating club  president when she ventures off to college, a new relationship blossoms  between him and the once standoffish Kotobuki. The two even manage to  spend New Year's Day together! However, the dawn of the new year also  ushers in the return of a familiar face - a girl whose every line Konoha  has memorized and one the heartbroken boy thought he would never see  again. Just as she reenters his life, though, Konoha feels the ties he  has established with the people around him begin to sever... Can a simple  book girl shed some much-needed insight on the situation before it's too  late?</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316202237</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">13521357</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Completed</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mizuki Nomura&quot;: &quot;&quot;, &quot;Miho Takeoka&quot;: &quot;&quot;, &quot;Karen McGillicuddy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Book Girl"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-12T06:02:02.966721+00:00"/>
+        <meta name="calibre:title_sort" content="Book Girl, Vol. 05: Book Girl and the Wayfarer's Lamentation"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

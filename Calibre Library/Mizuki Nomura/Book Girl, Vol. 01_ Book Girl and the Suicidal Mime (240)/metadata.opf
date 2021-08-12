@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">240</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a2b07e44-cb01-407d-92a3-3acf18172941</dc:identifier>
+        <dc:title>Book Girl, Vol. 01: Book Girl and the Suicidal Mime</dc:title>
+        <dc:creator opf:file-as="Nomura, Mizuki &amp; Takeoka, Miho &amp; McGillicuddy, Karen" opf:role="aut">Mizuki Nomura</dc:creator>
+        <dc:creator opf:file-as="Nomura, Mizuki &amp; Takeoka, Miho &amp; McGillicuddy, Karen" opf:role="aut">Miho Takeoka</dc:creator>
+        <dc:creator opf:file-as="Nomura, Mizuki &amp; Takeoka, Miho &amp; McGillicuddy, Karen" opf:role="aut">Karen McGillicuddy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-27T07:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;For Tohko Amano, a third-year high school student and self-styled "book  girl," being the head of the literary club is more than just an  extracurricular activity. It's her bread and butter...literally! Tohko is  actually a literature-gobbling demon, who can be found at all hours of  the day munching on torn out pages from all kinds of books. But for  Tohko, the real delicacies are hand-written stories. To satisfy her  gourmet tastes, she's employed (rather, browbeaten) one Konoha Inoue,  who scribbles away each day after school to satisfy Tohko's appetite.  But when another student comes knocking on the literary club door for  advice on writing love letters, will Tohko discover a new kind of  delicacy?</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316076906</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">7648728</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Completed</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mizuki Nomura&quot;: &quot;&quot;, &quot;Miho Takeoka&quot;: &quot;&quot;, &quot;Karen McGillicuddy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Book Girl"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-12T06:02:02.344088+00:00"/>
+        <meta name="calibre:title_sort" content="Book Girl, Vol. 01: Book Girl and the Suicidal Mime"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

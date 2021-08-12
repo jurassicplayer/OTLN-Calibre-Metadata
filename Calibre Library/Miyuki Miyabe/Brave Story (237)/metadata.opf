@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">237</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b79fc3ce-8fb3-44c8-b1f4-2ddea791838b</dc:identifier>
+        <dc:title>Brave Story</dc:title>
+        <dc:creator opf:file-as="Miyabe, Miyuki &amp; Smith, Alexander O." opf:role="aut">Miyuki Miyabe</dc:creator>
+        <dc:creator opf:file-as="Miyabe, Miyuki &amp; Smith, Alexander O." opf:role="aut">Alexander O. Smith</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-11-17T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A young boy finds his destiny in a world of fantasy.&lt;/p&gt;
+&lt;p&gt;Young Wataru Mitani's life is a mess. Desperately, he searches for some way to change his life--a way to alter his fate. To achieve his goal, he must navigate the magical world of Vision, a land filled with creatures both fierce and friendly. And to complicate matters, he must outwit a merciless rival from the real world.&lt;/p&gt;
+&lt;p&gt;Wataru's ultimate destination is the Tower of Destiny where a goddess of fate awaits. Only when he has finished his journey and collected five elusive gemstones will he possess the Demon's Bane--the key that will unlock the future. Charity, bravery, faith, grace and the power of darkness and light: these are the provinces of each gemstone. Brought together, they have the immeasurable power to bring Wataru's family back together again.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>VIZ Media LLC (Haikasoru)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781421527734</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">6884698</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Completed</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Miyuki Miyabe&quot;: &quot;&quot;, &quot;Alexander O. Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-12T04:56:34.506662+00:00"/>
+        <meta name="calibre:title_sort" content="Brave Story"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

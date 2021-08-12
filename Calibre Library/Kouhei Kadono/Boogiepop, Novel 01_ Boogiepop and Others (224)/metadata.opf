@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">224</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e31d4115-0f86-4ef6-bcc4-865addde008a</dc:identifier>
+        <dc:title>Boogiepop, Novel 01: Boogiepop and Others</dc:title>
+        <dc:creator opf:file-as="Kadono, Kouhei &amp; Ogata, Kouji" opf:role="aut">Kouhei Kadono</dc:creator>
+        <dc:creator opf:file-as="Kadono, Kouhei &amp; Ogata, Kouji" opf:role="aut">Kouji Ogata</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-01-14T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;Who am I? My name is Boogiepop…&lt;/p&gt;
+&lt;p&gt;There is an urban legend that children tell about a &lt;em&gt;shinigami&lt;/em&gt; that can release people from the pain they are suffering. This “Angel of Death” has a name–Boogiepop. And the legends are true. Boogiepop is real.&lt;/p&gt;
+&lt;p&gt;When a rash of disappearances involving female students breaks out at Shinyo Academy, the police and faculty assume they just have a bunch of runaways on their hands. Yet Nagi Kirima knows better. Something mysterious and foul is afoot. Is it Boogiepop or something even more sinister…?&lt;/p&gt;
+&lt;p&gt;Experience the story through several characters’ eyes as you piece together the true order of disturbing events, in this unforgettable prelude to the &lt;em&gt;Boogiepop Phantom&lt;/em&gt; anime series!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781933164168</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1933164166</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">391987</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Completed</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kouhei Kadono&quot;: &quot;&quot;, &quot;Kouji Ogata&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Boogiepop"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-12T04:13:08.097584+00:00"/>
+        <meta name="calibre:title_sort" content="Boogiepop, Novel 01: Boogiepop and Others"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

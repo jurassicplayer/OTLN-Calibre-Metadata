@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">225</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5c2e5e9-4ed5-48bc-bc8e-5c96b07f1050</dc:identifier>
+        <dc:title>Boogiepop, Novel 03: Boogiepop Returns: Vs. Imaginator Part 2</dc:title>
+        <dc:creator opf:file-as="Kadono, Kouhei &amp; Ogata, Kouji" opf:role="aut">Kouhei Kadono</dc:creator>
+        <dc:creator opf:file-as="Kadono, Kouhei &amp; Ogata, Kouji" opf:role="aut">Kouji Ogata</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-10-15T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;“It is my function to remake the world.”&lt;/p&gt;
+&lt;p&gt;This is it…the climactic final showdown between Boogiepop and the deadly “Imaginator!” With the lives of millions in Tokyo hanging in the balance, only Boogiepop and a group of ragtag young teens stand a chance of combating the forces of evil and preventing a deadly virus from being unleashed.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;BOOGIEPOP RETURNS: VS IMAGINATOR PART 2&lt;/em&gt;— the mind bending third novel in the award winning &lt;em&gt;Boogiepop&lt;/em&gt; series!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781933164236</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">391988</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Completed</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kouhei Kadono&quot;: &quot;&quot;, &quot;Kouji Ogata&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Boogiepop"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-12T04:13:08.577131+00:00"/>
+        <meta name="calibre:title_sort" content="Boogiepop, Novel 03: Boogiepop Returns: Vs. Imaginator Part 2"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

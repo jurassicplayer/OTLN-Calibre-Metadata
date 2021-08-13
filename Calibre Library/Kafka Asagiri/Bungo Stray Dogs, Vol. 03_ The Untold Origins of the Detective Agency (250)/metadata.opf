@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">250</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bf059282-50bc-41fc-ac93-58eb610f56b4</dc:identifier>
+        <dc:title>Bungo Stray Dogs, Vol. 03: The Untold Origins of the Detective Agency</dc:title>
+        <dc:creator opf:file-as="Asagiri, Kafka &amp; Harukawa, Sango" opf:role="aut">Kafka Asagiri</dc:creator>
+        <dc:creator opf:file-as="Asagiri, Kafka &amp; Harukawa, Sango" opf:role="aut">Sango Harukawa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-18T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Over a decade before the events of the manga series, a chance encounter leads professional bodyguard Yukichi Fukuzawa to begrudgingly take an arrogant boy genius named Ranpo Edogawa under his wing. Their first job brings them to a local theater on high alert after receiving a bizarre death threat-a challenge that will require both Ranpo's brains and Fukuzawa's experience. The aftermath spurs Fukuzawa to establish the Armed Detective Agency, an organization that takes on dangerous jobs even the police won't handle!&lt;/p&gt;
+&lt;p&gt;Plus, get a glimpse of the agency the night before Atsushi Nakajima joined the team!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975303266</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">51948574</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Contemporary</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kafka Asagiri&quot;: &quot;&quot;, &quot;Sango Harukawa&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Bungō Stray Dogs"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-13T03:45:03.121332+00:00"/>
+        <meta name="calibre:title_sort" content="Bungo Stray Dogs, Vol. 03: The Untold Origins of the Detective Agency"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

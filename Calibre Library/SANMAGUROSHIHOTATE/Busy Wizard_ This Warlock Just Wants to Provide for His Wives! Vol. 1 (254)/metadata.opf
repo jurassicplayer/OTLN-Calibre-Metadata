@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">254</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cfa9c5bc-9910-4e2d-8843-284c02ce1162</dc:identifier>
+        <dc:title>Busy Wizard: This Warlock Just Wants to Provide for His Wives! Vol. 1</dc:title>
+        <dc:creator opf:file-as="SANMAGUROSHIHOTATE &amp; Misa, Ikezaki" opf:role="aut">SANMAGUROSHIHOTATE</dc:creator>
+        <dc:creator opf:file-as="SANMAGUROSHIHOTATE &amp; Misa, Ikezaki" opf:role="aut">Ikezaki Misa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-21T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;After years of honing his magic deep in the mountains, eighteen-year-old Christophe dreams of making a name for himself in the imperial capital. But en route to the city where his fortune awaits, he meets a battered and beaten, yet surprisingly well-bred girl.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Sol Press LLC (Panty Press)</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B08176K7NW</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">48754508</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Adult</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;SANMAGUROSHIHOTATE&quot;: &quot;&quot;, &quot;Ikezaki Misa&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2021-08-14T02:56:51.998824+00:00"/>
+        <meta name="calibre:title_sort" content="Busy Wizard: This Warlock Just Wants to Provide for His Wives! Vol. 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

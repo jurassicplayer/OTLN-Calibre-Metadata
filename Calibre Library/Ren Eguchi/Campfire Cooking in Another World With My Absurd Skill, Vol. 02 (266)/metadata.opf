@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">266</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3cd615eb-9ef5-4570-aa4d-4497fe8532c4</dc:identifier>
+        <dc:title>Campfire Cooking in Another World With My Absurd Skill, Vol. 02</dc:title>
+        <dc:creator opf:file-as="Eguchi, Ren &amp; Masa" opf:role="aut">Ren Eguchi</dc:creator>
+        <dc:creator opf:file-as="Eguchi, Ren &amp; Masa" opf:role="aut">Masa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-08-06T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;Mukohda's otherworld adventure continues in a new land. With powerful familiars and a sweets-obsessed goddess looking out for him, what new challenges and opportunities await as he reluctantly takes up the adventurer mantle and moves up in the world?&lt;/p&gt;
+&lt;p&gt;Mukouda Tsuyoshi – alias, ‘Mukohda’ – was an ordinary Japanese salaryman until he was summoned to a fantasy world of swords and magic. Mukohda’s unique skill made him the only person in this world with access to modern Japanese products, but the real reason he caught the attention of the legendary magic beast, Fenrir, was his ability to cook delicious food!&lt;/p&gt;
+&lt;p&gt;Now with a ludicrously overpowered Fenrir and a baby slime in tow, Mukohda and friends continue their laid-back journey in search of easy-living in a new kingdom. In spite of his best efforts, it seems Mukohda can’t help but get wrapped up in the adventurer lifestyle. Will this reluctant “hero” win fame, fortune, and fair maidens while he tries to fly under the radar? With food this good, he’s bound to make new friends whether he likes it or not — much to the dismay of his number 1 fan, Ninrir, the goddess with a sweet tooth. &lt;/p&gt;
+&lt;p&gt;Unfortunately for her, she isn’t the only denizen of the divine realm to take notice of Mukohda’s access to otherworld goods and sweets, and the other goddesses might have demands of their own!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B07RWPF523</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">45889774</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ren Eguchi&quot;: &quot;&quot;, &quot;Masa&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Campfire Cooking in Another World with My Absurd Skill"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-14T02:57:19.229860+00:00"/>
+        <meta name="calibre:title_sort" content="Campfire Cooking in Another World With My Absurd Skill, Vol. 02"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

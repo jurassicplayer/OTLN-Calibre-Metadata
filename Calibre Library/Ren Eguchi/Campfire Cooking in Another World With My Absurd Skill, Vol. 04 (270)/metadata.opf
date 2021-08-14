@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">270</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5c2195f6-4a91-4d47-9136-36cb3d9f95f8</dc:identifier>
+        <dc:title>Campfire Cooking in Another World With My Absurd Skill, Vol. 04</dc:title>
+        <dc:creator opf:file-as="Eguchi, Ren &amp; Masa" opf:role="aut">Ren Eguchi</dc:creator>
+        <dc:creator opf:file-as="Eguchi, Ren &amp; Masa" opf:role="aut">Masa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-24T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;After conquering the dungeon, Mukohda's "Online Supermarket" surprisingly levels up! However, it seems that this stroke of good fortune has given some of the gods a dastardly idea. Will Mukohda be able to survive their machinations?&lt;/p&gt;
+&lt;p style="font-style: italic"&gt;A new power - the tenant “???” opens shop!&lt;/p&gt;
+&lt;p&gt;Mukohda, the salaryman from modern Japan who was (accidentally) whisked away to another world via a “Hero Summoning” ritual, finally arrived at the dungeon city of Dolan. Pressured into challenging the dungeon by his familiars, the cowardly Mukohda survives waves of terrifying monsters, and thanks to his familiars' overwhelming might, they became the first party to conquer the dungeon!&lt;/p&gt;
+&lt;p&gt;While the Adventurers and Merchants guilds fuss over the unexpected champions and the spoils of their victories, Mukohda, who managed to level up in the dungeon, is more astonished to find that his unique “Online Supermarket” skill has unexpectedly evolved. Now that a new power has been unlocked, amazingly, Mukohda is now able to buy cakes and ice cream directly through his new “Tenant!” Things are looking up for his familiars and the goddesses Ninrir and Rusalka, who are overjoyed at the new variety of sweets available to them. However, it seems that some gods may be conspiring to force Mukohda to keep leveling in order to unlock even more “Tenants” to satisfy their craving for otherworld goods...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B07Z5598Q9</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">48649880</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ren Eguchi&quot;: &quot;&quot;, &quot;Masa&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Campfire Cooking in Another World with My Absurd Skill"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-14T02:57:20.164527+00:00"/>
+        <meta name="calibre:title_sort" content="Campfire Cooking in Another World With My Absurd Skill, Vol. 04"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

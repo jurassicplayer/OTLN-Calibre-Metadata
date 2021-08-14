@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">265</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ad069ad-2dda-4439-80b6-f8d15a798398</dc:identifier>
+        <dc:title>Campfire Cooking in Another World With My Absurd Skill, Vol. 03</dc:title>
+        <dc:creator opf:file-as="Eguchi, Ren &amp; Masa" opf:role="aut">Ren Eguchi</dc:creator>
+        <dc:creator opf:file-as="Eguchi, Ren &amp; Masa" opf:role="aut">Masa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-07T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;Mukohda's laidback otherworld adventure continues in the dungeon city, Dolan. Between feeding his familiars, getting extorted by disappointing goddesses for otherworld goods, and being forced to dungeon dive, will Mukohda ever be able to find peace?&lt;/p&gt;
+&lt;p style="font-style: italic"&gt;Even though I don’t want to go to the dungeon! &lt;/p&gt;
+&lt;p&gt;Caught up in a “Hero Summoning,” the hapless Mukohda was brought to another world from modern Japan, but he decided to make the most of it and enjoy a leisurely life of travel with his familiars, Fel and Sui. &lt;/p&gt;
+&lt;p&gt;With new goddesses forcing blessings on him in exchange for offerings, and another familiar in the form of a peckish pixie dragon, Mukohda steadily amasses wealth and power. Finally, the cowardly hero (with a little “help” from his friends) has reached the city of Dolan, where he will challenge the city’s dungeon, whether he wants to or not! But the challenges start before he sets foot inside the dungeon, such as getting accosted by a disappointment of a guildmaster, extorted for booze by some rather intense male gods, and splurging on an actual kitchen stove. For Mukohda, diligent preparation for dungeon diving begins with preparing enough meals to satisfy his voracious companions. &lt;/p&gt;
+&lt;p&gt;Thus armed to battle his familiar’s hunger, Mukohda’s party sets its sights on glorious battle in the dungeon. With ridiculous skills and overpowered magic beasts on his side, does the dungeon even stand a chance......?!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B07W6JR2P2</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">51064413</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ren Eguchi&quot;: &quot;&quot;, &quot;Masa&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Campfire Cooking in Another World with My Absurd Skill"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-14T02:57:18.981881+00:00"/>
+        <meta name="calibre:title_sort" content="Campfire Cooking in Another World With My Absurd Skill, Vol. 03"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

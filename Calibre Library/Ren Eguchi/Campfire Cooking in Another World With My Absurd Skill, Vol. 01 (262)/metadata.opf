@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">262</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6718df3-8232-42e4-8505-ac14df34f722</dc:identifier>
+        <dc:title>Campfire Cooking in Another World With My Absurd Skill, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Eguchi, Ren &amp; Masa" opf:role="aut">Ren Eguchi</dc:creator>
+        <dc:creator opf:file-as="Eguchi, Ren &amp; Masa" opf:role="aut">Masa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-06T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;Mukouda just wants to live quietly away from the sketchy kingdom that summoned him. He may have low stats, but his unique skill gives him more leeway than he thinks. Can he get by on half-baked cunning, a love of home-cooking, and a bit of luck?&lt;/p&gt;
+&lt;p&gt;Mukouda Tsuyoshi was nothing special in modern Japan, so when he was summoned to a world of swordplay and sorcery, he thought he was ready for the adventure of a lifetime. Too bad the kingdom that summoned him only got him by mistake! Not only was he not one of the three summoned heroes, but his stats were laughable compared to theirs. On top of that, there's something really sketchy about this kingdom... "Ah, these people are the kind to try and use the Hero," he realized, and immediately left to make his own way in this other world.&lt;/p&gt;
+&lt;p&gt;The only thing Mukouda can rely on is his unique skill: the "Online Supermarket," a skill that allows him to buy modern goods in a fantasy world. It's useless for combat, but if he plays his cards right, he could lead a comfortable life, maybe? At least, that's what Mukouda thinks, but it turns out modern food bought with this skill has some absurd effects!&lt;/p&gt;
+&lt;p&gt;What happens when Mukouda introduces ridiculously tasty modern cooking to a fantasy world like this? He gets some ridiculous repeat customers begging for more...!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B07NRS11LN</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">44599029</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ren Eguchi&quot;: &quot;&quot;, &quot;Masa&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Campfire Cooking in Another World with My Absurd Skill"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-14T02:57:17.022495+00:00"/>
+        <meta name="calibre:title_sort" content="Campfire Cooking in Another World With My Absurd Skill, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

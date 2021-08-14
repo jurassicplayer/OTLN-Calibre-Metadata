@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">264</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c3813273-0fd7-4a07-8b9a-f2c22237bdd6</dc:identifier>
+        <dc:title>Campfire Cooking in Another World With My Absurd Skill, Vol. 08</dc:title>
+        <dc:creator opf:file-as="Eguchi, Ren &amp; Masa" opf:role="aut">Ren Eguchi</dc:creator>
+        <dc:creator opf:file-as="Eguchi, Ren &amp; Masa" opf:role="aut">Masa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-10-19T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;After conquering dungeons and finally getting some leverage over the gods ganging up on him, Mukohda sets his sights on the domestic life. With his new palatial manor fully staffed with trustworthy servants and guards, it seems like as good a time as any to focus on building up his long-neglected business of selling Japanese goods in this otherworld. But he’s suddenly found himself in the sights of an unscrupulous competitor, backed by a shady lesser noble, who is after the secrets of his luxurious soaps and hair treatments. &lt;/p&gt;
+&lt;p&gt;Without relying on the brute strength of his overpowered familiars, Mukohda’s going to have to fight fire with fire and play politics himself. But in order to prove himself, he’ll need to provide something truly valuable to grease the wheels with Earl Langridge. What happens when otherworld magic and the marvels of modern product engineering collide...?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B08FHYHXPV</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">55044424</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ren Eguchi&quot;: &quot;&quot;, &quot;Masa&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Campfire Cooking in Another World with My Absurd Skill"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-14T02:57:18.614017+00:00"/>
+        <meta name="calibre:title_sort" content="Campfire Cooking in Another World With My Absurd Skill, Vol. 08"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

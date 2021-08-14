@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">275</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f46badc2-ffe0-42ce-8c39-0485b087638c</dc:identifier>
+        <dc:title>Can Someone Please Explain What’s Going On?!, Vol. 03</dc:title>
+        <dc:creator opf:file-as="Tsuredurebana &amp; Hagiwara, Rin" opf:role="aut">Tsuredurebana</dc:creator>
+        <dc:creator opf:file-as="Tsuredurebana &amp; Hagiwara, Rin" opf:role="aut">Rin Hagiwara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-08T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;It looks like Viola and Cercis are finally starting to see eye to eye when Cercis suddenly tells her that he'll be leaving for a campaign in a neighboring kingdom. Will Viola be okay by herself in the manor while he's away? Well, maybe ‘alone’ isn’t the right word—after all, her servant friends will still be there! Or so she says. Before he leaves, though, he’s intent on taking her on one more date! Hope it doesn’t go like the last one. &lt;/p&gt;
+&lt;p&gt;Find out how our heroine fares looking after the estate while Cercis is away in volume three of Can Someone Please Explain What’s Going On!?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club (J-Novel Heart)</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B088R5Z5L3</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">54383747</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shoujo</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Tsuredurebana&quot;: &quot;&quot;, &quot;Rin Hagiwara&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Can Someone Please Explain What’s Going On?!"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2021-08-14T02:57:37.935426+00:00"/>
+        <meta name="calibre:title_sort" content="Can Someone Please Explain What’s Going On?!, Vol. 03"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

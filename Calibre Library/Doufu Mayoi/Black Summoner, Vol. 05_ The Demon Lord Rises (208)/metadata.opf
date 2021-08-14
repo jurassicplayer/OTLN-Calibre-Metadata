@@ -4,9 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">208</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">f827543c-ef58-48be-b67c-001a23173c94</dc:identifier>
         <dc:title>Black Summoner, Vol. 05: The Demon Lord Rises</dc:title>
-        <dc:creator opf:file-as="Mayoi, Doufu &amp; Taishi &amp; Kurogin" opf:role="aut">Doufu Mayoi</dc:creator>
-        <dc:creator opf:file-as="Mayoi, Doufu &amp; Taishi &amp; Kurogin" opf:role="aut">Taishi</dc:creator>
-        <dc:creator opf:file-as="Mayoi, Doufu &amp; Taishi &amp; Kurogin" opf:role="aut">Kurogin</dc:creator>
+        <dc:creator opf:file-as="Mayoi, Doufu &amp; Kurogin" opf:role="aut">Doufu Mayoi</dc:creator>
+        <dc:creator opf:file-as="Mayoi, Doufu &amp; Kurogin" opf:role="aut">Kurogin</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-07-16T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -28,7 +27,7 @@
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Romance</dc:subject>
         <dc:subject>Seinen</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Doufu Mayoi&quot;: &quot;&quot;, &quot;Taishi&quot;: &quot;&quot;, &quot;Kurogin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Doufu Mayoi&quot;: &quot;&quot;, &quot;Kurogin&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Black Summoner"/>
         <meta name="calibre:series_index" content="5"/>
         <meta name="calibre:rating" content="10"/>

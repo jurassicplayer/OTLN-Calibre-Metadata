@@ -4,9 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">88</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">e0e02923-574f-437b-b225-8c0f0ecaa03f</dc:identifier>
         <dc:title>Another World’s Zombie Apocalypse Is Not My Problem!, Vol. 01</dc:title>
-        <dc:creator opf:file-as="Yayari, Haru &amp; Fuyuki &amp; Messier, Charis" opf:role="aut">Haru Yayari</dc:creator>
-        <dc:creator opf:file-as="Yayari, Haru &amp; Fuyuki &amp; Messier, Charis" opf:role="aut">Fuyuki</dc:creator>
-        <dc:creator opf:file-as="Yayari, Haru &amp; Fuyuki &amp; Messier, Charis" opf:role="aut">Charis Messier</dc:creator>
+        <dc:creator opf:file-as="Yayari, Haru &amp; Fuyuki" opf:role="aut">Haru Yayari</dc:creator>
+        <dc:creator opf:file-as="Yayari, Haru &amp; Fuyuki" opf:role="aut">Fuyuki</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-09-08T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -29,7 +28,7 @@
         <dc:subject>Romance</dc:subject>
         <dc:subject>Supernatural</dc:subject>
         <dc:subject>Completed</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Haru Yayari&quot;: &quot;&quot;, &quot;Fuyuki&quot;: &quot;&quot;, &quot;Charis Messier&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Haru Yayari&quot;: &quot;&quot;, &quot;Fuyuki&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Another World’s Zombie Apocalypse Is Not My Problem!"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

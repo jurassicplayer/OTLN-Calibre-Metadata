@@ -4,9 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">116</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">45f096aa-f9d3-4963-b969-037b51a24d39</dc:identifier>
         <dc:title>Ascendance of a Bookworm: Part 1 Daughter of a Soldier, Vol. 01</dc:title>
-        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">Miya Kazuki</dc:creator>
-        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">You Shiina</dc:creator>
-        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">Quof</dc:creator>
+        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You" opf:role="aut">Miya Kazuki</dc:creator>
+        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You" opf:role="aut">You Shiina</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-05-20T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -27,7 +26,7 @@
         <dc:subject>Supernatural</dc:subject>
         <dc:subject>Fiction</dc:subject>
         <dc:subject>Shounen</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Miya Kazuki&quot;: &quot;&quot;, &quot;You Shiina&quot;: &quot;&quot;, &quot;Quof&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Miya Kazuki&quot;: &quot;&quot;, &quot;You Shiina&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Ascendance of a Bookworm"/>
         <meta name="calibre:series_index" content="1.10"/>
         <meta name="calibre:rating" content="8"/>

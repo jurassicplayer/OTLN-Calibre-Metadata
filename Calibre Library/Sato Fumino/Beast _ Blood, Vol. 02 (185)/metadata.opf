@@ -4,9 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">185</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">93cfd886-94e7-4d92-b803-eb1a9fbd5e7f</dc:identifier>
         <dc:title>Beast † Blood, Vol. 02</dc:title>
-        <dc:creator opf:file-as="Fumino, Sato &amp; Egawa, Akira &amp; Messier, Charis" opf:role="aut">Sato Fumino</dc:creator>
-        <dc:creator opf:file-as="Fumino, Sato &amp; Egawa, Akira &amp; Messier, Charis" opf:role="aut">Akira Egawa</dc:creator>
-        <dc:creator opf:file-as="Fumino, Sato &amp; Egawa, Akira &amp; Messier, Charis" opf:role="aut">Charis Messier</dc:creator>
+        <dc:creator opf:file-as="Fumino, Sato &amp; Egawa, Akira" opf:role="aut">Sato Fumino</dc:creator>
+        <dc:creator opf:file-as="Fumino, Sato &amp; Egawa, Akira" opf:role="aut">Akira Egawa</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-08-14T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -25,7 +24,7 @@
         <dc:subject>Romance</dc:subject>
         <dc:subject>Science Fiction</dc:subject>
         <dc:subject>Completed</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Sato Fumino&quot;: &quot;&quot;, &quot;Akira Egawa&quot;: &quot;&quot;, &quot;Charis Messier&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Sato Fumino&quot;: &quot;&quot;, &quot;Akira Egawa&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="The Beast's Mate"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>

@@ -4,9 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">181</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">fe619352-3e23-4d1f-822e-c7b173c25e2f</dc:identifier>
         <dc:title>Battle Divas, Vol. 01: The Incorruptible Battle Blossom Princess</dc:title>
-        <dc:creator opf:file-as="Kishine, Kouka &amp; Nekonabeao &amp; Prileszky, David" opf:role="aut">Kouka Kishine</dc:creator>
-        <dc:creator opf:file-as="Kishine, Kouka &amp; Nekonabeao &amp; Prileszky, David" opf:role="aut">Nekonabeao</dc:creator>
-        <dc:creator opf:file-as="Kishine, Kouka &amp; Nekonabeao &amp; Prileszky, David" opf:role="aut">David Prileszky</dc:creator>
+        <dc:creator opf:file-as="Kishine, Kouka &amp; Nekonabeao" opf:role="aut">Kouka Kishine</dc:creator>
+        <dc:creator opf:file-as="Kishine, Kouka &amp; Nekonabeao" opf:role="aut">Nekonabeao</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-04-30T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -26,7 +25,7 @@
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Romance</dc:subject>
         <dc:subject>Shounen</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Kouka Kishine&quot;: &quot;&quot;, &quot;Nekonabeao&quot;: &quot;&quot;, &quot;David Prileszky&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Kouka Kishine&quot;: &quot;&quot;, &quot;Nekonabeao&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Battle Divas"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="6"/>

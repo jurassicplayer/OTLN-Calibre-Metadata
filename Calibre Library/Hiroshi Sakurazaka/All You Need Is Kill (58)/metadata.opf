@@ -4,8 +4,7 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">58</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">5901990d-5d24-4d43-9e75-e7c2feb7fea3</dc:identifier>
         <dc:title>All You Need Is Kill</dc:title>
-        <dc:creator opf:file-as="Sakurazaka, Hiroshi &amp; Smith, Alexander O." opf:role="aut">Hiroshi Sakurazaka</dc:creator>
-        <dc:creator opf:file-as="Sakurazaka, Hiroshi &amp; Smith, Alexander O." opf:role="aut">Alexander O. Smith</dc:creator>
+        <dc:creator opf:file-as="Sakurazaka, Hiroshi" opf:role="aut">Hiroshi Sakurazaka</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2009-07-21T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -28,7 +27,7 @@
         <dc:subject>Mecha</dc:subject>
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Science Fiction</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Hiroshi Sakurazaka&quot;: &quot;&quot;, &quot;Alexander O. Smith&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Hiroshi Sakurazaka&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2021-05-10T07:45:58+00:00"/>
         <meta name="calibre:title_sort" content="All You Need Is Kill"/>

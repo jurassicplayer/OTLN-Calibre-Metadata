@@ -4,9 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">70</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">91676bc6-d813-4a65-bbfa-ee025f19758e</dc:identifier>
         <dc:title>Amagi Brilliant Park, Vol. 07</dc:title>
-        <dc:creator opf:file-as="Gatou, Shouji &amp; Nakajima, Yuka &amp; Ellis, Elizabeth" opf:role="aut">Shouji Gatou</dc:creator>
-        <dc:creator opf:file-as="Gatou, Shouji &amp; Nakajima, Yuka &amp; Ellis, Elizabeth" opf:role="aut">Yuka Nakajima</dc:creator>
-        <dc:creator opf:file-as="Gatou, Shouji &amp; Nakajima, Yuka &amp; Ellis, Elizabeth" opf:role="aut">Elizabeth Ellis</dc:creator>
+        <dc:creator opf:file-as="Gatou, Shouji &amp; Nakajima, Yuka" opf:role="aut">Shouji Gatou</dc:creator>
+        <dc:creator opf:file-as="Gatou, Shouji &amp; Nakajima, Yuka" opf:role="aut">Yuka Nakajima</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-09-17T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -26,7 +25,7 @@
         <dc:subject>Fiction</dc:subject>
         <dc:subject>Shounen</dc:subject>
         <dc:subject>Hiatus</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Shouji Gatou&quot;: &quot;&quot;, &quot;Yuka Nakajima&quot;: &quot;&quot;, &quot;Elizabeth Ellis&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Shouji Gatou&quot;: &quot;&quot;, &quot;Yuka Nakajima&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Amagi Brilliant Park"/>
         <meta name="calibre:series_index" content="7"/>
         <meta name="calibre:rating" content="6"/>

@@ -4,10 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">26</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">6c068c69-c3e9-4149-ae98-66d532f09ebe</dc:identifier>
         <dc:title>A Wild Last Boss Appeared!, Vol. 03</dc:title>
-        <dc:creator opf:file-as="Firehead &amp; YahaKo &amp; Chen, Kevin &amp; Townsend, Kathleen" opf:role="aut">Firehead</dc:creator>
-        <dc:creator opf:file-as="Firehead &amp; YahaKo &amp; Chen, Kevin &amp; Townsend, Kathleen" opf:role="aut">YahaKo</dc:creator>
-        <dc:creator opf:file-as="Firehead &amp; YahaKo &amp; Chen, Kevin &amp; Townsend, Kathleen" opf:role="aut">Kevin Chen</dc:creator>
-        <dc:creator opf:file-as="Firehead &amp; YahaKo &amp; Chen, Kevin &amp; Townsend, Kathleen" opf:role="aut">Kathleen Townsend</dc:creator>
+        <dc:creator opf:file-as="Firehead &amp; YahaKo" opf:role="aut">Firehead</dc:creator>
+        <dc:creator opf:file-as="Firehead &amp; YahaKo" opf:role="aut">YahaKo</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-01-11T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -29,7 +27,7 @@
         <dc:subject>Supernatural</dc:subject>
         <dc:subject>Fiction</dc:subject>
         <dc:subject>Shounen</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Firehead&quot;: &quot;&quot;, &quot;YahaKo&quot;: &quot;&quot;, &quot;Kevin Chen&quot;: &quot;&quot;, &quot;Kathleen Townsend&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Firehead&quot;: &quot;&quot;, &quot;YahaKo&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="A Wild Last Boss Appeared!"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="8"/>

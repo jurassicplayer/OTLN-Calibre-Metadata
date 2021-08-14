@@ -4,9 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">188</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">c2d8ef81-699c-4841-b12f-8e2e46ee6714</dc:identifier>
         <dc:title>Beatless, Vol. 02</dc:title>
-        <dc:creator opf:file-as="Hase, Satoshi &amp; Redjuice &amp; Gessel, Ben" opf:role="aut">Satoshi Hase</dc:creator>
-        <dc:creator opf:file-as="Hase, Satoshi &amp; Redjuice &amp; Gessel, Ben" opf:role="aut">Redjuice</dc:creator>
-        <dc:creator opf:file-as="Hase, Satoshi &amp; Redjuice &amp; Gessel, Ben" opf:role="aut">Ben Gessel</dc:creator>
+        <dc:creator opf:file-as="Hase, Satoshi &amp; Redjuice" opf:role="aut">Satoshi Hase</dc:creator>
+        <dc:creator opf:file-as="Hase, Satoshi &amp; Redjuice" opf:role="aut">Redjuice</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-04-28T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -27,7 +26,7 @@
         <dc:subject>Science Fiction</dc:subject>
         <dc:subject>Seinen</dc:subject>
         <dc:subject>Completed</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Satoshi Hase&quot;: &quot;&quot;, &quot;Redjuice&quot;: &quot;&quot;, &quot;Ben Gessel&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Satoshi Hase&quot;: &quot;&quot;, &quot;Redjuice&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Beatless"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:timestamp" content="2021-08-10T03:02:51+00:00"/>

@@ -4,9 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">117</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">06dd2783-1581-457d-93a5-156780964905</dc:identifier>
         <dc:title>Ascendance of a Bookworm: Part 3 Adopted Daughter of an Archduke, Vol. 04</dc:title>
-        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">Miya Kazuki</dc:creator>
-        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">You Shiina</dc:creator>
-        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You &amp; Quof" opf:role="aut">Quof</dc:creator>
+        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You" opf:role="aut">Miya Kazuki</dc:creator>
+        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You" opf:role="aut">You Shiina</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-03-08T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -31,7 +30,7 @@
         <dc:subject>Light Novel</dc:subject>
         <dc:subject>Fiction</dc:subject>
         <dc:subject>Shounen</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Miya Kazuki&quot;: &quot;&quot;, &quot;You Shiina&quot;: &quot;&quot;, &quot;Quof&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Miya Kazuki&quot;: &quot;&quot;, &quot;You Shiina&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Ascendance of a Bookworm"/>
         <meta name="calibre:series_index" content="3.40"/>
         <meta name="calibre:rating" content="8"/>

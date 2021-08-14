@@ -4,9 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">56</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">50e40996-40e0-4498-91f1-b5f0c6cffaba</dc:identifier>
         <dc:title>Akaoni: Contract With a Vampire</dc:title>
-        <dc:creator opf:file-as="Hiroro &amp; mokoppe &amp; Messier, Charis" opf:role="aut">Hiroro</dc:creator>
-        <dc:creator opf:file-as="Hiroro &amp; mokoppe &amp; Messier, Charis" opf:role="aut">mokoppe</dc:creator>
-        <dc:creator opf:file-as="Hiroro &amp; mokoppe &amp; Messier, Charis" opf:role="aut">Charis Messier</dc:creator>
+        <dc:creator opf:file-as="Hiroro &amp; mokoppe" opf:role="aut">Hiroro</dc:creator>
+        <dc:creator opf:file-as="Hiroro &amp; mokoppe" opf:role="aut">mokoppe</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-07-31T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -25,7 +24,7 @@
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Light Novel</dc:subject>
         <dc:subject>Fiction</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Hiroro&quot;: &quot;&quot;, &quot;mokoppe&quot;: &quot;&quot;, &quot;Charis Messier&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Hiroro&quot;: &quot;&quot;, &quot;mokoppe&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2021-05-10T07:26:51+00:00"/>
         <meta name="calibre:title_sort" content="Akaoni: Contract With a Vampire"/>

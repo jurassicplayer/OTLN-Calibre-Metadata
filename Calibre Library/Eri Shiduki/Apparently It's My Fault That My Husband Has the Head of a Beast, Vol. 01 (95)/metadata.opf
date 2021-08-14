@@ -4,9 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">95</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">2e29850d-92b6-4041-854f-df64b94d7078</dc:identifier>
         <dc:title>Apparently It's My Fault That My Husband Has the Head of a Beast, Vol. 01</dc:title>
-        <dc:creator opf:file-as="Shiduki, Eri &amp; Nagi, Kasumi &amp; Evelyn, David" opf:role="aut">Eri Shiduki</dc:creator>
-        <dc:creator opf:file-as="Shiduki, Eri &amp; Nagi, Kasumi &amp; Evelyn, David" opf:role="aut">Kasumi Nagi</dc:creator>
-        <dc:creator opf:file-as="Shiduki, Eri &amp; Nagi, Kasumi &amp; Evelyn, David" opf:role="aut">David Evelyn</dc:creator>
+        <dc:creator opf:file-as="Shiduki, Eri &amp; Nagi, Kasumi" opf:role="aut">Eri Shiduki</dc:creator>
+        <dc:creator opf:file-as="Shiduki, Eri &amp; Nagi, Kasumi" opf:role="aut">Kasumi Nagi</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-11-22T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -27,7 +26,7 @@
         <dc:subject>Comedy</dc:subject>
         <dc:subject>Fiction</dc:subject>
         <dc:subject>Shoujo</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Eri Shiduki&quot;: &quot;&quot;, &quot;Kasumi Nagi&quot;: &quot;&quot;, &quot;David Evelyn&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Eri Shiduki&quot;: &quot;&quot;, &quot;Kasumi Nagi&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Apparently it's My Fault That My Husband Has The Head of a Beast"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="6"/>

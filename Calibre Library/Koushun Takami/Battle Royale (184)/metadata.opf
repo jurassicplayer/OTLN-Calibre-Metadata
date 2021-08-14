@@ -4,8 +4,7 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">184</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">e69e4fb8-4098-4e2b-90a1-0ab0a6223541</dc:identifier>
         <dc:title>Battle Royale</dc:title>
-        <dc:creator opf:file-as="Takami, Koushun &amp; Oniki, Yuji" opf:role="aut">Koushun Takami</dc:creator>
-        <dc:creator opf:file-as="Takami, Koushun &amp; Oniki, Yuji" opf:role="aut">Yuji Oniki</dc:creator>
+        <dc:creator opf:file-as="Takami, Koushun" opf:role="aut">Koushun Takami</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2003-02-26T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -25,7 +24,7 @@
         <dc:subject>Science Fiction</dc:subject>
         <dc:subject>Seinen</dc:subject>
         <dc:subject>Thriller</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Koushun Takami&quot;: &quot;&quot;, &quot;Yuji Oniki&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Koushun Takami&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2021-08-09T06:08:29+00:00"/>
         <meta name="calibre:title_sort" content="Battle Royale"/>

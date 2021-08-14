@@ -4,9 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">94</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">f0ef35e1-6519-46a7-a8f0-507b40813468</dc:identifier>
         <dc:title>Ao Oni, Vol. 02: Vengeance</dc:title>
-        <dc:creator opf:file-as="Kuroda, Kenji &amp; Suzuragi, Karin &amp; Keller-Nelson, Alexander" opf:role="aut">Kenji Kuroda</dc:creator>
-        <dc:creator opf:file-as="Kuroda, Kenji &amp; Suzuragi, Karin &amp; Keller-Nelson, Alexander" opf:role="aut">Karin Suzuragi</dc:creator>
-        <dc:creator opf:file-as="Kuroda, Kenji &amp; Suzuragi, Karin &amp; Keller-Nelson, Alexander" opf:role="aut">Alexander Keller-Nelson</dc:creator>
+        <dc:creator opf:file-as="Kuroda, Kenji &amp; Suzuragi, Karin" opf:role="aut">Kenji Kuroda</dc:creator>
+        <dc:creator opf:file-as="Kuroda, Kenji &amp; Suzuragi, Karin" opf:role="aut">Karin Suzuragi</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-03-23T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -21,7 +20,7 @@
         <dc:subject>Completed</dc:subject>
         <dc:subject>Fiction</dc:subject>
         <dc:subject>Shounen</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Kenji Kuroda&quot;: &quot;&quot;, &quot;Karin Suzuragi&quot;: &quot;&quot;, &quot;Alexander Keller-Nelson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Kenji Kuroda&quot;: &quot;&quot;, &quot;Karin Suzuragi&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Ao Oni"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="6"/>

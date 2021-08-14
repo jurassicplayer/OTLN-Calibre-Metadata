@@ -4,9 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">165</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">b2926196-9c18-4572-b7b7-0828db240fbf</dc:identifier>
         <dc:title>Altina the Sword Princess, Vol. 08</dc:title>
-        <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz &amp; Nukia, Roy" opf:role="aut">Yukiya Murasaki</dc:creator>
-        <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz &amp; Nukia, Roy" opf:role="aut">himesuz</dc:creator>
-        <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz &amp; Nukia, Roy" opf:role="aut">Roy Nukia</dc:creator>
+        <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz" opf:role="aut">Yukiya Murasaki</dc:creator>
+        <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz" opf:role="aut">himesuz</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-05-04T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -31,7 +30,7 @@
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Romance</dc:subject>
         <dc:subject>Shounen</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Yukiya Murasaki&quot;: &quot;&quot;, &quot;himesuz&quot;: &quot;&quot;, &quot;Roy Nukia&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Yukiya Murasaki&quot;: &quot;&quot;, &quot;himesuz&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Altina the Sword Princess"/>
         <meta name="calibre:series_index" content="8"/>
         <meta name="calibre:rating" content="8"/>

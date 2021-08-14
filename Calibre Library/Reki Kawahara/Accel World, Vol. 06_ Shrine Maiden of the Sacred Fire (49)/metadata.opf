@@ -4,9 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">8022ae1c-afab-4383-a7bf-aba4017e494d</dc:identifier>
         <dc:title>Accel World, Vol. 06: Shrine Maiden of the Sacred Fire</dc:title>
-        <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">Reki Kawahara</dc:creator>
-        <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">HiMA</dc:creator>
-        <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">Jocelyne Allen</dc:creator>
+        <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA" opf:role="aut">Reki Kawahara</dc:creator>
+        <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA" opf:role="aut">HiMA</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-03-22T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -26,7 +25,7 @@
         <dc:subject>School Life</dc:subject>
         <dc:subject>Science Fiction</dc:subject>
         <dc:subject>Shounen</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Reki Kawahara&quot;: &quot;&quot;, &quot;HiMA&quot;: &quot;&quot;, &quot;Jocelyne Allen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Reki Kawahara&quot;: &quot;&quot;, &quot;HiMA&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Accel World"/>
         <meta name="calibre:series_index" content="6"/>
         <meta name="calibre:rating" content="8"/>

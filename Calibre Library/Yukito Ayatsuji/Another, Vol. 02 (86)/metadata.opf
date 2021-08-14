@@ -4,8 +4,7 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">86</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">1fdbd355-0d17-4442-a928-7188c6df59ad</dc:identifier>
         <dc:title>Another, Vol. 02</dc:title>
-        <dc:creator opf:file-as="Ayatsuji, Yukito &amp; McGillicuddy, Karen" opf:role="aut">Yukito Ayatsuji</dc:creator>
-        <dc:creator opf:file-as="Ayatsuji, Yukito &amp; McGillicuddy, Karen" opf:role="aut">Karen McGillicuddy</dc:creator>
+        <dc:creator opf:file-as="Ayatsuji, Yukito" opf:role="aut">Yukito Ayatsuji</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-07-23T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -23,7 +22,7 @@
         <dc:subject>Supernatural</dc:subject>
         <dc:subject>Completed</dc:subject>
         <dc:subject>Seinen</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Yukito Ayatsuji&quot;: &quot;&quot;, &quot;Karen McGillicuddy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Yukito Ayatsuji&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Another"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>

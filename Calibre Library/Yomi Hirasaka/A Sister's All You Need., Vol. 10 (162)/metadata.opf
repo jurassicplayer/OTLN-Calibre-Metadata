@@ -4,9 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">162</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">52c33203-afe7-4357-a168-c00acec3f9cc</dc:identifier>
         <dc:title>A Sister's All You Need., Vol. 10</dc:title>
-        <dc:creator opf:file-as="Hirasaka, Yomi &amp; Kantoku &amp; Gifford, Kevin" opf:role="aut">Yomi Hirasaka</dc:creator>
-        <dc:creator opf:file-as="Hirasaka, Yomi &amp; Kantoku &amp; Gifford, Kevin" opf:role="aut">Kantoku</dc:creator>
-        <dc:creator opf:file-as="Hirasaka, Yomi &amp; Kantoku &amp; Gifford, Kevin" opf:role="aut">Kevin Gifford</dc:creator>
+        <dc:creator opf:file-as="Hirasaka, Yomi &amp; Kantoku" opf:role="aut">Yomi Hirasaka</dc:creator>
+        <dc:creator opf:file-as="Hirasaka, Yomi &amp; Kantoku" opf:role="aut">Kantoku</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-06-29T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -24,7 +23,7 @@
         <dc:subject>Romance</dc:subject>
         <dc:subject>Slice of Life</dc:subject>
         <dc:subject>Seinen</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Yomi Hirasaka&quot;: &quot;&quot;, &quot;Kantoku&quot;: &quot;&quot;, &quot;Kevin Gifford&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Yomi Hirasaka&quot;: &quot;&quot;, &quot;Kantoku&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="A Sister's All You Need."/>
         <meta name="calibre:series_index" content="10"/>
         <meta name="calibre:rating" content="8"/>

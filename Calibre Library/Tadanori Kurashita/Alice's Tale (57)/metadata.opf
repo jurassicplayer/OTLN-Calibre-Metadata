@@ -4,11 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">57</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">dab91a9f-e4b3-4556-b343-f45a2f8a655b</dc:identifier>
         <dc:title>Alice's Tale</dc:title>
-        <dc:creator opf:file-as="Kurashita, Tadanori &amp; POYOYON♥ROCK &amp; Fujii, Taiyo &amp; Noyes, Braden &amp; Suzuki, Mami" opf:role="aut">Tadanori Kurashita</dc:creator>
-        <dc:creator opf:file-as="Kurashita, Tadanori &amp; POYOYON♥ROCK &amp; Fujii, Taiyo &amp; Noyes, Braden &amp; Suzuki, Mami" opf:role="aut">POYOYON♥ROCK</dc:creator>
-        <dc:creator opf:file-as="Kurashita, Tadanori &amp; POYOYON♥ROCK &amp; Fujii, Taiyo &amp; Noyes, Braden &amp; Suzuki, Mami" opf:role="aut">Taiyo Fujii</dc:creator>
-        <dc:creator opf:file-as="Kurashita, Tadanori &amp; POYOYON♥ROCK &amp; Fujii, Taiyo &amp; Noyes, Braden &amp; Suzuki, Mami" opf:role="aut">Braden Noyes</dc:creator>
-        <dc:creator opf:file-as="Kurashita, Tadanori &amp; POYOYON♥ROCK &amp; Fujii, Taiyo &amp; Noyes, Braden &amp; Suzuki, Mami" opf:role="aut">Mami Suzuki</dc:creator>
+        <dc:creator opf:file-as="Kurashita, Tadanori &amp; POYOYON♥ROCK" opf:role="aut">Tadanori Kurashita</dc:creator>
+        <dc:creator opf:file-as="Kurashita, Tadanori &amp; POYOYON♥ROCK" opf:role="aut">POYOYON♥ROCK</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-01-01T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -22,7 +19,7 @@
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Completed</dc:subject>
         <dc:subject>Fiction</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Tadanori Kurashita&quot;: &quot;&quot;, &quot;POYOYON♥ROCK&quot;: &quot;&quot;, &quot;Taiyo Fujii&quot;: &quot;&quot;, &quot;Braden Noyes&quot;: &quot;&quot;, &quot;Mami Suzuki&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Tadanori Kurashita&quot;: &quot;&quot;, &quot;POYOYON♥ROCK&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="6"/>
         <meta name="calibre:timestamp" content="2021-05-10T07:38:43+00:00"/>
         <meta name="calibre:title_sort" content="Alice's Tale"/>

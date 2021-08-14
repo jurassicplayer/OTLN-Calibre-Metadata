@@ -4,9 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">45</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">a67181ac-aab0-4427-9e39-493d9d13a66d</dc:identifier>
         <dc:title>Accel World, Vol. 13: Signal Fire at the Water's Edge</dc:title>
-        <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">Reki Kawahara</dc:creator>
-        <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">HiMA</dc:creator>
-        <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA &amp; Allen, Jocelyne" opf:role="aut">Jocelyne Allen</dc:creator>
+        <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA" opf:role="aut">Reki Kawahara</dc:creator>
+        <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA" opf:role="aut">HiMA</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-04-10T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -27,7 +26,7 @@
         <dc:subject>School Life</dc:subject>
         <dc:subject>Science Fiction</dc:subject>
         <dc:subject>Shounen</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Reki Kawahara&quot;: &quot;&quot;, &quot;HiMA&quot;: &quot;&quot;, &quot;Jocelyne Allen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Reki Kawahara&quot;: &quot;&quot;, &quot;HiMA&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Accel World"/>
         <meta name="calibre:series_index" content="13"/>
         <meta name="calibre:rating" content="10"/>

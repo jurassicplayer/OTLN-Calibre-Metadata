@@ -4,9 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">169</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">4f447370-c1f3-45c3-aea7-b89339060a97</dc:identifier>
         <dc:title>Accomplishments of the Duke's Daughter, Vol. 02</dc:title>
-        <dc:creator opf:file-as="Reia &amp; Futaba, Hazuki &amp; Keller-Nelson, Alexander" opf:role="aut">Reia</dc:creator>
-        <dc:creator opf:file-as="Reia &amp; Futaba, Hazuki &amp; Keller-Nelson, Alexander" opf:role="aut">Hazuki Futaba</dc:creator>
-        <dc:creator opf:file-as="Reia &amp; Futaba, Hazuki &amp; Keller-Nelson, Alexander" opf:role="aut">Alexander Keller-Nelson</dc:creator>
+        <dc:creator opf:file-as="Reia &amp; Futaba, Hazuki" opf:role="aut">Reia</dc:creator>
+        <dc:creator opf:file-as="Reia &amp; Futaba, Hazuki" opf:role="aut">Hazuki Futaba</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-09-07T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -23,7 +22,7 @@
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Politics</dc:subject>
         <dc:subject>Romance</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Reia&quot;: &quot;&quot;, &quot;Hazuki Futaba&quot;: &quot;&quot;, &quot;Alexander Keller-Nelson&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Reia&quot;: &quot;&quot;, &quot;Hazuki Futaba&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Accomplishments of the Duke’s Daughter"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>

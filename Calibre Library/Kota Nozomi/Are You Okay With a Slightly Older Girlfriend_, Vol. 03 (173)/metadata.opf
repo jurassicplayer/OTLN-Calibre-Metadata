@@ -4,9 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">173</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">c9b6934d-0a9a-40d3-aacf-0b8961e5de47</dc:identifier>
         <dc:title>Are You Okay With a Slightly Older Girlfriend?, Vol. 03</dc:title>
-        <dc:creator opf:file-as="Nozomi, Kota &amp; Nanasemeruchi &amp; Orth, Sean" opf:role="aut">Kota Nozomi</dc:creator>
-        <dc:creator opf:file-as="Nozomi, Kota &amp; Nanasemeruchi &amp; Orth, Sean" opf:role="aut">Nanasemeruchi</dc:creator>
-        <dc:creator opf:file-as="Nozomi, Kota &amp; Nanasemeruchi &amp; Orth, Sean" opf:role="aut">Sean Orth</dc:creator>
+        <dc:creator opf:file-as="Nozomi, Kota &amp; Nanasemeruchi" opf:role="aut">Kota Nozomi</dc:creator>
+        <dc:creator opf:file-as="Nozomi, Kota &amp; Nanasemeruchi" opf:role="aut">Nanasemeruchi</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-06-15T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -25,7 +24,7 @@
         <dc:subject>Romance</dc:subject>
         <dc:subject>Slice of Life</dc:subject>
         <dc:subject>Shounen</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Kota Nozomi&quot;: &quot;&quot;, &quot;Nanasemeruchi&quot;: &quot;&quot;, &quot;Sean Orth&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Kota Nozomi&quot;: &quot;&quot;, &quot;Nanasemeruchi&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Are You Okay With a Slightly Older Girlfriend?"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="6"/>

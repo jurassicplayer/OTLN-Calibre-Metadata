@@ -4,18 +4,17 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">241</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">6dbdf874-c6ed-42fc-902f-afa14842db66</dc:identifier>
         <dc:title>Book Girl, Vol. 08: Book Girl and the Scribe Who Faced God, Part 2</dc:title>
-        <dc:creator opf:file-as="Nomura, Mizuki &amp; Takeoka, Miho &amp; McGillicuddy, Karen" opf:role="aut">Mizuki Nomura</dc:creator>
-        <dc:creator opf:file-as="Nomura, Mizuki &amp; Takeoka, Miho &amp; McGillicuddy, Karen" opf:role="aut">Miho Takeoka</dc:creator>
-        <dc:creator opf:file-as="Nomura, Mizuki &amp; Takeoka, Miho &amp; McGillicuddy, Karen" opf:role="aut">Karen McGillicuddy</dc:creator>
+        <dc:creator opf:file-as="Nomura, Mizuki &amp; Takeoka, Miho" opf:role="aut">Mizuki Nomura</dc:creator>
+        <dc:creator opf:file-as="Nomura, Mizuki &amp; Takeoka, Miho" opf:role="aut">Miho Takeoka</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-01-21T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;"I am Tohko Amano. As you can see, I am a book girl."&lt;/p&gt;
 &lt;p&gt;"You don't have to write. I'll stay with you." Nanase's words may have saved Konoha, but Ryuto's words only trouble his heart once more: "I might break Kotobuki." And just after, Tohko vanishes. All that remains in her empty house is a shredded school uniform. Can Konoha follow her? What answer will he find as the truth gradually comes to light? Tohko's prayer, Kanako's hatred, Ryuto's anguish - the story hidden at the root of them all is about to be revealed! The bold final episode of &lt;em&gt;Book Girl&lt;/em&gt;!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Yen Press (Yen On)</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9780316076982</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B00CO7FKNY</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">17899344</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780316076982</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Completed</dc:subject>
         <dc:subject>Fantasy</dc:subject>
@@ -25,11 +24,11 @@
         <dc:subject>Mystery</dc:subject>
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Romance</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Mizuki Nomura&quot;: &quot;&quot;, &quot;Miho Takeoka&quot;: &quot;&quot;, &quot;Karen McGillicuddy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Mizuki Nomura&quot;: &quot;&quot;, &quot;Miho Takeoka&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Book Girl"/>
         <meta name="calibre:series_index" content="8"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-08-12T06:02:02.439261+00:00"/>
+        <meta name="calibre:timestamp" content="2021-08-12T06:02:02+00:00"/>
         <meta name="calibre:title_sort" content="Book Girl, Vol. 08: Book Girl and the Scribe Who Faced God, Part 2"/>
     </metadata>
     <guide>

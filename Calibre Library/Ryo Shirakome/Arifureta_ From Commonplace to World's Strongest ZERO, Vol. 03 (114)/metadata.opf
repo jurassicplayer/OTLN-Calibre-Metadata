@@ -4,9 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">114</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">b34a5a67-2f91-4331-a924-05d4bf78df01</dc:identifier>
         <dc:title>Arifureta: From Commonplace to World's Strongest ZERO, Vol. 03</dc:title>
-        <dc:creator opf:file-as="Shirakome, Ryo &amp; Takaya-Ki &amp; Ningen" opf:role="aut">Ryo Shirakome</dc:creator>
-        <dc:creator opf:file-as="Shirakome, Ryo &amp; Takaya-Ki &amp; Ningen" opf:role="aut">Takaya-Ki</dc:creator>
-        <dc:creator opf:file-as="Shirakome, Ryo &amp; Takaya-Ki &amp; Ningen" opf:role="aut">Ningen</dc:creator>
+        <dc:creator opf:file-as="Shirakome, Ryo &amp; Takaya-Ki" opf:role="aut">Ryo Shirakome</dc:creator>
+        <dc:creator opf:file-as="Shirakome, Ryo &amp; Takaya-Ki" opf:role="aut">Takaya-Ki</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-11-16T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -27,7 +26,7 @@
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Fiction</dc:subject>
         <dc:subject>Shounen</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Ryo Shirakome&quot;: &quot;&quot;, &quot;Takaya-Ki&quot;: &quot;&quot;, &quot;Ningen&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Ryo Shirakome&quot;: &quot;&quot;, &quot;Takaya-Ki&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Arifureta: From Commonplace to World's Strongest ZERO"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="8"/>

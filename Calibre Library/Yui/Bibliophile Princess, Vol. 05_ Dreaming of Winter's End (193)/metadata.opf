@@ -4,9 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">193</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">bd5598e3-ed65-4968-833f-ca1c0d2efa86</dc:identifier>
         <dc:title>Bibliophile Princess, Vol. 05: Dreaming of Winter's End</dc:title>
-        <dc:creator opf:file-as="Yui &amp; Sheena, Satsuki &amp; Niioka, Alyssa" opf:role="aut">Yui</dc:creator>
-        <dc:creator opf:file-as="Yui &amp; Sheena, Satsuki &amp; Niioka, Alyssa" opf:role="aut">Satsuki Sheena</dc:creator>
-        <dc:creator opf:file-as="Yui &amp; Sheena, Satsuki &amp; Niioka, Alyssa" opf:role="aut">Alyssa Niioka</dc:creator>
+        <dc:creator opf:file-as="Yui &amp; Sheena, Satsuki" opf:role="aut">Yui</dc:creator>
+        <dc:creator opf:file-as="Yui &amp; Sheena, Satsuki" opf:role="aut">Satsuki Sheena</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-03-21T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -22,7 +21,7 @@
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Shoujo</dc:subject>
         <dc:subject>Politics</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Yui&quot;: &quot;&quot;, &quot;Satsuki Sheena&quot;: &quot;&quot;, &quot;Alyssa Niioka&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Yui&quot;: &quot;&quot;, &quot;Satsuki Sheena&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Bibliophile Princess"/>
         <meta name="calibre:series_index" content="5"/>
         <meta name="calibre:rating" content="8"/>

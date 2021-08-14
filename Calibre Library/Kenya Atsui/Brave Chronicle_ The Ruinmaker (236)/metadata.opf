@@ -4,9 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">236</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">7989e894-bd42-40b3-9726-3c559ef5e9c6</dc:identifier>
         <dc:title>Brave Chronicle: The Ruinmaker</dc:title>
-        <dc:creator opf:file-as="Atsui, Kenya &amp; Toyota, Saori &amp; Luffey, Dan" opf:role="aut">Kenya Atsui</dc:creator>
-        <dc:creator opf:file-as="Atsui, Kenya &amp; Toyota, Saori &amp; Luffey, Dan" opf:role="aut">Saori Toyota</dc:creator>
-        <dc:creator opf:file-as="Atsui, Kenya &amp; Toyota, Saori &amp; Luffey, Dan" opf:role="aut">Dan Luffey</dc:creator>
+        <dc:creator opf:file-as="Atsui, Kenya &amp; Toyota, Saori" opf:role="aut">Kenya Atsui</dc:creator>
+        <dc:creator opf:file-as="Atsui, Kenya &amp; Toyota, Saori" opf:role="aut">Saori Toyota</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-12-03T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -25,9 +24,9 @@
         <dc:subject>Magic</dc:subject>
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Shounen</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Kenya Atsui&quot;: &quot;&quot;, &quot;Saori Toyota&quot;: &quot;&quot;, &quot;Dan Luffey&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Kenya Atsui&quot;: &quot;&quot;, &quot;Saori Toyota&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="4"/>
-        <meta name="calibre:timestamp" content="2021-08-12T04:56:24.829559+00:00"/>
+        <meta name="calibre:timestamp" content="2021-08-12T04:56:24+00:00"/>
         <meta name="calibre:title_sort" content="Brave Chronicle: The Ruinmaker"/>
     </metadata>
     <guide>

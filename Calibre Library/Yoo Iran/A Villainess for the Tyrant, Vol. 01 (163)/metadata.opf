@@ -4,9 +4,7 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">163</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">af6842e4-aeb7-4a00-ad70-726481364283</dc:identifier>
         <dc:title>A Villainess for the Tyrant, Vol. 01</dc:title>
-        <dc:creator opf:file-as="Iran, Yoo &amp; Piper, R. A. &amp; Song, David" opf:role="aut">Yoo Iran</dc:creator>
-        <dc:creator opf:file-as="Iran, Yoo &amp; Piper, R. A. &amp; Song, David" opf:role="aut">R. A. Piper</dc:creator>
-        <dc:creator opf:file-as="Iran, Yoo &amp; Piper, R. A. &amp; Song, David" opf:role="aut">David Song</dc:creator>
+        <dc:creator opf:file-as="Iran, Yoo" opf:role="aut">Yoo Iran</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-08-02T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -25,7 +23,7 @@
         <dc:subject>Light Novel</dc:subject>
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Romance</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Yoo Iran&quot;: &quot;&quot;, &quot;R. A. Piper&quot;: &quot;&quot;, &quot;David Song&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Yoo Iran&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="A Villainess for the Tyrant"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="10"/>

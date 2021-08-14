@@ -4,10 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">217</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">57d6fe45-4e61-4f69-8b4d-766e7616a26c</dc:identifier>
         <dc:title>Bluesteel Blasphemer, Vol. 01</dc:title>
-        <dc:creator opf:file-as="Sakaki, Ichirou &amp; Akai, Tera &amp; Rushton, James &amp; Steinbach, Kevin" opf:role="aut">Ichirou Sakaki</dc:creator>
-        <dc:creator opf:file-as="Sakaki, Ichirou &amp; Akai, Tera &amp; Rushton, James &amp; Steinbach, Kevin" opf:role="aut">Tera Akai</dc:creator>
-        <dc:creator opf:file-as="Sakaki, Ichirou &amp; Akai, Tera &amp; Rushton, James &amp; Steinbach, Kevin" opf:role="aut">James Rushton</dc:creator>
-        <dc:creator opf:file-as="Sakaki, Ichirou &amp; Akai, Tera &amp; Rushton, James &amp; Steinbach, Kevin" opf:role="aut">Kevin Steinbach</dc:creator>
+        <dc:creator opf:file-as="Sakaki, Ichirou &amp; Akai, Tera" opf:role="aut">Ichirou Sakaki</dc:creator>
+        <dc:creator opf:file-as="Sakaki, Ichirou &amp; Akai, Tera" opf:role="aut">Tera Akai</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-05-14T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -28,7 +26,7 @@
         <dc:subject>Science Fiction</dc:subject>
         <dc:subject>Harem</dc:subject>
         <dc:subject>Shounen</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Ichirou Sakaki&quot;: &quot;&quot;, &quot;Tera Akai&quot;: &quot;&quot;, &quot;James Rushton&quot;: &quot;&quot;, &quot;Kevin Steinbach&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Ichirou Sakaki&quot;: &quot;&quot;, &quot;Tera Akai&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Bluesteel Blasphemer"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="6"/>

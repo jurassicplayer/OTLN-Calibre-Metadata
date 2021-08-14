@@ -4,9 +4,8 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">204</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">3ae4ea71-a83e-46d5-8ce7-4f119d4b277d</dc:identifier>
         <dc:title>Black Summoner, Vol. 01: The Bound Demon</dc:title>
-        <dc:creator opf:file-as="Mayoi, Doufu &amp; Kurogin &amp; Taishi" opf:role="aut">Doufu Mayoi</dc:creator>
-        <dc:creator opf:file-as="Mayoi, Doufu &amp; Kurogin &amp; Taishi" opf:role="aut">Kurogin</dc:creator>
-        <dc:creator opf:file-as="Mayoi, Doufu &amp; Kurogin &amp; Taishi" opf:role="aut">Taishi</dc:creator>
+        <dc:creator opf:file-as="Mayoi, Doufu &amp; Kurogin" opf:role="aut">Doufu Mayoi</dc:creator>
+        <dc:creator opf:file-as="Mayoi, Doufu &amp; Kurogin" opf:role="aut">Kurogin</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-09-09T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -26,7 +25,7 @@
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Romance</dc:subject>
         <dc:subject>Seinen</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Doufu Mayoi&quot;: &quot;&quot;, &quot;Kurogin&quot;: &quot;&quot;, &quot;Taishi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Doufu Mayoi&quot;: &quot;&quot;, &quot;Kurogin&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Black Summoner"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

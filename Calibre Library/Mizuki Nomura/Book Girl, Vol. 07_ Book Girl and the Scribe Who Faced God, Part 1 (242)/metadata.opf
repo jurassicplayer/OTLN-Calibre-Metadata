@@ -4,17 +4,16 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">242</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">1a973f55-5955-47a1-9552-3e909dedf72b</dc:identifier>
         <dc:title>Book Girl, Vol. 07: Book Girl and the Scribe Who Faced God, Part 1</dc:title>
-        <dc:creator opf:file-as="Nomura, Mizuki &amp; Takeoka, Miho &amp; McGillicuddy, Karen" opf:role="aut">Mizuki Nomura</dc:creator>
-        <dc:creator opf:file-as="Nomura, Mizuki &amp; Takeoka, Miho &amp; McGillicuddy, Karen" opf:role="aut">Miho Takeoka</dc:creator>
-        <dc:creator opf:file-as="Nomura, Mizuki &amp; Takeoka, Miho &amp; McGillicuddy, Karen" opf:role="aut">Karen McGillicuddy</dc:creator>
+        <dc:creator opf:file-as="Nomura, Mizuki &amp; Takeoka, Miho" opf:role="aut">Mizuki Nomura</dc:creator>
+        <dc:creator opf:file-as="Nomura, Mizuki &amp; Takeoka, Miho" opf:role="aut">Miho Takeoka</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2013-07-23T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;"I am Tohko Amano. As you can see, I am a Book Girl." Two years have passed since Konoha's first encounter with the mysterious girl who thus introduced herself. Guided by this Book Girl who loves books so much that she devours them, Konoha has overcome a lot. But the day of Tohko's graduation is approaching and...suddenly the Book Girl lets slip a confession of her betrayal. Stunned, Konoha is further rattled by Ryuto: "Tohko Amano is gonna disappear." "You should learn who Tohko Amano is." What is the secret Tohko has kept hidden? How will Konoha and Tohko's story conclude?! The first act in the final episode! &lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Yen Press (Yen On)</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9780316076975</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B00A2E0HJS</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">16131015</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780316076975</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Completed</dc:subject>
         <dc:subject>Fantasy</dc:subject>
@@ -24,11 +23,11 @@
         <dc:subject>Mystery</dc:subject>
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Romance</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Mizuki Nomura&quot;: &quot;&quot;, &quot;Miho Takeoka&quot;: &quot;&quot;, &quot;Karen McGillicuddy&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Mizuki Nomura&quot;: &quot;&quot;, &quot;Miho Takeoka&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Book Girl"/>
         <meta name="calibre:series_index" content="7"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-08-12T06:02:02.517963+00:00"/>
+        <meta name="calibre:timestamp" content="2021-08-12T06:02:02+00:00"/>
         <meta name="calibre:title_sort" content="Book Girl, Vol. 07: Book Girl and the Scribe Who Faced God, Part 1"/>
     </metadata>
     <guide>

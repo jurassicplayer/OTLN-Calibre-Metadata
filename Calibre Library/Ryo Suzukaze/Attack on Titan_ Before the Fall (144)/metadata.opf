@@ -4,9 +4,9 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">144</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">51ef8b57-de3c-4f79-94b8-87405b9f791b</dc:identifier>
         <dc:title>Attack on Titan: Before the Fall</dc:title>
-        <dc:creator opf:file-as="Isayama, Hajime &amp; Suzukaze, Ryo &amp; Shibamoto, Thores" opf:role="aut">Hajime Isayama</dc:creator>
-        <dc:creator opf:file-as="Isayama, Hajime &amp; Suzukaze, Ryo &amp; Shibamoto, Thores" opf:role="aut">Ryo Suzukaze</dc:creator>
-        <dc:creator opf:file-as="Isayama, Hajime &amp; Suzukaze, Ryo &amp; Shibamoto, Thores" opf:role="aut">Thores Shibamoto</dc:creator>
+        <dc:creator opf:file-as="Suzukaze, Ryo &amp; Isayama, Hajime &amp; Shibamoto, Thores" opf:role="aut">Ryo Suzukaze</dc:creator>
+        <dc:creator opf:file-as="Suzukaze, Ryo &amp; Isayama, Hajime &amp; Shibamoto, Thores" opf:role="aut">Hajime Isayama</dc:creator>
+        <dc:creator opf:file-as="Suzukaze, Ryo &amp; Isayama, Hajime &amp; Shibamoto, Thores" opf:role="aut">Thores Shibamoto</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-09-16T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -26,7 +26,7 @@
         <dc:subject>Completed</dc:subject>
         <dc:subject>Science Fiction</dc:subject>
         <dc:subject>Shounen</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Hajime Isayama&quot;: &quot;&quot;, &quot;Ryo Suzukaze&quot;: &quot;&quot;, &quot;Thores Shibamoto&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Ryo Suzukaze&quot;: &quot;&quot;, &quot;Hajime Isayama&quot;: &quot;&quot;, &quot;Thores Shibamoto&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Attack on Titan: Before the Fall Light Novels"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

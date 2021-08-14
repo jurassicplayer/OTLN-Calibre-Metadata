@@ -4,9 +4,9 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">146</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">cfa9206c-c075-4213-bdd4-7c75a2db8460</dc:identifier>
         <dc:title>Attack on Titan: The Harsh Mistress of the City, Part 2</dc:title>
-        <dc:creator opf:file-as="Isayama, Hajime &amp; Murata, Range &amp; Kawakami, Ryo" opf:role="aut">Hajime Isayama</dc:creator>
-        <dc:creator opf:file-as="Isayama, Hajime &amp; Murata, Range &amp; Kawakami, Ryo" opf:role="aut">Range Murata</dc:creator>
-        <dc:creator opf:file-as="Isayama, Hajime &amp; Murata, Range &amp; Kawakami, Ryo" opf:role="aut">Ryo Kawakami</dc:creator>
+        <dc:creator opf:file-as="Kawakami, Ryo &amp; Isayama, Hajime &amp; Murata, Range" opf:role="aut">Ryo Kawakami</dc:creator>
+        <dc:creator opf:file-as="Kawakami, Ryo &amp; Isayama, Hajime &amp; Murata, Range" opf:role="aut">Hajime Isayama</dc:creator>
+        <dc:creator opf:file-as="Kawakami, Ryo &amp; Isayama, Hajime &amp; Murata, Range" opf:role="aut">Range Murata</dc:creator>
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2015-09-29T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
@@ -25,7 +25,7 @@
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Science Fiction</dc:subject>
         <dc:subject>Shounen</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Hajime Isayama&quot;: &quot;&quot;, &quot;Range Murata&quot;: &quot;&quot;, &quot;Ryo Kawakami&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Ryo Kawakami&quot;: &quot;&quot;, &quot;Hajime Isayama&quot;: &quot;&quot;, &quot;Range Murata&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Attack on Titan: The Harsh Mistress of the City"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>

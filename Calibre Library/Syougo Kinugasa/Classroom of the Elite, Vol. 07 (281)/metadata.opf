@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">281</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3027aaa-0190-4178-b987-190b64c540ff</dc:identifier>
+        <dc:title>Classroom of the Elite, Vol. 07</dc:title>
+        <dc:creator opf:file-as="Kinugasa, Syougo &amp; Tomose, Shunsaku" opf:role="aut">Syougo Kinugasa</dc:creator>
+        <dc:creator opf:file-as="Kinugasa, Syougo &amp; Tomose, Shunsaku" opf:role="aut">Shunsaku Tomose</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-19T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;THE SCHEMER, REVEALED!&lt;/p&gt;
+&lt;p&gt;The end of the second semester is near, and Ryuuen’s manhunt for Class D’s mastermind is only getting more aggressive. When he and his goons decide to torture an answer out of Karuizawa, Ayanokouji decides it’s finally time to step forward—if, that is, Karuizawa doesn’t break under the pressure first!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781645058205</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">53426729</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Syougo Kinugasa&quot;: &quot;&quot;, &quot;Shunsaku Tomose&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Classroom of the Elite"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-08-15T09:15:35.532512+00:00"/>
+        <meta name="calibre:title_sort" content="Classroom of the Elite, Vol. 07"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

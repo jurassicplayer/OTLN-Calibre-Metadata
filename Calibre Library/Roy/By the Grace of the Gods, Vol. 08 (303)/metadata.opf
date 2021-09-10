@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">303</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1157bf5b-816e-401d-9786-24a15995489b</dc:identifier>
+        <dc:title>By the Grace of the Gods, Vol. 08</dc:title>
+        <dc:creator opf:file-as="Roy &amp; Ririnra" opf:role="aut">Roy</dc:creator>
+        <dc:creator opf:file-as="Roy &amp; Ririnra" opf:role="aut">Ririnra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-24T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;As the wedding fast approaches on the Duke’s estate, Ryoma toils away to add his finishing touches to the venue.&lt;/p&gt;
+&lt;p&gt;The night before the wedding he encounters the mysterious Yui, and gains another glimpse of the inter-dimensional traveler who came before him. After the grandiose wedding, the gods among its attendees, a sense of normalcy returns to Ryoma’s life. A new adventure in a new destination may lead to a jackpot of new slimes like this fantasy world has never seen...&lt;/p&gt;
+&lt;p&gt;Sit back, and enjoy the 8th installment in this slow-living, slice-of-slime-ridden-life fantasy.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0979SGFPF</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9784798621241</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">58456626</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Roy&quot;: &quot;&quot;, &quot;Ririnra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="By the Grace of the Gods"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-09-11T00:56:14.827000+00:00"/>
+        <meta name="calibre:title_sort" content="By the Grace of the Gods, Vol. 08"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

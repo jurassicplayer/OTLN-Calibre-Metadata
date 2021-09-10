@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">305</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2859b9f3-9366-4de3-8292-dfdae6feafb6</dc:identifier>
+        <dc:title>Classroom of the Elite, Vol. 09</dc:title>
+        <dc:creator opf:file-as="Kinugasa, Syougo &amp; Tomoseshunsaku" opf:role="aut">Syougo Kinugasa</dc:creator>
+        <dc:creator opf:file-as="Kinugasa, Syougo &amp; Tomoseshunsaku" opf:role="aut">Tomoseshunsaku</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-28T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;THE MANY CRIMES OF ICHINOSE HONAMI&lt;/p&gt;
+&lt;p&gt;Sakayanagi puts her plan to crush Ichinose into motion, spreading rumors of her alleged war criminal history through the school like wildfire. With Class B at a loss, and Ichinose herself uncharacteristically reluctant to fight back, can Ayanokouji step in to save her reputation? Meanwhile, Kushida makes contact with student council president Nagumo in what might prove to be a very dangerous alliance, indeed.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781648272615</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">56994109</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Psychological</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Syougo Kinugasa&quot;: &quot;&quot;, &quot;Tomoseshunsaku&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Classroom of the Elite"/>
+        <meta name="calibre:series_index" content="9"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-09-10T00:56:31+00:00"/>
+        <meta name="calibre:title_sort" content="Classroom of the Elite, Vol. 09"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

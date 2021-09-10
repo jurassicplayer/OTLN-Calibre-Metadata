@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">297</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e56d6e73-1bcd-4355-a4d2-8c9630c1bc35</dc:identifier>
+        <dc:title>86—EIGHTY-SIX, Vol. 08: Gun Smoke on the Water</dc:title>
+        <dc:creator opf:file-as="Asato, Asato &amp; Shirabii" opf:role="aut">Asato Asato</dc:creator>
+        <dc:creator opf:file-as="Asato, Asato &amp; Shirabii" opf:role="aut">Shirabii</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-24T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;A PATH TO PURPOSE LAID WITH IRON RAILS. &lt;/p&gt;
+&lt;p&gt;An end to the endless war—the possibility of stopping the Legion once and for all. Such is humanity’s most fervent desire. But in the war-free world of tomorrow, what will become of the Eighty-Six? Many have gained renewed faith in the future. Some have found love; others, new aspirations. But what of those who have yet to dream? The warm rays of hope have bent their iron wills and distorted their realities. For those tragic few, the worst is yet to come…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975320768</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">56817448</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Mecha</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Tragedy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Asato Asato&quot;: &quot;&quot;, &quot;Shirabii&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="86—EIGHTY-SIX"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-09-10T00:54:18.524807+00:00"/>
+        <meta name="calibre:title_sort" content="86—EIGHTY-SIX, Vol. 08: Gun Smoke on the Water"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

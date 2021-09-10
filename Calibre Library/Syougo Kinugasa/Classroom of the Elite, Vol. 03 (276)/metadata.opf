@@ -12,8 +12,8 @@
 &lt;p&gt;&lt;strong&gt;CRUISING FOR A BRUISING&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;Having survived their final exams, Ayanokoji and the others are looking forward to an idyllic school-sponsored summer vacation aboard a cruise ship. But nothing is ever quite as it seems with the Tokyo Advanced Nurturing High School, and the cruise turns out to be the cover for a series of special tests! What grueling new challenges await them out at sea?!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781642757231</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">43263427</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781642757231</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Drama</dc:subject>
         <dc:subject>Light Novel</dc:subject>
@@ -24,11 +24,12 @@
         <dc:subject>Romance</dc:subject>
         <dc:subject>School Life</dc:subject>
         <dc:subject>Seinen</dc:subject>
+        <dc:subject>Psychological</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Syougo Kinugasa&quot;: &quot;&quot;, &quot;Shunsaku Tomose&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Classroom of the Elite"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-08-15T09:15:27.958277+00:00"/>
+        <meta name="calibre:timestamp" content="2021-08-15T09:15:27+00:00"/>
         <meta name="calibre:title_sort" content="Classroom of the Elite, Vol. 03"/>
     </metadata>
     <guide>

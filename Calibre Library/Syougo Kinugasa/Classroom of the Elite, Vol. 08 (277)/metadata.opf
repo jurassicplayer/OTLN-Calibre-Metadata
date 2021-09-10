@@ -6,14 +6,14 @@
         <dc:title>Classroom of the Elite, Vol. 08</dc:title>
         <dc:creator opf:file-as="Kinugasa, Syougo &amp; Tomose, Shunsaku" opf:role="aut">Syougo Kinugasa</dc:creator>
         <dc:creator opf:file-as="Kinugasa, Syougo &amp; Tomose, Shunsaku" opf:role="aut">Shunsaku Tomose</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.26.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-06-22T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;&lt;strong&gt;ROUGHING IT&lt;/strong&gt; &lt;/p&gt;
 &lt;p&gt;The third semester kicks off in high gear with a special boot camp deep in the mountains. Forcibly separated into groups along grade and gender lines, the first, second and third years alike must work together to survive the rugged terrain. Even worse? The leader of the group that comes in last will be expelled. Can Class D make it back to campus intact, or is this where they finally say goodbye to one of their own?&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781648272233</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">56896043</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781648272233</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Comedy</dc:subject>
         <dc:subject>Drama</dc:subject>
@@ -21,6 +21,7 @@
         <dc:subject>Harem</dc:subject>
         <dc:subject>Light Novel</dc:subject>
         <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Psychological</dc:subject>
         <dc:subject>Romance</dc:subject>
         <dc:subject>School Life</dc:subject>
         <dc:subject>Seinen</dc:subject>
@@ -28,7 +29,7 @@
         <meta name="calibre:series" content="Classroom of the Elite"/>
         <meta name="calibre:series_index" content="8"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-08-15T09:15:34.581949+00:00"/>
+        <meta name="calibre:timestamp" content="2021-08-15T09:15:34+00:00"/>
         <meta name="calibre:title_sort" content="Classroom of the Elite, Vol. 08"/>
     </metadata>
     <guide>

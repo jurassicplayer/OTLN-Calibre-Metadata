@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">295</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dfc1dd1e-6038-4d86-8473-3a7ec4b81c9a</dc:identifier>
+        <dc:title>Combatants Will Be Dispatched!, Vol. 04</dc:title>
+        <dc:creator opf:file-as="Akatsuki, Natsume &amp; Lanthanum, Kakao" opf:role="aut">Natsume Akatsuki</dc:creator>
+        <dc:creator opf:file-as="Akatsuki, Natsume &amp; Lanthanum, Kakao" opf:role="aut">Kakao Lanthanum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-22T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p id="book-description-full"&gt;&lt;strong&gt;M&lt;/strong&gt;&lt;strong&gt;AKE WAY FOR THE POWER OF SCIENCE (AND TENTACLES)!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;One week after the Undead Festival, the squad's forest fortress gets blown sky-high! In a fit of desperation, Six decides it's time to call in the big guns. Enter Lilith the Black-one of Kisaragi's Supreme Leaders! Her peerless intellect and near-limitless arsenal of deadly weapons are sure to speed up the planetary conquest. This toootally isn't a ploy to get one of Kisaragi's elites to do all the dirty work for a change. If only Alice would get with the program instead of constantly trash-talking Lilith. Seriously, what's with the rebellious phase? Is that any way to treat her creator?!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975313685</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">52721288</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Natsume Akatsuki&quot;: &quot;&quot;, &quot;Kakao Lanthanum&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Combatants Will Be Dispatched!"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-27T00:48:55.806765+00:00"/>
+        <meta name="calibre:title_sort" content="Combatants Will Be Dispatched!, Vol. 04"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

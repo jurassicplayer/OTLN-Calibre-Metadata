@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">294</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0f2ad7fb-b566-4a27-965a-ad559b0eacd1</dc:identifier>
+        <dc:title>Combatants Will Be Dispatched!, Vol. 03</dc:title>
+        <dc:creator opf:file-as="Akatsuki, Natsume &amp; Lanthanum, Kakao" opf:role="aut">Natsume Akatsuki</dc:creator>
+        <dc:creator opf:file-as="Akatsuki, Natsume &amp; Lanthanum, Kakao" opf:role="aut">Kakao Lanthanum</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-04-21T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;What happened to respecting the dead?!&lt;/p&gt;
+&lt;p&gt;Combat Agent Six's latest mission from the Kisaragi Corporation is to fortify their base on the planet and expand their territory. There's just one problem: He had to requisition a Destroyer in their last epic battle, and now his Evil Point balance is in the negative. Again. He'll have to think up some nefarious schemes (or petty crimes, if we're being honest) to get those points back, and fast! Meanwhile, Grimm has her hands full running the annual Undead Festival. With responsibilities ranging from creating temporary vessels for dearly departed souls to interpreting conversation between them and their families, she'll need some help from Six to ensure everything goes smoothly. What could possibly go wrong...?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975399023</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">48614840</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Natsume Akatsuki&quot;: &quot;&quot;, &quot;Kakao Lanthanum&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Combatants Will Be Dispatched!"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-08-27T00:48:55.556430+00:00"/>
+        <meta name="calibre:title_sort" content="Combatants Will Be Dispatched!, Vol. 03"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

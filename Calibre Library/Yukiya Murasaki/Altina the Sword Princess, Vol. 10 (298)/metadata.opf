@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">298</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fd199dd0-f689-4634-b633-39ce30c4be45</dc:identifier>
+        <dc:title>Altina the Sword Princess, Vol. 10</dc:title>
+        <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz" opf:role="aut">Yukiya Murasaki</dc:creator>
+        <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz" opf:role="aut">himesuz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-30T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;High Britannia and Langobarti have joined forces, and now the two nations’ troops occupy the fortified city of Grebeauvoir!&lt;/p&gt;
+&lt;p&gt;At the request of Second Prince Latrielle, Regis joins the First Army in its campaign to recapture the stolen territory, devising a scheme that ultimately allows Third-Grade Combat Officer Jean Juris de Varèse to infiltrate the city. With the cooperation of a girl named Fel, it is the esteemed officer’s duty to meet the representative of the captive civilians. &lt;/p&gt;
+&lt;p&gt;Will the conflict with High Britannia finally reach its conclusion?&lt;/p&gt;
+&lt;p&gt;Here is the tenth volume of a tale of war, love, and politics, woven by the bookworm and the sword princess.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0979RB87N</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9784047307650</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">58714155</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Martial Arts</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yukiya Murasaki&quot;: &quot;&quot;, &quot;himesuz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Altina the Sword Princess"/>
+        <meta name="calibre:series_index" content="10"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-09-10T00:54:32+00:00"/>
+        <meta name="calibre:title_sort" content="Altina the Sword Princess, Vol. 10"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

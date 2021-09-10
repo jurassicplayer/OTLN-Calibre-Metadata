@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">304</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15904624-fd46-4cf5-9fd3-5cf9a7332764</dc:identifier>
+        <dc:title>Can Someone Please Explain What’s Going On?!, Vol. 06</dc:title>
+        <dc:creator opf:file-as="Tsuredurebana &amp; Hagiwara, Rin" opf:role="aut">Tsuredurebana</dc:creator>
+        <dc:creator opf:file-as="Tsuredurebana &amp; Hagiwara, Rin" opf:role="aut">Rin Hagiwara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-16T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Despite their marriage starting out as purely a business arrangement, Viola is starting to bend to Cercis’s wooing and is (nearly!) ready to admit to her own feelings.&lt;/p&gt;
+&lt;p&gt;Unfortunately for the pair, the neighboring kingdom of Aurantia is sending their crown prince to Flür for a ceremony to commemorate the end of the war. They’re also asking for his sister, the princess, to marry into the country as a sign of peace. But she’s picked Cercis, of all people?! To make matters worse, the crown prince himself falls in love at first sight—with Viola!&lt;/p&gt;
+&lt;p&gt;Despite immediate rejections, neither of the royal siblings are going to give up easily! Viola and Cercis’s relationship will be put to the test!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club (J-Novel Heart)</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B094S5VM7B</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">58787052</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shoujo</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Tsuredurebana&quot;: &quot;&quot;, &quot;Rin Hagiwara&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Can Someone Please Explain What’s Going On?!"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-09-10T00:56:24+00:00"/>
+        <meta name="calibre:title_sort" content="Can Someone Please Explain What’s Going On?!, Vol. 06"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

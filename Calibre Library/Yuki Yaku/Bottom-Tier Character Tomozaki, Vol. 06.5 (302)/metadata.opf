@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">302</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02dd4236-dab6-40a5-8471-7333a207e879</dc:identifier>
+        <dc:title>Bottom-Tier Character Tomozaki, Vol. 06.5</dc:title>
+        <dc:creator opf:file-as="Yaku, Yuki &amp; Fly" opf:role="aut">Yuki Yaku</dc:creator>
+        <dc:creator opf:file-as="Yaku, Yuki &amp; Fly" opf:role="aut">Fly</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-17T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;THE BEST RPGS HAVE GREAT SIDE QUESTS, TOO.&lt;br&gt;​&lt;br&gt;Tomozaki has been leveling up at a steady pace since he began training with Hinami, but he isn’t the only one wrestling with the game of life. What pushes Hinami forward? How is Izumi faring in her relationship with Nakamura? When did Kikuchi start seeing the world in color? And will Mimimi learn to outrun her insecurities? This series of vignettes, highlighting several major characters, provides a glimpse into the inner lives of Tomozaki’s new social circle!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975320386</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">57294756</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yuki Yaku&quot;: &quot;&quot;, &quot;Fly&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Bottom-Tier Character Tomozaki"/>
+        <meta name="calibre:series_index" content="6.50"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-09-10T00:56:04+00:00"/>
+        <meta name="calibre:title_sort" content="Bottom-Tier Character Tomozaki, Vol. 06.5"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

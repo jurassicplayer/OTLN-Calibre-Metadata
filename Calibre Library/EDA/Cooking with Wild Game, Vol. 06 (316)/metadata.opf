@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">316</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9e7b5d5-930c-496c-b888-d89bff1e2e97</dc:identifier>
+        <dc:title>Cooking with Wild Game, Vol. 06</dc:title>
+        <dc:creator opf:file-as="EDA &amp; Kochimo" opf:role="aut">EDA</dc:creator>
+        <dc:creator opf:file-as="EDA &amp; Kochimo" opf:role="aut">Kochimo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-22T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Asuta’s business in the post town is positively booming. He’s increased the number of stalls, hired on more help, and managed to sell almost unbelievable numbers day after day. On top of that, he’s even struck up a deal to start selling his cooking to an inn! And yet he has no time to focus on all that, as the time for the clan head meeting is fast approaching! &lt;/p&gt;
+&lt;p&gt;New allies accompany them into the den of vipers, but they can’t relax yet, as there are plenty of new foes to worry about, both belonging to the Suun clan and the clans under them. Just what are the wicked leaders of the forest’s edge plotting with this job? Will our heroes’ preparations prove enough to overcome this challenge? &lt;/p&gt;
+&lt;p&gt;Find out all this and more as Asuta tackles his most dangerous job yet in the exciting sixth volume of Cooking with Wild Game!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B082MZNQBZ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;EDA&quot;: &quot;&quot;, &quot;Kochimo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Cooking with Wild Game"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-09-16T03:12:12.199382+00:00"/>
+        <meta name="calibre:title_sort" content="Cooking with Wild Game, Vol. 06"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

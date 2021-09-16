@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">315</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">441b4812-cb53-4036-9f2d-d34c9a422324</dc:identifier>
+        <dc:title>Cooking with Wild Game, Vol. 07</dc:title>
+        <dc:creator opf:file-as="EDA &amp; Kochimo" opf:role="aut">EDA</dc:creator>
+        <dc:creator opf:file-as="EDA &amp; Kochimo" opf:role="aut">Kochimo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-05-10T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The night of the clan head meeting has finally passed in a climactic fashion. Ai Fa and Asuta made it safely through the cunning plot of the Suun clan, and dealt them a serious blow in return. And now that the Suun have fallen, an entirely new age is dawning for the whole of the forest’s edge. &lt;/p&gt;
+&lt;p&gt;Of course, Asuta has his business to get back to, but that’s not all that awaits him. After all, Kamyua Yoshu’s big job is quickly approaching in spite of what has happened. And on top of that, the new leaders of the forest’s edge also need to forge a new relationship with the Genos castle. Plus, the question of just what will become of the members of the main Suun house remains. &lt;/p&gt;
+&lt;p&gt;And with all this on their plate, yet another threat quickly comes for our heroes from an unexpected direction. Will all this prove overwhelming for Asuta and Ai Fa, or will they be able to keep on pushing through these trials? &lt;/p&gt;
+&lt;p&gt;Find out all this and more in the exciting seventh volume of Cooking with Wild Game!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B084P2634Q</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">51175831</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;EDA&quot;: &quot;&quot;, &quot;Kochimo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Cooking with Wild Game"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-09-16T03:12:11.822330+00:00"/>
+        <meta name="calibre:title_sort" content="Cooking with Wild Game, Vol. 07"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">309</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">988eeb08-7f92-47f0-81b1-beaad3fbf8ad</dc:identifier>
+        <dc:title>Cooking with Wild Game, Vol. 02</dc:title>
+        <dc:creator opf:file-as="EDA &amp; Kochimo" opf:role="aut">EDA</dc:creator>
+        <dc:creator opf:file-as="EDA &amp; Kochimo" opf:role="aut">Kochimo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-04-13T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Though Asuta saved the soul of Jiba Ruu, his troubles with the Ruu clan aren’t over just yet! After all, he still hasn’t satisfied the head of the clan, Donda Ruu! Fueled by his frustration over the beast of a man’s harsh insults, our hero decides it’s time for a rematch! But are he and Ai Fa up to the challenge? &lt;/p&gt;
+&lt;p&gt;It will require a whole different sort of dish entirely to take down this obstinate foe. And when Donda Ruu ups the stakes, will it prove too much for Asuta? Or can our hero turn up the heat himself? And perhaps more importantly, will he be able to survive another mishap with his benefactor and the women of the Ruu clan? &lt;/p&gt;
+&lt;p&gt;Find out all this and more in the second volume of Cooking with Wild Game!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B07NVHQVZ4</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">44113741</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;EDA&quot;: &quot;&quot;, &quot;Kochimo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Cooking with Wild Game"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-09-16T03:12:08.935219+00:00"/>
+        <meta name="calibre:title_sort" content="Cooking with Wild Game, Vol. 02"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

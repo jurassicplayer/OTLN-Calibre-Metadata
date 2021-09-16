@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">308</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">660cce49-5f5e-4ede-91ff-45b4918f07ca</dc:identifier>
+        <dc:title>Cooking with Wild Game, Vol. 13</dc:title>
+        <dc:creator opf:file-as="EDA &amp; Kochimo" opf:role="aut">EDA</dc:creator>
+        <dc:creator opf:file-as="EDA &amp; Kochimo" opf:role="aut">Kochimo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-07-20T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Since Asuta’s arrival in Genos, much has happened to both him and the people of the forest’s edge. First, he was found by Ai Fa and taken into her clan. Together, they formed ties with the Ruu clan and brought a new form of cooking to the forest’s edge. Next, the leading Suun clan fell, and Asuta started doing business in town. But their greatest challenge of all is the wicked Count Cyclaeus, and with the crucial meeting between him and the representatives from the forest’s edge imminent, tensions have hit their peak.&lt;br&gt;&lt;br&gt;On their end, Asuta and his comrades have prepared well, including taking in Bartha, a key witness to the count’s crimes. However, Kamyua Yoshu hasn’t returned, while other important players like Cyclaeus’s brother Ciluel remain a mystery. And the fiendish count surely has a plot or two still up his sleeve. Will the party from the forest’s edge bring him to justice at last, or will he slip through their fingers and ruin everything Asuta has been trying to build?&lt;/p&gt;
+&lt;p&gt;Find out all this and more in the exciting thirteenth volume of Cooking with Wild Game!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B093BKB9SV</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">58142231</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;EDA&quot;: &quot;&quot;, &quot;Kochimo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Cooking with Wild Game"/>
+        <meta name="calibre:series_index" content="13"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-09-16T03:12:08.378251+00:00"/>
+        <meta name="calibre:title_sort" content="Cooking with Wild Game, Vol. 13"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

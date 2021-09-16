@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">318</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68f67982-ba56-4148-bdee-0c46f0e1168a</dc:identifier>
+        <dc:title>Cooking with Wild Game, Vol. 04</dc:title>
+        <dc:creator opf:file-as="EDA &amp; Kochimo" opf:role="aut">EDA</dc:creator>
+        <dc:creator opf:file-as="EDA &amp; Kochimo" opf:role="aut">Kochimo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-09-14T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Asuta has already overcome many challenges at the forest’s edge. One can’t help but wonder what comes next for our hero, but the answer comes from a certain sketchy oldtimer by the name of Kamyua Yoshu. And his shocking suggestion is to bring his cooking beyond the borders of the forest’s edge! &lt;/p&gt;
+&lt;p&gt;Is Asuta up for the challenge of opening a shop in the post town? Will even the deliciousness of his cooking be enough to overcome the prejudices of the townsfolk? Plus, what would his success mean for the people of the forest’s edge? And most importantly of all... can Kamyua Yoshu even be trusted in the first place? &lt;/p&gt;
+&lt;p&gt;Find out all this and more as Asuta’s horizons keep on expanding in the fourth volume of Cooking with Wild Game!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B07TCLWXZ7</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">49645382</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;EDA&quot;: &quot;&quot;, &quot;Kochimo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Cooking with Wild Game"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-09-16T03:12:12.986533+00:00"/>
+        <meta name="calibre:title_sort" content="Cooking with Wild Game, Vol. 04"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

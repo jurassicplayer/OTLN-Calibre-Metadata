@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">306</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f8dea61-1aa0-4bc8-a201-9d1b0d1d93cb</dc:identifier>
+        <dc:title>Cooking with Wild Game, Vol. 01</dc:title>
+        <dc:creator opf:file-as="EDA &amp; Kochimo" opf:role="aut">EDA</dc:creator>
+        <dc:creator opf:file-as="EDA &amp; Kochimo" opf:role="aut">Kochimo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-09T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Chef Trainee Asuta Tsurumi was just a normal Japanese teenager, until one day the harassment against his family’s restaurant went too far. Desperate to save his father’s precious cooking knife, he dove headfirst into a sea of flames. Rather than waking up in the afterlife, though, he found himself in a whole new world entirely! &lt;/p&gt;
+&lt;p&gt;Fortunately for our hero, he soon gets picked up by the huntress known as Ai Fa. This guardian angel packs some attitude, though, so it won’t be all smooth sailing for Asuta! Plus his savior seems to have some issues of her own to worry about, too... &lt;/p&gt;
+&lt;p&gt;Just how well will our rookie chef be able to parlay his skills in this utterly unfamiliar world? And with all the danger lurking around, will he even be able to survive long enough to put them to the test?! Come learn a thing or two about Cooking with Wild Game!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B07MF7ZW1P</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">43538239</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;EDA&quot;: &quot;&quot;, &quot;Kochimo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Cooking with Wild Game"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-09-16T03:12:06.247848+00:00"/>
+        <meta name="calibre:title_sort" content="Cooking with Wild Game, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">312</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a6465721-01d5-424f-94df-774b1938b0a9</dc:identifier>
+        <dc:title>Cooking with Wild Game, Vol. 10</dc:title>
+        <dc:creator opf:file-as="EDA &amp; Kochimo" opf:role="aut">EDA</dc:creator>
+        <dc:creator opf:file-as="EDA &amp; Kochimo" opf:role="aut">Kochimo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-28T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Though the meeting with Cyclaeus has come to a close, the problems facing our heroes are far from resolved. The twisted noble’s demands are still too much to swallow, leaving the fates of the former main Suun house up in the air. And as if that wasn’t enough, a new threat has appeared in the form of Goram Redbeard’s son Jeeda, who swears revenge against the people of the forest’s edge. Plus, Asuta’s old regulars have departed from Genos, though some new faces are starting to fill the void. &lt;/p&gt;
+&lt;p&gt;In spite of everything already on his plate, even more new challenges await Asuta. For example, when rumors seemingly meant to frame the people of the forest’s edge start circulating, who exactly is behind them? When Asuta gets his first chance to cook with a meat other than giba, how will that play out? And will our heroes be able to convince Jeeda of the truth and gain his aid in cornering Cyclaeus? &lt;/p&gt;
+&lt;p&gt;Find out all this and more in the exciting tenth volume of Cooking with Wild Game!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B08J2CLM71</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">55565637</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;EDA&quot;: &quot;&quot;, &quot;Kochimo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Cooking with Wild Game"/>
+        <meta name="calibre:series_index" content="10"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-09-16T03:12:10.515856+00:00"/>
+        <meta name="calibre:title_sort" content="Cooking with Wild Game, Vol. 10"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

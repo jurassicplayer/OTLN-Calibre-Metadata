@@ -3,9 +3,9 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">177</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">78269b51-107b-4448-9381-13c6d98f24fd</dc:identifier>
-        <dc:title>The Boy and the Beast</dc:title>
+        <dc:title>The Boy &amp; the Beast</dc:title>
         <dc:creator opf:file-as="Hosoda, Mamoru" opf:role="aut">Mamoru Hosoda</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.29.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-02-23T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Tokyo's a big city--big enough that it's easy for a grieving boy like Ren to slip through the cracks. But Ren slips a little farther than he meant to, tumbling into the beast world of Jutengai!&lt;/p&gt;
@@ -26,7 +26,7 @@
         <meta name="calibre:author_link_map" content="{&quot;Mamoru Hosoda&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2021-08-09T05:37:40+00:00"/>
-        <meta name="calibre:title_sort" content="Boy and the Beast, The"/>
+        <meta name="calibre:title_sort" content="Boy &amp; the Beast, The"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

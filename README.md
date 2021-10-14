@@ -49,4 +49,5 @@ Curated calibre metadata for OTLN, going through the suffering so you don't have
 - Provide a clean update path and directions for updating set
 
 ### Current Progress (based on v16.3)
-59/476 (12.39%) Series
+54/434 (12.44%) Series
+0/43 (0.0%) Yaoi Series

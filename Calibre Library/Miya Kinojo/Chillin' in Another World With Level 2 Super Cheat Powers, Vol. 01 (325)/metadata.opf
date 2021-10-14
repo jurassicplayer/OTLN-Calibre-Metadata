@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">325</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">48d5f867-6a02-4195-8361-ae19dcb798e8</dc:identifier>
+        <dc:title>Chillin’ in Another World With Level 2 Super Cheat Powers, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Kinojo, Miya &amp; Katagiri" opf:role="aut">Miya Kinojo</dc:creator>
+        <dc:creator opf:file-as="Kinojo, Miya &amp; Katagiri" opf:role="aut">Katagiri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-10T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The Magical Kingdom of Klyrode summons hundreds of heroes from other worlds every year to fight in their war against the Dark One and his army of powerful demons. &lt;/p&gt;
+&lt;p&gt;Banaza is one of those heroes, summoned from the Royal Capital Paluma, but something’s not right—Banaza is only an average merchant. He has no magic, no fighting ability, and his stats are abysmal. &lt;/p&gt;
+&lt;p&gt;Worse, a mishap leaves him unable to return home! Rejected as a hero and stranded in another world, abandoned to the far reaches of the kingdom by a cruel king who just wants him gone, Banaza’s fate looks pretty bleak. But what will happen once the failed hero candidate finds himself with super cheat powers once he hits level two?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9784865541809</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0992FMGQM</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">58600812</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Miya Kinojo&quot;: &quot;&quot;, &quot;Katagiri&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Chillin’ in Another World with Level 2 Super Cheat Powers"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-14T02:42:33.149240+00:00"/>
+        <meta name="calibre:title_sort" content="Chillin’ in Another World With Level 2 Super Cheat Powers, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -48,6 +48,6 @@ Curated calibre metadata for OTLN, going through the suffering so you don't have
 - Make a script that move files from a fresh copy to the correct folders with the correct filenames (generate list from my list and use checksums to determine filepaths)
 - Provide a clean update path and directions for updating set
 
-### Current Progress (based on v16.3)
-54/434 (12.44%) Series
+### Current Progress (based on v17.0)
+67/434 (15.44%) Series
 0/43 (0.0%) Yaoi Series

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">329</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">69bd1707-e4a0-4046-a2af-1674e994c2be</dc:identifier>
+        <dc:title>Aria the Scarlet Ammo, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Akamatsu, Chugaku &amp; Kobuichi" opf:role="aut">Chugaku Akamatsu</dc:creator>
+        <dc:creator opf:file-as="Akamatsu, Chugaku &amp; Kobuichi" opf:role="aut">Kobuichi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-07-31T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Tokyo Butei High School--- A special school where armed detectives, also known as "Butei", receive education as well as training. Kinji Tohyama, a sophomore, has a unique body that can initiate an ability called "hysteria mode" when it is stimulated a certain way. He tries to keep it a secret but all his dreams of living the life of an Average Joe get shattered when he becomes a victim of a bombing incident and meets Butei High "Assault" department elite, Aria H. Kanzaki.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Digital Manga Guild</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9784040664125</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B00FK8MZ9G</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">18755993</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Chugaku Akamatsu&quot;: &quot;&quot;, &quot;Kobuichi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Aria the Scarlet Ammo"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-14T02:42:33.734708+00:00"/>
+        <meta name="calibre:title_sort" content="Aria the Scarlet Ammo, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

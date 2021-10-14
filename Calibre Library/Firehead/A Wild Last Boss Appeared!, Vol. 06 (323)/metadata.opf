@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">323</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">84b64eca-17c3-46f2-8b19-5fbdeeaad95f</dc:identifier>
+        <dc:title>A Wild Last Boss Appeared!, Vol. 06</dc:title>
+        <dc:creator opf:file-as="Firehead &amp; YahaKo" opf:role="aut">Firehead</dc:creator>
+        <dc:creator opf:file-as="Firehead &amp; YahaKo" opf:role="aut">YahaKo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-17T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Lufas continues on her journey with her growing retinue of Twelve Heavenly Stars. This time she’s headed for the home of the fairies, Alfheim, intent on getting Pollux, Castor’s sister and one of the Twelve Stars, to rejoin. &lt;/p&gt;
+&lt;p&gt;But while Lufas is traveling there with the hero and his party still in tow, chaos erupts. Terra, Prince of the Devilfolk, has made moves of his own, asking Pollux for help in creating avatars for he and Luna’s inhuman selves to inhabit. Before anything comes of that though, the Goddess steps in, possessing Pollux. &lt;/p&gt;
+&lt;p&gt;Meanwhile, Lufas and the hero’s party arrive in Laegjarn, a town in Laevateinn. Things aren’t as innocent as they seem, however, and Lufas soons finds herself on a new, unexpected adventure. What will happen when the Goddess summons one of Lufas’s former companions? Will Pollux be able to free herself from the Goddess’s control?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B098KL496R</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Gender Bender</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Firehead&quot;: &quot;&quot;, &quot;YahaKo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="A Wild Last Boss Appeared!"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:timestamp" content="2021-10-14T02:42:32.298192+00:00"/>
+        <meta name="calibre:title_sort" content="Wild Last Boss Appeared!, Vol. 06, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

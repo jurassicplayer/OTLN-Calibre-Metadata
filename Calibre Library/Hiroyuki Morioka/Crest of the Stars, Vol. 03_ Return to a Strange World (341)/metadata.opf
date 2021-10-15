@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">341</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e858b4ed-cf0e-4394-813d-92241b002935</dc:identifier>
+        <dc:title>Crest of the Stars, Vol. 03: Return to a Strange World</dc:title>
+        <dc:creator opf:file-as="Morioka, Hiroyuki &amp; Ono, Toshihiro" opf:role="aut">Hiroyuki Morioka</dc:creator>
+        <dc:creator opf:file-as="Morioka, Hiroyuki &amp; Ono, Toshihiro" opf:role="aut">Toshihiro Ono</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-12T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Sparks continue to fly as the proud Abh Empire and the zealous United Humankind clash over the fate of planet Clasbule, and of the entire Milky Way, in this, the epic conclusion to Crest of the Stars. &lt;/p&gt;
+&lt;p&gt;Can Jinto and Lafier elude the enemy’s concerted efforts to capture them? Can they trust the strange bedfellows that are their new “allies”? And with all odds against them, have they the sheer grit necessary to flee the thick of the fire and live another day in this internecine war? What does destiny have in store for them? Witness the end of an era, and the beginnings of a legacy like no other as the story picks back up in the long-running continuation series, Banner of the Stars.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781598165777</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07W7QMSB1</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">52027936</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Politics</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hiroyuki Morioka&quot;: &quot;&quot;, &quot;Toshihiro Ono&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Seikai Series"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-15T05:16:33.389151+00:00"/>
+        <meta name="calibre:title_sort" content="Crest of the Stars, Vol. 03: Return to a Strange World"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

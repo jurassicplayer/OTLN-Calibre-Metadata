@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">337</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d60ef3c6-26f7-477b-b40f-b5ff959599db</dc:identifier>
+        <dc:title>Banner of the Stars, Vol. 05: Destiny's Refrain</dc:title>
+        <dc:creator opf:file-as="Morioka, Hiroyuki &amp; Akai, Takami" opf:role="aut">Hiroyuki Morioka</dc:creator>
+        <dc:creator opf:file-as="Morioka, Hiroyuki &amp; Akai, Takami" opf:role="aut">Takami Akai</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-06T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The unthinkable has happened: the imperial capital is under siege by the Three Nations Alliance thanks to a surprise attack, which will divide the Empire in two. The Empress and the Empire’s paltry forces at the scene must rally in a bid to evacuate what people and structures they can, and buy time for the capital’s relocation.&lt;/p&gt;
+&lt;p&gt;Lafier and Jint are charged with saving the Empire’s culturally significant artifacts, even while Lafier’s brother Duhier is stranded behind enemy lines.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9784150311063</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08NN8LZQ6</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">56035156</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Politics</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hiroyuki Morioka&quot;: &quot;&quot;, &quot;Takami Akai&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Seikai Series"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-15T04:42:09.204911+00:00"/>
+        <meta name="calibre:title_sort" content="Banner of the Stars, Vol. 05: Destiny's Refrain"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

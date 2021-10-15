@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">338</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">910ab4d0-7adb-43d4-b7af-6cbd44856772</dc:identifier>
+        <dc:title>Banner of the Stars, Vol. 04: The Screech of Space-Time</dc:title>
+        <dc:creator opf:file-as="Morioka, Hiroyuki &amp; Akai, Takami" opf:role="aut">Hiroyuki Morioka</dc:creator>
+        <dc:creator opf:file-as="Morioka, Hiroyuki &amp; Akai, Takami" opf:role="aut">Takami Akai</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-11-29T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Lafier is now the captain of a state-of-the-art raid ship, and her brother, Duhier (who is still wrestling with his inferiority complex) has finally enlisted in the Star Forces.&lt;/p&gt;
+&lt;p&gt;Meanwhile, the galactic war is reaching a turning point, as the Hania Federation asks to join the Abh Empire. Will the Empress accept their offer? And might Hania have ulterior motives?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9784150307745</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08J3W573M</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">55456979</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Politics</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hiroyuki Morioka&quot;: &quot;&quot;, &quot;Takami Akai&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Seikai Series"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-15T04:42:09.319368+00:00"/>
+        <meta name="calibre:title_sort" content="Banner of the Stars, Vol. 04: The Screech of Space-Time"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

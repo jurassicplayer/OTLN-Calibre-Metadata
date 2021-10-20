@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">342</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">099ce63c-1046-44c9-81a0-c08f641ccd45</dc:identifier>
+        <dc:title>Chivalry of a Failed Knight, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Misora, Riku &amp; Won" opf:role="aut">Riku Misora</dc:creator>
+        <dc:creator opf:file-as="Misora, Riku &amp; Won" opf:role="aut">Won</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-16T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Modern mages, known as Mage-Knights, materialize their souls as armaments. Attending a school for Mage-Knights is Ikki Kurogane, a failed knight—the Worst One. &lt;br&gt;One day, he is challenged by Stella, a Rank A knight, to a duel, putting lifelong servitude on the line. What Ikki lacks in magical power, however, he makes up for with his unorthodox mastery of the sword, leading him to victory! &lt;br&gt;“I’ll do it! Make me do whatever you want! Stupid creep!” Though she regrets her defeat, Stella begins to fall for Ikki. &lt;br&gt;Meanwhile, in the battle for the top of the knight world, the Worst One begins to grab the attention of every Mage-Knight out there, becoming known as Another One! &lt;br&gt;The curtain rises on Ikki’s school-based, sword-action underdog tale as he cuts through one powerful foe after another! &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Sol Press LLC</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9784797374681</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07ZY8NN4S</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">48713051</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Martial Arts</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Riku Misora&quot;: &quot;&quot;, &quot;Won&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Chivalry of a Failed Knight"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-20T07:58:30.373885+00:00"/>
+        <meta name="calibre:title_sort" content="Chivalry of a Failed Knight, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

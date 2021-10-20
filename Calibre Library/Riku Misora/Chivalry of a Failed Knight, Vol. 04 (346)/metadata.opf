@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">346</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3cfb65e-5e92-4112-8d7d-3dd8281bc3be</dc:identifier>
+        <dc:title>Chivalry of a Failed Knight, Vol. 04</dc:title>
+        <dc:creator opf:file-as="Misora, Riku &amp; Won" opf:role="aut">Riku Misora</dc:creator>
+        <dc:creator opf:file-as="Misora, Riku &amp; Won" opf:role="aut">Won</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-06T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Ikki and the rest of Hagun Academy’s representatives are made to share a training camp with Tohoku’s leading school, Kyomon Academy, as they and their coaches begin preparing for the Seven Stars Battle Festival. Everything goes off without a hitch—until Hagun Academy falls victim to a sudden assault.&lt;br&gt;“I’m going to need you to fall. You will be the stepping stones that lead to our success.”&lt;br&gt;Ikki, Stella, Hagun’s student council, and the others come face-to-face with Akatsuki, a powerful gang of Blazers from the dark underbelly of society. Just as the fires of war begin to rage, a supposed ally unsheathes the dagger of betrayal! Worse yet, Ikki's path to knighthood is blocked by the strongest Blazer in the entire world!&lt;br&gt;What will come of this premature confrontation? A fierce battle awaits at the boundary between hope and despair, the place where dreams and reality intersect!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Sol Press LLC</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9784797377200</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B089QV663Z</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">54332479</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Martial Arts</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Riku Misora&quot;: &quot;&quot;, &quot;Won&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Chivalry of a Failed Knight"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-20T07:58:32.509972+00:00"/>
+        <meta name="calibre:title_sort" content="Chivalry of a Failed Knight, Vol. 04"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

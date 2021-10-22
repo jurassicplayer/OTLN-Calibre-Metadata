@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">355</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e4b197c3-3ee5-4835-b415-965e317f2151</dc:identifier>
+        <dc:title>A Certain Magical Index, Vol. 18</dc:title>
+        <dc:creator opf:file-as="Kamachi, Kazuma &amp; Haimura, Kiyotaka" opf:role="aut">Kazuma Kamachi</dc:creator>
+        <dc:creator opf:file-as="Kamachi, Kazuma &amp; Haimura, Kiyotaka" opf:role="aut">Kiyotaka Haimura</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-02-19T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;A certain unlikely hero...&lt;/p&gt;
+&lt;p&gt;No one was able to stop Second Princess Carissa's plot in time, so the worst has come to pass: London has fallen. The city of magic, home to the English Puritan Church and Index, now rests in the hands of the Knight faction. Soldiers control nearly every critical part of the country, commandeering the very streets of the capital. Still, the Puritan sorcerers haven't given up the fight just yet!&lt;/p&gt;
+&lt;p&gt;As the battle for the UK rages on, Touma heads to Folkestone to save Index-only to run straight into the coup d'état's mastermind herself! Worse, Acqua is still alive, and his holy sword, Ascalon, is pointing not at Touma but at Carissa!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316474566</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">40537084</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kazuma Kamachi&quot;: &quot;&quot;, &quot;Kiyotaka Haimura&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="A Certain Magical Index"/>
+        <meta name="calibre:series_index" content="18"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-22T04:40:13.683807+00:00"/>
+        <meta name="calibre:title_sort" content="Certain Magical Index, Vol. 18, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

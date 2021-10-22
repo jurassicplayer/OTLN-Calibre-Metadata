@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">366</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0b7e1510-4cce-4246-a557-5f26cf181b05</dc:identifier>
+        <dc:title>A Certain Magical Index, Vol. 08</dc:title>
+        <dc:creator opf:file-as="Kamachi, Kazuma &amp; Haimura, Kiyotaka" opf:role="aut">Kazuma Kamachi</dc:creator>
+        <dc:creator opf:file-as="Kamachi, Kazuma &amp; Haimura, Kiyotaka" opf:role="aut">Kiyotaka Haimura</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-08-23T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;A certain unlikely hero...&lt;/p&gt;
+&lt;p&gt;Tokiwadai Middle School--a place bathed in the envious gazes of all the schoolgirls in Academy City. Every single one of its female students is a proper young lady, and none more so than Mikoto Misaka. Kuroko--a Level Four teleporter and a member of Judgment, the organization that preserves public order in the city--knows this all too well. She invites her darling Misaka out to go shopping, but that's just the beginning of what ends up being a very, very long day, one in which she sees Misaka's true form and may wish she hadn't...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316359924</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">28118566</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kazuma Kamachi&quot;: &quot;&quot;, &quot;Kiyotaka Haimura&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="A Certain Magical Index"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-22T04:40:16.585243+00:00"/>
+        <meta name="calibre:title_sort" content="Certain Magical Index, Vol. 08, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

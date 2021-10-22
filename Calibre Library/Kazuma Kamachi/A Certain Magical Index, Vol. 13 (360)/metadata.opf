@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">360</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">40718ecb-f4bd-4653-9714-82c7fcf91e20</dc:identifier>
+        <dc:title>A Certain Magical Index, Vol. 13</dc:title>
+        <dc:creator opf:file-as="Kamachi, Kazuma &amp; Haimura, Kiyotaka" opf:role="aut">Kazuma Kamachi</dc:creator>
+        <dc:creator opf:file-as="Kamachi, Kazuma &amp; Haimura, Kiyotaka" opf:role="aut">Kiyotaka Haimura</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-14T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;A certain unlikely hero...&lt;/p&gt;
+&lt;p&gt;Accelerator's search for Last Order has taken a turn for the worst. His superhuman powers have a strict time limit, his enemies know exactly how to beat him, and he has no idea where he sent the little girl he's supposed to protect. &lt;/p&gt;
+&lt;p&gt;Luckily for him, the first one to stumble across her is a certain unlucky teenage boy. But while trying to get Last Order back home, Touma Kamijou realizes that a much more dangerous player has entered the game. A storm has arrived in Academy City, and her name is God's Right Seat, Vento of the Front! &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316442671</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">34668493</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kazuma Kamachi&quot;: &quot;&quot;, &quot;Kiyotaka Haimura&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="A Certain Magical Index"/>
+        <meta name="calibre:series_index" content="13"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-22T04:40:15.252299+00:00"/>
+        <meta name="calibre:title_sort" content="Certain Magical Index, Vol. 13, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

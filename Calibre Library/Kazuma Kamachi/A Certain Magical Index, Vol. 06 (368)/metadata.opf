@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">368</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e20eb6e0-36e9-464b-bd79-6227c30e0690</dc:identifier>
+        <dc:title>A Certain Magical Index, Vol. 06</dc:title>
+        <dc:creator opf:file-as="Kamachi, Kazuma &amp; Haimura, Kiyotaka" opf:role="aut">Kazuma Kamachi</dc:creator>
+        <dc:creator opf:file-as="Kamachi, Kazuma &amp; Haimura, Kiyotaka" opf:role="aut">Kiyotaka Haimura</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-02-23T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p id="book-description-full"&gt;&lt;strong&gt;A&lt;/strong&gt;&lt;strong&gt; certain unlikely hero...&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It's the first day of a new semester in Academy City. The day a mysterious transfer student appears at Touma Kamijou's school. The day Index makes her first friend. The day Mikoto Misaka meets Index for the first time and, caught between them, Kamijou again meets with misfortune. The day Kuroko Shirai witnesses the entire incident and becomes rather jealous of Kamijou. It's also the day Academy City is attacked by a certain magician. Transfer students, friends, and magicians--as magic and science clash and Academy City declares a state of emergency, Touma Kamijou's tale truly begins!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316340601</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">031634060X</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">25746702</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kazuma Kamachi&quot;: &quot;&quot;, &quot;Kiyotaka Haimura&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="A Certain Magical Index"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-22T04:40:16.848896+00:00"/>
+        <meta name="calibre:title_sort" content="Certain Magical Index, Vol. 06, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

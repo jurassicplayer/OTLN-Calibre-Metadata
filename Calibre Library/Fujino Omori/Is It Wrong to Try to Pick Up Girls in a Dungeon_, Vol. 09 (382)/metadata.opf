@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">382</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">96fad5f0-d9cf-41a3-b354-9f7be6525fac</dc:identifier>
+        <dc:title>Is It Wrong to Try to Pick Up Girls in a Dungeon?, Vol. 09</dc:title>
+        <dc:creator opf:file-as="Omori, Fujino &amp; Yasuda, Suzuhito" opf:role="aut">Fujino Omori</dc:creator>
+        <dc:creator opf:file-as="Omori, Fujino &amp; Yasuda, Suzuhito" opf:role="aut">Suzuhito Yasuda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-09-19T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In the new dungeon, The Great Forest Labyrinth, a dragon girl named Wiene has appeared and Bell meets her! Seeing that she is neither human nor monster but something entirely different, Bell promises to protect her but...&lt;br&gt;A band of violently immoral hunters slowly worm their evil influence into the Dungeon and begin to wreck havoc, irreversibly causing strife between people and monsters. Amidst all this, the Guild begins to move and the true master appears. All these events revolve around the vivre girl Wiene and cause waves in the city above as well!&lt;br&gt;The irregulars will shake humans, monsters, and even the gods to their core. The young hero walks his path and the goddess records it--the Familia Myth! &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B06Y5DM665</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">34894896</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780316562645</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fujino Omori&quot;: &quot;&quot;, &quot;Suzuhito Yasuda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Is It Wrong to Pick Up Girls in a Dungeon?"/>
+        <meta name="calibre:series_index" content="9"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-26T04:29:03.488768+00:00"/>
+        <meta name="calibre:title_sort" content="Is It Wrong to Try to Pick Up Girls in a Dungeon?, Vol. 09"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

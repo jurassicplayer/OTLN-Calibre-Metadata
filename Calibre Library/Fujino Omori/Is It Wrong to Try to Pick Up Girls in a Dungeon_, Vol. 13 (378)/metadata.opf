@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">378</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">82fcf90f-c4f0-4c0b-a664-6731c1f0d06d</dc:identifier>
+        <dc:title>Is It Wrong to Try to Pick Up Girls in a Dungeon?, Vol. 13</dc:title>
+        <dc:creator opf:file-as="Omori, Fujino &amp; Yasuda, Suzuhito" opf:role="aut">Fujino Omori</dc:creator>
+        <dc:creator opf:file-as="Omori, Fujino &amp; Yasuda, Suzuhito" opf:role="aut">Suzuhito Yasuda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-19T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p id="book-description-full"&gt;Seeing the future always comes at a cost!&lt;/p&gt;
+&lt;p&gt;Someone has been murdered. The prime suspect in the latest crime to rock Rivira is the elf Gale Wind, now a blacklisted fugitive with a bounty on her head. After hearing this shocking accusation, Bell and his friends prepare to pursue her in order to clear her name. On the eve of their journey, Cassandra recalls a terrible dream that portended seventeen prophecies-and if they come true, the people she cares for most will die. Her solitary battle against ruin begins as Bell chases a Lyu consumed by a thirst for revenge!!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B07KP41X67</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">42931077</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781975328191</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fujino Omori&quot;: &quot;&quot;, &quot;Suzuhito Yasuda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Is It Wrong to Pick Up Girls in a Dungeon?"/>
+        <meta name="calibre:series_index" content="13"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-26T04:29:02.450781+00:00"/>
+        <meta name="calibre:title_sort" content="Is It Wrong to Try to Pick Up Girls in a Dungeon?, Vol. 13"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

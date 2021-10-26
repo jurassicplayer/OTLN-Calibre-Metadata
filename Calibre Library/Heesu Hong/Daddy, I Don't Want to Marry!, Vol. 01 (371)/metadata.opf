@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">371</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ff8b8d74-a8b6-4588-9e9c-36929ebed673</dc:identifier>
+        <dc:title>Daddy, I Don't Want to Marry!, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Hong, Heesu &amp; Cake, Pig" opf:role="aut">Heesu Hong</dc:creator>
+        <dc:creator opf:file-as="Hong, Heesu &amp; Cake, Pig" opf:role="aut">Pig Cake</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-31T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Jubelian is a villainess so reviled by everyone that even her former lover and father leave her to die a pitiful death. As she faces destiny, Jubelian is given the chance to change her destiny by going back in time.&lt;/p&gt;
+&lt;p&gt;In order to escape the haunting death that awaits her, she calls off her engagement and stops trying to win her father’s love. Instead of settling for less, Jubelian focuses on using her father's wealth to enjoy her new life to its fullest! But while she prepares for her extravagant life as a lady, her father begins looking for her new suitor.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>WordExcerpt</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9791132585497</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">57280890</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shoujo</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Heesu Hong&quot;: &quot;&quot;, &quot;Pig Cake&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Daddy, I Don't Want to Marry!"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-26T04:07:19.475888+00:00"/>
+        <meta name="calibre:title_sort" content="Daddy, I Don't Want to Marry!, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

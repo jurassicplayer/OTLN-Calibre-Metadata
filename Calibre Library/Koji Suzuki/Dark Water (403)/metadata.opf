@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">403</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6fcd35a0-7b10-46ae-bf47-531c4ecd1846</dc:identifier>
+        <dc:title>Dark Water</dc:title>
+        <dc:creator opf:file-as="Suzuki, Koji" opf:role="aut">Koji Suzuki</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-06-06T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A haunting collection of short stories from Koji Suzuki, author of the smash thriller, &lt;em&gt;Ring&lt;/em&gt; , which spawned the hit film and sequels. The first story in this collection has been adapted to film ( &lt;em&gt;Dark Water&lt;/em&gt; , Walter Salles), and another, " &lt;em&gt;Adrift&lt;/em&gt; " is currently in production with Dimension Films.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Vertical</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781932234220</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1932234225</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">26759</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Completed</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Koji Suzuki&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-27T02:59:39.600460+00:00"/>
+        <meta name="calibre:title_sort" content="Dark Water"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

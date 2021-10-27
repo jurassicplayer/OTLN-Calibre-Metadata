@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">405</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">656d0e4c-f5df-4176-9a0c-d5e812d5b30f</dc:identifier>
+        <dc:title>Date a Live, Vol. 02: Puppet Yoshino</dc:title>
+        <dc:creator opf:file-as="Tachibana, Koushi &amp; Tsunako" opf:role="aut">Koushi Tachibana</dc:creator>
+        <dc:creator opf:file-as="Tachibana, Koushi &amp; Tsunako" opf:role="aut">Tsunako</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-25T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Things have only gotten stranger for Shido ever since Tohka transferred to his school, especially since she and Origami seem to go at it over the tiniest of things. Lately, it seems the only place he can catch a break is in the comfort of his own home. Unfortunately for him, that’s all about to change. Apparently, he’s going to be living under the same roof as Tohka as part of his new “training” regimen…! And just when he’s feeling most vulnerable, Shido stumbles upon a second Spirit, caught in a sudden deluge. You know what they say: when it rains, it pours…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975319939</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">56306038</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Mecha</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Tragedy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Koushi Tachibana&quot;: &quot;&quot;, &quot;Tsunako&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Date A Live"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-27T02:59:47.171781+00:00"/>
+        <meta name="calibre:title_sort" content="Date a Live, Vol. 02: Puppet Yoshino"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

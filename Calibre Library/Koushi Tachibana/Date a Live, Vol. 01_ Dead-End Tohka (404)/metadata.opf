@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">404</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d1fc4a7-9e78-438d-b039-9ef7e054960d</dc:identifier>
+        <dc:title>Date a Live, Vol. 01: Dead-End Tohka</dc:title>
+        <dc:creator opf:file-as="Tachibana, Koushi &amp; Tsunako" opf:role="aut">Koushi Tachibana</dc:creator>
+        <dc:creator opf:file-as="Tachibana, Koushi &amp; Tsunako" opf:role="aut">Tsunako</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-03-23T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;em&gt;A little meet-cute in a decimated city&lt;/em&gt;&lt;br&gt;April 10. The first day of school. Shido Itsuka is rudely awoken by his personal alarm clock—his little sister. It’s shaping up to be another typical day…well, as typical as it gets on a planet plagued by massive spatial quakes. Little does Shido know, however, his life is about to take a sudden turn when he encounters the source of this destructive phenomenon—a girl his age, apparently known as a Spirit. Turns out, there are only two ways he can stop her from unleashing hell on the world: Eliminate her by force or placate her…by taking her out on a date and making her fall in love with him!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975319915</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">55278421</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Mecha</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Tragedy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Koushi Tachibana&quot;: &quot;&quot;, &quot;Tsunako&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Date A Live"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-27T02:59:46.750831+00:00"/>
+        <meta name="calibre:title_sort" content="Date a Live, Vol. 01: Dead-End Tohka"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

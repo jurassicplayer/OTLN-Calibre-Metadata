@@ -6,7 +6,7 @@
         <dc:title>Another: Episode S / 0</dc:title>
         <dc:creator opf:file-as="Ayatsuji, Yukito &amp; Kiyohara, Hiro" opf:role="aut">Yukito Ayatsuji</dc:creator>
         <dc:creator opf:file-as="Ayatsuji, Yukito &amp; Kiyohara, Hiro" opf:role="aut">Hiro Kiyohara</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-05-24T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Summer, 1998. Mei Misaki, age fifteen, has gone with her family to their seaside vacation home. There she meets the ghost of Teruya Sakaki, her classmate from Yomiyama North Middle School Class 3-3 who, like Mei, witnessed the mysterious events that had transpired at the school. There begins an adventure of memory and mystery as they search for the ghost's body and his memories alike.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -23,6 +23,8 @@
         <dc:subject>Supernatural</dc:subject>
         <dc:subject>Completed</dc:subject>
         <dc:subject>Seinen</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Yukito Ayatsuji&quot;: &quot;&quot;, &quot;Hiro Kiyohara&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Another"/>
         <meta name="calibre:series_index" content="3"/>

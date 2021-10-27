@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">393</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7790ff6d-8ac6-47d8-ade5-c1946e34ec9c</dc:identifier>
+        <dc:title>Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria, Vol. 02</dc:title>
+        <dc:creator opf:file-as="Omori, Fujino &amp; Haimura, Kiyotaka &amp; Yasuda, Suzuhito" opf:role="aut">Fujino Omori</dc:creator>
+        <dc:creator opf:file-as="Omori, Fujino &amp; Haimura, Kiyotaka &amp; Yasuda, Suzuhito" opf:role="aut">Kiyotaka Haimura</dc:creator>
+        <dc:creator opf:file-as="Omori, Fujino &amp; Haimura, Kiyotaka &amp; Yasuda, Suzuhito" opf:role="aut">Suzuhito Yasuda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-21T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A room bathed in crimson red blood, the air choked with the smell of iron, and a shattered skull atop a dead adventurers corpse...&lt;/p&gt;
+&lt;p&gt;Thanks to Aiz and crew, the tumultuous events of Monsterphilia ended without incident, and they were finally able to relax-but only for a moment. Soon, they find themselves embroiled in a suspicious case of &lt;em&gt;murder&lt;/em&gt;. As they begin to investigate, the ladies soon realize that they're getting involved with a killer that's more horrifying than they thought. &lt;/p&gt;
+&lt;p&gt;"What, &lt;em&gt;is&lt;/em&gt; this...?" &lt;/p&gt;
+&lt;p&gt;In the midst of all this, they find a mysterious jewel that may connect to everything else. These events taking place above and below the surface will rock Orario to its core as the darkness lurking in the city bursts forth!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316318167</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B01LWP1O0O</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">32898229</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fujino Omori&quot;: &quot;&quot;, &quot;Kiyotaka Haimura&quot;: &quot;&quot;, &quot;Suzuhito Yasuda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-27T01:37:59.416129+00:00"/>
+        <meta name="calibre:title_sort" content="Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria, Vol. 02"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

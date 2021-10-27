@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">395</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10450f1b-c168-43db-b521-ede6663864c1</dc:identifier>
+        <dc:title>Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria, Vol. 10</dc:title>
+        <dc:creator opf:file-as="Omori, Fujino &amp; Haimura, Kiyotaka &amp; Yasuda, Suzuhito" opf:role="aut">Fujino Omori</dc:creator>
+        <dc:creator opf:file-as="Omori, Fujino &amp; Haimura, Kiyotaka &amp; Yasuda, Suzuhito" opf:role="aut">Kiyotaka Haimura</dc:creator>
+        <dc:creator opf:file-as="Omori, Fujino &amp; Haimura, Kiyotaka &amp; Yasuda, Suzuhito" opf:role="aut">Suzuhito Yasuda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-05T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;span style="color: #abb2bf"&gt;Orario has erupted in fear and bewilderment as weapon-wielding monsters appear above ground. This Irregular is drawing every power residing within the city into a whirlwind of trouble. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #abb2bf"&gt;For Loki Familia, this seems like the best lead they have so far in their search for the key to the man-made dungeon. The Sword Princess steels herself as they begin their search, but in this fateful battle that revolves around people and monsters, Aiz will have to grapple with much more than she bargained for. &lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B07QPFSJDV</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">45171533</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781975331719</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fujino Omori&quot;: &quot;&quot;, &quot;Kiyotaka Haimura&quot;: &quot;&quot;, &quot;Suzuhito Yasuda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria"/>
+        <meta name="calibre:series_index" content="10"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-27T01:38:00.019277+00:00"/>
+        <meta name="calibre:title_sort" content="Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria, Vol. 10"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

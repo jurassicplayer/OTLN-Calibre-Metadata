@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">394</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ef9c695-1d04-44ab-aaaf-93c765c6c565</dc:identifier>
+        <dc:title>Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria, Vol. 11</dc:title>
+        <dc:creator opf:file-as="Omori, Fujino &amp; Haimura, Kiyotaka &amp; Yasuda, Suzuhito" opf:role="aut">Fujino Omori</dc:creator>
+        <dc:creator opf:file-as="Omori, Fujino &amp; Haimura, Kiyotaka &amp; Yasuda, Suzuhito" opf:role="aut">Kiyotaka Haimura</dc:creator>
+        <dc:creator opf:file-as="Omori, Fujino &amp; Haimura, Kiyotaka &amp; Yasuda, Suzuhito" opf:role="aut">Suzuhito Yasuda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-25T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;THE CLOCK STOPS FOR NO ONE.&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Promises have come undone-Aiz could not kill the monster who wept in front of her while shielding Bell. For nights on end, those tears have haunted her, obscuring her reason to fight and guiding her to face Bell for the first time since their conflict... &lt;/p&gt;
+&lt;p&gt;But they aren't the only ones joining hands across familias. With the dawn of the Knossos operation upon them, the patron gods tear down their differences. The adventurers march toward their fate with the Xenos by their side. For life, for death, and for the destiny of Orario, they hold their heads high, ready for war-failing to realize that the darkest of times is yet to come...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975331733</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">46208787</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fujino Omori&quot;: &quot;&quot;, &quot;Kiyotaka Haimura&quot;: &quot;&quot;, &quot;Suzuhito Yasuda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria"/>
+        <meta name="calibre:series_index" content="11"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-27T01:37:59.753566+00:00"/>
+        <meta name="calibre:title_sort" content="Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria, Vol. 11"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

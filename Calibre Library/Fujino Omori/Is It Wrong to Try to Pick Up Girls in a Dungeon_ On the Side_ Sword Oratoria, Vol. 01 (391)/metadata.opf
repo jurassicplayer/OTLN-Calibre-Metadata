@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">391</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99be7451-a62d-463b-8371-1da5ab882752</dc:identifier>
+        <dc:title>Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Omori, Fujino &amp; Haimura, Kiyotaka &amp; Yasuda, Suzuhito" opf:role="aut">Fujino Omori</dc:creator>
+        <dc:creator opf:file-as="Omori, Fujino &amp; Haimura, Kiyotaka &amp; Yasuda, Suzuhito" opf:role="aut">Kiyotaka Haimura</dc:creator>
+        <dc:creator opf:file-as="Omori, Fujino &amp; Haimura, Kiyotaka &amp; Yasuda, Suzuhito" opf:role="aut">Suzuhito Yasuda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-11-01T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Aiz Wallenstein, the Sword Princess, is known as one of the most powerful warriors from one of the most powerful groups in the city of Orario: &lt;em&gt;Loki Familia&lt;/em&gt;. &lt;/p&gt;
+&lt;p&gt;With them, she ventures into the deepest parts of the labyrinthine Dungeon beneath the city, stalking the monstrous denizens that lurk there and vanquishing them with the blazing light of her sword. But when she meets a certain white-haired boy, the encounter will change both of them forever...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316315333</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">29775359</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B01DSTTSHU</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fujino Omori&quot;: &quot;&quot;, &quot;Kiyotaka Haimura&quot;: &quot;&quot;, &quot;Suzuhito Yasuda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-27T01:37:58.112953+00:00"/>
+        <meta name="calibre:title_sort" content="Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

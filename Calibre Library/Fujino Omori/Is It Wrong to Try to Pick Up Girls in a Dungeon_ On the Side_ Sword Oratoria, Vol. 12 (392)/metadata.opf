@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">392</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e178541f-a11e-42ea-ae40-87258d7d27f6</dc:identifier>
+        <dc:title>Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria, Vol. 12</dc:title>
+        <dc:creator opf:file-as="Omori, Fujino &amp; Haimura, Kiyotaka &amp; Yasuda, Suzuhito" opf:role="aut">Fujino Omori</dc:creator>
+        <dc:creator opf:file-as="Omori, Fujino &amp; Haimura, Kiyotaka &amp; Yasuda, Suzuhito" opf:role="aut">Kiyotaka Haimura</dc:creator>
+        <dc:creator opf:file-as="Omori, Fujino &amp; Haimura, Kiyotaka &amp; Yasuda, Suzuhito" opf:role="aut">Suzuhito Yasuda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-21T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p id="book-description-full"&gt;&lt;strong&gt;T&lt;/strong&gt;&lt;strong&gt;HE BEGINNING OF A NEW ORATORIA...&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The clock ticks dangerously close to the beginning of the final battle. No matter who wins, who loses, who lives, who dies, there will be no glory or riches for the taking. Those who fall shall not be remembered in the annals of history, joining the long funeral procession snaking around the heavens.&lt;/p&gt;
+&lt;p&gt;Even so, the adventurers plan to stand strong against the greatest evil the world has seen in a thousand years. Having come to terms with their fate, they prepare for the ultimate struggle-for pride, for solidarity, for justice, for restoring peace on the mortal realm...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B083SBH71X</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">50614766</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781975313272</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fujino Omori&quot;: &quot;&quot;, &quot;Kiyotaka Haimura&quot;: &quot;&quot;, &quot;Suzuhito Yasuda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria"/>
+        <meta name="calibre:series_index" content="12"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-27T01:37:58.727088+00:00"/>
+        <meta name="calibre:title_sort" content="Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria, Vol. 12"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

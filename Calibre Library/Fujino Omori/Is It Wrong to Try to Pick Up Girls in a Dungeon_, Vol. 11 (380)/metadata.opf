@@ -9,11 +9,12 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-06-18T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
-&lt;p&gt;After saving the young dragon girl Wiene, Bell's name has become synonymous with "greedy", "despicable", and "traitor." He and his familia have completely lost the trust and respect of everyone residing in Orario. There's no time for him to feel sorry himself when his newfound monstrous friends, the Xenos, need his help to get home. But now that the the greatest obstacle in their way is &lt;em&gt;Loki Familia&lt;/em&gt;, does Bell have what it takes to raise a fist against his beloved idol, the Sword Princess Aiz Wallenstein?&lt;/p&gt;&lt;/div&gt;</dc:description>
+&lt;p&gt;After saving the young dragon girl Wiene, Bell's name has become synonymous with "greedy", "despicable", and "traitor." He and his familia have completely lost the trust and respect of everyone residing in Orario.&lt;/p&gt;
+&lt;p&gt;There's no time for him to feel sorry himself when his newfound monstrous friends, the Xenos, need his help to get home. But now that the the greatest obstacle in their way is &lt;em&gt;Loki Familia&lt;/em&gt;, does Bell have what it takes to raise a fist against his beloved idol, the Sword Princess Aiz Wallenstein?&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316442473</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B0763MTHMK</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">36489924</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9780316442473</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>
@@ -24,10 +25,10 @@
         <dc:subject>Romance</dc:subject>
         <dc:subject>Science Fiction</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Fujino Omori&quot;: &quot;&quot;, &quot;Suzuhito Yasuda&quot;: &quot;&quot;}"/>
-        <meta name="calibre:series" content="Is It Wrong to Pick Up Girls in a Dungeon?"/>
+        <meta name="calibre:series" content="Is It Wrong to Try to Pick Up Girls in a Dungeon?"/>
         <meta name="calibre:series_index" content="11"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-26T04:29:02.953064+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-26T04:29:02+00:00"/>
         <meta name="calibre:title_sort" content="Is It Wrong to Try to Pick Up Girls in a Dungeon?, Vol. 11"/>
     </metadata>
     <guide>

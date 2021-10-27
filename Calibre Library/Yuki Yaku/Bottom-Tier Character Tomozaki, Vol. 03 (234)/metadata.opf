@@ -6,15 +6,15 @@
         <dc:title>Bottom-Tier Character Tomozaki, Vol. 03</dc:title>
         <dc:creator opf:file-as="Yaku, Yuki &amp; Fly" opf:role="aut">Yuki Yaku</dc:creator>
         <dc:creator opf:file-as="Yaku, Yuki &amp; Fly" opf:role="aut">Fly</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-04-21T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;What makes the game worth playing?&lt;/p&gt;
 &lt;p&gt;The first semester is over, and summer vacation has begun-although that doesn't mean Tomozaki will get a break from his training with Hinami. His mission this time is a tough one: a coed overnight trip! On top of that, Hinami wants Tomozaki in a relationship by the end of the summer, too! Isn't that more of an endgame objective?!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">48837830</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781975384593</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1975384598</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">48837830</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Comedy</dc:subject>
         <dc:subject>Drama</dc:subject>
@@ -29,7 +29,7 @@
         <meta name="calibre:series" content="Bottom-Tier Character Tomozaki"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2021-08-12T04:56:17.902997+00:00"/>
+        <meta name="calibre:timestamp" content="2021-08-12T04:56:17+00:00"/>
         <meta name="calibre:title_sort" content="Bottom-Tier Character Tomozaki, Vol. 03"/>
     </metadata>
     <guide>

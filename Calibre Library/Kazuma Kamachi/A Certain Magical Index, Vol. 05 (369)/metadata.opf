@@ -6,7 +6,7 @@
         <dc:title>A Certain Magical Index, Vol. 05</dc:title>
         <dc:creator opf:file-as="Kamachi, Kazuma &amp; Haimura, Kiyotaka" opf:role="aut">Kazuma Kamachi</dc:creator>
         <dc:creator opf:file-as="Kamachi, Kazuma &amp; Haimura, Kiyotaka" opf:role="aut">Kiyotaka Haimura</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-02-23T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p id="book-description-full"&gt;&lt;strong&gt;A&lt;/strong&gt;&lt;strong&gt; certain unlikely hero...&lt;/strong&gt;&lt;/p&gt;
@@ -31,7 +31,7 @@
         <meta name="calibre:series" content="A Certain Magical Index"/>
         <meta name="calibre:series_index" content="5"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-22T04:40:17.129524+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-22T04:40:17+00:00"/>
         <meta name="calibre:title_sort" content="Certain Magical Index, Vol. 05, A"/>
     </metadata>
     <guide>

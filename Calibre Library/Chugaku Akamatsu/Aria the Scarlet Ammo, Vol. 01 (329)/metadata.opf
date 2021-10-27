@@ -6,14 +6,14 @@
         <dc:title>Aria the Scarlet Ammo, Vol. 01</dc:title>
         <dc:creator opf:file-as="Akamatsu, Chugaku &amp; Kobuichi" opf:role="aut">Chugaku Akamatsu</dc:creator>
         <dc:creator opf:file-as="Akamatsu, Chugaku &amp; Kobuichi" opf:role="aut">Kobuichi</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2008-07-31T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Tokyo Butei High School--- A special school where armed detectives, also known as "Butei", receive education as well as training. Kinji Tohyama, a sophomore, has a unique body that can initiate an ability called "hysteria mode" when it is stimulated a certain way. He tries to keep it a secret but all his dreams of living the life of an Average Joe get shattered when he becomes a victim of a bombing incident and meets Butei High "Assault" department elite, Aria H. Kanzaki.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Digital Manga Guild</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">18755993</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9784040664125</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B00FK8MZ9G</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">18755993</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Comedy</dc:subject>
@@ -27,7 +27,7 @@
         <meta name="calibre:series" content="Aria the Scarlet Ammo"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-14T02:42:33.734708+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-14T02:42:33+00:00"/>
         <meta name="calibre:title_sort" content="Aria the Scarlet Ammo, Vol. 01"/>
     </metadata>
     <guide>

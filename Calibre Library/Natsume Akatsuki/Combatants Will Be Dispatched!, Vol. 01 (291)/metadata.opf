@@ -6,14 +6,14 @@
         <dc:title>Combatants Will Be Dispatched!, Vol. 01</dc:title>
         <dc:creator opf:file-as="Akatsuki, Natsume &amp; Lanthanum, Kakao" opf:role="aut">Natsume Akatsuki</dc:creator>
         <dc:creator opf:file-as="Akatsuki, Natsume &amp; Lanthanum, Kakao" opf:role="aut">Kakao Lanthanum</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-09-03T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;Always bring a gun to a sword fight!&lt;/p&gt;
 &lt;p&gt;With world domination nearly in their grasp, the Supreme Leaders of the Kisaragi Corporation--an underground criminal group turned evil megacorp--have decided to try their hands at interstellar conquest. A quick dice roll nominates their chief operative, Combat Agent Six, to be the one to explore an alien planet...and the first thing he does when he gets there is change the sacred incantation for a holy ritual to the most embarrassing thing he can think of. But evil deeds are business as usual for Kisaragi operatives, so if Six wants a promotion and a raise, he'll have to work much harder than that! For starters, he'll have to do something about the other group of villains on the planet, who are calling themselves the "Demon Lord's Army" or whatever. After all, this world doesn't need two evil organizations!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Yen Press (Yen On)</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781975385583</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">43886682</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781975385583</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>
@@ -28,7 +28,7 @@
         <meta name="calibre:series" content="Combatants Will Be Dispatched!"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-08-27T00:48:54.064583+00:00"/>
+        <meta name="calibre:timestamp" content="2021-08-27T00:48:54+00:00"/>
         <meta name="calibre:title_sort" content="Combatants Will Be Dispatched!, Vol. 01"/>
     </metadata>
     <guide>

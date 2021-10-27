@@ -6,15 +6,15 @@
         <dc:title>Cooking with Wild Game, Vol. 11</dc:title>
         <dc:creator opf:file-as="EDA &amp; Kochimo" opf:role="aut">EDA</dc:creator>
         <dc:creator opf:file-as="EDA &amp; Kochimo" opf:role="aut">Kochimo</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-02-13T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Though things seem to finally be picking up for Asuta in regards to business, the people of the forest’s edge are still facing their fair share of issues. Jeeda and his hatred remain a threat, as they haven’t yet managed to break through to the boy. Allies from the post town have clearly been targeted by someone, though the culprit remains a mystery. And above all else, the clash with Cyclaeus looms ever larger. &lt;/p&gt;
 &lt;p&gt;Unfortunately for our heroes, things are going to get worse before they get better. Which is to say, while carrying out his daily work, Asuta is kidnapped under orders from a mysterious figure! Just what do they want from him? Will Ai Fa and his other allies be able to track him down? And will our plucky young chef be able to make it out of this pinch safely?! &lt;/p&gt;
 &lt;p&gt;Find out all this and more in the exciting eleventh volume of Cooking with Wild Game!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B08NSC7RT9</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">55946234</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08NSC7RT9</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Adventure</dc:subject>
         <dc:subject>Comedy</dc:subject>
@@ -31,7 +31,7 @@
         <meta name="calibre:series" content="Cooking with Wild Game"/>
         <meta name="calibre:series_index" content="11"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-09-16T03:12:10.153937+00:00"/>
+        <meta name="calibre:timestamp" content="2021-09-16T03:12:10+00:00"/>
         <meta name="calibre:title_sort" content="Cooking with Wild Game, Vol. 11"/>
     </metadata>
     <guide>

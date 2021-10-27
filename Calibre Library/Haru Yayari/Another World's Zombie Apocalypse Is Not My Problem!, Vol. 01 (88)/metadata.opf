@@ -6,7 +6,7 @@
         <dc:title>Another World’s Zombie Apocalypse Is Not My Problem!, Vol. 01</dc:title>
         <dc:creator opf:file-as="Yayari, Haru &amp; Fuyuki" opf:role="aut">Haru Yayari</dc:creator>
         <dc:creator opf:file-as="Yayari, Haru &amp; Fuyuki" opf:role="aut">Fuyuki</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-09-08T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;Just when I thought navigating high school was bad enough, I woke up to a rotting, post-apocalyptic world!&lt;/p&gt;
@@ -20,6 +20,7 @@
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>
         <dc:subject>Comedy</dc:subject>
+        <dc:subject>Completed</dc:subject>
         <dc:subject>Ecchi</dc:subject>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Fiction</dc:subject>
@@ -27,7 +28,6 @@
         <dc:subject>Isekai</dc:subject>
         <dc:subject>Romance</dc:subject>
         <dc:subject>Supernatural</dc:subject>
-        <dc:subject>Completed</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Haru Yayari&quot;: &quot;&quot;, &quot;Fuyuki&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Another World’s Zombie Apocalypse Is Not My Problem!"/>
         <meta name="calibre:series_index" content="1"/>

@@ -7,15 +7,15 @@
         <dc:creator opf:file-as="Kamiya, Yuu &amp; Himana, Tsubaki &amp; Sino" opf:role="aut">Yuu Kamiya</dc:creator>
         <dc:creator opf:file-as="Kamiya, Yuu &amp; Himana, Tsubaki &amp; Sino" opf:role="aut">Tsubaki Himana</dc:creator>
         <dc:creator opf:file-as="Kamiya, Yuu &amp; Himana, Tsubaki &amp; Sino" opf:role="aut">Sino</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-04-16T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;BACKSTABBED!&lt;/p&gt;
 &lt;p&gt;Shocks and surprises await Naoto, Marie and the rest of the gang when they find their way to Shangri La Grid, crime capital of the world. The team’s stuck together through thick and thin, but how will they cope with the discovery of a traitor in their midst? And as if being betrayed by one of their own wasn’t bad enough… is that another Initial-Y automaton in front of them?!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781642750027</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">1642750026</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">40045944</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1642750026</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Comedy</dc:subject>
@@ -31,7 +31,7 @@
         <meta name="calibre:series" content="Clockwork Planet"/>
         <meta name="calibre:series_index" content="4"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-08-27T00:45:32.433027+00:00"/>
+        <meta name="calibre:timestamp" content="2021-08-27T00:45:32+00:00"/>
         <meta name="calibre:title_sort" content="Clockwork Planet, Vol. 04"/>
     </metadata>
     <guide>

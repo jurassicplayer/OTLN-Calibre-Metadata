@@ -6,7 +6,7 @@
         <dc:title>Ascendance of a Bookworm: Part 4 Founder of the Royal Academy's So-Called Library Committee, Vol. 02</dc:title>
         <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You" opf:role="aut">Miya Kazuki</dc:creator>
         <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You" opf:role="aut">You Shiina</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.26.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-09-01T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;In her determination to access the library as soon as possible, Rozemyne put her absolute all into her studies from the moment she arrived at the Royal Academy. Unfortunately for her, she behaved so unusually in the process that her retainers and professors have grown increasingly worried.&lt;/p&gt;
@@ -14,9 +14,9 @@
 &lt;p&gt;Her complete lack of foresight leaves the leaders of Ehrenfest in constant cranial agony. As anyone might expect, Rozemyne will do anything to protect the library.&lt;/p&gt;
 &lt;p&gt;Here comes another chaotic volume of this biblio-fantasy, featuring two original short stories and four-panel manga drawn by You Shiina!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9784864726696</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B097YY2FXK</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">58448027</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9784864726696</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Adventure</dc:subject>
         <dc:subject>Comedy</dc:subject>
@@ -34,7 +34,7 @@
         <meta name="calibre:series" content="Ascendance of a Bookworm"/>
         <meta name="calibre:series_index" content="4.20"/>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2021-09-10T00:55:13.569755+00:00"/>
+        <meta name="calibre:timestamp" content="2021-09-10T00:55:13+00:00"/>
         <meta name="calibre:title_sort" content="Ascendance of a Bookworm: Part 4 Founder of the Royal Academy's So-Called Library Committee, Vol. 02"/>
     </metadata>
     <guide>

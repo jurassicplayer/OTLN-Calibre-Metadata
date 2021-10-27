@@ -6,7 +6,7 @@
         <dc:title>A Certain Magical Index, Vol. 12</dc:title>
         <dc:creator opf:file-as="Kamachi, Kazuma &amp; Haimura, Kiyotaka" opf:role="aut">Kazuma Kamachi</dc:creator>
         <dc:creator opf:file-as="Kamachi, Kazuma &amp; Haimura, Kiyotaka" opf:role="aut">Kiyotaka Haimura</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-08-22T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;A certain unlikely hero...&lt;/p&gt;
@@ -32,7 +32,7 @@
         <meta name="calibre:series" content="A Certain Magical Index"/>
         <meta name="calibre:series_index" content="12"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-22T04:40:15.759197+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-22T04:40:15+00:00"/>
         <meta name="calibre:title_sort" content="Certain Magical Index, Vol. 12, A"/>
     </metadata>
     <guide>

@@ -6,14 +6,14 @@
         <dc:title>Classroom of the Elite, Vol. 07.5</dc:title>
         <dc:creator opf:file-as="Kinugasa, Syougo &amp; Tomose, Shunsaku" opf:role="aut">Syougo Kinugasa</dc:creator>
         <dc:creator opf:file-as="Kinugasa, Syougo &amp; Tomose, Shunsaku" opf:role="aut">Shunsaku Tomose</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-03-23T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;MISTLETOE AND MACHINATIONS&lt;/p&gt;
 &lt;p&gt;School may be on vacation, but the scheming never stops! Christmas draws near, and Karuizawa and Satou compete for Ayanokouji’s affections while new student council president Nagumo makes his first sinister moves. Don’t miss this bonus volume of short stories, covering the events of a winter break that will decide the balance of power in the upcoming third semester!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781645059752</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">53426694</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781645059752</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Light Novel</dc:subject>
         <dc:subject>Drama</dc:subject>
@@ -29,7 +29,7 @@
         <meta name="calibre:series" content="Classroom of the Elite"/>
         <meta name="calibre:series_index" content="7.50"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-08-15T09:15:35.199595+00:00"/>
+        <meta name="calibre:timestamp" content="2021-08-15T09:15:35+00:00"/>
         <meta name="calibre:title_sort" content="Classroom of the Elite, Vol. 07.5"/>
     </metadata>
     <guide>

@@ -6,14 +6,14 @@
         <dc:title>A Certain Magical Index, Vol. 14</dc:title>
         <dc:creator opf:file-as="Kamachi, Kazuma &amp; Haimura, Kiyotaka" opf:role="aut">Kazuma Kamachi</dc:creator>
         <dc:creator opf:file-as="Kamachi, Kazuma &amp; Haimura, Kiyotaka" opf:role="aut">Kiyotaka Haimura</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-02-27T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;A certain unlikely hero...&lt;/p&gt;
 &lt;p&gt;Ever since the attack on Academy City, the disputes between the magic side and the science side have been getting worse day by day. Now protests have broken out in France, instigated by a sinister magical artifact, and world tensions are nearing their breaking point. Unable to just stand and watch, Touma Kamijou flies off to Avignon in order to use his trump card, Imagine Breaker, but he should be a little more wary of what could be waiting for him in the historic stronghold of the papacy...&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Yen Press (Yen On)</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9780316442701</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">35397373</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780316442701</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>
@@ -31,7 +31,7 @@
         <meta name="calibre:series" content="A Certain Magical Index"/>
         <meta name="calibre:series_index" content="14"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-22T04:40:14.863047+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-22T04:40:14+00:00"/>
         <meta name="calibre:title_sort" content="Certain Magical Index, Vol. 14, A"/>
     </metadata>
     <guide>

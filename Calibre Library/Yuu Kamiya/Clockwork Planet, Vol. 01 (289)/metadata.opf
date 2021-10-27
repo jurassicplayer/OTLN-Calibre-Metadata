@@ -7,7 +7,7 @@
         <dc:creator opf:file-as="Kamiya, Yuu &amp; Himana, Tsubaki &amp; Sino" opf:role="aut">Yuu Kamiya</dc:creator>
         <dc:creator opf:file-as="Kamiya, Yuu &amp; Himana, Tsubaki &amp; Sino" opf:role="aut">Tsubaki Himana</dc:creator>
         <dc:creator opf:file-as="Kamiya, Yuu &amp; Himana, Tsubaki &amp; Sino" opf:role="aut">Sino</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-02-27T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;A CONSPIRACY OF GEARS&lt;/p&gt;
@@ -31,7 +31,7 @@
         <meta name="calibre:series" content="Clockwork Planet"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-08-27T00:45:32.935999+00:00"/>
+        <meta name="calibre:timestamp" content="2021-08-27T00:45:32+00:00"/>
         <meta name="calibre:title_sort" content="Clockwork Planet, Vol. 01"/>
     </metadata>
     <guide>

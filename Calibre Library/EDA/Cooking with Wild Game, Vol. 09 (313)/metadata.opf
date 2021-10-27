@@ -6,7 +6,7 @@
         <dc:title>Cooking with Wild Game, Vol. 09</dc:title>
         <dc:creator opf:file-as="EDA &amp; Kochimo" opf:role="aut">EDA</dc:creator>
         <dc:creator opf:file-as="EDA &amp; Kochimo" opf:role="aut">Kochimo</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-09-27T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;With the menace of the Suun clan no longer hanging over them, a peaceful era had finally arrived for the forest’s edge. Though new changes like the introduction of totos to their lives occurred, the Fa clan was no longer under constant threat. However, that peace couldn’t last forever, as the meeting with Cyclaeus loomed imminent, bringing with it the potential concern of a clash with the nobles of Genos. &lt;/p&gt;
@@ -14,8 +14,8 @@
 &lt;p&gt;With all this great upheaval facing him, just what will Asuta’s life look like after these tumultuous days? Can a peaceful and positive conclusion possibly be reached, or does the crafty Cyclaeus have some tricks up his sleeves to turn things around on our heroes? &lt;/p&gt;
 &lt;p&gt;Find out all this and more in the exciting ninth volume of Cooking with Wild Game!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B08C21RX1Q</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">54336723</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08C21RX1Q</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Adventure</dc:subject>
@@ -32,7 +32,7 @@
         <meta name="calibre:series" content="Cooking with Wild Game"/>
         <meta name="calibre:series_index" content="9"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-09-16T03:12:10.926204+00:00"/>
+        <meta name="calibre:timestamp" content="2021-09-16T03:12:10+00:00"/>
         <meta name="calibre:title_sort" content="Cooking with Wild Game, Vol. 09"/>
     </metadata>
     <guide>

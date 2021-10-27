@@ -6,7 +6,7 @@
         <dc:title>Cooking with Wild Game, Vol. 04</dc:title>
         <dc:creator opf:file-as="EDA &amp; Kochimo" opf:role="aut">EDA</dc:creator>
         <dc:creator opf:file-as="EDA &amp; Kochimo" opf:role="aut">Kochimo</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-09-14T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Asuta has already overcome many challenges at the forest’s edge. One can’t help but wonder what comes next for our hero, but the answer comes from a certain sketchy oldtimer by the name of Kamyua Yoshu. And his shocking suggestion is to bring his cooking beyond the borders of the forest’s edge! &lt;/p&gt;
@@ -31,7 +31,7 @@
         <meta name="calibre:series" content="Cooking with Wild Game"/>
         <meta name="calibre:series_index" content="4"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-09-16T03:12:12.986533+00:00"/>
+        <meta name="calibre:timestamp" content="2021-09-16T03:12:12+00:00"/>
         <meta name="calibre:title_sort" content="Cooking with Wild Game, Vol. 04"/>
     </metadata>
     <guide>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">410</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2023e5b-c7f3-458e-aa55-bba2397466c9</dc:identifier>
+        <dc:title>Death March to the Parallel World Rhapsody, Vol. 02</dc:title>
+        <dc:creator opf:file-as="Ainana, Hiro &amp; shri" opf:role="aut">Hiro Ainana</dc:creator>
+        <dc:creator opf:file-as="Ainana, Hiro &amp; shri" opf:role="aut">shri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-05-23T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Living in a gamelike fantasy world, Satou Suzuki is in no hurry to get back to his "death march" at home. He's content to take in the sights of Seiryuu City, go to a play with his friend Zena, and take care of the five girls in his party. After he discovers one of them was summoned from Japan like him, though, he prepares for a journey to learn more--until another friend is kidnapped by an evil sorcerer! &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B01M2BLMBO</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">33852928</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780316507974</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hiro Ainana&quot;: &quot;&quot;, &quot;shri&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Death March to the Parallel World Rhapsody"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-28T06:20:08.731570+00:00"/>
+        <meta name="calibre:title_sort" content="Death March to the Parallel World Rhapsody, Vol. 02"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">432</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f13221b8-9d74-4c74-b1b7-d223d9b9bbec</dc:identifier>
+        <dc:title>Deathbound Duke's Daughter, Vol. 02: Erika Aurelia and the Angel's Crypt</dc:title>
+        <dc:creator opf:file-as="Senoo, Terasu &amp; Munashichi" opf:role="aut">Terasu Senoo</dc:creator>
+        <dc:creator opf:file-as="Senoo, Terasu &amp; Munashichi" opf:role="aut">Munashichi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-19T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Having been reincarnated as the villainous daughter of a duke, Erika Aurelia has safely shattered the flag that would’ve one day seen her killed by an evil spirit. The next death flag awaiting her leads to her being devoured by a beast bound to Prince August of Ignitia. &lt;/p&gt;
+&lt;p&gt;The royal capital is lively with the spirit of Adventmas as Erika drops by to prevent her next fated demise. There, she meets a young boy so beautiful he could be mistaken for an angel...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club (J-Novel Heart)</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B08BPCZM8G</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">54361307</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Reverse Harem</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shoujo</dc:subject>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Terasu Senoo&quot;: &quot;&quot;, &quot;Munashichi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Deathbound Duke's Daughter"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-29T04:15:56.139660+00:00"/>
+        <meta name="calibre:title_sort" content="Deathbound Duke's Daughter, Vol. 02: Erika Aurelia and the Angel's Crypt"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">424</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e1e2de3b-1f79-4189-bef7-a5f3f3e02f23</dc:identifier>
+        <dc:title>Code Geass: Lelouch of the Rebellion, Vol. 03: Stage -2- Knight</dc:title>
+        <dc:creator opf:file-as="Ohkouchi, Ichirou &amp; Taniguchi, Goro" opf:role="aut">Ichirou Ohkouchi</dc:creator>
+        <dc:creator opf:file-as="Ohkouchi, Ichirou &amp; Taniguchi, Goro" opf:role="aut">Goro Taniguchi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-08-25T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The Black Knights were able to pull off a successful victory in Narita under the command of Zero, the masked persona of Lelouch. However, the celbration was short-lived, for it caused the death of his friend’s father. As Lelouch begins to question the path of blood he has chosen, another Geass user named Mao appears!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Bandai Entertainment</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781594099830</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1594099839</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">4701248</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Completed</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Mecha</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ichirou Ohkouchi&quot;: &quot;&quot;, &quot;Goro Taniguchi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Code Geass Series"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-29T04:14:17.165228+00:00"/>
+        <meta name="calibre:title_sort" content="Code Geass: Lelouch of the Rebellion, Vol. 03: Stage -2- Knight"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

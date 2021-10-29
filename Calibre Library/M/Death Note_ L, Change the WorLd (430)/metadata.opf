@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">430</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ef022ce3-64e2-4a24-9458-b1cb05c46a41</dc:identifier>
+        <dc:title>Death Note: L, Change the WorLd</dc:title>
+        <dc:creator opf:file-as="M &amp; Nieda, Takami" opf:role="aut">M</dc:creator>
+        <dc:creator opf:file-as="M &amp; Nieda, Takami" opf:role="aut">Takami Nieda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-20T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In an alternative continuity in the &lt;em&gt;Death Note&lt;/em&gt; setting, ace detective L's name has been written in a Death Note. He has twenty-three days to bring a terrorist group to justice, or they will use a deadly new virus to change the world—by killing off most of humanity.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>VIZ Media LLC (SHOUNEN JUMP)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781421532257</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B00AZ8RJLK</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">6949517</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;M&quot;: &quot;&quot;, &quot;Takami Nieda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Death Note Series"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-29T04:15:43.174348+00:00"/>
+        <meta name="calibre:title_sort" content="Death Note: L, Change the WorLd"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

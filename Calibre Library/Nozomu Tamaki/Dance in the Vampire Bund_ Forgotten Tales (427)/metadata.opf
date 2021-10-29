@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">427</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46ad165b-6527-4890-a4fd-b01553f9d498</dc:identifier>
+        <dc:title>Dance in the Vampire Bund: Forgotten Tales</dc:title>
+        <dc:creator opf:file-as="Tamaki, Nozomu" opf:role="aut">Nozomu Tamaki</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-06-17T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;Delve into the world of &lt;/strong&gt;&lt;span style="font-weight: 600; font-style: italic"&gt;Dance in the Vampire Bund&lt;/span&gt;&lt;strong&gt; in this all-new collection of previously unreleased bonus manga!&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Seven Seas is proud to present to English-speaking fans the all-new Dance in the Vampire Bund: Forgotten Tales , an exclusive collection never before officially published inside or outside of Japan. Twice every year in Japan, manga creators and their fans meet at the Comiket, the largest comic fair in the world. At these events, Dance in the Vampire Bund&lt;/em&gt; creator Nozomu Tamaki and fellow collaborators released exclusive, self-published &lt;em&gt;Dance in the Vampire Bund&lt;/em&gt; comics known as &lt;em&gt;doujinshi&lt;/em&gt; that feature brand new artwork and side stories from the series. These unofficial collections are limited edition prints only available at Japanese conventions... until now!&lt;/p&gt;
+&lt;p&gt; &lt;em&gt;Dance in the Vampire Bund: Forgotten Tales&lt;/em&gt; features over 192 pages of previously uncollected manga, deleted scenes, and other bonus material that is sure to thrill fans of the series. The &lt;em&gt;Dance in the Vampire Bund&lt;/em&gt; manga series has repeatedly hit the &lt;em&gt;New York Times&lt;/em&gt; Manga Bestsellers List with each new release. The manga has been adapted into a hit anime in Japan that is distributed by FUNimation in North America.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781626920514</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1626920516</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">20613465</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Manga</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Nozomu Tamaki&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Dance in the Vampire Bund"/>
+        <meta name="calibre:series_index" content="1.10"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-29T04:14:42.486905+00:00"/>
+        <meta name="calibre:title_sort" content="Dance in the Vampire Bund: Forgotten Tales"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

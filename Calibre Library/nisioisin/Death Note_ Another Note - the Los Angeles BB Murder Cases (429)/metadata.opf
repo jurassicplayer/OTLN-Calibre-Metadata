@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">429</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">894c44b8-9675-4588-b33a-9b1477a7786a</dc:identifier>
+        <dc:title>Death Note: Another Note - the Los Angeles BB Murder Cases</dc:title>
+        <dc:creator opf:file-as="nisioisin" opf:role="aut">nisioisin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-19T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;There's a Serial Killer Loose&lt;/strong&gt; in Los Angeles and the local authorities need help fast. For some reason the killer has been leaving a string of maddeningly arcane clues at each crime scene. Each of these clues, it seems, is an indecipherable roadmap to the next murder. &lt;/p&gt;
+&lt;p&gt;Onto the scene comes L, the mysterious super-sleuth. Despite his peculiar working habits--he's never shown his face in public, for example--he's the most decorated detective in the world and has never tackled a cased he hasn't been able to crack. &lt;/p&gt;
+&lt;p&gt;But this time he needs help. &lt;/p&gt;
+&lt;p&gt;Enlisting the services of an FBI agent named Naomi Misora, L starts snooping around the City of Angels. It soon becomes apparent that the killing spree is a psychotic riddle designed specifically to engage L in a battle of wits. Stuck in the middle between killer and investigator, it's up to Misora to navigate both the dead bodies and the egos to solve the Los Angeles BB Murder Cases.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>VIZ Media LLC (SHOUNEN JUMP)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781421518831</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">142151883X</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">2021816</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;nisioisin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Death Note Series"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-10-30T04:15:03.142000+00:00"/>
+        <meta name="calibre:title_sort" content="Death Note: Another Note - the Los Angeles BB Murder Cases"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

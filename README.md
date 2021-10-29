@@ -47,7 +47,9 @@ Curated calibre metadata for OTLN, going through the suffering so you don't have
 ### To-Do
 - Make a script that move files from a fresh copy to the correct folders with the correct filenames (generate list from my list and use checksums to determine filepaths)
 - Provide a clean update path and directions for updating set
+- Revisit series: Code Geass, Dance in the Vampire Bund, Death Note
+    - These are older light novels with only OCR scans and some metadata may be incorrect.
 
 ### Current Progress (based on v17.0)
-80/434 (18.43%) Series
+86/434 (19.82%) Series
 0/43 (0.0%) Yaoi Series

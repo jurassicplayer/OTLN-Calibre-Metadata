@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">460</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">50bffb04-0020-4ce7-9c07-14b64c59dd94</dc:identifier>
+        <dc:title>Der Werwolf: The Annals of Veight, Vol. 12</dc:title>
+        <dc:creator opf:file-as="Hyougetsu &amp; Teshima, Nari" opf:role="aut">Hyougetsu</dc:creator>
+        <dc:creator opf:file-as="Hyougetsu &amp; Teshima, Nari" opf:role="aut">Nari Teshima</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-09T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Meraldia is now at peace, but Veight is still as busy as ever. It's going to take him time to adjust to his new life as a father and learn how to juggle work and parenting. Now every time he gets called away to Kuwol or the far reaches of the desert, he knows he has to finish as quickly as possible to make it back home to his family. Fortunately for his daughter Friede, she inherited her mother's intelligence and wit and his strength and vigor. While her tomboyish nature may get her in trouble at times, she's still more than capable of handling anything that comes her way.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B097NXTK1M</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">58451487</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Politics</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hyougetsu&quot;: &quot;&quot;, &quot;Nari Teshima&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Der Werwolf: The Annals of Veight"/>
+        <meta name="calibre:series_index" content="12"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-31T07:55:34.251260+00:00"/>
+        <meta name="calibre:title_sort" content="Der Werwolf: The Annals of Veight, Vol. 12"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

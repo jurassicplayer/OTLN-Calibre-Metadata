@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">457</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f00cc13c-0da5-4a98-bd73-9c0fb3913793</dc:identifier>
+        <dc:title>Der Werwolf: The Annals of Veight, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Hyougetsu &amp; Nishi(E)da" opf:role="aut">Hyougetsu</dc:creator>
+        <dc:creator opf:file-as="Hyougetsu &amp; Nishi(E)da" opf:role="aut">Nishi(E)da</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-09-13T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The reborn werewolf known as Veight now leads the Demon Lord's third regiment under the title of Vice-Commander. Having conquered the trading hub known as Ryunheit, he soon learns the struggles of governing a city of mixed human/demon population. Armed with an understanding of inter-species relations and a desire for peace, he spends his days quelling violent demons and pacifying disruptive humans in his pursuit to bring balance and tranquility.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B07FQMDDV3</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">40881270</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Politics</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hyougetsu&quot;: &quot;&quot;, &quot;Nishi(E)da&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Der Werwolf: The Annals of Veight"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-31T07:55:32.052102+00:00"/>
+        <meta name="calibre:title_sort" content="Der Werwolf: The Annals of Veight, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

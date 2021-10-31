@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">451</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e1a4622-6b3c-4ae3-aa3c-1d22345ad266</dc:identifier>
+        <dc:title>Demon Lord, Retry!, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Kanzaki, Kurone &amp; Iino, Makoto" opf:role="aut">Kurone Kanzaki</dc:creator>
+        <dc:creator opf:file-as="Kanzaki, Kurone &amp; Iino, Makoto" opf:role="aut">Makoto Iino</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-05T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;What do you do when the MMO you’ve run for 15 years comes to an end? Akira Ono didn’t get much of a choice — he woke up trapped inside the world of his own game in the body of his in-game character: the Demon Lord.&lt;/p&gt;
+&lt;p&gt;With an outcast child as his sidekick, he tries his best to survive the cruel fantasy world of his own creation, prosecution from the good guys, and of course, the final boss.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B07X37R14G</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">52839596</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kurone Kanzaki&quot;: &quot;&quot;, &quot;Makoto Iino&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Demon Lord, Retry!"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-31T06:54:59.781313+00:00"/>
+        <meta name="calibre:title_sort" content="Demon Lord, Retry!, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -51,5 +51,5 @@ Curated calibre metadata for OTLN, going through the suffering so you don't have
     - These are older light novels with only OCR scans and some metadata may be incorrect.
 
 ### Current Progress (based on v17.0)
-89/434 (20.51%) Series
+90/434 (20.74%) Series
 0/43 (0.0%) Yaoi Series

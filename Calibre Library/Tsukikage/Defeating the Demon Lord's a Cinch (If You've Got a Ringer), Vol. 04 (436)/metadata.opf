@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">436</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a3f852fc-15b7-4883-8db0-1dc11fe27668</dc:identifier>
+        <dc:title>Defeating the Demon Lord's a Cinch (If You've Got a Ringer), Vol. 04</dc:title>
+        <dc:creator opf:file-as="Tsukikage &amp; bob" opf:role="aut">Tsukikage</dc:creator>
+        <dc:creator opf:file-as="Tsukikage &amp; bob" opf:role="aut">bob</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-23T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The hero's party is off to the water capital, Cloudburst, in order to contract with more powerful elemental spirits. It's a big endeavor for even the typical mage, but a necessary one to defeat the Demon Lord. They may have bitten off more than they can chew, but not to worry-priest Ares Crown is close behind, and this time he's got two powerful mercenaries with him!&lt;/p&gt;
+&lt;p&gt;One way or another, he'll keep the hero safe, even if it means venturing to the bottom of the ocean! ...Unless the Demon Lord's right-hand man and ruler of the seas has anything to say about that.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B07MSBH4R2</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">43685324</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781975303921</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Tsukikage&quot;: &quot;&quot;, &quot;bob&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Defeating the Demon Lord's a Cinch (If You've Got a Ringer)"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-31T05:44:54.457416+00:00"/>
+        <meta name="calibre:title_sort" content="Defeating the Demon Lord's a Cinch (If You've Got a Ringer), Vol. 04"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">448</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">24cd031a-99a7-491e-bb6e-268d2b67546e</dc:identifier>
+        <dc:title>Demon King Daimaou, Vol. 06</dc:title>
+        <dc:creator opf:file-as="Mizuki, Shoutarou &amp; Itou, Souichi" opf:role="aut">Shoutarou Mizuki</dc:creator>
+        <dc:creator opf:file-as="Mizuki, Shoutarou &amp; Itou, Souichi" opf:role="aut">Souichi Itou</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-21T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Constant Magical Academy has a new transfer student named Keina Doronz. Not only does she have almost the same name as Akuto's friend Keena, but she also has an identical bird-shaped hairpiece — the same one that Akuto bought for a crying girl when he was a child. Who's the real girl from his memory? To make things more confusing, this unknown girl is demanding that Akuto take her on a date!&lt;/p&gt;
+&lt;p&gt;Hilarity and magic school shenanigans ensue when Keina joins Keena, Junko, Korone, and Fujiko as they circle around our favorite hapless Demon King, Akuto Sai.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9784894258822</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07DG16FSQ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">40294273</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Completed</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shoutarou Mizuki&quot;: &quot;&quot;, &quot;Souichi Itou&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Demon King Daimaou"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-31T05:53:16.936959+00:00"/>
+        <meta name="calibre:title_sort" content="Demon King Daimaou, Vol. 06"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

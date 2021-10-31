@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">443</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">806f25a3-a63f-44e1-a1e6-b318a40bee67</dc:identifier>
+        <dc:title>Demon King Daimaou, Vol. 09</dc:title>
+        <dc:creator opf:file-as="Mizuki, Shoutarou &amp; Itou, Souichi" opf:role="aut">Shoutarou Mizuki</dc:creator>
+        <dc:creator opf:file-as="Mizuki, Shoutarou &amp; Itou, Souichi" opf:role="aut">Souichi Itou</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-01-19T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Empress Kazuko, after killing her sister 2V, is revealed to be the true villain. Using the power of Zero, the First Demon King, she intends to enslave humanity. In order to save everyone, Akuto knows that the line of Demon Kings must end — and for that to happen, both he and Zero must die. &lt;/p&gt;
+&lt;p&gt;Will Akuto and Brave be able to defeat Kazuko and Zero? Will Junko, Keena, and the others survive this battle? And what does the member of CMID-8, "USD," have to do with all this? Read the epic climax of the war between Demon Kings!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B07KVD2FDJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">42954187</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Completed</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shoutarou Mizuki&quot;: &quot;&quot;, &quot;Souichi Itou&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Demon King Daimaou"/>
+        <meta name="calibre:series_index" content="9"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2021-10-31T05:53:14.416344+00:00"/>
+        <meta name="calibre:title_sort" content="Demon King Daimaou, Vol. 09"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

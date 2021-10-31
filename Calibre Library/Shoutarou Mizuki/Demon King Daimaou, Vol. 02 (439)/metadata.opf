@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">439</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd746064-de75-4df6-897e-5c3cd9ff86e3</dc:identifier>
+        <dc:title>Demon King Daimaou, Vol. 02</dc:title>
+        <dc:creator opf:file-as="Mizuki, Shoutarou &amp; Itou, Souichi" opf:role="aut">Shoutarou Mizuki</dc:creator>
+        <dc:creator opf:file-as="Mizuki, Shoutarou &amp; Itou, Souichi" opf:role="aut">Souichi Itou</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-08-28T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Ever since the Demon King prophecy, Akuto Sai has had nothing but bad luck. He’s still having trouble controlling his magic, and to make matters worse, he yet again ended up blowing off Junko Hattori’s clothes. While attempting to train his mind through meditation, he finds an ancient treasure map.&lt;/p&gt;
+&lt;p&gt;Not wanting to deal with yet another distraction from his studies, he tries to keep the map a secret, but to no avail. Once the map leaks out, the school breaks out in chaos as the students try to find the lost treasure.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9784894257030</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B073SJZQR3</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">35653761</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Completed</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shoutarou Mizuki&quot;: &quot;&quot;, &quot;Souichi Itou&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Demon King Daimaou"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-31T05:53:12.412372+00:00"/>
+        <meta name="calibre:title_sort" content="Demon King Daimaou, Vol. 02"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

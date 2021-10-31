@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">470</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2ce92ebd-d7cd-4a31-93ef-92d1fb1151a9</dc:identifier>
+        <dc:title>Devil May Cry, Vol. 02</dc:title>
+        <dc:creator opf:file-as="Goikeda, Shin-ya &amp; Miwa, Shiro" opf:role="aut">Shin-ya Goikeda</dc:creator>
+        <dc:creator opf:file-as="Goikeda, Shin-ya &amp; Miwa, Shiro" opf:role="aut">Shiro Miwa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2006-11-07T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Dante the giant sword, two-gun toting devil hunter has earned the nickname "Devil May Cry" after mercilessly killing any and every undead creature in his path. Now, he is on a mission for an evil idol known as "The Beast Head". But little does Dante know that this mission brings him closer to his eternal enemy.&lt;/p&gt;
+&lt;p&gt;It's been 2000 years since the rebellion lead by the Dark Knight Sparda, a demon who turned to the side of good. The gateway to the Underworld has been sealed and humans are now safe from an invasion of the demon world.&lt;/p&gt;
+&lt;p&gt;Dante, Sparda's son, makes a living by eradicating demons. His first job is to find and bring back a girl named Alice. But what awaits him when he storms the inn where Alice is being held? And who is this man walking around town who has the same face as Dante?&lt;/p&gt;
+&lt;p&gt;Twin brothers born of the Dark Knight Sparda and the human woman he loved are now grown men, but each walks a very different path in life. What is Dante's twin, Vergil's, goal? The violent story of two fated brothers continues.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>TokyoPop</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781598164510</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">438390</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shin-ya Goikeda&quot;: &quot;&quot;, &quot;Shiro Miwa&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Devil May Cry"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-31T08:14:31.651559+00:00"/>
+        <meta name="calibre:title_sort" content="Devil May Cry, Vol. 02"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

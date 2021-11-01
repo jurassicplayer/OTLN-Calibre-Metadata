@@ -6,7 +6,7 @@
         <dc:title>Bibliophile Princess, Vol. 04: Awaiting and Wishing</dc:title>
         <dc:creator opf:file-as="Yui &amp; Sheena, Satsuki" opf:role="aut">Yui</dc:creator>
         <dc:creator opf:file-as="Yui &amp; Sheena, Satsuki" opf:role="aut">Satsuki Sheena</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-10-13T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;The winds of change are whipping through Sauslind. Malduran officials are headed for the capital to discuss diplomacy, and although it was Eli’s actions that spurred these talks, she has a different errand to attend to.&lt;/p&gt;
@@ -15,6 +15,7 @@
         <dc:publisher>J-Novel Club (J-Novel Heart)</dc:publisher>
         <dc:identifier opf:scheme="AMAZON">B08DCGKTZQ</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">54620350</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781718308602</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Romance</dc:subject>
         <dc:subject>Fantasy</dc:subject>

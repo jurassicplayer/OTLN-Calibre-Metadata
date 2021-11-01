@@ -6,7 +6,7 @@
         <dc:title>Black Summoner, Vol. 02: The False Champions</dc:title>
         <dc:creator opf:file-as="Mayoi, Doufu &amp; Kurogin" opf:role="aut">Doufu Mayoi</dc:creator>
         <dc:creator opf:file-as="Mayoi, Doufu &amp; Kurogin" opf:role="aut">Kurogin</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-11-11T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Following his transmigration, during which he bartered away his memories in exchange for rare and powerful skills, Kelvin is fully enjoying his new life as an adventurer.&lt;/p&gt;
@@ -15,6 +15,7 @@
         <dc:publisher>J-Novel Club</dc:publisher>
         <dc:identifier opf:scheme="GOODREADS">55301131</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B08HJB9GNB</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781718375505</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>

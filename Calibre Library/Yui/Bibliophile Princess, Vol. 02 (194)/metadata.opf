@@ -6,7 +6,7 @@
         <dc:title>Bibliophile Princess, Vol. 02</dc:title>
         <dc:creator opf:file-as="Yui &amp; Sheena, Satsuki" opf:role="aut">Yui</dc:creator>
         <dc:creator opf:file-as="Yui &amp; Sheena, Satsuki" opf:role="aut">Satsuki Sheena</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-05-23T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Now that her misunderstanding about their engagement being a farce to please the nobles and pacify the current political climate has been resolved, Elianna and Prince Christopher are able to set a date for the official wedding in the spring.&lt;/p&gt;
@@ -15,6 +15,7 @@
         <dc:publisher>J-Novel Club (J-Novel Heart)</dc:publisher>
         <dc:identifier opf:scheme="AMAZON">B085VSPJ6L</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">53275617</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781718308565</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Romance</dc:subject>
         <dc:subject>Fantasy</dc:subject>

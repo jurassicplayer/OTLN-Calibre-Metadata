@@ -6,7 +6,7 @@
         <dc:title>Brave Chronicle: The Ruinmaker</dc:title>
         <dc:creator opf:file-as="Atsui, Kenya &amp; Toyota, Saori" opf:role="aut">Kenya Atsui</dc:creator>
         <dc:creator opf:file-as="Atsui, Kenya &amp; Toyota, Saori" opf:role="aut">Saori Toyota</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2016-12-03T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Meet Kurono Kokuya, a student in the lowest rank at Star Gate Academy -- the world's cutting-edge training facility for starcerers, the beings who use starcery to protect the Earth from otherworld invasions. His childhood friend Yukihime Yukigane just happens to be the world's strongest starcerer, and she never lets him forget that fact. One day, their days of peace are interrupted by a powerful threat from another world. Kokuya and Yukihime stand on the front lines, risking their lives to protect those they love, but will they be able to defeat the Dark Lord Redge and his cruel minions? &lt;/p&gt;
@@ -15,6 +15,7 @@
         <dc:publisher>J-Novel Club</dc:publisher>
         <dc:identifier opf:scheme="AMAZON">B01M5BIOCY</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">33229708</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">1230001385762</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Adventure</dc:subject>
         <dc:subject>Completed</dc:subject>

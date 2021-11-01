@@ -6,7 +6,7 @@
         <dc:title>Bibliophile Princess, Vol. 03</dc:title>
         <dc:creator opf:file-as="Yui &amp; Sheena, Satsuki" opf:role="aut">Yui</dc:creator>
         <dc:creator opf:file-as="Yui &amp; Sheena, Satsuki" opf:role="aut">Satsuki Sheena</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-07-28T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;As winter whips to a crescendo, the year’s most anticipated celebration is nigh! In the midst of the season, Eli finds her own intelligence being weaponized against her. There’s a traitor near, and they’re leaking Eli’s private words to her political opponents.&lt;/p&gt;
@@ -14,6 +14,7 @@
         <dc:publisher>J-Novel Club (J-Novel Heart)</dc:publisher>
         <dc:identifier opf:scheme="AMAZON">B088FRTYZ2</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">53929760</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781718308589</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Romance</dc:subject>
         <dc:subject>Fantasy</dc:subject>

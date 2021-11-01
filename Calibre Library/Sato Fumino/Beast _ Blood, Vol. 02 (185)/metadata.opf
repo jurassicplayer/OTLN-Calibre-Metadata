@@ -6,8 +6,8 @@
         <dc:title>Beast † Blood, Vol. 02</dc:title>
         <dc:creator opf:file-as="Fumino, Sato &amp; Egawa, Akira" opf:role="aut">Sato Fumino</dc:creator>
         <dc:creator opf:file-as="Fumino, Sato &amp; Egawa, Akira" opf:role="aut">Akira Egawa</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
-        <dc:date>2020-08-14T07:00:00+00:00</dc:date>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-31T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;Can love conquer all?&lt;/p&gt;
 &lt;p&gt;Zelaide has acknowledged Euphemia as his lifelong mate, but the humans who want to tear them apart and overrun Gothic City with Nightz are on the move. And so are the other Beast Bloods who call Gothic City home. Is the love between a Beast Blood and a human powerful enough to overcome the trials they must face? &lt;/p&gt;
@@ -15,6 +15,7 @@
         <dc:publisher>Cross Infinite World</dc:publisher>
         <dc:identifier opf:scheme="GOODREADS">53400416</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B0886FLYHV</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781945341410</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Fiction</dc:subject>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">472</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f684a870-14cc-40c4-90b3-02abf3a8573e</dc:identifier>
+        <dc:title>Didn’t I Say to Make My Abilities Average in the Next Life?!, Vol. 13</dc:title>
+        <dc:creator opf:file-as="FUNA &amp; Akata, Itsuki" opf:role="aut">FUNA</dc:creator>
+        <dc:creator opf:file-as="FUNA &amp; Akata, Itsuki" opf:role="aut">Itsuki Akata</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-17T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;THE CRIMSON VOW VS. THE WONDER TRIO?!&lt;/p&gt;
+&lt;p&gt;Mile, Pauline, Reina, and Mavis face off against the chief of the elder dragons in a battle that will test the limits of their power. It’s up to the Crimson Vow to decide whether war breaks out between dragonkind and humans. But even if the girls emerge unscathed, there’s war of another kind on the horizon—a war between the Crimson Vow and the Wonder Trio, over Mile!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781648279362</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0948M93D3</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">58360638</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Shoujo</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;FUNA&quot;: &quot;&quot;, &quot;Itsuki Akata&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Didn't I Say to Make My Abilities Average in the Next Life?!"/>
+        <meta name="calibre:series_index" content="13"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-31T23:25:58.169664+00:00"/>
+        <meta name="calibre:title_sort" content="Didn’t I Say to Make My Abilities Average in the Next Life?!, Vol. 13"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

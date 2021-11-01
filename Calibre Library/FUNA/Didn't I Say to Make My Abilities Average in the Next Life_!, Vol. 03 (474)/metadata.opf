@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">474</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c3dcdb67-ecfd-4ae2-86a2-b87afae3989b</dc:identifier>
+        <dc:title>Didn't I Say to Make My Abilities Average in the Next Life?!, Vol. 03</dc:title>
+        <dc:creator opf:file-as="FUNA &amp; Akata, Itsuki" opf:role="aut">FUNA</dc:creator>
+        <dc:creator opf:file-as="FUNA &amp; Akata, Itsuki" opf:role="aut">Itsuki Akata</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-09T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;Bound at the Soul&lt;/p&gt;
+&lt;p&gt;The Crimson Vow have fought fearsome bandits and monsters, but when the past catches up with Mavis and Pauline, they must confront something that swords and spells can’t easily defeat. With the most dangerous job they have ever taken looming on the horizon, the very future of the party is at stake!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B07DWQBR6M</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">40615907</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781626929616</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Shoujo</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;FUNA&quot;: &quot;&quot;, &quot;Itsuki Akata&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Didn't I Say to Make My Abilities Average in the Next Life?!"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-31T23:25:59.380611+00:00"/>
+        <meta name="calibre:title_sort" content="Didn't I Say to Make My Abilities Average in the Next Life?!, Vol. 03"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

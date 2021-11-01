@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">479</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c3b96112-f01b-48ad-8182-cc24c5918338</dc:identifier>
+        <dc:title>Didn’t I Say to Make My Abilities Average in the Next Life?!, Vol. 08</dc:title>
+        <dc:creator opf:file-as="FUNA &amp; Akata, Itsuki" opf:role="aut">FUNA</dc:creator>
+        <dc:creator opf:file-as="FUNA &amp; Akata, Itsuki" opf:role="aut">Itsuki Akata</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-14T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;NO PLACE LIKE HOME&lt;/p&gt;
+&lt;p&gt;When the creeping tendrils of the massive Albarn Empire threaten Mile’s—once Adele’s—hometown of Ascham, the Crimson Vow do not hesitate to dash to the aid of the small provincial fief. Armed only with Mavis’ chivalry, Pauline’s wisdom, and Mile and Reina’s magic, the party faces down an entire invading army—and, more importantly, Mile’s past!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781645052111</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07X4BG1C8</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">48831276</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Shoujo</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;FUNA&quot;: &quot;&quot;, &quot;Itsuki Akata&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Didn't I Say to Make My Abilities Average in the Next Life?!"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-31T23:26:00.975895+00:00"/>
+        <meta name="calibre:title_sort" content="Didn’t I Say to Make My Abilities Average in the Next Life?!, Vol. 08"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

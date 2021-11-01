@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">475</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">28c997ea-6b7e-4780-a221-5948d36ba070</dc:identifier>
+        <dc:title>Didn’t I Say to Make My Abilities Average in the Next Life?!, Vol. 11</dc:title>
+        <dc:creator opf:file-as="FUNA &amp; Akata, Itsuki" opf:role="aut">FUNA</dc:creator>
+        <dc:creator opf:file-as="FUNA &amp; Akata, Itsuki" opf:role="aut">Itsuki Akata</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-03T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;TIME TO SHINE&lt;/p&gt;
+&lt;p&gt;The Wonder Trio debut their adventuring careers with a splash, while the Crimson Vow rescue a mother and child from peril on their journey. When this brings the wrath of a corrupt band of merchants down on the Crimson Vow’s heads, however, it’s time for the most business-savvy of the girls to take the stage and strut her stuff!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781645057925</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08LTW7DYJ</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">56158552</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Shoujo</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;FUNA&quot;: &quot;&quot;, &quot;Itsuki Akata&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Didn't I Say to Make My Abilities Average in the Next Life?!"/>
+        <meta name="calibre:series_index" content="11"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-31T23:25:59.903345+00:00"/>
+        <meta name="calibre:title_sort" content="Didn’t I Say to Make My Abilities Average in the Next Life?!, Vol. 11"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">478</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0d18c32-7b94-462e-ba5c-97e6bf036cd6</dc:identifier>
+        <dc:title>Didn't I Say to Make My Abilities Average in the Next Life?!, Vol. 09</dc:title>
+        <dc:creator opf:file-as="FUNA &amp; Akata, Itsuki" opf:role="aut">FUNA</dc:creator>
+        <dc:creator opf:file-as="FUNA &amp; Akata, Itsuki" opf:role="aut">Itsuki Akata</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-26T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;A KNIGHT’S TALE&lt;/p&gt;
+&lt;p&gt;The Crimson Vow’s arrogance is nearly their undoing when they run afoul of a horde of unnaturally powerful monsters! As they investigate the creatures’ origins, another crisis arises: Mavis, increasingly aware of how outclassed she is by the other members of the party, breaks off on her own quest to find a teacher who can take her swordplay to the next level. Can the magic-incapable aspiring knight ever compete with her spellcaster friends, or is she forever doomed to play second fiddle?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B084JR17F9</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">51165742</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781645054870</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Shoujo</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;FUNA&quot;: &quot;&quot;, &quot;Itsuki Akata&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Didn't I Say to Make My Abilities Average in the Next Life?!"/>
+        <meta name="calibre:series_index" content="9"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-10-31T23:26:00.767386+00:00"/>
+        <meta name="calibre:title_sort" content="Didn't I Say to Make My Abilities Average in the Next Life?!, Vol. 09"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

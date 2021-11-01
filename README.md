@@ -21,7 +21,10 @@ Curated calibre metadata for OTLN, going through the suffering so you don't have
         - Yaoi (Boy's Love): Focuses on male/male relationships, usually the physical kind
         - Yuri (Girl's Love): Focuses on female/female relationships, usually the physical kind
 ### Guidelines
-- Metadata source preference when available: YenPress/YenOn/J-Novel Club/etc. > GoodReads > Amazon
+- Metadata source preference when available: YenPress/YenOn/J-Novel Club/etc. > Kobo > GoodReads > Amazon
+#### Book IDs
+- In order of importance: ISBN, AmazonID, GoodReads
+- All books should have an ISBN number, search in kobo if it's not readily available elsewhere.
 #### Tags
 - Remove all `Manga` tags 
 - Add `Light Novel` and `Official Translation` tags
@@ -39,7 +42,10 @@ Curated calibre metadata for OTLN, going through the suffering so you don't have
 - Include artist as an author when available.
 #### Publishers
 - Publishers should have both publisher and publishing imprint if available. Ex. Yen Press publishes light novels under Yen On, so Yen Press LNs should have `Yen Press (Yen On)` as the publisher.
-- Publishing date should be the date that the English release became widely available (digital or hard copy), but not early releases.
+- Publishing date should be the date that the English release became widely available (digital or hard copy).
+- Digital Manga (publisher) has imprint names that are horrendous for this guideline, I'm open to ideas.
+    - By horrendous, I mean DMG and DMP are `Digital Manga (Digital Manga Guild)` and `Digital Manga (Digital Manga Publishing)` respectively.
+    - Juné, Lilyka, and Project-H are fine though.
 #### Descriptions
 - Try to keep consistent sources for descriptions.
 - Use your brain. If Yen Press has the same description for multiple volumes, but GoodReads has a unique description, opt for the unique one unless it deviates too far from the other descriptions structure. (Ex. 86 vol.5 & vol.6)

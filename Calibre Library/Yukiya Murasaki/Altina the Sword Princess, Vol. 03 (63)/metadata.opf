@@ -17,6 +17,7 @@
         <dc:publisher>J-Novel Club</dc:publisher>
         <dc:identifier opf:scheme="GOODREADS">50624883</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B0842YNCNY</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781718365025</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Official Translation</dc:subject>
@@ -35,7 +36,7 @@
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2021-05-11T03:55:16+00:00"/>
-        <meta name="calibre:title_sort" content="Altina the Sword Princess: Volume 3"/>
+        <meta name="calibre:title_sort" content="Altina the Sword Princess, Vol. 03"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

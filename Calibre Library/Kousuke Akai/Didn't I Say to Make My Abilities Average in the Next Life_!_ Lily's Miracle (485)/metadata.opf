@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">485</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">38785262-472d-4328-8c11-7c2ae4e363fe</dc:identifier>
+        <dc:title>Didn't I Say to Make My Abilities Average in the Next Life?!: Lily's Miracle</dc:title>
+        <dc:creator opf:file-as="Akai, Kousuke &amp; Akata, Itsuki &amp; FUNA" opf:role="aut">Kousuke Akai</dc:creator>
+        <dc:creator opf:file-as="Akai, Kousuke &amp; Akata, Itsuki &amp; FUNA" opf:role="aut">Itsuki Akata</dc:creator>
+        <dc:creator opf:file-as="Akai, Kousuke &amp; Akata, Itsuki &amp; FUNA" opf:role="aut">FUNA</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-21T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;You love the light novels, manga, spin-off, and anime…now get ready for a self-contained novel about Lily!&lt;/p&gt;
+&lt;p&gt;Born deaf, nine-year-old Lily was hidden away from the world by her margrave father. But her life changes forever when the fabled adventuring party known as the Crimson Vow saves her home from a bandit attack. Lily emerges from the encounter with her hearing miraculously restored, the ability to converse with nanomachines, and the power of magic! Taking only her attendant, Lafine, with her, she sets out to seek adventure in the great wide world. Let the legend of Lily Lockwood begin!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781685792947</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">59424062</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">didn-t-i-say-to-make-my-abilities-average-in-the-next-life-lily-s-miracle-light-novel</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Shoujo</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kousuke Akai&quot;: &quot;&quot;, &quot;Itsuki Akata&quot;: &quot;&quot;, &quot;FUNA&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Didn't I Say to Make My Abilities Average in the Next Life?!"/>
+        <meta name="calibre:series_index" content="13.50"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-11-09T05:51:33.960364+00:00"/>
+        <meta name="calibre:title_sort" content="Didn't I Say to Make My Abilities Average in the Next Life?!: Lily's Miracle"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

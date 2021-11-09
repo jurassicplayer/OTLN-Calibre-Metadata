@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">496</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd2d991d-92ae-45da-a093-c0109fec1cd2</dc:identifier>
+        <dc:title>Accomplishments of the Duke's Daughter, Vol. 03</dc:title>
+        <dc:creator opf:file-as="Reia &amp; Futaba, Hazuki" opf:role="aut">Reia</dc:creator>
+        <dc:creator opf:file-as="Reia &amp; Futaba, Hazuki" opf:role="aut">Hazuki Futaba</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-07T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;LIFE AND DEATH LIE IN HER HANDS&lt;/p&gt;
+&lt;p&gt;Iris overcame the threat of excommunication, but now she faces something far worse. The bells of war are tolling, and an enemy nation stands poised to strike. Why, then, is there talk of dismantling the kingdom’s armed forces? As Iris desperately shores up her duchy’s own defenses, she must answer a question from one of her closest companions, Dida: “If it comes to war, are you prepared to order us to kill?”&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781648274565</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">57492122</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Josei</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Politics</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Reia&quot;: &quot;&quot;, &quot;Hazuki Futaba&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Accomplishments of the Duke’s Daughter"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-11-09T05:52:39.718081+00:00"/>
+        <meta name="calibre:title_sort" content="Accomplishments of the Duke's Daughter, Vol. 03"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

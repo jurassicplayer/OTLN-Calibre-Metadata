@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">486</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2215c6d-635b-4f95-b82f-52b196c4963f</dc:identifier>
+        <dc:title>Date a Live, Vol. 03: Killer Kurumi</dc:title>
+        <dc:creator opf:file-as="Tachibana, Koushi &amp; Tsunako" opf:role="aut">Koushi Tachibana</dc:creator>
+        <dc:creator opf:file-as="Tachibana, Koushi &amp; Tsunako" opf:role="aut">Tsunako</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-05T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The clock is ticking! June 5. The day another disaster strikes Shido’s high school. Transferring into his class is a new student, Kurumi, who immediately makes the jaw-dropping confession that she’s…a Spirit. With a twisted sense of justice and homicidal tendencies, she seems to buzz with impish glee whenever she destroys a piece of the world and its human populace. As tensions mount, Shido is instructed to do the one thing that will placate her—ridiculously enough, taking Kurumi out on a date and making her fall head over heels for him!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975319960</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">59222218</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">date-a-live-vol-3-light-novel</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Mecha</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Tragedy</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Koushi Tachibana&quot;: &quot;&quot;, &quot;Tsunako&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Date A Live"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-11-09T05:51:40.678773+00:00"/>
+        <meta name="calibre:title_sort" content="Date a Live, Vol. 03: Killer Kurumi"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">494</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1b9d66b7-60fa-40ee-96ac-a09e6588b6f9</dc:identifier>
+        <dc:title>An Archdemon's Dilemma: How to Love Your Elf Bride, Vol. 12</dc:title>
+        <dc:creator opf:file-as="Teshima, Fuminori &amp; COMTA" opf:role="aut">Fuminori Teshima</dc:creator>
+        <dc:creator opf:file-as="Teshima, Fuminori &amp; COMTA" opf:role="aut">COMTA</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-04T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Nephy learns of Zagan’s impending birthday from Alshiera, which is information that Zagan himself doesn’t even know. Seeing this as an opportunity, Nephy leads the charge in putting together a surprise party for him, but with her past experiences being what they are, she has no idea how birthdays are celebrated.&lt;/p&gt;
+&lt;p&gt;Meanwhile, Zagan also learns from Orias that Nephy’s birthday is coming within the month, and the two Archdemons decide to mark that day as Nephteros’s birthday as well. Much like Nephy, however, Zagan is ignorant of how birthdays work as he tries to plan a surprise for her.&lt;/p&gt;
+&lt;p&gt;The entire castle is in a celebratory mood, but dark clouds loom over the horizon. Zagan knows of a terrible problem haunting Nephteros that has to be addressed before any sort of celebration is an option, and he still has no idea how to resolve it. What’s more, after a month of relative peace and quiet, Shere Khan and Bifrons finally make their move.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718325227</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">an-archdemon-s-dilemma-how-to-love-your-elf-bride-volume-12</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fuminori Teshima&quot;: &quot;&quot;, &quot;COMTA&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="An Archdemon's Dilemma: How to Love Your Elf Bride"/>
+        <meta name="calibre:series_index" content="12"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-11-09T05:52:29.838385+00:00"/>
+        <meta name="calibre:title_sort" content="Archdemon's Dilemma: How to Love Your Elf Bride, Vol. 12, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

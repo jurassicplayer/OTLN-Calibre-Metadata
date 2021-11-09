@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">490</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d09c4a40-99a0-4c07-81fb-cf8a89499e0a</dc:identifier>
+        <dc:title>Berserk of Gluttony, Vol. 04</dc:title>
+        <dc:creator opf:file-as="Ichika, Isshiki &amp; Fame" opf:role="aut">Isshiki Ichika</dc:creator>
+        <dc:creator opf:file-as="Ichika, Isshiki &amp; Fame" opf:role="aut">fame</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-30T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;ROTTEN TO THE CORE&lt;/p&gt;
+&lt;p&gt;Blessed with new power after his trials in Galia, Fate returns to Seifort. He intends to wield his influence to uplift the downtrodden--those forsaken by the world for their "unnecessary" skills. But standing in his way are his cruel old employers, the powerful Vlerick family. Now, in order to save the soul of Seifort, Fate must expose the terrifying truth hidden within the Vlerick estate.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781648273384</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">berserk-of-gluttony-light-novel-vol-4</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Isshiki Ichika&quot;: &quot;&quot;, &quot;fame&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Berserk of Gluttony"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-11-09T05:52:02.157930+00:00"/>
+        <meta name="calibre:title_sort" content="Berserk of Gluttony, Vol. 04"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

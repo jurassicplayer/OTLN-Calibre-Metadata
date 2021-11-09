@@ -6,15 +6,15 @@
         <dc:title>Didn't I Say to Make My Abilities Average in the Next Life?!, Vol. 04</dc:title>
         <dc:creator opf:file-as="FUNA &amp; Akata, Itsuki" opf:role="aut">FUNA</dc:creator>
         <dc:creator opf:file-as="FUNA &amp; Akata, Itsuki" opf:role="aut">Itsuki Akata</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-09-13T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;Going the Extra Mile!&lt;/p&gt;
 &lt;p&gt;When the Crimson Vow’s newest job brings them up against not just a horde of beastmen but an elder dragon, Mile is forced to fight for her life in earnest, in what will become her greatest struggle yet! Can she dig deep and tap the combined power of her three selves to protect her friends?&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">40967641</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B07FYFHL6L</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781626929371</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">40967641</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>
@@ -29,7 +29,7 @@
         <meta name="calibre:series" content="Didn't I Say to Make My Abilities Average in the Next Life?!"/>
         <meta name="calibre:series_index" content="4"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-31T23:26:01.955352+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-31T23:26:01+00:00"/>
         <meta name="calibre:title_sort" content="Didn't I Say to Make My Abilities Average in the Next Life?!, Vol. 04"/>
     </metadata>
     <guide>

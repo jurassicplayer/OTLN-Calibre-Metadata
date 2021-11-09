@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">493</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c556e495-6811-4b9e-acc1-003a8bb9c80c</dc:identifier>
+        <dc:title>Are You Okay With a Slightly Older Girlfriend?, Vol. 05</dc:title>
+        <dc:creator opf:file-as="Nozomi, Kota &amp; Nanasemeruchi" opf:role="aut">Kota Nozomi</dc:creator>
+        <dc:creator opf:file-as="Nozomi, Kota &amp; Nanasemeruchi" opf:role="aut">Nanasemeruchi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-04T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In a shocking development for Momota and Orihara-san, it turned out that the woman Momota’s father is dating is actually Orihara-san’s older sister, Kisaki! What’s more, she now knows about Momota’s real age and that they’ve been lying to her!&lt;/p&gt;
+&lt;p&gt;She tells them to break up immediately, saying it’s for their sake. However, rather than fall apart, the bond between Momota and Orihara-san grows stronger than ever, and they refuse her.&lt;/p&gt;
+&lt;p&gt;Now what lies in store for their relationship? Will Momota’s family have his back? What’s the bombshell that Kisaki-san drops on them? And why did Orihara-san invite Momota to a hotel to be alone together?!&lt;/p&gt;
+&lt;p&gt;Find out all this and more in the fifth volume of this sugary sweet romcom about a couple with a slight age gap!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718319141</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">are-you-okay-with-a-slightly-older-girlfriend-volume-5</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kota Nozomi&quot;: &quot;&quot;, &quot;Nanasemeruchi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Are You Okay With a Slightly Older Girlfriend?"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-11-09T05:52:24.768471+00:00"/>
+        <meta name="calibre:title_sort" content="Are You Okay With a Slightly Older Girlfriend?, Vol. 05"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

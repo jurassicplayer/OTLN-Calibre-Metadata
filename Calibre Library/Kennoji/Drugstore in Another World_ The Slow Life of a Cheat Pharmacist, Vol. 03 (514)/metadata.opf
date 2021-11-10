@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">514</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf7da502-385c-454d-8d33-dcf0044934f8</dc:identifier>
+        <dc:title>Drugstore in Another World: The Slow Life of a Cheat Pharmacist, Vol. 03</dc:title>
+        <dc:creator opf:file-as="Kennoji &amp; Matsuuni" opf:role="aut">Kennoji</dc:creator>
+        <dc:creator opf:file-as="Kennoji &amp; Matsuuni" opf:role="aut">Matsuuni</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-21T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;LAUGHTER IS THE BEST MEDICINE&lt;/p&gt;
+&lt;p&gt;Business is booming at Reiji's magical drugstore. The staff has expanded yet again: a fairy named Bibi has joined the crew, and the new part-timer is none other than the Demon King himself! With a steady stream of customers looking for magical cures, Reiji has his hands full keeping his menagerie of friends and acquaintances happy and healthy!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781685791254</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">59424079</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-3</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kennoji&quot;: &quot;&quot;, &quot;Matsuuni&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Drugstore in Another World: The Slow Life of a Cheat Pharmacist"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-11-10T06:19:30.155450+00:00"/>
+        <meta name="calibre:title_sort" content="Drugstore in Another World: The Slow Life of a Cheat Pharmacist, Vol. 03"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

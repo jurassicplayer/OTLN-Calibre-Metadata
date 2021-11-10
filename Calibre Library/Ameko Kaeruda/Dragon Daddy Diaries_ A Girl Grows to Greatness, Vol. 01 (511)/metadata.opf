@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">511</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">986c857c-2993-403d-8964-1da43144b28a</dc:identifier>
+        <dc:title>Dragon Daddy Diaries: A Girl Grows to Greatness, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Kaeruda, Ameko &amp; Sencha" opf:role="aut">Ameko Kaeruda</dc:creator>
+        <dc:creator opf:file-as="Kaeruda, Ameko &amp; Sencha" opf:role="aut">Sencha</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-08T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;“Daddy!”&lt;/p&gt;
+&lt;p&gt;The dragon blinked as the wee little human called out to him. Him? Her “Daddy”?&lt;/p&gt;
+&lt;p&gt;Powerful enough to have been venerated by humankind, yet warmhearted and even a tad ditzy, the dragon soon finds himself raising and doting on the precocious Olivia as if she really were his daughter in this touching tale. The toddler may be impossibly cute now, but just you wait—she’s a curious child and she’s growing up real fast. You can bet that one day, she’ll be the strongest human there is!&lt;/p&gt;
+&lt;p&gt;But first, how will he handle little Olivia receiving an acceptance letter to a human school?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718383487</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">58994641</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">dragon-daddy-diaries-a-girl-grows-to-greatness-volume-1</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ameko Kaeruda&quot;: &quot;&quot;, &quot;Sencha&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Dragon Daddy Diaries: A Girl Grows to Greatness"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-11-10T05:28:04.409932+00:00"/>
+        <meta name="calibre:title_sort" content="Dragon Daddy Diaries: A Girl Grows to Greatness, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

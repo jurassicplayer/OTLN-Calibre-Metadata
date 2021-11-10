@@ -56,6 +56,6 @@ Curated calibre metadata for OTLN, going through the suffering so you don't have
 - Revisit series: Code Geass, Dance in the Vampire Bund, Death Note
     - These are older light novels with only OCR scans and some metadata may be incorrect.
 
-### Current Progress (based on v17.0)
-95/435 (21.84%) Series
+### Current Progress (based on v17.1)
+100/435 (22.99%) Series
 0/43 (0.0%) Yaoi Series

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">501</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d90bca87-d0a7-4b4b-8a00-1e177de374fd</dc:identifier>
+        <dc:title>Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?, Vol. 03</dc:title>
+        <dc:creator opf:file-as="Inaka, Dachima &amp; Pochi., Iida" opf:role="aut">Dachima Inaka</dc:creator>
+        <dc:creator opf:file-as="Inaka, Dachima &amp; Pochi., Iida" opf:role="aut">Iida Pochi.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-07-23T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A new kind of momcom role-playing adventure!&lt;/p&gt;
+&lt;p&gt;Masato hears rumors of a newly built dungeon where whoever manages to make it through will be granted one wish. Since he's still well on his journey to try to become stronger than his mother, this could be just the answer to our hero's prayers. But the loudmouthed Anti-Mom Amante also has her sights on the dungeon's prize, and she and her goons form the Libere Rebellion will stop at nothing to keep Masato's party from getting there first. To make things worse, Mamako, his mother, is still dominating all the action...this time in a maid costume!!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975328405</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">do-you-love-your-mom-and-her-two-hit-multi-target-attacks-vol-3-light-novel</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dachima Inaka&quot;: &quot;&quot;, &quot;Iida Pochi.&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-11-10T05:27:29.938589+00:00"/>
+        <meta name="calibre:title_sort" content="Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?, Vol. 03"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

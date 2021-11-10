@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">505</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d2978d74-9054-4e4d-985c-8c473e3d0fb6</dc:identifier>
+        <dc:title>Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?, Vol. 10</dc:title>
+        <dc:creator opf:file-as="Inaka, Dachima &amp; Pochi., Iida" opf:role="aut">Dachima Inaka</dc:creator>
+        <dc:creator opf:file-as="Inaka, Dachima &amp; Pochi., Iida" opf:role="aut">Iida Pochi.</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-08-31T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A new kind of momcom role-playing adventure!&lt;/p&gt;
+&lt;p&gt;The hero’s party continues to get caught up in all sorts of antics—a cooking contest, a mother-and-son body swap, a shoplifter’s arrest, and even a film shoot! With the Libere Rebellion now out of the picture, the game world’s final test for Masato and crew is fast approaching…but not before the appearance of a new challenger: Masato’s father?!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975318444</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">57294755</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">do-you-love-your-mom-and-her-two-hit-multi-target-attacks-vol-10-light-novel</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Dachima Inaka&quot;: &quot;&quot;, &quot;Iida Pochi.&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?"/>
+        <meta name="calibre:series_index" content="10"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-11-10T05:27:32.531763+00:00"/>
+        <meta name="calibre:title_sort" content="Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?, Vol. 10"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">515</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b0315d9-bd77-46f0-9a9f-465eaada161d</dc:identifier>
+        <dc:title>Dungeon Busters, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Shinozaki, Toma &amp; SenriGAN" opf:role="aut">Toma Shinozaki</dc:creator>
+        <dc:creator opf:file-as="Shinozaki, Toma &amp; SenriGAN" opf:role="aut">SenriGAN</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-03T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Clear all the dungeons! There are 666 of them and 10 years to do it. If not, the only thing that awaits...is total annihilation.&lt;/p&gt;
+&lt;p&gt;Ezoe Kazuhiko suddenly finds a mysterious underground space in his yard. When he steps into what turns out to be the very first dungeon in this world, he ends up activating the Dungeon System and learns from the mysterious beauty who appears to him, Akane, that the world is doomed to destruction if the 666 total dungeons that will be appearing in this world are not all cleared within 10 years.&lt;/p&gt;
+&lt;p&gt;As countries begin taking measures in response to the dungeons appearing all over the world, Ezoe seeks out companions together with whom he establishes Dungeon Busters Inc., a company dedicated to clearing all the dungeons in the world!&lt;/p&gt;
+&lt;p&gt;The curtains rise on this dungeon-delving epic with overwhelming realism!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718376984</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">dungeon-busters-volume-1</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Toma Shinozaki&quot;: &quot;&quot;, &quot;SenriGAN&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Dungeon Busters"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-11-10T06:19:43.375664+00:00"/>
+        <meta name="calibre:title_sort" content="Dungeon Busters, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

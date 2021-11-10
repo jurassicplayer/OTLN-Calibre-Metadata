@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">499</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">933a8f23-d86e-4875-8ac2-80ef469f28bd</dc:identifier>
+        <dc:title>Division Maneuver, Vol. 01: A Hero Reincarnated</dc:title>
+        <dc:creator opf:file-as="Senoo, Shippo &amp; Nidy-2D-" opf:role="aut">Shippo Senoo</dc:creator>
+        <dc:creator opf:file-as="Senoo, Shippo &amp; Nidy-2D-" opf:role="aut">Nidy-2D-</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-07T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;The fantastical two-volume light novel series that blends combat and reincarnation drama!&lt;/p&gt;
+&lt;p&gt;When the monstrous Jave attacked, mankind's strongest warrior died defending humanity--and was reincarnated as a baby. Now, thirteen years later, the Jave have returned! Enrolling in an academy that trains people to use the magic-powered battlesuits known as Division Maneuver, Okegawa Kuon can only operate Division 1, the weakest--until the opportunity to pilot a special, one-of-a-kind suit appears, one that can be activated even with rock-bottom levels of magical power!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">44799977</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">division-maneuver-vol-1-a-hero-reincarnated-light-novel</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781645051589</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Completed</dc:subject>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shippo Senoo&quot;: &quot;&quot;, &quot;Nidy-2D-&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Division Maneuver"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-11-10T05:24:14+00:00"/>
+        <meta name="calibre:title_sort" content="Division Maneuver, Vol. 01: A Hero Reincarnated"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">500</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3c80326a-9eec-4735-a21a-30b98114057f</dc:identifier>
+        <dc:title>Division Maneuver, Vol. 02: Binary Hero</dc:title>
+        <dc:creator opf:file-as="Senoo, Shippo &amp; Nidy-2D-" opf:role="aut">Shippo Senoo</dc:creator>
+        <dc:creator opf:file-as="Senoo, Shippo &amp; Nidy-2D-" opf:role="aut">Nidy-2D-</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-05-30T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;BLAST FROM THE PAST&lt;/p&gt;
+&lt;p&gt;Okegawa Kuon, the reincarnated hero, and Suzuka Hanabi, strongest Cavalleria at the Academy, have teamed up to defeat the Jave Queen. But peace is going to have to wait a little longer, as a mysterious girl named Tooka Nürburg appears, claiming to be Kuon's sister from his previous life! How will Kuon deal with this sudden apparitionand how will he and Hanabi fight the Jave with their relationship thrown into chaos? Let the battle—begin!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">46134168</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781645051596</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">division-maneuver-vol-2-binary-hero-light-novel</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Completed</dc:subject>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shippo Senoo&quot;: &quot;&quot;, &quot;Nidy-2D-&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Division Maneuver"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-11-10T05:24:16+00:00"/>
+        <meta name="calibre:title_sort" content="Division Maneuver, Vol. 02: Binary Hero"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

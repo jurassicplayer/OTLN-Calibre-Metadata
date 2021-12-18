@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">520</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e3544060-110b-44e9-8931-644b1b6dcff9</dc:identifier>
+        <dc:title>Apocalypse Bringer Mynoghra, Vol. 02</dc:title>
+        <dc:creator opf:file-as="Kazuno, Fehu &amp; Jun" opf:role="aut">Fehu Kazuno</dc:creator>
+        <dc:creator opf:file-as="Kazuno, Fehu &amp; Jun" opf:role="aut">Jun</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.33.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-19T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;The time for obscurity has ended. “The Beginning of the End” has begun!&lt;/p&gt;
+&lt;p&gt;Reincarnated into a world eerily similar to his favorite 4x strategy game, Takuto is ready to take his evil empire of Mynoghra to the next level. To do that, he’ll need to make contact with the outside world. With Atou and the Dark Elves at his side, there’s nothing this normal-teenager-turned-evil-god can’t do!&lt;/p&gt;
+&lt;p style="font-weight: 600"&gt;Explore, Expand, Exploit, Exterminate! A tactical fantasy world is waiting for heroes like you! Join Eternal Nations today!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cross Infinite World</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781945341632</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">apocalypse-bringer-mynoghra-volume-2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fehu Kazuno&quot;: &quot;&quot;, &quot;Jun&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Apocalypse Bringer Mynoghra"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-12-18T00:06:13+00:00"/>
+        <meta name="calibre:title_sort" content="Apocalypse Bringer Mynoghra, Vol. 02"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

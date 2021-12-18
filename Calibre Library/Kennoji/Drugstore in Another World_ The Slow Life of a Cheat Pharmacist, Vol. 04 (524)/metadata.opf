@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">524</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fbbedb80-e3e5-4a4c-9592-f1484716f1b3</dc:identifier>
+        <dc:title>Drugstore in Another World: The Slow Life of a Cheat Pharmacist, Vol. 04</dc:title>
+        <dc:creator opf:file-as="Kennoji &amp; Matsuuni" opf:role="aut">Kennoji</dc:creator>
+        <dc:creator opf:file-as="Kennoji &amp; Matsuuni" opf:role="aut">Matsuuni</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.33.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-02T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;GRILLING AND CHILLING&lt;/p&gt;
+&lt;p&gt;Reiji has settled into the routine of his new life as a pharmacist in a fantasy world, and he's comfortable enough that he wants to introduce some Earth customs to the residents of his new home. But how will a bunch of elves, demons, and werewolves react when Reiji introduces them to the strange, otherworldly ritual of...barbeque?!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781685791261</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">59753056</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kennoji&quot;: &quot;&quot;, &quot;Matsuuni&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Drugstore in Another World: The Slow Life of a Cheat Pharmacist"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-12-18T00:08:08+00:00"/>
+        <meta name="calibre:title_sort" content="Drugstore in Another World: The Slow Life of a Cheat Pharmacist, Vol. 04"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

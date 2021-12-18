@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">521</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d7ba54f-73fe-4ab0-beff-f9382fc6ebed</dc:identifier>
+        <dc:title>Are You Okay With a Slightly Older Girlfriend?, Vol. 06</dc:title>
+        <dc:creator opf:file-as="Nozomi, Kota &amp; Nanasemeruchi" opf:role="aut">Kota Nozomi</dc:creator>
+        <dc:creator opf:file-as="Nozomi, Kota &amp; Nanasemeruchi" opf:role="aut">Nanasemeruchi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.33.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-15T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Despite Momota’s new mother discovering his secret relationship, things are surprisingly peaceful, though a little awkward, at home. However, he can’t take it easy since preparations have ramped up for the school festival that’s only about a week away!&lt;/p&gt;
+&lt;p&gt;The event’s got Ura busier than anybody, and he’s adapting surprisingly well to his position as his class’s representative for the festival. But after an argument with Saki, he stops coming to school and shuts himself up in his room.&lt;/p&gt;
+&lt;p&gt;It’s up to Momota to bring him back and even give him some advice on matters of the heart as Ura falls in love with his own princess. Also, the school festival is full of surprises, as a certain someone from the past and a certain quest item make special appearances!&lt;/p&gt;
+&lt;p&gt;Check it all out in the sixth volume of the sugary sweet love story with a twelve-year age gap!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718319165</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">are-you-okay-with-a-slightly-older-girlfriend-volume-6</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kota Nozomi&quot;: &quot;&quot;, &quot;Nanasemeruchi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Are You Okay With a Slightly Older Girlfriend?"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-12-18T00:06:14+00:00"/>
+        <meta name="calibre:title_sort" content="Are You Okay With a Slightly Older Girlfriend?, Vol. 06"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

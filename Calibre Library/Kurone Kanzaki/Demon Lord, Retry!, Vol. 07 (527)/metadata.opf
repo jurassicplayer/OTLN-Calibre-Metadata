@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">527</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2f6541df-8620-4157-92b0-28af24414677</dc:identifier>
+        <dc:title>Demon Lord, Retry!, Vol. 07</dc:title>
+        <dc:creator opf:file-as="Kanzaki, Kurone &amp; Iino, Makoto" opf:role="aut">Kurone Kanzaki</dc:creator>
+        <dc:creator opf:file-as="Kanzaki, Kurone &amp; Iino, Makoto" opf:role="aut">Makoto Iino</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.33.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-16T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;With the leaders of Holylight under his thumb, the Demon Lord decides to summon yet another member of the Sleepless Castle: Ren Miyaoji, Akira Ono’s most beloved advisor.&lt;/p&gt;
+&lt;p&gt;After a brief reunion, they travel to Euritheis, where the mafia-owned company Jack of All Trades reigns with drugs, gambling, and human trafficking. The Demon Lord, the walking embodiment of hijinks, soon draws the attention of this company, and then...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718363106</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">demon-lord-retry-volume-7</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kurone Kanzaki&quot;: &quot;&quot;, &quot;Makoto Iino&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Demon Lord, Retry!"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-12-18T00:08:09+00:00"/>
+        <meta name="calibre:title_sort" content="Demon Lord, Retry!, Vol. 07"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

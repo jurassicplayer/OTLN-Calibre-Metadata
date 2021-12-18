@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">517</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">01911cf2-0d2f-4c55-8ade-69cdd76449de</dc:identifier>
+        <dc:title>Accel World, Vol. 25: Deity of Demise</dc:title>
+        <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA" opf:role="aut">Reki Kawahara</dc:creator>
+        <dc:creator opf:file-as="Kawahara, Reki &amp; HiMA" opf:role="aut">HiMA</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.33.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-09T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;Prepare for a full dive!&lt;/p&gt;
+&lt;p&gt;​Following a narrow triumph against the Sun God Inti, Haruyuki and company are immediately faced with a new adversary: The Deity of Demise, Tezcatlipoca, whose appearance heralds the ends of the Accelerated World as they know it. To stand a chance, Haruyuki will once again have to dig deep and discover new reserves of untapped power. At the same time, the battle against White Cosmos and her Legion enters the endgame. As the Burst Linkers fall one by one to these mighty foes, Haruyuki makes his most difficult decision yet...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975335410</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">accel-world-vol-25-light-novel</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Reki Kawahara&quot;: &quot;&quot;, &quot;HiMA&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Accel World"/>
+        <meta name="calibre:series_index" content="25"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2021-12-18T00:05:29+00:00"/>
+        <meta name="calibre:title_sort" content="Accel World, Vol. 25: Deity of Demise"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

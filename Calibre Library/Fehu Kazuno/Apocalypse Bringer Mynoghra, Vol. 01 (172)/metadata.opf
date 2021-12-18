@@ -3,10 +3,10 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">172</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">400dec25-ac59-4e59-ac88-f81c55637006</dc:identifier>
-        <dc:title>Apocalypse Bringer Mynoghra, Vol. 01: World Conquest Starts With the Civilization of Ruin</dc:title>
+        <dc:title>Apocalypse Bringer Mynoghra, Vol. 01</dc:title>
         <dc:creator opf:file-as="Kazuno, Fehu &amp; Jun" opf:role="aut">Fehu Kazuno</dc:creator>
         <dc:creator opf:file-as="Kazuno, Fehu &amp; Jun" opf:role="aut">Jun</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.33.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-06-30T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;&lt;strong&gt;I Reincarnated As The Evil God Of My Favorite Civilization.&lt;/strong&gt; &lt;/p&gt;
@@ -14,8 +14,8 @@
 &lt;p&gt;“Lord Takuto…won’t you start over with me?” &lt;/p&gt;
 &lt;p style="font-weight: 600"&gt;Explore, Expand, Exploit, Exterminate! A tactical fantasy world is waiting for heroes like you! Join Eternal Nations today!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Cross Infinite World</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B08Z29D6ZB</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">57452768</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08Z29D6ZB</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781945341588</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
@@ -31,7 +31,7 @@
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2021-08-09T01:52:32+00:00"/>
-        <meta name="calibre:title_sort" content="Apocalypse Bringer Mynoghra, Vol. 01: World Conquest Starts With the Civilization of Ruin"/>
+        <meta name="calibre:title_sort" content="Apocalypse Bringer Mynoghra, Vol. 01"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

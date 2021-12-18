@@ -6,14 +6,14 @@
         <dc:title>By the Grace of the Gods, Vol. 07</dc:title>
         <dc:creator opf:file-as="Roy &amp; Ririnra" opf:role="aut">Roy</dc:creator>
         <dc:creator opf:file-as="Roy &amp; Ririnra" opf:role="aut">Ririnra</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.33.2) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-05-25T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;Ryoma, the boy from another world, has gotten a chance to visit the Jamil family again.&lt;/p&gt;
 &lt;p&gt;He and his merchant acquaintances, Serge and Pioro, visit the Jamil estate and hear that an unexpected person is getting married. Ryoma agrees to help prepare for the wedding, but at the same time, he inexplicably starts working on a new product using slimes. There are more familiar faces and peaceful moments, of course, and new allies too!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B08XBT8PHX</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">57239491</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08XBT8PHX</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Adventure</dc:subject>
         <dc:subject>Fantasy</dc:subject>
@@ -26,7 +26,7 @@
         <meta name="calibre:series" content="By the Grace of the Gods"/>
         <meta name="calibre:series_index" content="7"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-08-14T02:57:03.852048+00:00"/>
+        <meta name="calibre:timestamp" content="2021-08-14T02:57:03+00:00"/>
         <meta name="calibre:title_sort" content="By the Grace of the Gods, Vol. 07"/>
     </metadata>
     <guide>

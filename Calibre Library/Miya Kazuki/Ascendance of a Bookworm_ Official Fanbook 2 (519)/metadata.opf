@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">519</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c5dce1e2-c5fd-45e8-bdf1-c7181a2cf5c1</dc:identifier>
+        <dc:title>Ascendance of a Bookworm: Official Fanbook 2</dc:title>
+        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You" opf:role="aut">Miya Kazuki</dc:creator>
+        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You" opf:role="aut">You Shiina</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.33.2) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-15T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Here is the second official Ascendance of a Bookworm fanbook, intended to be read after finishing Part 4 Volume 1. This volume contains an abundance of supplementary content, including design sheets for a variety of new characters, an extensive family tree, and seven short stories not found in the light novels. Also included are behind-the-scenes reports on the recording of a Bookworm drama CD, and another reader Q&amp;amp;A with author Miya Kazuki.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718344648</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B09G3ZMB96</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Miya Kazuki&quot;: &quot;&quot;, &quot;You Shiina&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Ascendance of a Bookworm"/>
+        <meta name="calibre:series_index" content="4.15"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2021-12-18T00:06:13+00:00"/>
+        <meta name="calibre:title_sort" content="Ascendance of a Bookworm: Official Fanbook 2"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

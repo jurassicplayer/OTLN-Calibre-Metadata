@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">533</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab7a491c-4814-437b-ab69-564aa3f31da0</dc:identifier>
+        <dc:title>Der Werwolf: The Annals of Veight, Vol. 13: The Two Princesses</dc:title>
+        <dc:creator opf:file-as="Hyougetsu &amp; Teshima, Nari" opf:role="aut">Hyougetsu</dc:creator>
+        <dc:creator opf:file-as="Hyougetsu &amp; Teshima, Nari" opf:role="aut">Nari Teshima</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.34.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-20T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Having been selected to join Meraldia's delegation, Friede, Yuhette, and Shirin make their way to the frigid Rolmund Empire to meet with Empress Eleora. Once there, she encounters Eleora's niece, Micha, and the two become fast friends. One day, while they're exploring the capital, a group of people plotting Eleora's demise abduct Micha. Friede tracks them to their hideout, and soon realizes that she won't be able to count on backup. Alone, she infiltrates the enemy base in order to save her friend.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718331242</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">der-werwolf-the-annals-of-veight-volume-13</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Politics</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hyougetsu&quot;: &quot;&quot;, &quot;Nari Teshima&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Der Werwolf: The Annals of Veight"/>
+        <meta name="calibre:series_index" content="13"/>
+        <meta name="calibre:timestamp" content="2022-01-08T13:30:16.436996+00:00"/>
+        <meta name="calibre:title_sort" content="Der Werwolf: The Annals of Veight, Vol. 13: The Two Princesses"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

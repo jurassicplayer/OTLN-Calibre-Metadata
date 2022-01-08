@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">530</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ee6f7a1a-a9e9-414a-adef-a09d22d68656</dc:identifier>
+        <dc:title>Arifureta: From Commonplace to World's Strongest ZERO, Vol. 05</dc:title>
+        <dc:creator opf:file-as="Shirakome, Ryo &amp; Takaya-Ki" opf:role="aut">Ryo Shirakome</dc:creator>
+        <dc:creator opf:file-as="Shirakome, Ryo &amp; Takaya-Ki" opf:role="aut">Takaya-Ki</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.34.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-01T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The Liberators have continued steadily growing in strength. But after discovering the true nature of her ancient magic, Miledi has transformed into a totally different person. Oscar and the others are shocked by the sudden change, nevertheless, they track down Laus and send a rescue party to save him. But the church is hot on his trail and his battles have left him exhausted. Will the Liberators find him first...or will Ehit's pawns?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718318083</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B09D42GPL1</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">58828350</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">arifureta-zero-volume-5</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ryo Shirakome&quot;: &quot;&quot;, &quot;Takaya-Ki&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Arifureta: From Commonplace to World's Strongest ZERO"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-01-08T13:25:03.303221+00:00"/>
+        <meta name="calibre:title_sort" content="Arifureta: From Commonplace to World's Strongest ZERO, Vol. 05"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

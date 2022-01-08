@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">531</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">67202647-ff04-4f1d-b63a-6e29d38f96b3</dc:identifier>
+        <dc:title>Culinary Chronicles of the Court Flower, Vol. 04</dc:title>
+        <dc:creator opf:file-as="Mikawa, Miri &amp; Nagi, Kasumi" opf:role="aut">Miri Mikawa</dc:creator>
+        <dc:creator opf:file-as="Mikawa, Miri &amp; Nagi, Kasumi" opf:role="aut">Kasumi Nagi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.34.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-14T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Just after Rimi and Shusei had vowed to cast away their feelings for each other, Emperor Shohi asked Rimi to become his empress. Now, Rimi is spending her days on edge.&lt;/p&gt;
+&lt;p&gt;Suddenly, the Quinary Dragon falls ill, and Rimi travels to the old capital of Hanin to find a cure. There she discovers a mirror, and strange things start to happen around her, including a bedridden Shohi whom Rimi needs to make food for. While she searches for the cause behind what is happening, she discovers a shocking secret about Shusei!&lt;/p&gt;
+&lt;p&gt;It’s time for Rimi to make a difficult decision to protect her place in the world.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718302686</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">culinary-chronicles-of-the-court-flower-volume-4</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shoujo</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Miri Mikawa&quot;: &quot;&quot;, &quot;Kasumi Nagi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Culinary Chronicles of the Court Flower"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-01-08T13:27:43.957621+00:00"/>
+        <meta name="calibre:title_sort" content="Culinary Chronicles of the Court Flower, Vol. 04"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -3,16 +3,16 @@
     <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
         <dc:identifier opf:scheme="calibre" id="calibre_id">468</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">53dbde82-8fd4-4f5e-a81e-dca9bac39705</dc:identifier>
-        <dc:title>Der Werwolf: The Annals of Veight, Vol. 05</dc:title>
+        <dc:title>Der Werwolf: The Annals of Veight, Vol. 05: Empire of Ice</dc:title>
         <dc:creator opf:file-as="Hyougetsu &amp; Nishi(E)da" opf:role="aut">Hyougetsu</dc:creator>
         <dc:creator opf:file-as="Hyougetsu &amp; Nishi(E)da" opf:role="aut">Nishi(E)da</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.34.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-08-27T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Having thwarted Rolmund's initial invasion, Veight must now unite Meraldia's north and south, forging a new alliance between the region's seventeen cities. But turning the Meraldian Federation into the Meraldian Commonwealth isn't the only task he has to contend with. Now that he's taken an imperial princess captive, he intends to put her on Rolmund's throne in order to prevent any further incursions from the ancient empire.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B07SFK7RZW</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">46128784</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07SFK7RZW</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>
@@ -29,8 +29,8 @@
         <meta name="calibre:series" content="Der Werwolf: The Annals of Veight"/>
         <meta name="calibre:series_index" content="5"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-31T07:55:37.487893+00:00"/>
-        <meta name="calibre:title_sort" content="Der Werwolf: The Annals of Veight, Vol. 05"/>
+        <meta name="calibre:timestamp" content="2021-10-31T07:55:37+00:00"/>
+        <meta name="calibre:title_sort" content="Der Werwolf: The Annals of Veight, Vol. 05: Empire of Ice"/>
     </metadata>
     <guide>
         <reference type="cover" title="Cover" href="cover.jpg"/>

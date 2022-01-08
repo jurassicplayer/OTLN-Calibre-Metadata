@@ -6,33 +6,33 @@
         <dc:title>Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into the Abyss!, Vol. 01</dc:title>
         <dc:creator opf:file-as="Necoco &amp; Hihara, Yoh" opf:role="aut">Necoco</dc:creator>
         <dc:creator opf:file-as="Necoco &amp; Hihara, Yoh" opf:role="aut">Yoh Hihara</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.34.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-09-02T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-style: italic; font-weight: 600"&gt;An isekai adventure about an ordinary boy taken under the wing of a mysterious undead girl!&lt;/p&gt;
 &lt;p style="font-weight: 600"&gt;A Deadly Mistake&lt;/p&gt;
 &lt;p&gt;When Kanbara Kanata is whisked away from his mundane life to a world of adventure, he inadvertently offends the all-powerful being who brought him there. As punishment, he is sent to the bottom of the most dangerous dungeon without a single special power or ability! He is sure that he’s a goner until he meets a lich girl named Lunaère—an undead powerhouse who hates humans, but grudgingly decides to assist him all the same. With Lunaère’s help, Kanata may just grow into someone truly incredible!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781648275524</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">57563769</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B099FN6TF2</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781648275524</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>
         <dc:subject>Comedy</dc:subject>
         <dc:subject>Drama</dc:subject>
-        <dc:subject>Romance</dc:subject>
-        <dc:subject>Slice of Life</dc:subject>
-        <dc:subject>Magic</dc:subject>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Isekai</dc:subject>
         <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
         <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Necoco&quot;: &quot;&quot;, &quot;Yoh Hihara&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into the Abyss!"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2021-11-01T01:12:17.074028+00:00"/>
+        <meta name="calibre:timestamp" content="2021-11-01T01:12:17+00:00"/>
         <meta name="calibre:title_sort" content="Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into the Abyss!, Vol. 01"/>
     </metadata>
     <guide>

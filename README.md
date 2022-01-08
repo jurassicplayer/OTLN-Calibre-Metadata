@@ -51,11 +51,11 @@ Curated calibre metadata for OTLN, going through the suffering so you don't have
 - Use your brain. If Yen Press has the same description for multiple volumes, but GoodReads has a unique description, opt for the unique one unless it deviates too far from the other descriptions structure. (Ex. 86 vol.5 & vol.6)
 
 ### To-Do
-- Make a script that move files from a fresh copy to the correct folders with the correct filenames (generate list from my list and use checksums to determine filepaths)
+- Make a script that move files from a fresh copy to the correct folders with the correct filenames (generate list from my list and use checksums to determine filepaths?)
 - Provide a clean update path and directions for updating set
 - Revisit series: Code Geass, Dance in the Vampire Bund, Death Note
     - These are older light novels with only OCR scans and some metadata may be incorrect.
 
-### Current Progress (based on v17.2)
-100/450 (22.22%) Series
+### Current Progress (based on v18.0)
+100/457 (21.88%) Series
 0/43 (0.0%) Yaoi Series

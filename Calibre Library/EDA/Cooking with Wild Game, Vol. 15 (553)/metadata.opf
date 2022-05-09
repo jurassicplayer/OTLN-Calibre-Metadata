@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">553</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8b9e47f7-d2a3-4d0f-a956-9418e33d9cd9</dc:identifier>
+        <dc:title>Cooking with Wild Game, Vol. 15</dc:title>
+        <dc:creator opf:file-as="EDA &amp; Kochimo" opf:role="aut">EDA</dc:creator>
+        <dc:creator opf:file-as="EDA &amp; Kochimo" opf:role="aut">Kochimo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-20T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Time has passed since settling things with Cyclaeus, and Asuta’s life has undergone some major changes. New ingredients have been flowing into the post town, our hero now has new business deals in place, and the Ruu have gone into business on their own. And perhaps most significantly of all, he has encountered Myme, a formidable rival chef to spur him onward.&lt;/p&gt;
+&lt;p&gt;In this period of upheaval, even more excitement awaits Asuta. With the new ingredients now at hand, he tries his best to reproduce an old favorite from back home. A visitor with a real fixation on Ai Fa arrives from up north. And to top it all off, Asuta is tasked with another big job to cater for Dan Rutim’s birthday. Plus, the Group Dance continues onward with even more fresh stories from new perspectives!&lt;/p&gt;
+&lt;p&gt;See all this and more in the exciting fifteenth volume of Cooking with Wild Game!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718334281</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B09H9Q9PJ1</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">cooking-with-wild-game-volume-15</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;EDA&quot;: &quot;&quot;, &quot;Kochimo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Cooking with Wild Game"/>
+        <meta name="calibre:series_index" content="15"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-09T04:35:17.850307+00:00"/>
+        <meta name="calibre:title_sort" content="Cooking with Wild Game, Vol. 15"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

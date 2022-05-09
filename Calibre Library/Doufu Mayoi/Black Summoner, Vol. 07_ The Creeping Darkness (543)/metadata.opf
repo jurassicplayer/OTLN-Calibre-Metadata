@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">543</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a87484d2-a0ec-4931-8f20-9f71f390fc6e</dc:identifier>
+        <dc:title>Black Summoner, Vol. 07: The Creeping Darkness</dc:title>
+        <dc:creator opf:file-as="Mayoi, Doufu &amp; Kurogin &amp; DaiXt" opf:role="aut">Doufu Mayoi</dc:creator>
+        <dc:creator opf:file-as="Mayoi, Doufu &amp; Kurogin &amp; DaiXt" opf:role="aut">Kurogin</dc:creator>
+        <dc:creator opf:file-as="Mayoi, Doufu &amp; Kurogin &amp; DaiXt" opf:role="aut">DaiXt</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-23T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Kelvin, the battle junkie Summoner from another world, finally clashes with Leonhart Gaun, the king of the host country of the Beast King Festival. They bring all their strength, wits, and cunning to bear, each struggling to gain dominance over the other and proceed further in the tournament. &lt;/p&gt;
+&lt;p&gt;As the same time, the organization who pulled the strings behind the Demon Lord incident and manipulated Trycen into declaring war on the rest of the continent seems to be on the move. Will this entity shrouded in mystery appear before Kelvin and his companions once again? &lt;/p&gt;
+&lt;p&gt;Come along for the ride as this black-clad Grim Reaper and his friends confront the forces squirming about in the shadows in the seventh volume of this epic journey!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718375604</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">59468573</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Doufu Mayoi&quot;: &quot;&quot;, &quot;Kurogin&quot;: &quot;&quot;, &quot;DaiXt&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Black Summoner"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-09T04:32:24.179836+00:00"/>
+        <meta name="calibre:title_sort" content="Black Summoner, Vol. 07: The Creeping Darkness"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

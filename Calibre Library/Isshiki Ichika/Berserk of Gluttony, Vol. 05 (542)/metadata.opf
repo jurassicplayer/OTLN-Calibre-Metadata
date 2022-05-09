@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">542</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">95b2f0e0-a3b9-429e-8cd7-2d8db8bc5514</dc:identifier>
+        <dc:title>Berserk of Gluttony, Vol. 05</dc:title>
+        <dc:creator opf:file-as="Ichika, Isshiki &amp; Fame" opf:role="aut">Isshiki Ichika</dc:creator>
+        <dc:creator opf:file-as="Ichika, Isshiki &amp; Fame" opf:role="aut">fame</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-01T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;FRIEND, FOE—AND FAMILY&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Myne’s disappearance has left Fate reeling, but as the new head of the Barbatos family, he must be strong. At first he’s focused on reforging a bond with his former tormenter and new sister, Memil. Then a grim encounter critically endangers Roxy’s soul, and Fate must find a way to protect her before his Gluttony devours her once and for all. But as he searches, unexpected answers to old mysteries begin to emerge—and the truths Fate uncovers about his own heritage prove as dangerous and strange as they are difficult to swallow.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781638581277</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1638581274</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">59830976</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Isshiki Ichika&quot;: &quot;&quot;, &quot;fame&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Berserk of Gluttony"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-09T04:32:12.859008+00:00"/>
+        <meta name="calibre:title_sort" content="Berserk of Gluttony, Vol. 05"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">552</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">770def70-9f53-4eb9-800f-58e24f114539</dc:identifier>
+        <dc:title>Cross-Dressing Villainess Cecilia Sylvie, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Akizakura, Hiroro" opf:role="aut">Hiroro Akizakura</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-04T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;After being reincarnated as the villainess of her favorite dating sim, Cecilia Sylvie realizes she’s slated for an untimely demise no matter how the game’s story unfolds. Convinced she can cheat death by assuming a new identity, she becomes Cecil Admina, the dashing son of a baron. Unfortunately, Cecilia adapts to the role a little too well—and ends up replacing her brother as one of the knights who protects the heroine! To top it all off, the prince betrothed to Cecilia is now catching feelings for her alter ego…?! This villainess will do whatever it takes to achieve a carefree life, but if her guise ever slips, it’s Game Over!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975334222</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">cross-dressing-villainess-cecilia-sylvie-vol-1-light-novel</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Gender Bender</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shoujo</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hiroro Akizakura&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Cross-Dressing Villainess Cecilia Sylvie"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-09T04:35:11.769416+00:00"/>
+        <meta name="calibre:title_sort" content="Cross-Dressing Villainess Cecilia Sylvie, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

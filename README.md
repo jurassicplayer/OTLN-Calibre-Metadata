@@ -3,16 +3,16 @@ Curated calibre metadata for OTLN, going through the suffering so you don't have
 
 ### Installation
 WARNING: This isn't strenuously tested or anything. Safest route is to use a new library. Use Calibre Library => Library Maintenance => Library Metadata Backup Status => Queue all books for backup. Backup your files some place safe.
-These instructions will move files from the ToSort folders to the target Calibre Library (which isn't great, but I haven't exactly looked at what options RomVault has for just copying...if it has them)
-- Make a new Calibre Library folder
+These instructions will move files from the ToSort folders to the target Calibre Library
+- Make a new Calibre Library
 - Get a ROM manager (these instructions will use RomVault)
+- Make a folder called `ToSort` in the RomVault folder
+- Copy the `Calibre Library` folder with the OTLN metadata and the light novels into the ToSort folder
 - Add OTLN_metadata.dat to your DatRoot folder
 - Go to Settings => Directory Settings
     - Change the Dir Location to point to your new Calibre Library folder
     - Change Archive Type to `File`
     - Press the `Apply` button and then `Done`
-- Click `Add ToSort` and select the `OTLN-Calibre-Metadata/Calibre Library` folder
-- Click `Add ToSort` and select the OTLN folder where all your light novels (this folder better be somewhere that isn't your Calibre Library)
 - Click `Update DATs`, then `Scan ROMs`, then `Find Fixes`, then `Fix ROMs`
 - Open Calibre and switch to your new Calibre Library
 - Navigate to Calibre Library => Library Maintenance => Restore database

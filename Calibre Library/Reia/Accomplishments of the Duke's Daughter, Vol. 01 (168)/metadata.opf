@@ -4,9 +4,9 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">168</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">a1fe9322-949a-49db-9442-6444fec60389</dc:identifier>
         <dc:title>Accomplishments of the Duke's Daughter, Vol. 01</dc:title>
-        <dc:creator opf:file-as="Reia &amp; Futaba, Hazuki" opf:role="aut">Reia</dc:creator>
-        <dc:creator opf:file-as="Reia &amp; Futaba, Hazuki" opf:role="aut">Hazuki Futaba</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:creator opf:file-as="Reia &amp; Futaba, Haduki" opf:role="aut">Reia</dc:creator>
+        <dc:creator opf:file-as="Reia &amp; Futaba, Haduki" opf:role="aut">Haduki Futaba</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-07-06T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;You love the manga, now try the original light novels about one woman's search for a happy ending when she's trapped in an otome romance game--as the antagonist! &lt;/p&gt;
@@ -22,7 +22,7 @@
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Politics</dc:subject>
         <dc:subject>Romance</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Reia&quot;: &quot;&quot;, &quot;Hazuki Futaba&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Reia&quot;: &quot;&quot;, &quot;Haduki Futaba&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Accomplishments of the Duke’s Daughter"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

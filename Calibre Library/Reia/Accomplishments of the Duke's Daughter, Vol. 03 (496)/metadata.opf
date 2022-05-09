@@ -4,9 +4,9 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">496</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">dd2d991d-92ae-45da-a093-c0109fec1cd2</dc:identifier>
         <dc:title>Accomplishments of the Duke's Daughter, Vol. 03</dc:title>
-        <dc:creator opf:file-as="Reia &amp; Futaba, Hazuki" opf:role="aut">Reia</dc:creator>
-        <dc:creator opf:file-as="Reia &amp; Futaba, Hazuki" opf:role="aut">Hazuki Futaba</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:creator opf:file-as="Reia &amp; Futaba, Haduki" opf:role="aut">Reia</dc:creator>
+        <dc:creator opf:file-as="Reia &amp; Futaba, Haduki" opf:role="aut">Haduki Futaba</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-10-07T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;LIFE AND DEATH LIE IN HER HANDS&lt;/p&gt;
@@ -22,11 +22,11 @@
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Politics</dc:subject>
         <dc:subject>Romance</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Reia&quot;: &quot;&quot;, &quot;Hazuki Futaba&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Reia&quot;: &quot;&quot;, &quot;Haduki Futaba&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Accomplishments of the Duke’s Daughter"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-11-09T05:52:39.718081+00:00"/>
+        <meta name="calibre:timestamp" content="2021-11-09T05:52:39+00:00"/>
         <meta name="calibre:title_sort" content="Accomplishments of the Duke's Daughter, Vol. 03"/>
     </metadata>
     <guide>

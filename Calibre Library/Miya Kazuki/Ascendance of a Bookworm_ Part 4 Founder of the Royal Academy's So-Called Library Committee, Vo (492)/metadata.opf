@@ -6,15 +6,15 @@
         <dc:title>Ascendance of a Bookworm: Part 4 Founder of the Royal Academy's So-Called Library Committee, Vol. 03</dc:title>
         <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You" opf:role="aut">Miya Kazuki</dc:creator>
         <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You" opf:role="aut">You Shiina</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-11-08T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;After reuniting with Ferdinand and the others, Rozemyne returns to the temple and assiduously resumes her duties as the High Bishop. There is much for her to do—whether that be participating in the Dedication Ritual, supporting the printing industry, attending numerous meetings, or tackling a mountain of paperwork—and she soon finds her days as busy as ever.&lt;/p&gt;
 &lt;p&gt;Even as winter starts drawing to a close, Rozemyne’s world continues to change. The conclusion to her first year in the Royal Academy sees her forced into a tea party with all the other duchies, and the sixth-years among her retainers prepare to graduate. Discussions even begin to focus on Rozemyne’s future engagement, which will one day play a crucial role in the growth of the duchy.&lt;/p&gt;
 &lt;p&gt;This is a biblio-fantasy that keeps pressing forward, with a promise to fulfill distant dreams that are close to heart! Includes two original short stories and four-panel manga by You Shiina!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781718346284</dc:identifier>
         <dc:identifier opf:scheme="KOBO">ascendance-of-a-bookworm-part-4-volume-3</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781718346284</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Adventure</dc:subject>
         <dc:subject>Comedy</dc:subject>
@@ -30,9 +30,9 @@
         <dc:subject>Supernatural</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Miya Kazuki&quot;: &quot;&quot;, &quot;You Shiina&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Ascendance of a Bookworm"/>
-        <meta name="calibre:series_index" content="4.30"/>
+        <meta name="calibre:series_index" content="4.3"/>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2021-11-09T05:52:12.903881+00:00"/>
+        <meta name="calibre:timestamp" content="2021-11-09T05:52:12+00:00"/>
         <meta name="calibre:title_sort" content="Ascendance of a Bookworm: Part 4 Founder of the Royal Academy's So-Called Library Committee, Vol. 03"/>
     </metadata>
     <guide>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">544</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cbd06ee6-7268-49a6-9da2-6c54110acbd5</dc:identifier>
+        <dc:title>Bofuri: I Don't Want to Get Hurt, So I'll Max Out My Defense., Vol. 04</dc:title>
+        <dc:creator opf:file-as="Yuumikan &amp; KOIN" opf:role="aut">Yuumikan</dc:creator>
+        <dc:creator opf:file-as="Yuumikan &amp; KOIN" opf:role="aut">KOIN</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-18T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;BEGUN, THE GUILD WARS HAVE!&lt;/p&gt;
+&lt;p&gt;​With new allies and skills at the ready, Maple Tree embarks on their first event! The obvious favorites to take the crown are the big guilds like Flame Empire and the Order of the Holy Sword, each boasting well over a hundred members and some of the best players who topped the ranks in previous events. To make matters worse, everyone on the server has been stocking up on anti-Maple skills and items after her rise to infamy. For any hope of victory, Maple Tree will have to overcome incredible odds and shatter all expectations—or wipe out everybody else trying!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975323585</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1975323580</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">58450397</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yuumikan&quot;: &quot;&quot;, &quot;KOIN&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Bofuri: I Don't Want to Get Hurt, So I'll Max Out My Defense."/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-09T04:32:32.394011+00:00"/>
+        <meta name="calibre:title_sort" content="Bofuri: I Don't Want to Get Hurt, So I'll Max Out My Defense., Vol. 04"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

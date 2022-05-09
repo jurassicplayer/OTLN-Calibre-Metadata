@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">554</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d984a2ce-940d-4f85-9abd-87ce383c3745</dc:identifier>
+        <dc:title>Chillin’ in Another World with Level 2 Super Cheat Powers, Vol. 03</dc:title>
+        <dc:creator opf:file-as="Kinojo, Miya &amp; Katagiri" opf:role="aut">Miya Kinojo</dc:creator>
+        <dc:creator opf:file-as="Kinojo, Miya &amp; Katagiri" opf:role="aut">Katagiri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-14T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Located in downtown Houghtow, the Fli-o’-Rys General Store is a neighborhood one-stop shop selling fresh fruits and vegetables, horse monsters for rent, and magic items the likes of which few have ever seen. But hold on, where are they getting dragonscale? Is that an ancient djinn and the Grand Magus of Midnight behind the counter? But there are even stranger mysteries: Did you know that the former Dark One himself abdicated to work at this shop? That the former spy corps of the Dark Army are working as its suppliers? Well, the proprietor is from another world, after all.&lt;/p&gt;
+&lt;p&gt;As the war carries on, Flio has finally achieved his dream of opening a shop, but he is far from finished. Somehow, he will end the ancient war between humanity and demonkind, thus creating a world where he and his demon wife Rys can live together in peace and raise a family.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718380028</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">chillin-in-another-world-with-level-2-super-cheat-powers-volume-3-light-novel</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Miya Kinojo&quot;: &quot;&quot;, &quot;Katagiri&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Chillin’ in Another World with Level 2 Super Cheat Powers"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-09T04:35:25.860222+00:00"/>
+        <meta name="calibre:title_sort" content="Chillin’ in Another World with Level 2 Super Cheat Powers, Vol. 03"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

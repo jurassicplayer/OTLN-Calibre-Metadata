@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">557</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">de4a8937-b9f2-4a5b-9d08-a2e34d8b7006</dc:identifier>
+        <dc:title>Altina the Sword Princess, Vol. 12</dc:title>
+        <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz" opf:role="aut">Yukiya Murasaki</dc:creator>
+        <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz" opf:role="aut">himesuz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-17T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Now thought to have been assassinated at the second prince’s order, Regis returns to Verseilles in disguise. There, he unites with an unexpected ally, enacting a plan to sow political discord. In the midst of this covert operation, Altina leads her army to the capital where she at last reunites with her tactician. There is no time to rejoice, however—tensions linger, and a new emperor soon takes the throne. Latrielle issues a declaration of war to all surrounding nations, and Altina is dispatched to the disastrous southern front. Here is the twelfth volume of a tale of war, love, and politics, woven by the bookworm and the sword princess.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718365223</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">59468617</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Martial Arts</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yukiya Murasaki&quot;: &quot;&quot;, &quot;himesuz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Altina the Sword Princess"/>
+        <meta name="calibre:series_index" content="12"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-10T05:35:33.267628+00:00"/>
+        <meta name="calibre:title_sort" content="Altina the Sword Princess, Vol. 12"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

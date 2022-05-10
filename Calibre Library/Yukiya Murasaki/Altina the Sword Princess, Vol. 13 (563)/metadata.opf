@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">563</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">064dd57b-233e-4ab1-ba94-ec072187698b</dc:identifier>
+        <dc:title>Altina the Sword Princess, Vol. 13</dc:title>
+        <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz" opf:role="aut">Yukiya Murasaki</dc:creator>
+        <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz" opf:role="aut">himesuz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-18T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;After being appointed généralissime of the Belgarian Empire, Altina is promptly deployed to the southern front. As she and the Fourth Army make their way to Aloe-Marroe, they are met by Elenore Ailred Winn de Tiraso Laverde, an old acquaintance and the prominent Vixen of the South. She turns to them for help, having received an excessive demand from the new emperor. Regis offers her a superb scheme for her predicament and promises a swift resolution to the new war, but this proves easier said than done—morale is dangerously low among the Sixth and Eighth Armies, and the tactician is soon faced with troubles the likes of which he has never seen before... Here is the thirteenth volume of a tale of war, love, and politics, woven by the bookworm and the sword princess.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718365247</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">60000638</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Martial Arts</dc:subject>
+        <dc:subject>Military</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yukiya Murasaki&quot;: &quot;&quot;, &quot;himesuz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Altina the Sword Princess"/>
+        <meta name="calibre:series_index" content="13"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2022-05-10T06:12:29.063610+00:00"/>
+        <meta name="calibre:title_sort" content="Altina the Sword Princess, Vol. 13"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

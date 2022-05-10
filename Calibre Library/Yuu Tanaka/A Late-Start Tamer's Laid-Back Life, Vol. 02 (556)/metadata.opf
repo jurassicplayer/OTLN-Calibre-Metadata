@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">556</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ad1ba3f3-c872-4b1f-bc2d-d9ff9d72c89c</dc:identifier>
+        <dc:title>A Late-Start Tamer’s Laid-Back Life, Vol. 02</dc:title>
+        <dc:creator opf:file-as="Tanaka, Yuu &amp; Nardack" opf:role="aut">Yuu Tanaka</dc:creator>
+        <dc:creator opf:file-as="Tanaka, Yuu &amp; Nardack" opf:role="aut">Nardack</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-11T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Despite the newfound infamy his titles have brought him, Yuto has been enjoying his MMO life, unconcerned with his reputation. With the birth of Bear-Bear, a new tamed monster hatched from an egg acquired at the Magical Beasts Guild, Yuto finds himself surrounded by a growing herd of adorable critters. Unbeknownst to Yuto, however, a group of players who have had their eyes on him, hoping to learn what secrets Yuto knows about the monsters, have begun laying plans of their own...&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718382503</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B09JXVY6B4</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">a-late-start-tamer-s-laid-back-life-volume-2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yuu Tanaka&quot;: &quot;&quot;, &quot;Nardack&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="A Late-Start Tamer’s Laid-Back Life"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-10T05:35:07.713928+00:00"/>
+        <meta name="calibre:title_sort" content="Late-Start Tamer’s Laid-Back Life, Vol. 02, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

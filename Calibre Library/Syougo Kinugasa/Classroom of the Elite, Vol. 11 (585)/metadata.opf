@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">585</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">658157c0-c6db-44f7-a820-a2e8f027ac4d</dc:identifier>
+        <dc:title>Classroom of the Elite, Vol. 11</dc:title>
+        <dc:creator opf:file-as="Kinugasa, Syougo &amp; Tomoseshunsaku" opf:role="aut">Syougo Kinugasa</dc:creator>
+        <dc:creator opf:file-as="Kinugasa, Syougo &amp; Tomoseshunsaku" opf:role="aut">Tomoseshunsaku</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-07T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;CHECKMATE&lt;/p&gt;
+&lt;p&gt;Still reeling from the shock of their first expulsion, the first-years head into the last special exam of the year--a seven-event gauntlet that sees Class A facing off against Class C, and Class B against Class D. With each class's elected commander facing expulsion if they lose, Ayanokouji volunteers for the role to quell his classmates' suspicion about the events of the last exam. And with Sakayanagi captaining Class A, making this the right place and right time for their long-anticipated personal showdown--he might just need that Protection Point before too long.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781685790943</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">classroom-of-the-elite-light-novel-vol-11</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Psychological</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Syougo Kinugasa&quot;: &quot;&quot;, &quot;Tomoseshunsaku&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Classroom of the Elite"/>
+        <meta name="calibre:series_index" content="11"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-10T07:47:58.744939+00:00"/>
+        <meta name="calibre:title_sort" content="Classroom of the Elite, Vol. 11"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

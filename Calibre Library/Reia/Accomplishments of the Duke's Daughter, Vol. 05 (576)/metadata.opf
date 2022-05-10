@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">576</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">929ae303-b8d8-4216-b1e2-67e79b9ace74</dc:identifier>
+        <dc:title>Accomplishments of the Duke's Daughter, Vol. 05</dc:title>
+        <dc:creator opf:file-as="Reia &amp; Futaba, Haduki" opf:role="aut">Reia</dc:creator>
+        <dc:creator opf:file-as="Reia &amp; Futaba, Haduki" opf:role="aut">Haduki Futaba</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-05T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;THE PRICE OF WAR&lt;/p&gt;
+&lt;p&gt;The war Iris always feared has finally come. No longer content to send spies to spread discontent in Tasmeria, Tweil descends with their army. Iris must rush back to her duchy to defend her people and rally the other territories to her cause. But no one survives war unscathed, and all too soon Iris will face a loss even she may not be able to endure.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781638582878</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1638582874</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">59765169</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Josei</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Politics</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Reia&quot;: &quot;&quot;, &quot;Haduki Futaba&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Accomplishments of the Duke’s Daughter"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-10T07:45:29.375748+00:00"/>
+        <meta name="calibre:title_sort" content="Accomplishments of the Duke's Daughter, Vol. 05"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

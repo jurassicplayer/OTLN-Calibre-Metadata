@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">569</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8f2a9769-bd4d-4e7a-8049-dabe1c290d5a</dc:identifier>
+        <dc:title>Dahlia in Bloom: Crafting a Fresh Start With Magical Tools, Vol. 03</dc:title>
+        <dc:creator opf:file-as="Amagishi, Hisaya &amp; Kei" opf:role="aut">Hisaya Amagishi</dc:creator>
+        <dc:creator opf:file-as="Amagishi, Hisaya &amp; Kei" opf:role="aut">Kei</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-28T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Dahlia is now chairwoman of her very own trading company, and her genuine passion for her craft sees her network growing quickly. Juggling her roles as artisan and businesswoman, she lands herself in all sorts of sticky situations! But she won’t face these challenges alone; her friends and colleagues are there to protect and support her no matter what. Dahlia will repay them the only way she knows how—by courageously taking the next leap forward! From mass-producing her soap dispensers at the small goods workshop, to miniaturizing her magical stove, to continuing her quest for a man-made magical sword, the sky’s the limit for Dahlia. She’s happy to follow her creative spirit, but just where will this path lead her? Find out in this third installment of Dahlia’s artisanal adventures!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club (J-Novel Heart)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718381025</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">dahlia-in-bloom-crafting-a-fresh-start-with-magical-tools-volume-3</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hisaya Amagishi&quot;: &quot;&quot;, &quot;Kei&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Dahlia in Bloom: Crafting a Fresh Start with Magical Tools"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-10T06:13:55.683797+00:00"/>
+        <meta name="calibre:title_sort" content="Dahlia in Bloom: Crafting a Fresh Start With Magical Tools, Vol. 03"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

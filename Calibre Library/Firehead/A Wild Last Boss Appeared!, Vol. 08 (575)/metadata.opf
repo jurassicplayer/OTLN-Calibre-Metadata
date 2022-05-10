@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">575</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">98f0259b-07d0-4da0-93ae-0820f0eb2b13</dc:identifier>
+        <dc:title>A Wild Last Boss Appeared!, Vol. 08</dc:title>
+        <dc:creator opf:file-as="Firehead &amp; YahaKo" opf:role="aut">Firehead</dc:creator>
+        <dc:creator opf:file-as="Firehead &amp; YahaKo" opf:role="aut">YahaKo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-08T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;In Mizgarz, the battle continues. The Twelve Heavenly Stars, the Seven Heroes, and the Sei’s party join forces to confront Sol, an avatar of an ouroboros and one of the Seven Luminaries.&lt;/p&gt;
+&lt;p&gt;In modern Japan, where Lufas’s avatar existed, she recovered Dina, who was actually the Thirteenth Heavenly Star, the Snake. Now, Lufas remembers everything.&lt;/p&gt;
+&lt;p&gt;All of the Twelve Heavenly Stars have finally been gathered, and the board is set. The final battle for the survival of Mizgarz has begun! The enemy (last boss)? The Goddess Alovenus, who created the world.&lt;/p&gt;
+&lt;p&gt;Meanwhile, Dina and a very familiar golem are manipulated by the Goddess. It was clear the two would be used as enemies eventually, so instead of being surprised, Lufas is filled with determination. She isn’t going to kindly ask the Goddess for their safe return. She’ll just steal them back!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718302303</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">60000616</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">a-wild-last-boss-appeared-volume-8</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Gender Bender</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Firehead&quot;: &quot;&quot;, &quot;YahaKo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="A Wild Last Boss Appeared!"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-10T07:45:18.158713+00:00"/>
+        <meta name="calibre:title_sort" content="Wild Last Boss Appeared!, Vol. 08, A"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

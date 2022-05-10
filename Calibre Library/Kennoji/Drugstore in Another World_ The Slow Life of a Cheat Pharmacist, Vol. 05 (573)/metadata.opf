@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">573</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13341273-59f0-4cfa-a86d-ac61ba643e0b</dc:identifier>
+        <dc:title>Drugstore in Another World: The Slow Life of a Cheat Pharmacist, Vol. 05</dc:title>
+        <dc:creator opf:file-as="Kennoji &amp; Matsuuni" opf:role="aut">Kennoji</dc:creator>
+        <dc:creator opf:file-as="Kennoji &amp; Matsuuni" opf:role="aut">Matsuuni</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-31T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;LET’S GET TOGETHER&lt;/p&gt;
+&lt;p&gt;Reiji teams up with the town toolmaker on a new invention, which brings everyone together for a wet ‘n’ wild battle royale! After all the excitement, he and his employees take a day off to enjoy a group hike. The crew’s new griffin companion helps them out in all sorts of ways… Wait, what’s that smell? It’s gotta be progress!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781685793739</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">drugstore-in-another-world-the-slow-life-of-a-cheat-pharmacist-light-novel-vol-5</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kennoji&quot;: &quot;&quot;, &quot;Matsuuni&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Drugstore in Another World: The Slow Life of a Cheat Pharmacist"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-10T06:14:10.628133+00:00"/>
+        <meta name="calibre:title_sort" content="Drugstore in Another World: The Slow Life of a Cheat Pharmacist, Vol. 05"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

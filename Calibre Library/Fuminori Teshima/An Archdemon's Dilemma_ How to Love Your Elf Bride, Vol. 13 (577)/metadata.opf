@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">577</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11b0904e-f02b-4cfa-9e7a-e89b920f1f72</dc:identifier>
+        <dc:title>An Archdemon's Dilemma: How to Love Your Elf Bride, Vol. 13</dc:title>
+        <dc:creator opf:file-as="Teshima, Fuminori &amp; COMTA" opf:role="aut">Fuminori Teshima</dc:creator>
+        <dc:creator opf:file-as="Teshima, Fuminori &amp; COMTA" opf:role="aut">COMTA</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-15T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Nephteros has been possessed by Azazel, so Alshiera vows to kill her. Gremory has gone missing, and Kimaris has vanished in search of her. Bifrons’s plans are coming to fruition. All the while, an army of ten thousand resurrected heroes looms in the distance. After months of relative peace and quiet, it is time for the all-out battle between Zagan and Shere Khan to begin.&lt;/p&gt;
+&lt;p&gt;Everything is at stake as Zagan vows to protect his family and all of his subordinates, refusing to let a single one of them get hurt. What’s more, Nephy requests that everything is resolved in three days so that Zagan’s surprise birthday party can still be held.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718325241</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">an-archdemon-s-dilemma-how-to-love-your-elf-bride-volume-13</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Fuminori Teshima&quot;: &quot;&quot;, &quot;COMTA&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="An Archdemon's Dilemma: How to Love Your Elf Bride"/>
+        <meta name="calibre:series_index" content="13"/>
+        <meta name="calibre:timestamp" content="2022-05-10T07:45:42.999747+00:00"/>
+        <meta name="calibre:title_sort" content="Archdemon's Dilemma: How to Love Your Elf Bride, Vol. 13, An"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

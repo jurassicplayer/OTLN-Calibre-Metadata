@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">581</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc241309-5e60-49bb-916f-ad1a1975dd5d</dc:identifier>
+        <dc:title>Black Summoner, Vol. 08: The Pope of the Holy Empire</dc:title>
+        <dc:creator opf:file-as="Mayoi, Doufu &amp; DaiXt &amp; Kurogin" opf:role="aut">Doufu Mayoi</dc:creator>
+        <dc:creator opf:file-as="Mayoi, Doufu &amp; DaiXt &amp; Kurogin" opf:role="aut">DaiXt</dc:creator>
+        <dc:creator opf:file-as="Mayoi, Doufu &amp; DaiXt &amp; Kurogin" opf:role="aut">Kurogin</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-08T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;After encountering Ange in Gaun, the Country of Beastkin and learning of the existence of the Apostles, Kelvin, the battle junkie Summoner from another world, and his companions decide to visit the Holy Empire of Deramis. There, they are granted an audience with Pope Philip, who offers them information on Iris, the alleged leader of the Apostles, and Serge, a Hero from lore. Just then, the famous Heroes of the current age happen to return from their own journey to the Western Continent. Unbeknownst to these two groups, Deramis will soon be plunged into a commotion as the Apostles enact the next part of their plot! &lt;/p&gt;
+&lt;p&gt;Come along for the ride as this black-clad Grim Reaper and his friends stand up against a new foe in the eighth volume of this epic journey!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718375628</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">60043118</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Doufu Mayoi&quot;: &quot;&quot;, &quot;DaiXt&quot;: &quot;&quot;, &quot;Kurogin&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Black Summoner"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-10T07:47:33.459441+00:00"/>
+        <meta name="calibre:title_sort" content="Black Summoner, Vol. 08: The Pope of the Holy Empire"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">580</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">564bc95e-e9e2-4ea3-a90a-a5090027a9e9</dc:identifier>
+        <dc:title>Berserk of Gluttony, Vol. 06</dc:title>
+        <dc:creator opf:file-as="Ichika, Isshiki &amp; Fame" opf:role="aut">Isshiki Ichika</dc:creator>
+        <dc:creator opf:file-as="Ichika, Isshiki &amp; Fame" opf:role="aut">fame</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-07T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;strong&gt;HUNGRY HUNTER&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;Fate has a new quest: chase down Myne and close the Door to Distant Lands—and maybe get some answers out of his resurrected father. This time, however, he’s heading out with a whole party in tow, including Eris, Memil, and Roxy. But Fate’s not the only one wrestling with this new camaraderie. Roxy’s glad to finally be fighting by Fate’s side, but she knows she won’t be able to stay there unless she too reaches the Domain of E…if she can survive it.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781638582281</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1638582289</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">60175855</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Isshiki Ichika&quot;: &quot;&quot;, &quot;fame&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Berserk of Gluttony"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-10T07:47:27.101652+00:00"/>
+        <meta name="calibre:title_sort" content="Berserk of Gluttony, Vol. 06"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

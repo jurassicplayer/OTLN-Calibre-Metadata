@@ -6,15 +6,15 @@
         <dc:title>Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?, Vol. 01</dc:title>
         <dc:creator opf:file-as="Inaka, Dachima &amp; Pochi., Iida" opf:role="aut">Dachima Inaka</dc:creator>
         <dc:creator opf:file-as="Inaka, Dachima &amp; Pochi., Iida" opf:role="aut">Iida Pochi.</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-11-27T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A new kind of momcom role-playing adventure!&lt;/p&gt;
 &lt;p&gt;What would you do if you got transported into a video game...with your mom? That's the dilemma facing high schooler Masato Oosuki, who has been unwittingly thrown into an RPG world with his doting mother close behind as part of a secret government scheme. As an avid gamer, Masato is eager to show off his skills...but that's hard to do when your mom is an insanely overpowered, dual-wielding, multi-target specialist!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Yen Press (Yen On)</dc:publisher>
-        <dc:identifier opf:scheme="MOBI-ASIN">B07D2B5ZWD</dc:identifier>
-        <dc:identifier opf:scheme="ISBN">9781975328368</dc:identifier>
         <dc:identifier opf:scheme="KOBO">do-you-love-your-mom-and-her-two-hit-multi-target-attacks-vol-1-light-novel</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781975328368</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07D2B5ZWD</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>
@@ -32,7 +32,7 @@
         <meta name="calibre:series" content="Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-11-10T05:27:31.505974+00:00"/>
+        <meta name="calibre:timestamp" content="2021-11-10T05:27:31+00:00"/>
         <meta name="calibre:title_sort" content="Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?, Vol. 01"/>
     </metadata>
     <guide>

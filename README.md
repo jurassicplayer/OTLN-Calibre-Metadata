@@ -37,6 +37,8 @@ These instructions will move files from the ToSort folders to the target Calibre
         - Shoujo Ai: Usually focuses on developing female/female relationships (not necessarily love, can be close friendships, but usually nothing physical)
         - Yaoi (Boy's Love): Focuses on male/male relationships, usually the physical kind
         - Yuri (Girl's Love): Focuses on female/female relationships, usually the physical kind
+- When will X series get metadata?
+    - Possibly never. It's slow, tedious, boring work with no help. I'm going in alphabetical order, so if anything you can be hopeful for earlier letters.
 ### Guidelines
 - Metadata source preference when available: YenPress/YenOn/J-Novel Club/etc. > Kobo > GoodReads > Amazon
 #### Book IDs
@@ -73,6 +75,6 @@ These instructions will move files from the ToSort folders to the target Calibre
 - Revisit series: Code Geass, Dance in the Vampire Bund, Death Note
     - These are older light novels with only OCR scans and some metadata may be incorrect.
 
-### Current Progress (based on v18.1)
+### Current Progress (based on v18.3)
 100/489 (20.45%) Series
 0/43 (0.0%) Yaoi Series

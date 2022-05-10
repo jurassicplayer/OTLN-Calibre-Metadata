@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">558</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b66d85b0-a165-45ff-b251-719d847ecf8d</dc:identifier>
+        <dc:title>Ascendance of a Bookworm: Part 4 Founder of the Royal Academy's So-Called Library Committee, Vol. 05</dc:title>
+        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You" opf:role="aut">Miya Kazuki</dc:creator>
+        <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You" opf:role="aut">You Shiina</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-16T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;After turning the lower city into a true sight to behold, Rozemyne aims to continue her development plan and secure a greater influence over the country’s other duchies. As she needs the assistance of commoners to achieve this, she gets to work dismantling the wall that exists between them and the nobles. She tours the printing workshops in the Central District, holds a dyeing competition to unearth skilled craftspeople, and even fantasizes about designing her own library.&lt;/p&gt;
+&lt;p&gt;Not everything is quite so straightforward, however—a normal wedding is enshrouded in complex interduchy politics, and as Rozemyne prepares for her second year in the Royal Academy, she finds herself needing to stay on guard against the rebellious former Veronica faction.&lt;/p&gt;
+&lt;p&gt;This is the newest volume of this biblio-fantasy, filled to the brim with moving developments! Includes two original short stories and four-panel manga by You Shiina!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718346321</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">59910312</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Miya Kazuki&quot;: &quot;&quot;, &quot;You Shiina&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Ascendance of a Bookworm"/>
+        <meta name="calibre:series_index" content="4.5"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-10T05:37:20.975126+00:00"/>
+        <meta name="calibre:title_sort" content="Ascendance of a Bookworm: Part 4 Founder of the Royal Academy's So-Called Library Committee, Vol. 05"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

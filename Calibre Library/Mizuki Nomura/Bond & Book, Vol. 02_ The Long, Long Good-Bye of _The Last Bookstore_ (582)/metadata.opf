@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">582</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">03be13f9-ed98-4571-9164-664e8c74bb74</dc:identifier>
+        <dc:title>Bond &amp; Book, Vol. 02: The Long, Long Good-Bye of "The Last Bookstore"</dc:title>
+        <dc:creator opf:file-as="Nomura, Mizuki &amp; Takeoka, Miho" opf:role="aut">Mizuki Nomura</dc:creator>
+        <dc:creator opf:file-as="Nomura, Mizuki &amp; Takeoka, Miho" opf:role="aut">Miho Takeoka</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-15T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;With the untimely death of third-generation bookseller Emon Koumoto, a small Tohoku town loses its last bookstore. On the eve of its closing sale, however, high schooler Musubu Enoki shows up out of nowhere claiming that the late owner had entrusted him with all the texts in the shop! As patrons come from far and wide to say their goodbyes to the store during its last week of operation, Musubu uses his ability to converse with books to reunite people with their most treasured tomes. But can these nostalgic, interconnected encounters lead him to the truth behind Emon’s demise? &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975325718</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0982Z38H6</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">58450402</dc:identifier>
+        <dc:identifier opf:scheme="ISBN-13">9781975325718</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Contemporary</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mizuki Nomura&quot;: &quot;&quot;, &quot;Miho Takeoka&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Bond &amp; Book"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-10T07:47:42.300471+00:00"/>
+        <meta name="calibre:title_sort" content="Bond &amp; Book, Vol. 02: The Long, Long Good-Bye of &quot;The Last Bookstore&quot;"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

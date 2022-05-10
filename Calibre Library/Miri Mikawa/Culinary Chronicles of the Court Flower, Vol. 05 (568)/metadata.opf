@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">568</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b1340aac-defc-4a13-baa5-72eaff39b7c3</dc:identifier>
+        <dc:title>Culinary Chronicles of the Court Flower, Vol. 05</dc:title>
+        <dc:creator opf:file-as="Mikawa, Miri &amp; Nagi, Kasumi" opf:role="aut">Miri Mikawa</dc:creator>
+        <dc:creator opf:file-as="Mikawa, Miri &amp; Nagi, Kasumi" opf:role="aut">Kasumi Nagi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-04-01T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Having learned Shusei’s secret, Rimi has chosen to become the empress in order to protect him. Unable to pursue her love of cooking as the time of the enthronement ceremony draws nearer, she begins her education to prepare for her new role—only to find that her tutor is none other than Shusei himself! The two find themselves smiling at each other as they hide the pain of having to carry their feelings for one another their whole lives. Then, Emperor Shohi receives a letter protesting the crowning of a Wakokuan as the empress. With the interests and ulterior motives of the imperial court standing in the way, the love triangle starts heading in an unexpected direction, and a single lie sets all of their fates in motion.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club (J-Novel Heart)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718302709</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">culinary-chronicles-of-the-court-flower-volume-5</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Historical</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shoujo</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Miri Mikawa&quot;: &quot;&quot;, &quot;Kasumi Nagi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Culinary Chronicles of the Court Flower"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-10T06:13:18.068509+00:00"/>
+        <meta name="calibre:title_sort" content="Culinary Chronicles of the Court Flower, Vol. 05"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

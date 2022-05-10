@@ -4,9 +4,9 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">178</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">5b83fd66-9b63-49c2-bdd4-c808d14aeeb2</dc:identifier>
         <dc:title>Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 01</dc:title>
-        <dc:creator opf:file-as="Zappon &amp; Yasumo" opf:role="aut">Zappon</dc:creator>
-        <dc:creator opf:file-as="Zappon &amp; Yasumo" opf:role="aut">Yasumo</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:creator opf:file-as="ZAPPON &amp; Yasumo" opf:role="aut">ZAPPON</dc:creator>
+        <dc:creator opf:file-as="ZAPPON &amp; Yasumo" opf:role="aut">Yasumo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-09-22T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A heroic and mighty adventurer dreams of...opening a pharmacy?&lt;/p&gt;
@@ -27,7 +27,7 @@
         <dc:subject>Romance</dc:subject>
         <dc:subject>Slice of Life</dc:subject>
         <dc:subject>Shounen</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Zappon&quot;: &quot;&quot;, &quot;Yasumo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;ZAPPON&quot;: &quot;&quot;, &quot;Yasumo&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>

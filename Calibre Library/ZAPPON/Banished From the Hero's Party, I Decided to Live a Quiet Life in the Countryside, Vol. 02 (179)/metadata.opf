@@ -4,9 +4,9 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">179</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">9a325484-5464-4348-bb63-4ffc74c2a0f0</dc:identifier>
         <dc:title>Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 02</dc:title>
-        <dc:creator opf:file-as="Zappon &amp; Yasumo" opf:role="aut">Zappon</dc:creator>
-        <dc:creator opf:file-as="Zappon &amp; Yasumo" opf:role="aut">Yasumo</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:creator opf:file-as="ZAPPON &amp; Yasumo" opf:role="aut">ZAPPON</dc:creator>
+        <dc:creator opf:file-as="ZAPPON &amp; Yasumo" opf:role="aut">Yasumo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-03-02T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;&lt;strong&gt;“&lt;/strong&gt; I DON’T WANT TO BE A HERO &lt;strong&gt;”&lt;/strong&gt;&lt;/p&gt;
@@ -27,7 +27,7 @@
         <dc:subject>Romance</dc:subject>
         <dc:subject>Shounen</dc:subject>
         <dc:subject>Slice of Life</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Zappon&quot;: &quot;&quot;, &quot;Yasumo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;ZAPPON&quot;: &quot;&quot;, &quot;Yasumo&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>

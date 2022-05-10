@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">561</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">56033005-9a9f-46dd-962c-9bda5fcabdc2</dc:identifier>
+        <dc:title>Classroom of the Elite, Vol. 10</dc:title>
+        <dc:creator opf:file-as="Kinugasa, Syougo &amp; Tomoseshunsaku" opf:role="aut">Syougo Kinugasa</dc:creator>
+        <dc:creator opf:file-as="Kinugasa, Syougo &amp; Tomoseshunsaku" opf:role="aut">Tomoseshunsaku</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-15T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;POPULARITY CONTEST&lt;/p&gt;
+&lt;p&gt;It's spring, and for the first time in the school’s history, no one has been expelled after the third semester exams. As a result, the Advanced Nurturing High School sets a cruel test—each class must choose one of their own members to be expelled. Chaos consumes the first-years as Hirata tries and fails to keep the class from turning on each other, Ichinose strikes a costly bargain with Nagumo, and Ryuuen’s classmates seem ready to throw him to the wolves. Can Class C make it out of this unscathed—or will they be undone by traitors within? &lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781648273216</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1648273211</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">57170273</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Psychological</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Syougo Kinugasa&quot;: &quot;&quot;, &quot;Tomoseshunsaku&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Classroom of the Elite"/>
+        <meta name="calibre:series_index" content="10"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-10T05:39:21.415017+00:00"/>
+        <meta name="calibre:title_sort" content="Classroom of the Elite, Vol. 10"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

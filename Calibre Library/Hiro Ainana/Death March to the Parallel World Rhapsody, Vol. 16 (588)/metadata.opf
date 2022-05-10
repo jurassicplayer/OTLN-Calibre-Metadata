@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">588</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cf128406-ac72-40b7-a359-4239f6d50fc6</dc:identifier>
+        <dc:title>Death March to the Parallel World Rhapsody, Vol. 16</dc:title>
+        <dc:creator opf:file-as="Ainana, Hiro &amp; shri" opf:role="aut">Hiro Ainana</dc:creator>
+        <dc:creator opf:file-as="Ainana, Hiro &amp; shri" opf:role="aut">shri</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-09T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Showdown in Castle Town!&lt;/p&gt;
+&lt;p&gt;Having successfully averted the airship attack, Satou and company arrive safely in the royal capital. There, they are reunited with Nana’s “sisters”—Numbers 1 through 8— and give them the gift of a lifetime. But as is tradition with every trip to the capital, Satou must rub elbows with the aristocracy before he can enjoy his sightseeing. He even receives a surprise visit or two, including a summons from Sir Juleburg of the Eight Swordsman of Shiga! Because no leisurely trip would be complete without a friendly duel…&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975320850</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">59608428</dc:identifier>
+        <dc:identifier opf:scheme="ISBN-13">9781975320843</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">death-march-to-the-parallel-world-rhapsody-vol-16-light-novel</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hiro Ainana&quot;: &quot;&quot;, &quot;shri&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Death March to the Parallel World Rhapsody"/>
+        <meta name="calibre:series_index" content="16"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-10T07:48:09.462433+00:00"/>
+        <meta name="calibre:title_sort" content="Death March to the Parallel World Rhapsody, Vol. 16"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

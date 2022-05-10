@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">566</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d3c4f87c-b4bd-4e21-81d9-7192f95357b5</dc:identifier>
+        <dc:title>Chitose Is in the Ramune Bottle, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Hiromu &amp; raemz" opf:role="aut">Hiromu</dc:creator>
+        <dc:creator opf:file-as="Hiromu &amp; raemz" opf:role="aut">raemz</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-15T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;Being popular isn’t easy.&lt;/p&gt;
+&lt;p&gt;It’s hard to beat Saku Chitose.&lt;/p&gt;
+&lt;p&gt;The most popular kid in his high school? Check.&lt;/p&gt;
+&lt;p&gt;An ironclad reputation that can weather even vicious online attacks? Check.&lt;/p&gt;
+&lt;p&gt;A group of friends as attractive on the outside as they are inside? Check.&lt;/p&gt;
+&lt;p&gt;But when a teacher asks for his help bringing back a student who has been shut away in his room for months, Saku’s perfect world will never be the same. What is this, some kind of normie harem story...?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975345747</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">58640524</dc:identifier>
+        <dc:identifier opf:scheme="ISBN-13">9781975345747</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">chitose-is-in-the-ramune-bottle-vol-1</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Psychological</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hiromu&quot;: &quot;&quot;, &quot;raemz&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Chitose Is in the Ramune Bottle"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-10T06:12:56.724904+00:00"/>
+        <meta name="calibre:title_sort" content="Chitose Is in the Ramune Bottle, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

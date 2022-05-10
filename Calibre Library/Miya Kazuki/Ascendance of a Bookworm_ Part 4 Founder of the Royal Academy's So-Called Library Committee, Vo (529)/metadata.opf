@@ -6,16 +6,16 @@
         <dc:title>Ascendance of a Bookworm: Part 4 Founder of the Royal Academy's So-Called Library Committee, Vol. 04</dc:title>
         <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You" opf:role="aut">Miya Kazuki</dc:creator>
         <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You" opf:role="aut">You Shiina</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.34.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-12-21T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Despite having recently been separated from her lower city friends, Rozemyne has no time to grieve. Her first year at the Royal Academy has ended, summer approaches, and there's much for her to do. She strives to continue making books as per her promise to Lutz, but the spring feast also sees the announcement of her engagement to Wilfried—one of many political maneuvers to resist influence from the higher-ranking duchies.&lt;/p&gt;
 &lt;p&gt;Rozemyne makes magic ink with Ferdinand, fills the Central District with mana during Spring Prayer, and accidentally revives an ancient ritual in Haldenzel. Other provinces continue to grow in the background while the lower city is extensively remodeled in the name of developing the duchy as a whole.&lt;/p&gt;
 &lt;p&gt;Blessed be the melting of the snow! Prosperous be the duchy! This is the newest volume of this biblio-fantasy, now fantastically celebrating spring!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781718346307</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">59313276</dc:identifier>
         <dc:identifier opf:scheme="KOBO">ascendance-of-a-bookworm-part-4-volume-4</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781718346307</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Adventure</dc:subject>
         <dc:subject>Comedy</dc:subject>
@@ -31,9 +31,9 @@
         <dc:subject>Supernatural</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Miya Kazuki&quot;: &quot;&quot;, &quot;You Shiina&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Ascendance of a Bookworm"/>
-        <meta name="calibre:series_index" content="4.40"/>
+        <meta name="calibre:series_index" content="4.4"/>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2022-01-08T13:24:37.865072+00:00"/>
+        <meta name="calibre:timestamp" content="2022-01-08T13:24:37+00:00"/>
         <meta name="calibre:title_sort" content="Ascendance of a Bookworm: Part 4 Founder of the Royal Academy's So-Called Library Committee, Vol. 04"/>
     </metadata>
     <guide>

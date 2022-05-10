@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">567</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b045a0d3-7d22-4600-8ae2-fa8ba3e6785e</dc:identifier>
+        <dc:title>Cooking with Wild Game, Vol. 16</dc:title>
+        <dc:creator opf:file-as="EDA &amp; Kochimo" opf:role="aut">EDA</dc:creator>
+        <dc:creator opf:file-as="EDA &amp; Kochimo" opf:role="aut">Kochimo</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-21T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;So much has already changed in Asuta’s life recently. Many new ingredients have flowed into the post town, and he has started up new business deals as well. He’s even been able to use everything now at his disposal to work on bringing new dishes like curry to the land of Genos. And things are even shifting for the people around him, with Dan Rutim yielding the post of clan head to his son.&lt;/p&gt;
+&lt;p&gt;But even with all that upheaval, there’s still plenty left for our hero to face. When Asuta encounters a woman who has read the stars and made a shocking declaration, just how will he react? What wondrous new ingredients will he discover hidden deep in the Turan Manor? And perhaps most importantly of all, when he encounters the greatest chef in all of Genos, will he be able to keep up with the man’s skills?&lt;/p&gt;
+&lt;p&gt;See all this and more in the exciting sixteenth volume of Cooking with Wild Game!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718334304</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">cooking-with-wild-game-volume-16</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;EDA&quot;: &quot;&quot;, &quot;Kochimo&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Cooking with Wild Game"/>
+        <meta name="calibre:series_index" content="16"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-10T06:13:03.922244+00:00"/>
+        <meta name="calibre:title_sort" content="Cooking with Wild Game, Vol. 16"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

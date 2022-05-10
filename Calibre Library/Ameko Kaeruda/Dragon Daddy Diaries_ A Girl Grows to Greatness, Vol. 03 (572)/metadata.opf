@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">572</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e6f3a8fb-3f54-411a-96fe-0fa9f5245768</dc:identifier>
+        <dc:title>Dragon Daddy Diaries: A Girl Grows to Greatness, Vol. 03</dc:title>
+        <dc:creator opf:file-as="Kaeruda, Ameko &amp; Sencha" opf:role="aut">Ameko Kaeruda</dc:creator>
+        <dc:creator opf:file-as="Kaeruda, Ameko &amp; Sencha" opf:role="aut">Sencha</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-07T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Summer vacation is finally here, and Olivia has big plans! Unfortunately, news of Olivia and Luca’s success in finding one of the Seven Supreme Hallows at the Holy Draconic Spring of Tritonis has reached the king of Shutora, and before the two can even leave the school grounds, a royal summons arrives. Olivia, Eldraco, and Luca are going to the capital! The search for the Seven Supreme Hallows continues, and though the royal edict seems like it will spell doom for their summer vacation, the eternally optimistic Olivia comes up with a great idea to make their journey as fun as it can be!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718383524</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B09P1MPBMP</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">59744845</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">dragon-daddy-diaries-a-girl-grows-to-greatness-volume-3</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Fiction</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ameko Kaeruda&quot;: &quot;&quot;, &quot;Sencha&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Dragon Daddy Diaries: A Girl Grows to Greatness"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-10T06:14:06.692213+00:00"/>
+        <meta name="calibre:title_sort" content="Dragon Daddy Diaries: A Girl Grows to Greatness, Vol. 03"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

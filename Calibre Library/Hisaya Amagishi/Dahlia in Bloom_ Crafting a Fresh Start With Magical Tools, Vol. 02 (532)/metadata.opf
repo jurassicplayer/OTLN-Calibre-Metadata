@@ -4,16 +4,16 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">532</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">deffd6ad-78ce-46da-bf4f-51cb280ec4fb</dc:identifier>
         <dc:title>Dahlia in Bloom: Crafting a Fresh Start With Magical Tools, Vol. 02</dc:title>
-        <dc:creator opf:file-as="Amagishi, Hisaya &amp; KEI" opf:role="aut">Hisaya Amagishi</dc:creator>
-        <dc:creator opf:file-as="Amagishi, Hisaya &amp; KEI" opf:role="aut">KEI</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.34.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:creator opf:file-as="Amagishi, Hisaya &amp; Kei" opf:role="aut">Hisaya Amagishi</dc:creator>
+        <dc:creator opf:file-as="Amagishi, Hisaya &amp; Kei" opf:role="aut">Kei</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-11-19T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Having escaped her doomed engagement, Dahlia is relishing her new life of freedom as an independent magical toolmaker. One day, she learns that her friend Volf, a knight from the Order of Beast Hunters, is to be sent out to the marshlands on a mission. But there’s a problem—traversing the marshes soon leaves the knights with soggy boots full of sweat and swamp water. Might a surprising pair of socks hold the solution? Dahlia uses know-how from her previous life to create toe socks with a drying enchantment and insoles imbued with air magic. She presents them to Volf, hoping they might help him and his friends, but nothing can prepare her for what a splash these items will make!&lt;/p&gt;
 &lt;p&gt;Of course, there’s more than socks on Dahlia’s mind—she’s got her hands full crafting a man-made magical sword, an upgraded refrigerator, and more! Meanwhile, word of the young craftswoman’s exploits is spreading throughout the capital... Welcome to the second installment of Dahlia’s artisanal adventures!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club (J-Novel Heart)</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781718381001</dc:identifier>
         <dc:identifier opf:scheme="KOBO">dahlia-in-bloom-crafting-a-fresh-start-with-magical-tools-volume-2</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781718381001</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Isekai</dc:subject>
@@ -21,11 +21,11 @@
         <dc:subject>Magic</dc:subject>
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Romance</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Hisaya Amagishi&quot;: &quot;&quot;, &quot;KEI&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Hisaya Amagishi&quot;: &quot;&quot;, &quot;Kei&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Dahlia in Bloom: Crafting a Fresh Start with Magical Tools"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2022-01-08T13:28:16.759236+00:00"/>
+        <meta name="calibre:timestamp" content="2022-01-08T13:28:16+00:00"/>
         <meta name="calibre:title_sort" content="Dahlia in Bloom: Crafting a Fresh Start With Magical Tools, Vol. 02"/>
     </metadata>
     <guide>

@@ -4,9 +4,9 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">484</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">d9d5c7ec-3910-4e27-8dfc-7204dcbee3d8</dc:identifier>
         <dc:title>Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into the Abyss!, Vol. 01</dc:title>
-        <dc:creator opf:file-as="Necoco &amp; Hihara, Yoh" opf:role="aut">Necoco</dc:creator>
-        <dc:creator opf:file-as="Necoco &amp; Hihara, Yoh" opf:role="aut">Yoh Hihara</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.34.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:creator opf:file-as="Nekoko &amp; Hihara, Yoh" opf:role="aut">Nekoko</dc:creator>
+        <dc:creator opf:file-as="Nekoko &amp; Hihara, Yoh" opf:role="aut">Yoh Hihara</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-09-02T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-style: italic; font-weight: 600"&gt;An isekai adventure about an ordinary boy taken under the wing of a mysterious undead girl!&lt;/p&gt;
@@ -28,7 +28,7 @@
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Romance</dc:subject>
         <dc:subject>Slice of Life</dc:subject>
-        <meta name="calibre:author_link_map" content="{&quot;Necoco&quot;: &quot;&quot;, &quot;Yoh Hihara&quot;: &quot;&quot;}"/>
+        <meta name="calibre:author_link_map" content="{&quot;Nekoko&quot;: &quot;&quot;, &quot;Yoh Hihara&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Disciple of the Lich: Or How I Was Cursed by the Gods and Dropped Into the Abyss!"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="10"/>

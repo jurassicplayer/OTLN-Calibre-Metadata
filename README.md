@@ -2,21 +2,53 @@
 Curated calibre metadata for OTLN, going through the suffering so you don't have to.
 
 ### Installation
-WARNING: This isn't strenuously tested or anything. Safest route is to use a new library. Use Calibre Library => Library Maintenance => Library Metadata Backup Status => Queue all books for backup. Backup your files some place safe.
-These instructions will move files from the ToSort folders to the target Calibre Library
-- Make a new Calibre Library
-- Get a ROM manager (these instructions will use RomVault)
-- Make a folder called `ToSort` in the RomVault folder
-- Copy the `Calibre Library` folder with the OTLN metadata and the light novels into the ToSort folder
-- Add OTLN_metadata.dat to your DatRoot folder
-- Go to Settings => Directory Settings
-    - Change the Dir Location to point to your new Calibre Library folder
-    - Change Archive Type to `File`
-    - Press the `Apply` button and then `Done`
-- Click `Update DATs`, then `Scan ROMs`, then `Find Fixes`, then `Fix ROMs`
+**WARNING: This isn't strenuously tested or anything. Safest route is to use a new library. Otherwise use Calibre Library => Library Maintenance => Library Metadata Backup Status => Queue all books for backup. Backup your files some place safe. Make sure to read the instructions and follow them EXACTLY.**
+
+These instructions will copy files from the ToSort folders to the target Calibre Library
+- Make a new Calibre Library (folder called `Light Novels` within this example)
+- Clone the OTLN-Calibre-Metadata project to somewhere permanent (preferably using git clone rather than downloading the .zip)
+- Get a ROM manager (these instructions will use [RomVault](https://www.romvault.com/)) and extract it somewhere permanent
+- Make a folder called `ToSort` in the RomVault folder (old versions will accumulate here)
+- Copy/symlink the `OTLN-Calibre-Metadata/dist/<metadata_set>.dat` to the `ROMVault/DatRoot` folder and remove any pre-existing files
+    - Currently there is only one metadata set (OTLN_metadata.dat with just epubs), but in the future I'll add pdf when I get to it.
+    - Symlinks are basically "shortcuts" in Windows, though I don't know if Windows shortcuts will work.
+- Execute RomVault and perform the following configurations:
+    - On the menu bar, use `Add ToSort` and select the OTLN folder to add OTLN as a source path
+    - Use `Add ToSort` again and select the `OTLN-Calibre-Metadata/metadata` folder as a source path
+    - On the menu bar, open the `Settings => RomVault Settings`
+        - Add the following filename rules in the large text input box:
+            ```
+            *.epub
+            *.pdf
+            *.opf
+            *.jpg
+            *.zip
+            ```
+        - Press OK
+    - On the menu bar, open the `Settings => Directory Settings`
+        - Set the `Dir Location` to your `Light Novels` Calibre Library folder
+        - Set `Archive Type` to `File`
+        - Add the following filename rule to the `Filenames not to remove from RomDir's`
+            ```
+            *.db
+            *.jpg
+            ```
+        - Press the `Apply` button and then `Done`
+    - Close and re-open RomVault (This step is just in case)
+    - Click `Update DATs`, then `Scan ROMs`, then `Find Fixes`, then `Fix ROMs`
+    - Wait for the fixing to be completed (button will change to `Close`)
 - Open Calibre and switch to your new Calibre Library
-- Navigate to Calibre Library => Library Maintenance => Restore database
-- Theoretically you should now have the same setup as me (sans covers for the time being).
+    - Navigate to `Calibre Library => Library Maintenance => Restore database` and press OK
+    - Select all of the imported light novels and then press `Edit metadata`
+    - Select `Change cover => Set from e-book files` and press OK
+- Theoretically you should now have the same setup as me.
+
+### Updating
+- Open up a terminal in the `OTLN-Calibre-Metadata` directory and get the latest changes with `git pull origin`
+- If your `OTLN-Calibre-Metadata/dist/<metadata_set>.dat` is not OR can't be symlinked, copy the .dat to the `ROMVault/DatRoot` folder
+- Open RomVault and perform the following actions:
+    - Click `Update DATs`, then `Scan ROMs`, then `Find Fixes`, then `Fix ROMs`
+    - Wait for the fixing to be completed (button will change to `Close`)
 
 ### FAQ
 - Why split the metadata into .opf files?

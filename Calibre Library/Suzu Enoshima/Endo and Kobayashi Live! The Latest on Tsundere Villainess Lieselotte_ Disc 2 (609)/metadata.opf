@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">609</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">21a0b414-da6f-423d-bfad-be26620eeef9</dc:identifier>
+        <dc:title>Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte: Disc 2</dc:title>
+        <dc:creator opf:file-as="Enoshima, Suzu &amp; Eihi" opf:role="aut">Suzu Enoshima</dc:creator>
+        <dc:creator opf:file-as="Enoshima, Suzu &amp; Eihi" opf:role="aut">Eihi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-14T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A commentated Let’s Play in the real world turns into a divine prophecy for Prince Siegwald, helping him realize just how cute his tsun de rais fiancée is. He pledges to protect his beloved Lieselotte from the wicked Witch of Yore, and sets out to gather the perfect task force to protect her.&lt;/p&gt;
+&lt;p&gt;With all the pieces assembled, he only has one concern left: why does Lieselotte want to fight alongside them? As the cast faces off against the final boss, will the gods on the mic be able to carve out a happy end to this villainess’s tale?!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718302921</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">endo-and-kobayashi-live-the-latest-on-tsundere-villainess-lieselotte-disc-2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Suzu Enoshima&quot;: &quot;&quot;, &quot;Eihi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-11T02:35:48.559109+00:00"/>
+        <meta name="calibre:title_sort" content="Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte: Disc 2"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

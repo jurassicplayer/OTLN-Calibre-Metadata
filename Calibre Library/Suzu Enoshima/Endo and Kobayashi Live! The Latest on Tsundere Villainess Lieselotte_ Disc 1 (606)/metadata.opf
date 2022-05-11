@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">606</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">774bb4a7-425c-46e1-935e-fcfcba22d587</dc:identifier>
+        <dc:title>Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte: Disc 1</dc:title>
+        <dc:creator opf:file-as="Enoshima, Suzu &amp; Eihi" opf:role="aut">Suzu Enoshima</dc:creator>
+        <dc:creator opf:file-as="Enoshima, Suzu &amp; Eihi" opf:role="aut">Eihi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-13T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;One day, Crown Prince Sieg hears the Voices of the Gods out of the blue. Apparently, his fiancée Lieselotte is a “tsun de rais” villainess destined to meet her demise...and her sharp tongue is just a way of covering up her embarrassment. The prince can hardly contain himself after discovering Lieselotte's adorable hidden side. Little does he know, the heavenly beings that bestowed this knowledge unto him are actually high schoolers! Can he use their divine prophecy (let’s play commentary) to save his betrothed and avoid a Bad End?!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718302907</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">endo-and-kobayashi-live-the-latest-on-tsundere-villainess-lieselotte-disc-1</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Suzu Enoshima&quot;: &quot;&quot;, &quot;Eihi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-11T02:35:47.888209+00:00"/>
+        <meta name="calibre:title_sort" content="Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte: Disc 1"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

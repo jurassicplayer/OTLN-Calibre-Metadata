@@ -4,10 +4,10 @@
 <datafile>
 	<header>
 		<name>Officially Translated Light Novels</name>
-		<description>OTLN v18.4 + Metadata v18.1</description>
+		<description>OTLN v18.4 + Metadata v18.4</description>
 		<category>Standard DatFile</category>
-		<version>2022/05/08</version>
-		<date>2022/05/08</date>
+		<version>2022/05/10</version>
+		<date>2022/05/10</date>
 		<author>jurassicplayer</author>
 		<email>--</email>
 		<homepage>https://github.com/jurassicplayer/OTLN-Calibre-Metadata</homepage>
@@ -15,6 +15,12 @@
 		<comment>Refer to github repo for usage instructions.</comment>
 		<clrmamepro/>
 	</header>
+	<machine name="Akira">
+		<description>Akira</description>
+		<rom name="ECHO (605)\cover.jpg" size="979748" crc="cb576bfd" md5="c33101651245fe33278f163c69e10560" sha1="fd360ee75dc4daadbde9acbbfef04ebf0be23449"/>
+		<rom name="ECHO (605)\ECHO - Akira.epub" size="29741617" crc="c35d8a09" md5="17c7ad0c4678cb80a1842a9da9184bf3" sha1="6278ae8c72e771899d984940ccbbd434b75f6742"/>
+		<rom name="ECHO (605)\metadata.opf" size="2290" crc="8eb063d5" md5="e257a65036aac75db73113457edc2fdf" sha1="5e9db653cfe4350fac6fe41bb4de221f69b11f9a"/>
+	</machine>
 	<machine name="Akira Nashiki">
 		<description>Akira Nashiki</description>
 		<rom name="Dawn of the Mapmaker_ The Surveyor Girl and the Forbidden Knowledge (406)\cover.jpg" size="924598" crc="0c91620c" md5="ea200985ca215598094f8eb7a0aa7df5" sha1="efb773016c333d9e6d438a6d89f8470997853d89"/>
@@ -32,6 +38,9 @@
 		<rom name="Dragon Daddy Diaries_ A Girl Grows to Greatness, Vol. 02 (534)\cover.jpg" size="1018971" crc="c8e18881" md5="806d24bcc038eed39a940d51456e2af8" sha1="d53a87bb6baaed96e51fb1b072361626f277675d"/>
 		<rom name="Dragon Daddy Diaries_ A Girl Grows to Greatness, Vol. 02 (534)\Dragon Daddy Diaries_ A Girl Grows to Grea - Ameko Kaeruda.epub" size="12268539" crc="8eb1a8d0" md5="bc3bea3672b85a960cc3aef6576739eb" sha1="b968c472c1f01cda40ffb41b480b328e6727e2a0"/>
 		<rom name="Dragon Daddy Diaries_ A Girl Grows to Greatness, Vol. 02 (534)\metadata.opf" size="2874" crc="4862a5a0" md5="8c931cbc717abe54e9fe8026c3269725" sha1="9b97afff489cd1886cb8301788e9157a1f3a2c48"/>
+		<rom name="Dragon Daddy Diaries_ A Girl Grows to Greatness, Vol. 03 (572)\cover.jpg" size="1644107" crc="b96d1ea9" md5="ce2a19039a8b9dd5badd3e58a724f6a5" sha1="94e531f0574e4240e06826718185818a6df06dcc"/>
+		<rom name="Dragon Daddy Diaries_ A Girl Grows to Greatness, Vol. 03 (572)\Dragon Daddy Diaries_ A Girl Grows to Grea - Ameko Kaeruda.epub" size="15217835" crc="1d03ad74" md5="51647d9e3d0ca50f5cf7c6a3d9dc0d0f" sha1="86ea68d868347431f9bc200ca85faa4e12eb9e47"/>
+		<rom name="Dragon Daddy Diaries_ A Girl Grows to Greatness, Vol. 03 (572)\metadata.opf" size="3015" crc="f8d41e2b" md5="6ea1780330d97010e3d71f9924f3a3cf" sha1="2648ea721b1a33abde93845d36d1e46363cc2424"/>
 	</machine>
 	<machine name="Asato Asato">
 		<description>Asato Asato</description>
@@ -59,6 +68,9 @@
 		<rom name="86--EIGHTY-SIX, Vol. 08_ Gun Smoke on the Water (297)\86--EIGHTY-SIX, Vol. 08_ Gun Smoke on the - Asato Asato.epub" size="12782804" crc="525a1334" md5="6744612be40b38849d20d471873a1d6a" sha1="db0a65d0875d2d6426a5f542ad7387cc6ac2e34a"/>
 		<rom name="86--EIGHTY-SIX, Vol. 08_ Gun Smoke on the Water (297)\cover.jpg" size="506333" crc="19e6d46d" md5="e612b061d364c03221c659bf8b9fc7e3" sha1="c031d8ce7f45e67e0fdf2a62982aee1eb31cbb2b"/>
 		<rom name="86--EIGHTY-SIX, Vol. 08_ Gun Smoke on the Water (297)\metadata.opf" size="2905" crc="5485c430" md5="aca6c4d9fe04b42b20ac9cb9f870df89" sha1="54c02462108b1f389e7a3177e3df77e7e2be1a97"/>
+		<rom name="86--EIGHTY-SIX, Vol. 09_ Valkyrie Has Landed (555)\86--EIGHTY-SIX, Vol. 09_ Valkyrie Has Land - Asato Asato.epub" size="11302136" crc="09807725" md5="26d5eb0e28f53b1801782b51eb9b4ef9" sha1="b5f36886cc7a9465e723f46973a03c88be71ff4b"/>
+		<rom name="86--EIGHTY-SIX, Vol. 09_ Valkyrie Has Landed (555)\cover.jpg" size="511681" crc="9f6cce9a" md5="40504cc5ca13c7879e22caefc944bdfc" sha1="b018013953f030ea92e0d5c05aac8d9c2562b642"/>
+		<rom name="86--EIGHTY-SIX, Vol. 09_ Valkyrie Has Landed (555)\metadata.opf" size="3335" crc="09be6ee5" md5="b5cb9fc0e3abb9dfbcd6a38c9fea922c" sha1="db71526c47c4c742a86da7504e958713e6e1aed8"/>
 	</machine>
 	<machine name="Chugaku Akamatsu">
 		<description>Chugaku Akamatsu</description>
@@ -73,7 +85,7 @@
 		<description>Dachima Inaka</description>
 		<rom name="Do You Love Your Mom and Her Two-Hit Multi-Target Attacks_, Vol. 01 (503)\cover.jpg" size="1339830" crc="16cb5349" md5="a7e3658a918322babb98bc366db180ee" sha1="b67238fa97fbaa76a15337af5913606cebced92f"/>
 		<rom name="Do You Love Your Mom and Her Two-Hit Multi-Target Attacks_, Vol. 01 (503)\Do You Love Your Mom and Her Two-Hit Multi - Dachima Inaka.epub" size="14694144" crc="5de6db57" md5="12d73b104ec4ce123523cdabfb75b0bc" sha1="57cba3d938bada2d31ea0674a28dc0bbb80fc6ab"/>
-		<rom name="Do You Love Your Mom and Her Two-Hit Multi-Target Attacks_, Vol. 01 (503)\metadata.opf" size="3036" crc="a7248cab" md5="0d04a2cba9edc8ab8ae72b5c89f4f4d8" sha1="e43e0688723eb6234dad476e167998d2ed139f75"/>
+		<rom name="Do You Love Your Mom and Her Two-Hit Multi-Target Attacks_, Vol. 01 (503)\metadata.opf" size="3026" crc="047eab38" md5="da9cb0e9876ca113bb23d4202d720f78" sha1="80390a83a6490eef6bbdfdd11a414f8581b0c935"/>
 		<rom name="Do You Love Your Mom and Her Two-Hit Multi-Target Attacks_, Vol. 02 (502)\cover.jpg" size="1427509" crc="bdfd0d3c" md5="d1d318b2e45acc0d6983c976c2e779c8" sha1="b345c47780dcf5f608ca31dcb357d371a14b7f02"/>
 		<rom name="Do You Love Your Mom and Her Two-Hit Multi-Target Attacks_, Vol. 02 (502)\Do You Love Your Mom and Her Two-Hit Multi - Dachima Inaka.epub" size="17577642" crc="2a06d9bf" md5="715dfe1e07607d4cff175d7d14354d54" sha1="8402fd8500cfb58f28e1e30b4c676ed85b6f5342"/>
 		<rom name="Do You Love Your Mom and Her Two-Hit Multi-Target Attacks_, Vol. 02 (502)\metadata.opf" size="3302" crc="494c8a5f" md5="d84b5a1f1bbc241cec65c0b0ada09baa" sha1="fd0233bbe7d66b997be5ce43ed2f84524540ccf0"/>
@@ -105,6 +117,12 @@
 		<rom name="Do You Love Your Mom and Her Two-Hit Multi-Target Attacks_, Vol. 11 (535)\Do You Love Your Mom and Her Two-Hit Multi - Dachima Inaka.epub" size="15658548" crc="62343b5e" md5="a2aebd150eed385948d6cfc3877b850e" sha1="bb9fc9c3eacfdb80e02f84b7bf83be44cea27133"/>
 		<rom name="Do You Love Your Mom and Her Two-Hit Multi-Target Attacks_, Vol. 11 (535)\metadata.opf" size="2999" crc="89676cb0" md5="e5f4f4507e17434bde5ffcd124e87697" sha1="6e519f2c34096540197fc5e34b937d8f0951d0e4"/>
 	</machine>
+	<machine name="Daigo Murasaki">
+		<description>Daigo Murasaki</description>
+		<rom name="Demon Lord 2099, Vol. 01_ Cyberpunk City Shinjuku (570)\cover.jpg" size="1383180" crc="d660af7a" md5="08b9bb4b605a391f0c3ea5f5b6ff7d65" sha1="aaa01c502639fd9d1a1733a977e68dd77a0601aa"/>
+		<rom name="Demon Lord 2099, Vol. 01_ Cyberpunk City Shinjuku (570)\Demon Lord 2099, Vol. 01_ Cyberpunk City S - Daigo Murasaki.epub" size="11853516" crc="67808255" md5="059806f06a61378eda87e81351e9dcab" sha1="8b95b8841c5c059223d9a4e474bcdea1ca8b67ac"/>
+		<rom name="Demon Lord 2099, Vol. 01_ Cyberpunk City Shinjuku (570)\metadata.opf" size="2887" crc="e1e70838" md5="cf4e102c2cba028586fc8239fad7042d" sha1="0d3a41e6db568232346d709fc030b5e090720208"/>
+	</machine>
 	<machine name="Doufu Mayoi">
 		<description>Doufu Mayoi</description>
 		<rom name="Black Summoner, Vol. 01_ The Bound Demon (204)\Black Summoner, Vol. 01_ The Bound Demon - Doufu Mayoi.epub" size="23803772" crc="65d53c93" md5="0c5da89938212bfb5b55db153a67561a" sha1="30764bf8f90f64d774effadb46af9a1eb0ebec74"/>
@@ -128,6 +146,9 @@
 		<rom name="Black Summoner, Vol. 07_ The Creeping Darkness (543)\Black Summoner, Vol. 07_ The Creeping Dark - Doufu Mayoi.epub" size="32840538" crc="23094563" md5="02da539fa4e95e15922984fb9f85fb19" sha1="ed7e5fde5fbbc0848b689c4feffee322f8bcbb2f"/>
 		<rom name="Black Summoner, Vol. 07_ The Creeping Darkness (543)\cover.jpg" size="1771994" crc="7913ccf9" md5="cf1e63f787baeffa122d5a88cb015702" sha1="0e34bf2e2dca14ab8761f5fec80f189ed9b4e321"/>
 		<rom name="Black Summoner, Vol. 07_ The Creeping Darkness (543)\metadata.opf" size="3103" crc="88d9d28c" md5="9e97ab3c3ab06da95023a9982fe68d6f" sha1="37648c58315cc3e704eb7118cf656f044bd8ffe1"/>
+		<rom name="Black Summoner, Vol. 08_ The Pope of the Holy Empire (581)\Black Summoner, Vol. 08_ The Pope of the H - Doufu Mayoi.epub" size="25384945" crc="890beec8" md5="fa330a92d2cb2cb17918d9b8508e69c1" sha1="6999bdad5c5931a5e1bc5d3e4585901eb22b0002"/>
+		<rom name="Black Summoner, Vol. 08_ The Pope of the Holy Empire (581)\cover.jpg" size="1672477" crc="7ed6ad60" md5="a60c3d0760a05c6fe33b6857587ff295" sha1="7eaa19d093b49ccf692e2fe70f7794b01d4aa3c7"/>
+		<rom name="Black Summoner, Vol. 08_ The Pope of the Holy Empire (581)\metadata.opf" size="3123" crc="9810c0c2" md5="a923e0f793b0af074986e2eb040b0355" sha1="cd766da8ecf1287c750258067f02e0fc88e6e5e2"/>
 	</machine>
 	<machine name="EDA">
 		<description>EDA</description>
@@ -176,6 +197,9 @@
 		<rom name="Cooking with Wild Game, Vol. 15 (553)\Cooking with Wild Game, Vol. 15 - EDA.epub" size="23508183" crc="b6251e63" md5="8d6769af4dd75ebeeaa19e2e49baaddc" sha1="4cb8c779fa23c8a3da69c3713be4b5416294961a"/>
 		<rom name="Cooking with Wild Game, Vol. 15 (553)\cover.jpg" size="2668083" crc="4cc380a1" md5="5418554154ef20d663fc99027fac3874" sha1="c6e57e355c39017d4eed05e073e709762490eb99"/>
 		<rom name="Cooking with Wild Game, Vol. 15 (553)\metadata.opf" size="3184" crc="68e35aa1" md5="fa22280156de17cc2be54c8857226922" sha1="d5f1fd921589bac528b0fae8e85707aa168f136d"/>
+		<rom name="Cooking with Wild Game, Vol. 16 (567)\Cooking with Wild Game, Vol. 16 - EDA.epub" size="28163175" crc="6b657a7e" md5="d6369e29abc99a0a580f1a1674633836" sha1="6b53c4246d477ca7ef067c85cc3ac22ce85cd4b4"/>
+		<rom name="Cooking with Wild Game, Vol. 16 (567)\cover.jpg" size="1545668" crc="748e33f2" md5="b0e269766faee41ca50cd815fdf1db3d" sha1="40288ab4f510170779b17cf3f71cf54710861cef"/>
+		<rom name="Cooking with Wild Game, Vol. 16 (567)\metadata.opf" size="3187" crc="defd1258" md5="42bdb19b23c9db12affb6a914e9f70a2" sha1="50581fb92dcf50e4a4392c0df22e8d3290911747"/>
 	</machine>
 	<machine name="Eri Shiduki">
 		<description>Eri Shiduki</description>
@@ -194,6 +218,9 @@
 		<rom name="Apocalypse Bringer Mynoghra, Vol. 02 (520)\Apocalypse Bringer Mynoghra, Vol. 02 - Fehu Kazuno.epub" size="17760453" crc="ffafb884" md5="2fbc2e920b89787fe8063b4dd94ac941" sha1="1ec8197caf58bc7b7347db3a447f4a7d715fe18c"/>
 		<rom name="Apocalypse Bringer Mynoghra, Vol. 02 (520)\cover.jpg" size="757348" crc="a8d89315" md5="486aa8b65386515042def04d695bd47e" sha1="d89a061ac1f81f8728af7a270c6e6d0da64d901a"/>
 		<rom name="Apocalypse Bringer Mynoghra, Vol. 02 (520)\metadata.opf" size="2736" crc="0c201db8" md5="8ad35ec1d4a7b1a6800bbbbbfa440cfb" sha1="689ac19def1abbd4bec9b6e16d697d67be1889bf"/>
+		<rom name="Apocalypse Bringer Mynoghra, Vol. 03 (578)\Apocalypse Bringer Mynoghra, Vol. 03 - Fehu Kazuno.epub" size="14822060" crc="a46b510c" md5="6bf3900a577e4648ed0620edd79000fb" sha1="6c4245e850cc6e5a06dcdf8bfc8946ed8f85ff3c"/>
+		<rom name="Apocalypse Bringer Mynoghra, Vol. 03 (578)\cover.jpg" size="786220" crc="1d570fab" md5="7989a9af45963c02375277e5cff905a8" sha1="833bf79234829cb6dbda5656ce7207d5204ca044"/>
+		<rom name="Apocalypse Bringer Mynoghra, Vol. 03 (578)\metadata.opf" size="2806" crc="3c500ea7" md5="87597ad7b04be256cb2f770b16dbb89c" sha1="5eb6fc92ac220f49ca1508b78b16c314222ce122"/>
 	</machine>
 	<machine name="Firehead">
 		<description>Firehead</description>
@@ -218,6 +245,9 @@
 		<rom name="A Wild Last Boss Appeared!, Vol. 07 (537)\A Wild Last Boss Appeared!, Vol. 07 - Firehead.epub" size="19984574" crc="a4b1d62e" md5="008e9e9a50f40916e94b7a483333d83e" sha1="1ecb42e534d176bb658d6c8e298871067865f1a8"/>
 		<rom name="A Wild Last Boss Appeared!, Vol. 07 (537)\cover.jpg" size="722873" crc="7573b43d" md5="61b0455924d6627c6cebe58087ade23a" sha1="ef9b64997e0813c1e00ae42da3d18681e53ca8a5"/>
 		<rom name="A Wild Last Boss Appeared!, Vol. 07 (537)\metadata.opf" size="3167" crc="de91bedf" md5="7a13c13f28bee835c4b29b7f3577c40a" sha1="aff829d61a187684eeda0ff8b6e75591aa6e78ee"/>
+		<rom name="A Wild Last Boss Appeared!, Vol. 08 (575)\A Wild Last Boss Appeared!, Vol. 08 - Firehead.epub" size="26486257" crc="d276a9d1" md5="20aa93fa9f5927745c3b5c1c83aa7cd6" sha1="71bd89e40c2bd9f1a6c0e2277190cb1887e102c3"/>
+		<rom name="A Wild Last Boss Appeared!, Vol. 08 (575)\cover.jpg" size="1826190" crc="f1de9c9e" md5="855bd46f3bd101baaae0a4be48e377e3" sha1="3472fd00dc55c2ed275f2aaa576e7e520adbb856"/>
+		<rom name="A Wild Last Boss Appeared!, Vol. 08 (575)\metadata.opf" size="3235" crc="b1e2d4e3" md5="513d4aeb63622e5103327551847c06b6" sha1="f0f07bb31fdb62afd47f088b7ba17907a78254d4"/>
 	</machine>
 	<machine name="Fujino Omori">
 		<description>Fujino Omori</description>
@@ -350,6 +380,9 @@
 		<rom name="An Archdemon's Dilemma_ How to Love Your Elf Bride, Vol. 12 (494)\An Archdemon's Dilemma_ How to Love Your E - Fuminori Teshima.epub" size="25764614" crc="38a0829e" md5="80fed6bfccbb989f466c31f1f8c4071d" sha1="934c5477fca14b53aadfc2d5866372953952a5de"/>
 		<rom name="An Archdemon's Dilemma_ How to Love Your Elf Bride, Vol. 12 (494)\cover.jpg" size="788765" crc="ab752547" md5="b3defd545cbd63294de83dc5216e7f9a" sha1="d7d4d05f0c9d0c797116da4164adcb826b47f300"/>
 		<rom name="An Archdemon's Dilemma_ How to Love Your Elf Bride, Vol. 12 (494)\metadata.opf" size="3403" crc="03ca7b6e" md5="4a1e57106a482b03131434d64135d689" sha1="4d5b716f84749c15684f213cc046924c6eb14f8d"/>
+		<rom name="An Archdemon's Dilemma_ How to Love Your Elf Bride, Vol. 13 (577)\An Archdemon's Dilemma_ How to Love Your E - Fuminori Teshima.epub" size="20109356" crc="8af63afe" md5="3286c83525e602f5be1ec0537f26dc4e" sha1="a92f5b8a69d66e5028425999bcf14271412b33e4"/>
+		<rom name="An Archdemon's Dilemma_ How to Love Your Elf Bride, Vol. 13 (577)\cover.jpg" size="1671825" crc="33739cc1" md5="1a8914538bd96f7469b25e6d98c5f199" sha1="7d4eeca80f0bdbb8bd785e358557ba0d787b9e1e"/>
+		<rom name="An Archdemon's Dilemma_ How to Love Your Elf Bride, Vol. 13 (577)\metadata.opf" size="3031" crc="f39da04b" md5="42c51deba915b677e1e4c4c4d7f7373e" sha1="a6c658c12c95664306b27ef786d47ea9caf30171"/>
 	</machine>
 	<machine name="FUNA">
 		<description>FUNA</description>
@@ -455,12 +488,21 @@
 		<rom name="Death March to the Parallel World Rhapsody, Vol. 15 (526)\cover.jpg" size="991659" crc="94f02336" md5="128973fcc5615fab31a7556502790b69" sha1="31aea4a0a4393c1777673880a50a99685769a4b7"/>
 		<rom name="Death March to the Parallel World Rhapsody, Vol. 15 (526)\Death March to the Parallel World Rhapsody - Hiro Ainana.epub" size="10680298" crc="c1ec58aa" md5="9f6b6ae63519646fd264ae75888c92ae" sha1="98b3f44f7d70c340d5b1f40593aa40a0d45d5ca0"/>
 		<rom name="Death March to the Parallel World Rhapsody, Vol. 15 (526)\metadata.opf" size="2917" crc="6021007a" md5="aed8cc9055fa27bac83d35a82cf75215" sha1="fb3fe920c9cce90907dfe3b2e194cd41862fbd93"/>
+		<rom name="Death March to the Parallel World Rhapsody, Vol. 16 (588)\cover.jpg" size="725785" crc="0479f83b" md5="77bfba7b0d2bdf078296483fde9205d2" sha1="7dcb496b93c37f53f74cc75a828e226052a96845"/>
+		<rom name="Death March to the Parallel World Rhapsody, Vol. 16 (588)\Death March to the Parallel World Rhapsody - Hiro Ainana.epub" size="12810817" crc="0cf6c83f" md5="45fa157a3759fcce2b1c77665cc071a9" sha1="fbc81fb55b181ff6ae21667807c5d709e63c2ea1"/>
+		<rom name="Death March to the Parallel World Rhapsody, Vol. 16 (588)\metadata.opf" size="3057" crc="c7b54608" md5="a450453b18cca4909e06bc88bc82260b" sha1="a07b278b4928e72d69b71fd78ded5cae96400966"/>
 	</machine>
 	<machine name="Hiro Iwahata">
 		<description>Hiro Iwahata</description>
 		<rom name="Bungo Stray Dogs, Vol. 05_ Dead Apple (251)\Bungo Stray Dogs, Vol. 05_ Dead Apple - Hiro Iwahata.epub" size="12512099" crc="5a87e195" md5="9aac933806cac2b7a7f29ee926488277" sha1="4eaaf6bcf59790a034dc540cbc9e61d4ecd3dd26"/>
 		<rom name="Bungo Stray Dogs, Vol. 05_ Dead Apple (251)\cover.jpg" size="661380" crc="eceba2c0" md5="d9ad386cb5013798e78724978ede312d" sha1="6572d7e043edcd1888121b3bd4b9a1e3efb2f9a7"/>
 		<rom name="Bungo Stray Dogs, Vol. 05_ Dead Apple (251)\metadata.opf" size="2854" crc="c86df31a" md5="268e139da4c68954135279fe8f319be2" sha1="764ca39617733a6bbe8b989eaa6c667275bd1b73"/>
+	</machine>
+	<machine name="Hiromu">
+		<description>Hiromu</description>
+		<rom name="Chitose Is in the Ramune Bottle, Vol. 01 (566)\Chitose Is in the Ramune Bottle, Vol. 01 - Hiromu.epub" size="16662927" crc="ff145fb6" md5="55cee83166afb25ef64dad93104b4690" sha1="910ec3f3e20a60e8972546e239094649981d0131"/>
+		<rom name="Chitose Is in the Ramune Bottle, Vol. 01 (566)\cover.jpg" size="1194366" crc="59ed40f2" md5="bf863397626d8e487dafa136e4b65d10" sha1="19c6df5865cf3d963a82b9e90828557bec61fee2"/>
+		<rom name="Chitose Is in the Ramune Bottle, Vol. 01 (566)\metadata.opf" size="2908" crc="612256be" md5="4dcd4011cdb967f8c30b42c18f36961a" sha1="07ee34bf30020727cf5e3cf1110fc40876de03c9"/>
 	</machine>
 	<machine name="Hiroro">
 		<description>Hiroro</description>
@@ -473,6 +515,9 @@
 		<rom name="Cross-Dressing Villainess Cecilia Sylvie, Vol. 01 (552)\cover.jpg" size="767793" crc="7ad70ae1" md5="07d106c0dd895c09d9671f8eab55d852" sha1="0864ce9591ce718b2ac6da2a5114678ca10c90cf"/>
 		<rom name="Cross-Dressing Villainess Cecilia Sylvie, Vol. 01 (552)\Cross-Dressing Villainess Cecilia Sylvie, - Hiroro Akizakura.epub" size="15139669" crc="7590dd6f" md5="c0ea6e06d217aa4c8ac94ea8b0ed1034" sha1="c978e8d232c6f22b1fed00fdc4ffb70ae284d1d9"/>
 		<rom name="Cross-Dressing Villainess Cecilia Sylvie, Vol. 01 (552)\metadata.opf" size="2774" crc="bdc979cc" md5="48cb78a489849e044ee4fa1fb39b8b69" sha1="d7c38a2501ce5de3607e60207446531e80f26eea"/>
+		<rom name="Cross-Dressing Villainess Cecilia Sylvie, Vol. 02 (586)\cover.jpg" size="659751" crc="70aed5cf" md5="1ec1bc4acb0948d1128c97ce232c5f0e" sha1="d77db67533cd583d548c0e59b5809dabc1169d59"/>
+		<rom name="Cross-Dressing Villainess Cecilia Sylvie, Vol. 02 (586)\Cross-Dressing Villainess Cecilia Sylvie, - Hiroro Akizakura.epub" size="15762355" crc="126cec06" md5="ce9d1dfc4acbdb89a5b82b7cfa63326c" sha1="4589ccdeee57485e3158f8bad38c755274401fb2"/>
+		<rom name="Cross-Dressing Villainess Cecilia Sylvie, Vol. 02 (586)\metadata.opf" size="2761" crc="b17a3249" md5="8ba2fe5aacd4e973235b90b01c90c62d" sha1="c6ded675896f153f789e865759352d8030d210e7"/>
 	</machine>
 	<machine name="Hiroshi Sakurazaka">
 		<description>Hiroshi Sakurazaka</description>
@@ -512,12 +557,15 @@
 	</machine>
 	<machine name="Hisaya Amagishi">
 		<description>Hisaya Amagishi</description>
-		<rom name="Dahlia in Bloom Crafting a Fresh Start With Magical Tools, Vol. 01 (372)\cover.jpg" size="2457953" crc="6bda4c6f" md5="a1237aceeaaa14fed37a58be0f594d19" sha1="7bff3f912f797f12b304efff4c6833ffe21c0dca"/>
-		<rom name="Dahlia in Bloom Crafting a Fresh Start With Magical Tools, Vol. 01 (372)\Dahlia in Bloom Crafting a Fresh Start Wit - Hisaya Amagishi.epub" size="15154136" crc="9f5b2290" md5="36eb131e5add8c55e52b1c19f4fd4570" sha1="c14a6587b36583c4140ba567a9e838847868f36f"/>
-		<rom name="Dahlia in Bloom Crafting a Fresh Start With Magical Tools, Vol. 01 (372)\metadata.opf" size="2963" crc="944d232b" md5="1ec549ace567498d9819c39b1f3a20bb" sha1="df7837b3d592724c7f8e1d286bea950782af7d28"/>
+		<rom name="Dahlia in Bloom_ Crafting a Fresh Start With Magical Tools, Vol. 01 (372)\cover.jpg" size="2457953" crc="6bda4c6f" md5="a1237aceeaaa14fed37a58be0f594d19" sha1="7bff3f912f797f12b304efff4c6833ffe21c0dca"/>
+		<rom name="Dahlia in Bloom_ Crafting a Fresh Start With Magical Tools, Vol. 01 (372)\Dahlia in Bloom_ Crafting a Fresh Start Wi - Hisaya Amagishi.epub" size="15154136" crc="9f5b2290" md5="36eb131e5add8c55e52b1c19f4fd4570" sha1="c14a6587b36583c4140ba567a9e838847868f36f"/>
+		<rom name="Dahlia in Bloom_ Crafting a Fresh Start With Magical Tools, Vol. 01 (372)\metadata.opf" size="2965" crc="47209d5b" md5="7c5869069bd490cb133ff02464a8f6c8" sha1="85f74d1d2ce21ba1726b19c2cdf4eb41bcad062f"/>
 		<rom name="Dahlia in Bloom_ Crafting a Fresh Start With Magical Tools, Vol. 02 (532)\cover.jpg" size="873180" crc="245c6320" md5="c06479ab7c6438cb2a12b2e87f2b892d" sha1="bdcef4981ef185c21b50e99ac7567e793cbc7664"/>
 		<rom name="Dahlia in Bloom_ Crafting a Fresh Start With Magical Tools, Vol. 02 (532)\Dahlia in Bloom_ Crafting a Fresh Start Wi - Hisaya Amagishi.epub" size="12059215" crc="cfaff233" md5="94170d357aab005877be8a64362b692d" sha1="a13cd3069fca8de05f332299a855e153bef09d83"/>
-		<rom name="Dahlia in Bloom_ Crafting a Fresh Start With Magical Tools, Vol. 02 (532)\metadata.opf" size="3226" crc="4dcbb99a" md5="7f138b773d0254a06ae628f0a89203f7" sha1="e563be73d5874f00c6a5825f22765d9c0d1ff86c"/>
+		<rom name="Dahlia in Bloom_ Crafting a Fresh Start With Magical Tools, Vol. 02 (532)\metadata.opf" size="3219" crc="860c2f6c" md5="74d0f40f484d86e4b888ae9b665229ed" sha1="b033db1062f109bd243d2aaa9cf31e96e117153c"/>
+		<rom name="Dahlia in Bloom_ Crafting a Fresh Start With Magical Tools, Vol. 03 (569)\cover.jpg" size="2874248" crc="aadd7bbd" md5="b16e8398b02834e8462ad825351d7891" sha1="51ff4993defea8497d826295d5bb3f52113efe5d"/>
+		<rom name="Dahlia in Bloom_ Crafting a Fresh Start With Magical Tools, Vol. 03 (569)\Dahlia in Bloom_ Crafting a Fresh Start Wi - Hisaya Amagishi.epub" size="17969685" crc="79e9af8c" md5="46aa25e847773b359a458cd2eff01e40" sha1="6fb19467e959bc748b68bdf8b94fe1dfddc1483b"/>
+		<rom name="Dahlia in Bloom_ Crafting a Fresh Start With Magical Tools, Vol. 03 (569)\metadata.opf" size="3000" crc="bac190b9" md5="e0f74da9ba54a0bb28ae8dbed40ca9cc" sha1="2c4fb969f3ce6d680c0bf2346746b3f70895bcad"/>
 	</machine>
 	<machine name="Hitoma Iruma">
 		<description>Hitoma Iruma</description>
@@ -559,10 +607,10 @@
 		<description>Hong Heesu</description>
 		<rom name="Daddy, I Don't Want to Marry!, Vol. 01 (371)\cover.jpg" size="114296" crc="a4a5bbbe" md5="3328be7ba6c11f24a335bb84b7be79ca" sha1="522d9602f9801ccabfa6cf40bf2b63419a3757dc"/>
 		<rom name="Daddy, I Don't Want to Marry!, Vol. 01 (371)\Daddy, I Don't Want to Marry!, Vol. 01 - Hong Heesu.epub" size="2151584" crc="69239ba7" md5="d0d317bc67edc057fcfde619662bda4d" sha1="74c3b51767abab822dbf34d94b66625753eb62d9"/>
-		<rom name="Daddy, I Don't Want to Marry!, Vol. 01 (371)\metadata.opf" size="2979" crc="2cd249da" md5="d14231a537e0edacf2fccc8c45fa8f79" sha1="26a6452d5f1a0a5f48c3790ff21e446a09280a38"/>
+		<rom name="Daddy, I Don't Want to Marry!, Vol. 01 (371)\metadata.opf" size="2979" crc="b2a32e2b" md5="6fe8a16c7157bd58b3122bc34778feda" sha1="cdb52a8fe199990a7d7ef4cceb0700f14098da7f"/>
 		<rom name="Daddy, I Don't Want to Marry!, Vol. 02 (550)\cover.jpg" size="122824" crc="564f8ebd" md5="d4b36b8406fc97961d671bc2a1be9d73" sha1="0c0925895d0f986167d954b56e2807616bc6f077"/>
 		<rom name="Daddy, I Don't Want to Marry!, Vol. 02 (550)\Daddy, I Don't Want to Marry!, Vol. 02 - Hong Heesu.epub" size="2582417" crc="bacd390e" md5="e4601dda865027e3560acf8851ab310a" sha1="c866c93a257f9b1c1a3a34e9e9f3611475513de3"/>
-		<rom name="Daddy, I Don't Want to Marry!, Vol. 02 (550)\metadata.opf" size="2766" crc="ccfa9de9" md5="368e20cdb9091f3ca64f13d01f32e8bf" sha1="47fc02bcca0a74a72c995d801506433b84241ffb"/>
+		<rom name="Daddy, I Don't Want to Marry!, Vol. 02 (550)\metadata.opf" size="2753" crc="11d0644f" md5="ade55830713fc90ef846058b0b65341c" sha1="513648375879c98668bb65eb9fdb0197ad5a976a"/>
 	</machine>
 	<machine name="Hyougetsu">
 		<description>Hyougetsu</description>
@@ -668,6 +716,9 @@
 		<rom name="Berserk of Gluttony, Vol. 05 (542)\Berserk of Gluttony, Vol. 05 - Isshiki Ichika.epub" size="9329608" crc="69e2aad6" md5="acc098956709f5a9e7ebed956039fce8" sha1="535001a763b116ce614245310841b2abd17801ff"/>
 		<rom name="Berserk of Gluttony, Vol. 05 (542)\cover.jpg" size="1529801" crc="ff4e1b29" md5="b5cdd5791050b575f40b0a76c50dfd11" sha1="4da10f97a0e18c8d352d7005df9eac85aab1d26d"/>
 		<rom name="Berserk of Gluttony, Vol. 05 (542)\metadata.opf" size="2840" crc="22f470d5" md5="baf17a37502111dd3c407a5b53dc709b" sha1="f4e205c4119e760321aea9fc004aef92908b5b3f"/>
+		<rom name="Berserk of Gluttony, Vol. 06 (580)\Berserk of Gluttony, Vol. 06 - Isshiki Ichika.epub" size="14731771" crc="457cedf6" md5="dab2ab3f47239b3195f32b7c89de72c5" sha1="cc683d0d4cf039f4964941f70000162ac89788f7"/>
+		<rom name="Berserk of Gluttony, Vol. 06 (580)\cover.jpg" size="1124106" crc="1514a610" md5="68a286dc530b66de5a307467901f5f70" sha1="36b28af2988d1b72b46677a423385a5770daab4b"/>
+		<rom name="Berserk of Gluttony, Vol. 06 (580)\metadata.opf" size="2755" crc="1185740f" md5="ca6a3adeb27edb48ed450b5fe9913297" sha1="98aec4304fa5061e6cf7c0453cbb171768e0cec3"/>
 	</machine>
 	<machine name="Kafka Asagiri">
 		<description>Kafka Asagiri</description>
@@ -797,6 +848,9 @@
 		<rom name="Drugstore in Another World_ The Slow Life of a Cheat Pharmacist, Vol. 04 (524)\cover.jpg" size="1244798" crc="35dd3bcf" md5="f876daddf71773439d1d5445ec3a8811" sha1="30066ad0e75d37f0f7d297e5edd8b5d6b7972bc8"/>
 		<rom name="Drugstore in Another World_ The Slow Life of a Cheat Pharmacist, Vol. 04 (524)\Drugstore in Another World_ The Slow Life - Kennoji.epub" size="8908771" crc="11baf101" md5="8a2bfca019ddbf4727f2a8560c76b473" sha1="1977dbc87cdc962454b1ee577c9b0572df6792f9"/>
 		<rom name="Drugstore in Another World_ The Slow Life of a Cheat Pharmacist, Vol. 04 (524)\metadata.opf" size="2629" crc="7256511f" md5="29f2bc7c6ab53e6ba870a32680738d89" sha1="9bb46e8f2d70a49ad830de810ec9362a11a5af97"/>
+		<rom name="Drugstore in Another World_ The Slow Life of a Cheat Pharmacist, Vol. 05 (573)\cover.jpg" size="1343781" crc="dc9ae5a7" md5="ffd6f78aa2b086b4ff4e3b547419f253" sha1="d9cce5a4e2fc388578cc8e21d69ee9b29ae3e7d4"/>
+		<rom name="Drugstore in Another World_ The Slow Life of a Cheat Pharmacist, Vol. 05 (573)\Drugstore in Another World_ The Slow Life - Kennoji.epub" size="6815323" crc="51db0e48" md5="4211057c6f72145a4acac2b10ed4b758" sha1="dc8edcb73704f738c432060a8cfefb4aa9064e32"/>
+		<rom name="Drugstore in Another World_ The Slow Life of a Cheat Pharmacist, Vol. 05 (573)\metadata.opf" size="2708" crc="a20fb653" md5="7207e69dafbb349a21d36aa8734b575f" sha1="5f5bf1ea7a12fef4af98546fa98cd8204b1b74d0"/>
 	</machine>
 	<machine name="Kenya Atsui">
 		<description>Kenya Atsui</description>
@@ -890,6 +944,9 @@
 		<rom name="Date A Live, Vol. 04_ Sister Itsuka (549)\cover.jpg" size="473449" crc="1d5870b8" md5="b137efebcb07d41a12357a1ebe312c3e" sha1="44ef81014617156034e564c720eafdf75371e7f1"/>
 		<rom name="Date A Live, Vol. 04_ Sister Itsuka (549)\Date A Live, Vol. 04_ Sister Itsuka - Koushi Tachibana.epub" size="9745925" crc="ee0f32f8" md5="8a6320c490d7d7acd4b82170063745ae" sha1="e106638fcba0142059247724b490bcd4fb438526"/>
 		<rom name="Date A Live, Vol. 04_ Sister Itsuka (549)\metadata.opf" size="3046" crc="933f7a38" md5="7f4d3628fcc7b919345c54d47b143fb0" sha1="f41666451977b5785c1979b675918c53fdc78603"/>
+		<rom name="Date A Live, Vol. 05_ Tempest Yamai (587)\cover.jpg" size="1481549" crc="4dea93a2" md5="b073f5463209ad300210edd788a55a75" sha1="8cdfc64d6525c5880b843dddb4b2674fdfb242ff"/>
+		<rom name="Date A Live, Vol. 05_ Tempest Yamai (587)\Date A Live, Vol. 05_ Tempest Yamai - Koushi Tachibana.epub" size="16550853" crc="698f8946" md5="d5b31f0d4781173c9a584ce85a9115df" sha1="4f2aafd063ec85fa92851c78e15a625c12ed3bbd"/>
+		<rom name="Date A Live, Vol. 05_ Tempest Yamai (587)\metadata.opf" size="3113" crc="7f67e0b4" md5="11f65d7c7e88628febab68910e53929b" sha1="ae34efdb33d337f0a349d7b0ecbb23ace72fc850"/>
 	</machine>
 	<machine name="Koushun Takami">
 		<description>Koushun Takami</description>
@@ -967,7 +1024,10 @@
 		<rom name="Culinary Chronicles of the Court Flower, Vol. 03 (324)\metadata.opf" size="2846" crc="1042e429" md5="ae7acee6709cc492969d2d6b155a6222" sha1="d20038d05de9b7ed4781dc55d0fea9707316caf3"/>
 		<rom name="Culinary Chronicles of the Court Flower, Vol. 04 (531)\cover.jpg" size="1577149" crc="be706b5d" md5="47aa1bf2454211edb55c7370d918cad4" sha1="ae69b0bd134b2d140fef21fbcac8adf151f6a42c"/>
 		<rom name="Culinary Chronicles of the Court Flower, Vol. 04 (531)\Culinary Chronicles of the Court Flower, V - Miri Mikawa.epub" size="20431860" crc="fa6a96f9" md5="cee86725e2163c29acd56d9883f6e742" sha1="9880b5dbcfd085b2433a7e864a1f3b98dc5fe936"/>
-		<rom name="Culinary Chronicles of the Court Flower, Vol. 04 (531)\metadata.opf" size="2846" crc="5bc32658" md5="2d92f7027c97f1272e9fa1ec065a084c" sha1="0b0078e669472d97454b45210df369ad1ee5e910"/>
+		<rom name="Culinary Chronicles of the Court Flower, Vol. 04 (531)\metadata.opf" size="2855" crc="83428a70" md5="88be539a6694bf6073f9e5d1b6da1409" sha1="2ab8c747ed18e23cb95193e5eca44df89a0d7e52"/>
+		<rom name="Culinary Chronicles of the Court Flower, Vol. 05 (568)\cover.jpg" size="2505091" crc="d0062cd8" md5="010d4ee933d74f869d847ee1529e69ae" sha1="9cf5e7783ebb8799a409c57958eab3f5bd7b7f6e"/>
+		<rom name="Culinary Chronicles of the Court Flower, Vol. 05 (568)\Culinary Chronicles of the Court Flower, V - Miri Mikawa.epub" size="22835994" crc="06a0ff04" md5="b77ce2c9621866a73d468cfab576af25" sha1="d08356464a41542fce1e48f8cd884e5738f0e50a"/>
+		<rom name="Culinary Chronicles of the Court Flower, Vol. 05 (568)\metadata.opf" size="2957" crc="581e9b23" md5="0faf2e8564c19bb821c716560f17e0e1" sha1="8165e7cea30506da87978105c622f58ad556f9d3"/>
 	</machine>
 	<machine name="Miya Kazuki">
 		<description>Miya Kazuki</description>
@@ -1022,9 +1082,15 @@
 		<rom name="Ascendance of a Bookworm_ Part 4 Founder of the Royal Academy's So-Called Library Committee, Vo (492)\Ascendance of a Bookworm_ Part 4 Founder o - Miya Kazuki.epub" size="43732859" crc="bd37ca6f" md5="49ea362da517d19d6a5ea1127529f8d9" sha1="d8af1cb05a7ed535c2778c8c0edbc3401b8aa87a"/>
 		<rom name="Ascendance of a Bookworm_ Part 4 Founder of the Royal Academy's So-Called Library Committee, Vo (492)\cover.jpg" size="951922" crc="d5eeafa1" md5="db519e3f90b3a7e571ab0bafb93ecd80" sha1="c93ce2c061601de603fa4866b21e4def9d505999"/>
 		<rom name="Ascendance of a Bookworm_ Part 4 Founder of the Royal Academy's So-Called Library Committee, Vo (492)\metadata.opf" size="3439" crc="05297848" md5="97bb862efc462da4eadc34cd1f2adaa5" sha1="376442e438e4c6b03aa69c9889070f29279e5799"/>
-		<rom name="Ascendance of a Bookworm_ Part 4 Founder of the Royal Academy's So-Called Library Committee, Vo (529)\Ascendance of a Bookworm_ Part 4 Founder o - Miya Kazuki.epub" size="22178573" crc="2d6a0e37" md5="02fb73dc9f167307428766f559524814" sha1="fcd118645aa259135559fcf72e5d73432e0be4ff"/>
+		<rom name="Ascendance of a Bookworm_ Part 4 Founder of the Royal Academy's So-Called Library Committee, Vo (529)\Ascendance of a Bookworm_ Part 4 Founder o - Miya Kazuki.epub" size="40450591" crc="6598eb62" md5="96176a077969f0e98c679a1592764d5b" sha1="ac06277f33fb309b444fdd9bac190339b4004d2a"/>
 		<rom name="Ascendance of a Bookworm_ Part 4 Founder of the Royal Academy's So-Called Library Committee, Vo (529)\cover.jpg" size="1165531" crc="ac862996" md5="a34e253b3e2fc09344ad2c42a94b5360" sha1="203603876e8ff3955e2d60fef1f0328dddafd41c"/>
-		<rom name="Ascendance of a Bookworm_ Part 4 Founder of the Royal Academy's So-Called Library Committee, Vo (529)\metadata.opf" size="3448" crc="61a449e3" md5="d01338d7bfc9095cb4bf1b32358e2df0" sha1="5f3dc907813e75b06b77e41056782a1d68afb85b"/>
+		<rom name="Ascendance of a Bookworm_ Part 4 Founder of the Royal Academy's So-Called Library Committee, Vo (529)\metadata.opf" size="3440" crc="645e6bdd" md5="ee12b6826d77ed2759e2cea1825848ae" sha1="7ace8b836b617e533cf1bef6bd912c2125e62f03"/>
+		<rom name="Ascendance of a Bookworm_ Part 4 Founder of the Royal Academy's So-Called Library Committee, Vo (558)\Ascendance of a Bookworm_ Part 4 Founder o - Miya Kazuki.epub" size="40514250" crc="549e4071" md5="690d1249150540b128a5cb90bc26ce90" sha1="9e4a7123f2e528f35605d1d13750cd7c2e050272"/>
+		<rom name="Ascendance of a Bookworm_ Part 4 Founder of the Royal Academy's So-Called Library Committee, Vo (558)\cover.jpg" size="2921219" crc="061f445e" md5="9f747aa63790301d31751de51e48936f" sha1="5a67a0034480754adc73c2a1190583213fa88b89"/>
+		<rom name="Ascendance of a Bookworm_ Part 4 Founder of the Royal Academy's So-Called Library Committee, Vo (558)\metadata.opf" size="3392" crc="b4a90cd5" md5="72fd4d70d0da8abbe4d4ee9a5f50edc0" sha1="4d191ddee5b78ab6201e3407ecf9fbe6250abff2"/>
+		<rom name="Ascendance of a Bookworm_ Part 4 Founder of the Royal Academy's So-Called Library Committee, Vo (579)\Ascendance of a Bookworm_ Part 4 Founder o - Miya Kazuki.epub" size="37744436" crc="cb09f3e3" md5="f2c1eeb1c927f33fae81177fba16ad8b" sha1="4f192b6f56a12d5f84b4aed60dbcaf0e0adf3936"/>
+		<rom name="Ascendance of a Bookworm_ Part 4 Founder of the Royal Academy's So-Called Library Committee, Vo (579)\cover.jpg" size="2587676" crc="61db0d38" md5="dec54bbd0555c7bb1dcc872563b672ba" sha1="6813693c7f664bc41e5bd0f2f1bb2fa17cffbd93"/>
+		<rom name="Ascendance of a Bookworm_ Part 4 Founder of the Royal Academy's So-Called Library Committee, Vo (579)\metadata.opf" size="3483" crc="33e9c29c" md5="80f5f14b0644a23bd40e586584464cd9" sha1="afc8965ed569d45a0ac77d327e6cdfde8486f5f6"/>
 	</machine>
 	<machine name="Miya Kinojo">
 		<description>Miya Kinojo</description>
@@ -1037,6 +1103,9 @@
 		<rom name="Chillin' in Another World with Level 2 Super Cheat Powers, Vol. 03 (554)\Chillin' in Another World with Level 2 Sup - Miya Kinojo.epub" size="17980865" crc="be0b338c" md5="2adb72b56fd7575d741f71d5916d3059" sha1="9a32fe65b7c1e9ba076a259d6ebdb52a6e48187d"/>
 		<rom name="Chillin' in Another World with Level 2 Super Cheat Powers, Vol. 03 (554)\cover.jpg" size="893846" crc="0f9c129d" md5="2856f71e003d35de9ed2492cebd9149b" sha1="2454127176abcc59820ca743822ac84b0a6fe3c2"/>
 		<rom name="Chillin' in Another World with Level 2 Super Cheat Powers, Vol. 03 (554)\metadata.opf" size="3158" crc="6d06fb25" md5="22444ab2c4fbc5b04512044185db08ac" sha1="bf883d0d14112ed7734ab35708d284725287c5b6"/>
+		<rom name="Chillin' in Another World with Level 2 Super Cheat Powers, Vol. 04 (565)\Chillin' in Another World with Level 2 Sup - Miya Kinojo.epub" size="22637328" crc="8275285e" md5="1d16e20941fb7083024f323c67866e3d" sha1="6bb2998a9def0513a6721b39f07b4f20538d3875"/>
+		<rom name="Chillin' in Another World with Level 2 Super Cheat Powers, Vol. 04 (565)\cover.jpg" size="1963222" crc="4a6f79ab" md5="b6278e84fe77e1bab86094e3121446ab" sha1="ee25e78343e5bb1cf5a5324701d9c8f5b7f57080"/>
+		<rom name="Chillin' in Another World with Level 2 Super Cheat Powers, Vol. 04 (565)\metadata.opf" size="2918" crc="9f887ce3" md5="c58fe9dec26f2a83fbf3c8088f691b44" sha1="1e180e079e48ec6f92613baf1b6cc7905d1353d2"/>
 	</machine>
 	<machine name="Miyuki Miyabe">
 		<description>Miyuki Miyabe</description>
@@ -1049,6 +1118,9 @@
 		<rom name="Bond &amp; Book, Vol. 01_ The Devotion of _The Surgery Room_ (327)\Bond &amp; Book, Vol. 01_ The Devotion of _The - Mizuki Nomura.epub" size="12145138" crc="28693c7a" md5="1b70a68e5bbe1fc448ae7dcb23e9e34a" sha1="c993c2c679bbb32764a0c83ca47274f83ed90fa0"/>
 		<rom name="Bond &amp; Book, Vol. 01_ The Devotion of _The Surgery Room_ (327)\cover.jpg" size="1099729" crc="1d800f2d" md5="a09c97ab86644ab32323eff7be6f714e" sha1="73339ddc768d769d9e61e219eeed13fff7e879c9"/>
 		<rom name="Bond &amp; Book, Vol. 01_ The Devotion of _The Surgery Room_ (327)\metadata.opf" size="2647" crc="93316c08" md5="37dedfd98b86c96680f167aff6d512b8" sha1="9d0b97b47f361bc59287bfcdea3d1037e87ea4e8"/>
+		<rom name="Bond &amp; Book, Vol. 02_ The Long, Long Good-Bye of _The Last Bookstore_ (582)\Bond &amp; Book, Vol. 02_ The Long, Long Good- - Mizuki Nomura.epub" size="5483147" crc="97f317d2" md5="069da0364b2cd370b530bf86b8335b28" sha1="cecb5ef959d1af6c505a343f6afb1b59736f1651"/>
+		<rom name="Bond &amp; Book, Vol. 02_ The Long, Long Good-Bye of _The Last Bookstore_ (582)\cover.jpg" size="477119" crc="534aaf0a" md5="a3575e0685a7e72cb22780696c465187" sha1="d9d75eca84d4ea5cb2252e390263683ce7cb0a42"/>
+		<rom name="Bond &amp; Book, Vol. 02_ The Long, Long Good-Bye of _The Last Bookstore_ (582)\metadata.opf" size="3010" crc="f8670534" md5="cd2488ce9a4db6151cd95cfe35d0c560" sha1="8412a500eb7d1d182bb53525e55b07a711a0e1d7"/>
 		<rom name="Book Girl, Vol. 01_ Book Girl and the Suicidal Mime (240)\Book Girl, Vol. 01_ Book Girl and the Suic - Mizuki Nomura.epub" size="2666518" crc="7b58cd16" md5="dcf7d7f333c1e05ef23b5d425601070d" sha1="3909c8819d468d362d3b105fa952c1cc0ffb7f92"/>
 		<rom name="Book Girl, Vol. 01_ Book Girl and the Suicidal Mime (240)\cover.jpg" size="546830" crc="50852a55" md5="cb8733ddbb8d3c6840a388d77c02dcd7" sha1="fbd3d94fb2921e2e9e5b0ee416aa71df47f0438e"/>
 		<rom name="Book Girl, Vol. 01_ Book Girl and the Suicidal Mime (240)\metadata.opf" size="2838" crc="53f50465" md5="36770e5f4279f0c0e54e23d1accfa252" sha1="4d3ce6fa836c206190a67a24c7b09d1586ab62ef"/>
@@ -1095,14 +1167,17 @@
 		<rom name="Combatants Will Be Dispatched!, Vol. 06 (292)\cover.jpg" size="600057" crc="da6163fd" md5="ecc5135de4d1fcbc22086b7d62964c77" sha1="71ee52f18726e706d36e820f2836a8f73c8601f5"/>
 		<rom name="Combatants Will Be Dispatched!, Vol. 06 (292)\metadata.opf" size="2927" crc="888887b2" md5="8b0cf3f4b81063a677b1eb5d292ba801" sha1="713b6d6a6aa90831f42ae473e2de15b2f905f34b"/>
 	</machine>
-	<machine name="Necoco">
-		<description>Necoco</description>
+	<machine name="Nekoko">
+		<description>Nekoko</description>
 		<rom name="Disciple of the Lich_ Or How I Was Cursed by the Gods and Dropped Into the Abyss!, Vol. 01 (484)\cover.jpg" size="765707" crc="870af69c" md5="4093e289753b9b1b362ab59b6d425d1e" sha1="757fee5cb047a7389bcdf7ebe12c780e975f1857"/>
-		<rom name="Disciple of the Lich_ Or How I Was Cursed by the Gods and Dropped Into the Abyss!, Vol. 01 (484)\Disciple of the Lich_ Or How I Was Cursed - Necoco.epub" size="10070456" crc="1d097eb9" md5="e06b334383c5443334c26d814ee3645e" sha1="8eef371950504ab7e8ece2fc46fe8d2db1cf8a9a"/>
-		<rom name="Disciple of the Lich_ Or How I Was Cursed by the Gods and Dropped Into the Abyss!, Vol. 01 (484)\metadata.opf" size="3208" crc="223fa7b4" md5="fa70452c12ad82d77d2b67e00ae3bd06" sha1="b6724b8cac54f6f70e8641b881dfd8e01fa1ac46"/>
+		<rom name="Disciple of the Lich_ Or How I Was Cursed by the Gods and Dropped Into the Abyss!, Vol. 01 (484)\Disciple of the Lich_ Or How I Was Cursed - Nekoko.epub" size="10070456" crc="1d097eb9" md5="e06b334383c5443334c26d814ee3645e" sha1="8eef371950504ab7e8ece2fc46fe8d2db1cf8a9a"/>
+		<rom name="Disciple of the Lich_ Or How I Was Cursed by the Gods and Dropped Into the Abyss!, Vol. 01 (484)\metadata.opf" size="3208" crc="e80e9996" md5="54a999a2a48ff56adc390bafde07b2fc" sha1="e8b5c3697d0ad153a00b1a12c2b31274f4441fc3"/>
 		<rom name="Disciple of the Lich_ Or How I Was Cursed by the Gods and Dropped Into the Abyss!, Vol. 02 (536)\cover.jpg" size="1291855" crc="21433f3f" md5="7bd5e118ba11ab7e7b287f2e0fdde354" sha1="e0f88b32d7cd454ac147060580d9a478d1e97339"/>
-		<rom name="Disciple of the Lich_ Or How I Was Cursed by the Gods and Dropped Into the Abyss!, Vol. 02 (536)\Disciple of the Lich_ Or How I Was Cursed - Necoco.epub" size="8475611" crc="1da2b279" md5="469f18135895127be90514c40a789321" sha1="a1281ce1db5a8c049ed849c132483b2b49ed4612"/>
-		<rom name="Disciple of the Lich_ Or How I Was Cursed by the Gods and Dropped Into the Abyss!, Vol. 02 (536)\metadata.opf" size="3056" crc="c86b0cf9" md5="f1b5496bb9f9d6f0d617e05c63060489" sha1="fb4fe683b368cea33fd0849427f5f2e047814d0d"/>
+		<rom name="Disciple of the Lich_ Or How I Was Cursed by the Gods and Dropped Into the Abyss!, Vol. 02 (536)\Disciple of the Lich_ Or How I Was Cursed - Nekoko.epub" size="8475611" crc="1da2b279" md5="469f18135895127be90514c40a789321" sha1="a1281ce1db5a8c049ed849c132483b2b49ed4612"/>
+		<rom name="Disciple of the Lich_ Or How I Was Cursed by the Gods and Dropped Into the Abyss!, Vol. 02 (536)\metadata.opf" size="3049" crc="a0ca95e6" md5="6104fc30fd449f53e6285b1568c4936b" sha1="b878c2ec54e4e7a3fcd165e707e62d1acf0d9a00"/>
+		<rom name="Disciple of the Lich_ Or How I Was Cursed by the Gods and Dropped Into the Abyss!, Vol. 03 (571)\cover.jpg" size="1247674" crc="ebeed518" md5="e6185ea065ee30e3d14e42ef2229f670" sha1="673300b79930c830777f5387b9bb72bcacddf96d"/>
+		<rom name="Disciple of the Lich_ Or How I Was Cursed by the Gods and Dropped Into the Abyss!, Vol. 03 (571)\Disciple of the Lich_ Or How I Was Cursed - Nekoko.epub" size="9263943" crc="752e525e" md5="44b49eb0535b351bc729e6b70fcee83d" sha1="ff256f38c1835fbde394752e2d0e57fffd63d1b3"/>
+		<rom name="Disciple of the Lich_ Or How I Was Cursed by the Gods and Dropped Into the Abyss!, Vol. 03 (571)\metadata.opf" size="2947" crc="e7dcb7f6" md5="64ef996d67fdcf3a6424a3c2c98bb4ab" sha1="307a4446fa8ce20a9879be92b1f72786ef21518b"/>
 	</machine>
 	<machine name="nisioisin">
 		<description>nisioisin</description>
@@ -1133,6 +1208,9 @@
 		<rom name="Accomplishments of the Duke's Daughter, Vol. 04 (538)\Accomplishments of the Duke's Daughter, Vo - Reia.epub" size="8597040" crc="c8f64fde" md5="de68dd2430636f43f569c826223db57e" sha1="e275862f403ece122511a6bed66b052b7902afb8"/>
 		<rom name="Accomplishments of the Duke's Daughter, Vol. 04 (538)\cover.jpg" size="656291" crc="cf2296b9" md5="8d25c33e9852a2931e2b882181e0e40d" sha1="3843ae2413275d1dcb6df5653604cbe3fd3928c2"/>
 		<rom name="Accomplishments of the Duke's Daughter, Vol. 04 (538)\metadata.opf" size="2701" crc="37d1f4f2" md5="71c653fa2a1bf887feea8d516383163e" sha1="aff3b12d2b6a01eb74b783c835d725c86cb10a73"/>
+		<rom name="Accomplishments of the Duke's Daughter, Vol. 05 (576)\Accomplishments of the Duke's Daughter, Vo - Reia.epub" size="14293211" crc="34c1bf43" md5="bc4f07015667cb62326e33b6d8d6ac3b" sha1="48d8ea2dffd906b85f3f4c4012fbf6ec1b8b4056"/>
+		<rom name="Accomplishments of the Duke's Daughter, Vol. 05 (576)\cover.jpg" size="825878" crc="22546be6" md5="5fc4e0703e8e0882b4b44ef313a9bad7" sha1="45c6ec557099342861d0acfec0ca887d533e3205"/>
+		<rom name="Accomplishments of the Duke's Daughter, Vol. 05 (576)\metadata.opf" size="2613" crc="c2ad5681" md5="34de6210f9f87a08bafb2172bc07a9b5" sha1="6c871967d6f09561289a9fd6755ecace97672427"/>
 	</machine>
 	<machine name="Reki Kawahara">
 		<description>Reki Kawahara</description>
@@ -1319,9 +1397,9 @@
 		<rom name="Arifureta_ From Commonplace to World's Strongest ZERO, Vol. 04 (112)\Arifureta_ From Commonplace to World's Str - Ryo Shirakome.epub" size="19012094" crc="5ba07c75" md5="1914927285695efc337751de2c6debcd" sha1="679d2a1214bb94570e6c4239aeb36c79ef5269ec"/>
 		<rom name="Arifureta_ From Commonplace to World's Strongest ZERO, Vol. 04 (112)\cover.jpg" size="1765125" crc="48331eaf" md5="b8f4cf6c878b3c5c36d70303fe6b7292" sha1="174e2fa5b4b36706c711bef100b99093ed2d1cf7"/>
 		<rom name="Arifureta_ From Commonplace to World's Strongest ZERO, Vol. 04 (112)\metadata.opf" size="2866" crc="af091e45" md5="282209b03ee495cc41bc45c18af1f9c9" sha1="4074c1c8b98ed55b1cb8bfa2afa0cba97914292e"/>
-		<rom name="Arifureta_ From Commonplace to World's Strongest ZERO, Vol. 05 (530)\Arifureta_ From Commonplace to World's Str - Ryo Shirakome.epub" size="15281658" crc="806f5f84" md5="954ac8a15abc479d9cddea2cab352c33" sha1="cb282c5284776d216b03a71f6ba25fef543ab9fb"/>
+		<rom name="Arifureta_ From Commonplace to World's Strongest ZERO, Vol. 05 (530)\Arifureta_ From Commonplace to World's Str - Ryo Shirakome.epub" size="18511520" crc="2c408596" md5="258709c4d25b8ba11a6db39e1d74fd79" sha1="0c3c5cbdc1576a5981bb0331bcb13b04f309d99d"/>
 		<rom name="Arifureta_ From Commonplace to World's Strongest ZERO, Vol. 05 (530)\cover.jpg" size="781514" crc="26e757bf" md5="80b0b608e2b505af8aa13941ae26f040" sha1="f0d3d4fb7073fe5d917fc07c32deb4ecbac45b46"/>
-		<rom name="Arifureta_ From Commonplace to World's Strongest ZERO, Vol. 05 (530)\metadata.opf" size="2919" crc="3b901514" md5="ca34c0a6add204fd08b9a2fb168483f1" sha1="dd21acc97f11b69de6ae1f56f22b00ee07b0df4b"/>
+		<rom name="Arifureta_ From Commonplace to World's Strongest ZERO, Vol. 05 (530)\metadata.opf" size="2912" crc="87a7affc" md5="679ea6dd6653dd51ba9b07348dd02fd0" sha1="abcc4a6d117e96c8290a71b2eeb8b8c357d6e3ee"/>
 		<rom name="Arifureta_ From Commonplace to World's Strongest, Vol. 01 (102)\Arifureta_ From Commonplace to World's Str - Ryo Shirakome.epub" size="20720984" crc="8fa99835" md5="e2552475ebf44f16b0f4c3ddabb3472a" sha1="7e5aef5eaa499607021454ce085d43af6ce5edb0"/>
 		<rom name="Arifureta_ From Commonplace to World's Strongest, Vol. 01 (102)\cover.jpg" size="1925649" crc="e3e7303e" md5="dcc78c32658c0cd6f6321039389ed728" sha1="25f14ccb79b427055e2baea9cdfcb53a2a39692d"/>
 		<rom name="Arifureta_ From Commonplace to World's Strongest, Vol. 01 (102)\metadata.opf" size="3363" crc="b507e9a5" md5="022085fdc0e8e2570ac2aebf545adc90" sha1="897fdb0a8c224725d72511221c57fc6fbc7a6b4f"/>
@@ -1420,7 +1498,64 @@
 		<rom name="Baccano!, Vol. 16_ 1932 Summer_ Man in the Killer (176)\metadata.opf" size="2536" crc="1bc9b314" md5="6a6640d0bb1c9b33cc8f42b4bd0d4597" sha1="0be255f1196c21fff037ad582a8a33fcbc526c66"/>
 		<rom name="Baccano!, Vol. 17_ 1711 Whitesmile (328)\Baccano!, Vol. 17_ 1711 Whitesmile - Ryohgo Narita.epub" size="14419392" crc="435a3890" md5="1285d5cf6f878c031735011ebd25d53a" sha1="565833a455c8d78d4027d286b7f033498a96df5f"/>
 		<rom name="Baccano!, Vol. 17_ 1711 Whitesmile (328)\cover.jpg" size="1193618" crc="8a531055" md5="10b51f7598185210d9d58f2b9d44ea4a" sha1="e7d130bceb486ce09db6e7af03ba693b4b3a3c6c"/>
-		<rom name="Baccano!, Vol. 17_ 1711 Whitesmile (328)\metadata.opf" size="2483" crc="0938986b" md5="acd5c3beea5b40b39f3aebdd97f8926c" sha1="989585ed722fa4c86af22a10a6f351d8003bf0ff"/>
+		<rom name="Baccano!, Vol. 17_ 1711 Whitesmile (328)\metadata.opf" size="2447" crc="d9ece8b3" md5="5a3a893a74a2ec148a0ab349d2630ddf" sha1="580633cfd0ca5feac7856c096f1feee792da1a07"/>
+		<rom name="Baccano!, Vol. 18_ 1935 A Deep Marble (564)\Baccano!, Vol. 18_ 1935 A Deep Marble - Ryohgo Narita.epub" size="8998154" crc="8128138f" md5="281eef4c2c6f363352bc125dffbffef3" sha1="52f3c1ccd7861b168c2a791e5614075b92a7b757"/>
+		<rom name="Baccano!, Vol. 18_ 1935 A Deep Marble (564)\cover.jpg" size="907051" crc="09257b52" md5="1e731c42faab336a0f02eb0743ea2ca9" sha1="94e846f97499ff3aaf313527f33d22ef100f12e9"/>
+		<rom name="Baccano!, Vol. 18_ 1935 A Deep Marble (564)\metadata.opf" size="2514" crc="9a922a18" md5="580b410f8f5355ed3253989811967999" sha1="059d7dc017eb2658d00752e1a740be08dd51f362"/>
+		<rom name="Durarara!! SH, Vol. 01 (602)\cover.jpg" size="360107" crc="62ccf3bc" md5="cddbc1773e176b86c7031ffbb49f654c" sha1="feab70a73081c3bb2532b6666f9a67123b1ba59c"/>
+		<rom name="Durarara!! SH, Vol. 01 (602)\Durarara!! SH, Vol. 01 - Ryohgo Narita.epub" size="9804293" crc="a64da234" md5="bc2487621619593f8ef2b3764fce9903" sha1="64bf909f14a11392faf8faf813f66355808db512"/>
+		<rom name="Durarara!! SH, Vol. 01 (602)\metadata.opf" size="2969" crc="59a3ce07" md5="bf03e6c4d3fe7a8555d129fe40973ad6" sha1="f9c5d444cb6b8d261af4e3e4ccb25cfd856c54f9"/>
+		<rom name="Durarara!! SH, Vol. 02 (603)\cover.jpg" size="386493" crc="222c1e0f" md5="78624bb542e0414a845bac33ed501354" sha1="a0ebee56034394930e30b4178187304460eda7d4"/>
+		<rom name="Durarara!! SH, Vol. 02 (603)\Durarara!! SH, Vol. 02 - Ryohgo Narita.epub" size="8254472" crc="b3005dae" md5="27ffb1cfc9e1b88f9da2e3bafca1db0c" sha1="8b6711c9e5b10d5ef163b80841bec165f91c0429"/>
+		<rom name="Durarara!! SH, Vol. 02 (603)\metadata.opf" size="2763" crc="d01f0358" md5="89dadc0a752077f4cdc5eea7e3b96c58" sha1="20710d64cea9aa4a2731aefe099351194901cfbb"/>
+		<rom name="Durarara!! SH, Vol. 03 (604)\cover.jpg" size="1439740" crc="9aba9a46" md5="eb66c53ff6fbf920845358cf31a63f06" sha1="81dc4e13d962584eab5d76f1fbb6ab08c5f6f7d7"/>
+		<rom name="Durarara!! SH, Vol. 03 (604)\Durarara!! SH, Vol. 03 - Ryohgo Narita.epub" size="6780419" crc="e1516379" md5="6808e667cd919956d417f6aecc84125a" sha1="829598bc5ec8c31850cac679a78b82221e1afce5"/>
+		<rom name="Durarara!! SH, Vol. 03 (604)\metadata.opf" size="3078" crc="06451277" md5="86212fd4ddfb84919f80327c5440e2ec" sha1="8dcdeccb5b75bece0d2d2be42c6210f9b4a7f8da"/>
+		<rom name="Durarara!!, Vol. 01 (589)\cover.jpg" size="112623" crc="254c2433" md5="2a98f4a9b27c76fc8b29bafdde31fc3e" sha1="d0abf8861b089e243a967fbd896317e4b448afb4"/>
+		<rom name="Durarara!!, Vol. 01 (589)\Durarara!!, Vol. 01 - Ryohgo Narita.epub" size="5163277" crc="ae837849" md5="86e555fe4cfa7b64bfb519cffc52c7d2" sha1="fe49916861974b15b0dd761263055ebb699e7145"/>
+		<rom name="Durarara!!, Vol. 01 (589)\metadata.opf" size="2783" crc="e107e7b5" md5="f44603feb7d77684d89d836f063d3f81" sha1="60e640a9939e8c60e60b813dbc8b2979cd53a980"/>
+		<rom name="Durarara!!, Vol. 02 (591)\cover.jpg" size="318678" crc="2963f700" md5="11d92e6667d9add9c00d6708c8f63a8e" sha1="9f91a7569188f9cee10409a68826399bedfa13d7"/>
+		<rom name="Durarara!!, Vol. 02 (591)\Durarara!!, Vol. 02 - Ryohgo Narita.epub" size="5724771" crc="000d4e24" md5="84cf3e2c1c371a5dd15a05f78fd95065" sha1="352784373ff661ca889cf1f21d77335006e636b2"/>
+		<rom name="Durarara!!, Vol. 02 (591)\metadata.opf" size="3193" crc="2f48a9ae" md5="a3377e5b294b241317134bf8417e6c16" sha1="c5b5443a397042c3a87de8d055577126cc8fd66f"/>
+		<rom name="Durarara!!, Vol. 03 (590)\cover.jpg" size="106824" crc="c0d56259" md5="6e0e9ca28a0b2a46d08b56de0a9b8d4f" sha1="717471d0be76a54729992a02534575e8689a3ba0"/>
+		<rom name="Durarara!!, Vol. 03 (590)\Durarara!!, Vol. 03 - Ryohgo Narita.epub" size="4369776" crc="bdc601bd" md5="8a94458a980d99642a2d2085ccfcd534" sha1="3f134080471d8baf647bee678e1b110f44a2bfe6"/>
+		<rom name="Durarara!!, Vol. 03 (590)\metadata.opf" size="3152" crc="781b37d7" md5="ab7e4fcbfbda45e1e498fa0568dc6018" sha1="fce418c2a21bb18d8fb4f5697395c22500377779"/>
+		<rom name="Durarara!!, Vol. 04 (600)\cover.jpg" size="106828" crc="8ca75b2f" md5="be24e1f2290bad40bea0dfffb67b264f" sha1="6e80de4f78aa8f8a611e112b733979e5c9053433"/>
+		<rom name="Durarara!!, Vol. 04 (600)\Durarara!!, Vol. 04 - Ryohgo Narita.epub" size="3531298" crc="05c369ff" md5="f0185dd41db2f17916924ec4383487c8" sha1="e5094d2b015164fd7d7541eb5015cfef75baa4b7"/>
+		<rom name="Durarara!!, Vol. 04 (600)\metadata.opf" size="2914" crc="0ff4bc3b" md5="5edfc966e875dbef9c37052d925a8e10" sha1="49b00e98fd00496f39cf366d2d64a2daa1e7a03c"/>
+		<rom name="Durarara!!, Vol. 05 (599)\cover.jpg" size="120176" crc="35dc0085" md5="51cbd90d5aa83c4b0dc34787c62f3cc4" sha1="097944cb8841a38b91a265259ddc0873001559e6"/>
+		<rom name="Durarara!!, Vol. 05 (599)\Durarara!!, Vol. 05 - Ryohgo Narita.epub" size="5493926" crc="e5c68831" md5="c4c9a7ea344e5280079872871bd5fdcf" sha1="74ec0b3d90be94dc81691c8d07c58add07570321"/>
+		<rom name="Durarara!!, Vol. 05 (599)\metadata.opf" size="2896" crc="29d4fc0c" md5="1cd1075d3c354ea61d45789cc0628ae9" sha1="91f58a0a1f24cd02418b99eba00845e8b8395665"/>
+		<rom name="Durarara!!, Vol. 06 (601)\cover.jpg" size="816619" crc="3d630043" md5="b581c266c8108de56e643daa7affdd64" sha1="afd287787dcbc428c5ac2865b0bda04df9b77d5e"/>
+		<rom name="Durarara!!, Vol. 06 (601)\Durarara!!, Vol. 06 - Ryohgo Narita.epub" size="10202153" crc="11cde3b7" md5="84890b012dba427bd794a5fa014b8586" sha1="0847ec3262975ab9accf8eed150c1c79c17fa7ad"/>
+		<rom name="Durarara!!, Vol. 06 (601)\metadata.opf" size="3054" crc="739c993b" md5="5fd33731a6dac583978d6d105f499f91" sha1="e97255d154c87b0bb071d31ef465a627b31768fd"/>
+		<rom name="Durarara!!, Vol. 07 (598)\cover.jpg" size="1190659" crc="a6d14f71" md5="83e0c8e89579465badd3af99a78e1eea" sha1="25a6356aa10360a753d1fb6d476d23f8f4122855"/>
+		<rom name="Durarara!!, Vol. 07 (598)\Durarara!!, Vol. 07 - Ryohgo Narita.epub" size="10034354" crc="79df6eee" md5="5ea73303f241eee4774785b6f3987018" sha1="1a80635b1f09f8ef8170a89b91226d21b33958a5"/>
+		<rom name="Durarara!!, Vol. 07 (598)\metadata.opf" size="3001" crc="77f00633" md5="0e06bfcd179722a674c4e8b74593b73e" sha1="19499855573e34c009c1457c5ee58be7703a088f"/>
+		<rom name="Durarara!!, Vol. 08 (597)\cover.jpg" size="1125918" crc="c1a473d9" md5="99f98b5f77e5b659e81190c1758d92b3" sha1="9718d54a45077faa45d1e42e73c6659d6ab4d62d"/>
+		<rom name="Durarara!!, Vol. 08 (597)\Durarara!!, Vol. 08 - Ryohgo Narita.epub" size="8737912" crc="1179ce9b" md5="d7680b991081656c5694937a9780776b" sha1="b94560861dc0f960d6e82cad6aa5c29994ee6012"/>
+		<rom name="Durarara!!, Vol. 08 (597)\metadata.opf" size="2987" crc="1f903655" md5="cfeb1b82cea4b7344077db3338bd1042" sha1="e2553677be7e7b5cbf9aa1d9f8d34c50c3e0298c"/>
+		<rom name="Durarara!!, Vol. 09 (596)\cover.jpg" size="1378583" crc="bcf576aa" md5="a13019bddb1a9d12715db0e0c4e38a40" sha1="22c63717056842150378e144b71f449355583744"/>
+		<rom name="Durarara!!, Vol. 09 (596)\Durarara!!, Vol. 09 - Ryohgo Narita.epub" size="9073679" crc="1492c419" md5="8d48a35d3df975de810d509f8194d109" sha1="2cebba7483ce6d5e6e89d41077724b9f6bd2f93f"/>
+		<rom name="Durarara!!, Vol. 09 (596)\metadata.opf" size="2931" crc="0dd92f07" md5="54476abc5fe2f21843c293a0e48ccc17" sha1="c1aa863ff9fe27512a03f0636a24d1a3ee9f87e2"/>
+		<rom name="Durarara!!, Vol. 10 (595)\cover.jpg" size="1476354" crc="2dbf9deb" md5="e18502384dda8db588c34ef138d03007" sha1="4f67abc7cffebed757e6c014daed0e67cf0d9ef6"/>
+		<rom name="Durarara!!, Vol. 10 (595)\Durarara!!, Vol. 10 - Ryohgo Narita.epub" size="11637583" crc="e6c37832" md5="b76ef8a814761dc5f0855f63f06a53a6" sha1="ed0dd122d736ea9fc504aa4991d47214263ac622"/>
+		<rom name="Durarara!!, Vol. 10 (595)\metadata.opf" size="2570" crc="d587d4bd" md5="65edba7da03c62ddaa5248c555658b19" sha1="25f3429d0090b35ad73029f85a1796c9edaac7b3"/>
+		<rom name="Durarara!!, Vol. 11 (593)\cover.jpg" size="625504" crc="513838d9" md5="7e432973db1e664ddf5929d39f5cf321" sha1="9f49546cfff5c4fdd195b683138e45b66f96d872"/>
+		<rom name="Durarara!!, Vol. 11 (593)\Durarara!!, Vol. 11 - Ryohgo Narita.epub" size="11191566" crc="67bbd37c" md5="6182de8216da6e0de36a162c3143d72a" sha1="7d037fc2e1f61d780e7a4b152d5814fcd45df5cd"/>
+		<rom name="Durarara!!, Vol. 11 (593)\metadata.opf" size="2461" crc="9d0c517f" md5="37232130f9bcf015fd2d98c08ded921d" sha1="92b4a1e13442925b9503cd2e67ccf7958ac11fb7"/>
+		<rom name="Durarara!!, Vol. 12 (594)\cover.jpg" size="1348026" crc="b08e69e0" md5="8e60d08c3de4d6db6c2dab24dc4e79fb" sha1="7226ccf86f6e0b05fef75454f3b537dbfa35b48f"/>
+		<rom name="Durarara!!, Vol. 12 (594)\Durarara!!, Vol. 12 - Ryohgo Narita.epub" size="9941310" crc="3601e2a1" md5="49cf465e3b92c14839a6aef4d99431e2" sha1="4d2997609955a037da041d300479929c9ea908f3"/>
+		<rom name="Durarara!!, Vol. 12 (594)\metadata.opf" size="2904" crc="07b69e3a" md5="5c006b3a919399e5815785b0164bcf9e" sha1="571453898340e99a25b4ba9ad0441b25fe0cdec1"/>
+		<rom name="Durarara!!, Vol. 13 (592)\cover.jpg" size="591176" crc="e9e64dc5" md5="41072f71c78b06a1eea36cf936bf916b" sha1="35f761e5ceb48e826532b851c9f5b356b8f71c02"/>
+		<rom name="Durarara!!, Vol. 13 (592)\Durarara!!, Vol. 13 - Ryohgo Narita.epub" size="4462400" crc="40a605dc" md5="543885bad2d927cb90f35a119b68b53c" sha1="812dae0abfba36a7b4efa086cd1a059da96ed355"/>
+		<rom name="Durarara!!, Vol. 13 (592)\metadata.opf" size="3068" crc="c419fedd" md5="bd728a56faa47f598ce453495c3a159c" sha1="39239f0afa38eed17420147ae9a6e6c8e4e5312c"/>
+	</machine>
+	<machine name="Ryuuou">
+		<description>Ryuuou</description>
+		<rom name="Even Dogs Go to Other Worlds_ Life in Another World with My Beloved Hound, Vol. 01 (608)\cover.jpg" size="708477" crc="b34dde93" md5="e46314e66c94a8734104a578b9910181" sha1="1976782e13b9c981d4fc339e189918ce3fbfb221"/>
+		<rom name="Even Dogs Go to Other Worlds_ Life in Another World with My Beloved Hound, Vol. 01 (608)\Even Dogs Go to Other Worlds_ Life in Anot - Ryuuou.epub" size="17865805" crc="237f659c" md5="c3d33d28a98da18d58be4b199acc192e" sha1="0cf5518c7d9aded2cb17c3e9657df81c40e375b8"/>
+		<rom name="Even Dogs Go to Other Worlds_ Life in Another World with My Beloved Hound, Vol. 01 (608)\metadata.opf" size="2977" crc="5de7b7ca" md5="1a16e8fbca8be65783d97e57878bc621" sha1="9800e2c600cdf10b363a8607e68b5e14c1773b85"/>
 	</machine>
 	<machine name="Sana Shirakawa">
 		<description>Sana Shirakawa</description>
@@ -1563,6 +1698,21 @@
 		<rom name="Demon King Daimaou, Vol. 13 (440)\Demon King Daimaou, Vol. 13 - Shoutarou Mizuki.epub" size="26078605" crc="022007c6" md5="7a342585682984d0bfec38014d39fd30" sha1="74cc47463406b1bfbe2caff4a4c6df496a5db4e6"/>
 		<rom name="Demon King Daimaou, Vol. 13 (440)\metadata.opf" size="2819" crc="4317054e" md5="32635fc3b10efa3a7ef944b888720212" sha1="efe880212d3cc7931d633d8f0e5a1b5774665c29"/>
 	</machine>
+	<machine name="Souki Tsukishima">
+		<description>Souki Tsukishima</description>
+		<rom name="Emeth_ Island of Golems (607)\cover.jpg" size="826657" crc="d623ea60" md5="a9c60f6f6e81ab093d09840a2b111ef0" sha1="a505ea8fb5bf90aae797721c804c12eeef1781d1"/>
+		<rom name="Emeth_ Island of Golems (607)\Emeth_ Island of Golems - Souki Tsukishima.epub" size="8958198" crc="43600d3b" md5="313bd00e95ef0f7faed9081857b4ac9f" sha1="5ffd679d701a3879564d6248399aafad62877bec"/>
+		<rom name="Emeth_ Island of Golems (607)\metadata.opf" size="3849" crc="b1ce0a40" md5="375cb891af5245bc62ca20975fdb2ffa" sha1="7d9edd5af87a4b4b02c02c010fff0be9e1b83481"/>
+	</machine>
+	<machine name="Suzu Enoshima">
+		<description>Suzu Enoshima</description>
+		<rom name="Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte_ Disc 1 (606)\cover.jpg" size="802553" crc="d2abd042" md5="bbad046b845571c8b48e7b6bbeec2625" sha1="eeb7306102517a34f913ca28dd0e8845d163b015"/>
+		<rom name="Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte_ Disc 1 (606)\Endo and Kobayashi Live! The Latest on Tsu - Suzu Enoshima.epub" size="11581352" crc="9bc4f828" md5="51bed867a60ceabfdb90f52b7c813af2" sha1="a2448c32181731a21d01b82fa0c9dda1764a9186"/>
+		<rom name="Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte_ Disc 1 (606)\metadata.opf" size="2801" crc="dadff71e" md5="7edef654d2a71ff3587afd21fa72f4ec" sha1="b4b42b83d33f40e4f01f9e0ac51e65710944d977"/>
+		<rom name="Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte_ Disc 2 (609)\cover.jpg" size="791871" crc="57123d33" md5="57acb96575122df9091f3a2e208b0bee" sha1="30c6e01dacf342cad1a06a514620bb654d8ed1c0"/>
+		<rom name="Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte_ Disc 2 (609)\Endo and Kobayashi Live! The Latest on Tsu - Suzu Enoshima.epub" size="13999506" crc="878682f1" md5="209f31504b703cd6e62850d0065b292e" sha1="a5ddf73e94de277aa43641abfd0c9cb93a30b716"/>
+		<rom name="Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte_ Disc 2 (609)\metadata.opf" size="2817" crc="b958cbc7" md5="66d399d7f384f0f27e0079c01609281f" sha1="299b680c18c33e7a0fe58576e133b8548ebe00e9"/>
+	</machine>
 	<machine name="Syougo Kinugasa">
 		<description>Syougo Kinugasa</description>
 		<rom name="Classroom of the Elite, Vol. 01 (280)\Classroom of the Elite, Vol. 01 - Syougo Kinugasa.epub" size="9577682" crc="242a5f08" md5="92a6edabae8b7dd3ec6752a482e125b9" sha1="30b392830d0508f295eab4c5ca50f1c2234716a4"/>
@@ -1577,15 +1727,15 @@
 		<rom name="Classroom of the Elite, Vol. 04 (284)\Classroom of the Elite, Vol. 04 - Syougo Kinugasa.epub" size="11387252" crc="e8d3beb1" md5="b015bc2bcfc99cf759aaddbb575c0001" sha1="23e72b12f53480143d93afc9f7820919e2269b02"/>
 		<rom name="Classroom of the Elite, Vol. 04 (284)\cover.jpg" size="763269" crc="311c70f1" md5="85fd6b22a96884ceef87d73480199e64" sha1="f194fa7e86308c4005490ea0ebe3baf0702c1c1e"/>
 		<rom name="Classroom of the Elite, Vol. 04 (284)\metadata.opf" size="2651" crc="096c5097" md5="a7b50574d650c863bec8d6de8ba360b0" sha1="881c9761bc33986839e2cc0cc4a17e7bc4fe6515"/>
-		<rom name="Classroom of the Elite, Vol. 04.5 (285)\Classroom of the Elite, Vol. 04.5 - Syougo Kinugasa.epub" size="9077391" crc="7137ba28" md5="5d11d18f491b1515c40ad34ac5f94eef" sha1="6d093d810456878fd217a80f8a73242034bb1856"/>
+		<rom name="Classroom of the Elite, Vol. 04.5 (285)\Classroom of the Elite, Vol. 04.5 - Syougo Kinugasa.epub" size="6184594" crc="4e6f2c62" md5="29e1143627716282adde30a981a9357b" sha1="4f0f6dad39394bfbe2ee3ba474ed46f01abf4e5a"/>
 		<rom name="Classroom of the Elite, Vol. 04.5 (285)\cover.jpg" size="1894977" crc="f9cacef3" md5="38a55a8935e9ecca663aeaa4ac56f1c5" sha1="400ad6dd63dc34ceb0add813d30c240b40d37f78"/>
-		<rom name="Classroom of the Elite, Vol. 04.5 (285)\metadata.opf" size="2859" crc="f09f85e5" md5="b16b3915add8002b872f878b2942a22f" sha1="67541500f23696eca13f77877430f4477e0b60ab"/>
+		<rom name="Classroom of the Elite, Vol. 04.5 (285)\metadata.opf" size="2858" crc="68ba647d" md5="b1f9c2dd4592ff296da7f2e37f6f9378" sha1="1f96f6639cf7d6f9ebcc7f376dcdc11ce67bca5f"/>
 		<rom name="Classroom of the Elite, Vol. 05 (283)\Classroom of the Elite, Vol. 05 - Syougo Kinugasa.epub" size="6989882" crc="4f9fb957" md5="122037bbe58e7004cef9d70031cb0c13" sha1="96dd9bfa13c95a286485cdcf975855ae2fe23542"/>
 		<rom name="Classroom of the Elite, Vol. 05 (283)\cover.jpg" size="665849" crc="12cc8f0b" md5="4280f2350529acd7c59269b106b91162" sha1="eea48988861e4b5ec0198f644ad78961041e6f3f"/>
 		<rom name="Classroom of the Elite, Vol. 05 (283)\metadata.opf" size="2645" crc="8fbe04ff" md5="c6636af509396725f5674064d03203fb" sha1="b848fce34aad8b8a16d4e89c0333581499c54d9f"/>
-		<rom name="Classroom of the Elite, Vol. 06 (282)\Classroom of the Elite, Vol. 06 - Syougo Kinugasa.epub" size="5569586" crc="77e7d04b" md5="196c08a09dc5d26f9684d57ae3cac28d" sha1="2f8664f1ee6b353cc7959978b935c96f7164e491"/>
+		<rom name="Classroom of the Elite, Vol. 06 (282)\Classroom of the Elite, Vol. 06 - Syougo Kinugasa.epub" size="5587161" crc="f30b2625" md5="b3763404b50e2d25d63214a4676df2e4" sha1="482db790d659920ce89771eb79f65088a839beb3"/>
 		<rom name="Classroom of the Elite, Vol. 06 (282)\cover.jpg" size="647442" crc="30746b94" md5="3308d532b041699f8dde4d8d6340aa2f" sha1="1556ba1f67ceca238323266b7439c9711b38997f"/>
-		<rom name="Classroom of the Elite, Vol. 06 (282)\metadata.opf" size="2608" crc="52ae8791" md5="d8e2e0d6ba0bf31a7e227d48047949c5" sha1="5c4989c8e545d7effcbe136f8d0b93bf7937e3f5"/>
+		<rom name="Classroom of the Elite, Vol. 06 (282)\metadata.opf" size="2608" crc="e13a5683" md5="cce898e8c3a33ddbfcc1098037a08571" sha1="92332e47fac00dc8d6e3128e6e5e5513608901b6"/>
 		<rom name="Classroom of the Elite, Vol. 07 (281)\Classroom of the Elite, Vol. 07 - Syougo Kinugasa.epub" size="14048945" crc="714ced8c" md5="26607417fde6c6a13a682b2c47b9ccd5" sha1="77e323fa02ea3b5fece1d6702504235e2e497d98"/>
 		<rom name="Classroom of the Elite, Vol. 07 (281)\cover.jpg" size="1026758" crc="d6c788af" md5="81a288f080753d5e05e24632743315ef" sha1="0db2e84f3f7aaf816254f59bc85f7c1c4a788336"/>
 		<rom name="Classroom of the Elite, Vol. 07 (281)\metadata.opf" size="2634" crc="6d43fbaf" md5="d857c99dad00dff35572f48aa983817d" sha1="a045d1408751c6e6514a417bbb80770ccc85f666"/>
@@ -1598,6 +1748,12 @@
 		<rom name="Classroom of the Elite, Vol. 09 (305)\Classroom of the Elite, Vol. 09 - Syougo Kinugasa.epub" size="18838405" crc="1d29f6ad" md5="1822817ce3764b42ef169faf826cf80c" sha1="257569516080029f65ac5272c8772a19abadeef1"/>
 		<rom name="Classroom of the Elite, Vol. 09 (305)\cover.jpg" size="1766914" crc="ceabbd80" md5="f5322c12dff0905574e101fb4edd678f" sha1="21af9bfddacaf20805e256f1f4af824d8f4d37b8"/>
 		<rom name="Classroom of the Elite, Vol. 09 (305)\metadata.opf" size="2739" crc="2df938a1" md5="c7b343630baba0938628cc074790479a" sha1="e6a920b0748e9fed67b75083565063af12dff2b1"/>
+		<rom name="Classroom of the Elite, Vol. 10 (561)\Classroom of the Elite, Vol. 10 - Syougo Kinugasa.epub" size="9574560" crc="eafacbfa" md5="e3ba7b0811f0d112a94e6dcbdf3f0b5c" sha1="3271631050455df6bcd3c98ef21a3f6593974b96"/>
+		<rom name="Classroom of the Elite, Vol. 10 (561)\cover.jpg" size="1277010" crc="b3561010" md5="6a38812233e55c5cc972f5bccf9d06cd" sha1="20048907b4c2e7918bbfc8af9dbdc827ced0f615"/>
+		<rom name="Classroom of the Elite, Vol. 10 (561)\metadata.opf" size="2944" crc="1c02bb83" md5="091f3d87529f874c977ce9beeca252f8" sha1="ac0c62eacf7bcb724f4dd611ec79af301a5d4c4e"/>
+		<rom name="Classroom of the Elite, Vol. 11 (585)\Classroom of the Elite, Vol. 11 - Syougo Kinugasa.epub" size="7910027" crc="3d7844e4" md5="82040ba10b9e3b2d1dd5bf82b9be8065" sha1="e894deff397cadc8a617dcb5a06cef3e19ef7638"/>
+		<rom name="Classroom of the Elite, Vol. 11 (585)\cover.jpg" size="1421908" crc="34a50b9a" md5="4ea616eedde0052b31163bc1f95e29f3" sha1="d7de7848924204107399b34d89bbb56e8ca66bb0"/>
+		<rom name="Classroom of the Elite, Vol. 11 (585)\metadata.opf" size="2911" crc="a81a288b" md5="0c5d1e0fc1189cc75bd679a14b6c8400" sha1="c844d530331f33e926e5451f800cb13f74c3bb2a"/>
 	</machine>
 	<machine name="Tadanori Kurashita">
 		<description>Tadanori Kurashita</description>
@@ -1640,6 +1796,9 @@
 		<rom name="A Tale of the Secret Saint, Vol. 01 (322)\A Tale of the Secret Saint, Vol. 01 - Touya.epub" size="4625767" crc="ea2df6ce" md5="d11074b2a2963257654d72910880e422" sha1="a308d29119c15e536cb66fa786786295b5706f9f"/>
 		<rom name="A Tale of the Secret Saint, Vol. 01 (322)\cover.jpg" size="622987" crc="28cebccc" md5="1fc4a7951abdb57bf0f20f10881d36b6" sha1="73e85c4ed1fe45ddc57a554bcd948a9095f77e65"/>
 		<rom name="A Tale of the Secret Saint, Vol. 01 (322)\metadata.opf" size="2770" crc="d9279326" md5="f44db166bf5d91e8b76bd3fa96d9ae82" sha1="d630315f5b75df951a52e47c08328b03d422187f"/>
+		<rom name="A Tale of the Secret Saint, Vol. 02 (562)\A Tale of the Secret Saint, Vol. 02 - Touya.epub" size="6635915" crc="c189757c" md5="dd37084c2a4fbff0bdafaa68b235d06e" sha1="a551c8ffccbba6a8fa04c18d53a2b11d9a7134d5"/>
+		<rom name="A Tale of the Secret Saint, Vol. 02 (562)\cover.jpg" size="688685" crc="b49487af" md5="25bf346bbdc6de576bc4466aac28d13e" sha1="d079210a658b6e87e9447b00fecb087a3a644666"/>
+		<rom name="A Tale of the Secret Saint, Vol. 02 (562)\metadata.opf" size="2500" crc="03f22b3e" md5="79cbc51a7ff14c6cab222b6ed1e31b08" sha1="1813202b48ebcdf4bbee7efdb29e4297d1515311"/>
 	</machine>
 	<machine name="Tsukikage">
 		<description>Tsukikage</description>
@@ -1679,6 +1838,12 @@
 		<rom name="Can Someone Please Explain What's Going On_!, Vol. 07 (522)\Can Someone Please Explain What's Going On - Tsuredurebana.epub" size="11581781" crc="24c9f9ca" md5="8ed79096e3a00c6c0223d9fb4f4cab86" sha1="563ed2fb20a67dc624c3d8d210c42759efaec8ff"/>
 		<rom name="Can Someone Please Explain What's Going On_!, Vol. 07 (522)\cover.jpg" size="943189" crc="f3bd9656" md5="0c5e493d881c2ab8e39b6f0fcd1d4bcd" sha1="33e86bde784f40b8ce9aa336fc35a17edfc7a485"/>
 		<rom name="Can Someone Please Explain What's Going On_!, Vol. 07 (522)\metadata.opf" size="2888" crc="9db58b4d" md5="90b534cbdfa8e1816a94ed32c5e4cb38" sha1="9c02a053eb991de45852dfb98a388c0d1108e8e1"/>
+		<rom name="Can Someone Please Explain What's Going On_!, Vol. 08 (560)\Can Someone Please Explain What's Going On - Tsuredurebana.epub" size="12536295" crc="392e8a9d" md5="cad51bc08e6d9517339ccc3fe0f02eaa" sha1="01ee6e2708c35b7bd8882fdfec488ae81f2c76f9"/>
+		<rom name="Can Someone Please Explain What's Going On_!, Vol. 08 (560)\cover.jpg" size="958184" crc="1045bb33" md5="db8a3db0ad003132a9ff9f74aca707f3" sha1="65df6a7b5c72611a3d09128c6d7376997df722bb"/>
+		<rom name="Can Someone Please Explain What's Going On_!, Vol. 08 (560)\metadata.opf" size="2862" crc="5b69835e" md5="2bedeb5e95b87a1b66b1474b5f2147ea" sha1="b6eef3b57044ab2e1d789caebfc2cd2ac9c6a6f9"/>
+		<rom name="Can Someone Please Explain What's Going On_!, Vol. 09 (584)\Can Someone Please Explain What's Going On - Tsuredurebana.epub" size="17629714" crc="86eb76fa" md5="5d8625e106f68849559930723c80dc62" sha1="d50419cb9611048295c5c1b2a9ac60976557e638"/>
+		<rom name="Can Someone Please Explain What's Going On_!, Vol. 09 (584)\cover.jpg" size="2465693" crc="0dc17fa1" md5="4371eec3b9b9a6e10682bc54058a66b4" sha1="6d36fdb09fc7160845d800d440758c93993bd88a"/>
+		<rom name="Can Someone Please Explain What's Going On_!, Vol. 09 (584)\metadata.opf" size="2697" crc="1416394f" md5="0269b8122ab497cdd8706f0ca611fe6e" sha1="f8ee330fb8134640f2d6271f18d72faad344ecf5"/>
 	</machine>
 	<machine name="Yomi Hirasaka">
 		<description>Yomi Hirasaka</description>
@@ -1771,7 +1936,10 @@
 		<rom name="Bottom-Tier Character Tomozaki, Vol. 06.5 (302)\metadata.opf" size="2690" crc="67610f8e" md5="cb6608c9c0845ef073ecc1ec16b5b444" sha1="f3a3a535a438bde5e163077251af968976d63396"/>
 		<rom name="Bottom-Tier Character Tomozaki, Vol. 07 (545)\Bottom-Tier Character Tomozaki, Vol. 07 - Yuki Yaku.epub" size="12942155" crc="46e8392a" md5="41636a68e261175e18070cad3c28600a" sha1="9ef26f078afe575e3cf1cb3285b7d73bbe6133d5"/>
 		<rom name="Bottom-Tier Character Tomozaki, Vol. 07 (545)\cover.jpg" size="464464" crc="20d2750a" md5="5c5e6952a2415e58a00934280ce6b271" sha1="dd62e897fa7fb00eac09430d263478d54a75ddee"/>
-		<rom name="Bottom-Tier Character Tomozaki, Vol. 07 (545)\metadata.opf" size="2859" crc="815bfe3f" md5="2a4f53f5b81a91cee71571bae0aa9973" sha1="32bb1b175cc08ec1fdc6d8e5a40a6ef1b66c8c27"/>
+		<rom name="Bottom-Tier Character Tomozaki, Vol. 07 (545)\metadata.opf" size="2827" crc="80e8a711" md5="038ffbcdb3a4aaf1ce3a6f18591b3d38" sha1="5f7702bbdfcd5bf35ebb0dc72a05b7ca142014a0"/>
+		<rom name="Bottom-Tier Character Tomozaki, Vol. 08 (583)\Bottom-Tier Character Tomozaki, Vol. 08 - Yuki Yaku.epub" size="13455830" crc="ed335037" md5="11e34cbfeb240719e2d061dfff201bbf" sha1="a2cfb688853515ea45bf1ee8a488e577bb5dcd3c"/>
+		<rom name="Bottom-Tier Character Tomozaki, Vol. 08 (583)\cover.jpg" size="408775" crc="da408fe7" md5="99b73611dfe62745880afad5b859fbe0" sha1="001227ea79a7c572b931ca2403c3fdff3f65991f"/>
+		<rom name="Bottom-Tier Character Tomozaki, Vol. 08 (583)\metadata.opf" size="2822" crc="870fd2fc" md5="70a6c6d636f4dd9fcc03e1675fbb3a12" sha1="2d0feb53b2b4729419d4588abd11dd3a6f7fa6ca"/>
 	</machine>
 	<machine name="Yukito Ayatsuji">
 		<description>Yukito Ayatsuji</description>
@@ -1820,6 +1988,12 @@
 		<rom name="Altina the Sword Princess, Vol. 11 (518)\Altina the Sword Princess, Vol. 11 - Yukiya Murasaki.epub" size="54409147" crc="7be6b480" md5="93b8a372840f3e912cb208ef7a90e945" sha1="98c5dc0ce8df438f9551d3273fda9921bec041ef"/>
 		<rom name="Altina the Sword Princess, Vol. 11 (518)\cover.jpg" size="972087" crc="58958b58" md5="9e2408d42c9b5b5cdf43a09051bb1170" sha1="a893e6e282a314b298aa27ae170c11661bfacec5"/>
 		<rom name="Altina the Sword Princess, Vol. 11 (518)\metadata.opf" size="3079" crc="6c678594" md5="1a0849ce4f6af6210f4dfa158057d3eb" sha1="dc1964d2d95a7b33ec63c4ba3cb86e92fba5b4ed"/>
+		<rom name="Altina the Sword Princess, Vol. 12 (557)\Altina the Sword Princess, Vol. 12 - Yukiya Murasaki.epub" size="57873734" crc="8140f885" md5="27499c2b0ff550a06db3512f8c6e041a" sha1="a5de694c8afcbcf1bc281b07b265a8303840ef83"/>
+		<rom name="Altina the Sword Princess, Vol. 12 (557)\cover.jpg" size="2132009" crc="810be948" md5="ae9e58fe4d5da997b2452b981780ce16" sha1="6fddb0814a6c20f1471374a761938b3e2f18b6b6"/>
+		<rom name="Altina the Sword Princess, Vol. 12 (557)\metadata.opf" size="2948" crc="79e462c2" md5="c7f95f616378ddef0b6831617a05e305" sha1="cfb26675f3aea48691bcc4e03d48365ad4dab72a"/>
+		<rom name="Altina the Sword Princess, Vol. 13 (563)\Altina the Sword Princess, Vol. 13 - Yukiya Murasaki.epub" size="35831313" crc="d494d1b4" md5="81f1c007a613ff02f97e5b54d0110dae" sha1="f47a8f33d0f8d527b935dd6a7c0d1a3c359549c7"/>
+		<rom name="Altina the Sword Princess, Vol. 13 (563)\cover.jpg" size="1761074" crc="91c44ffe" md5="742cd41dd89c2bb98df83117199775d2" sha1="cc70aebf8f2c727df43542f3f798182c2a296263"/>
+		<rom name="Altina the Sword Princess, Vol. 13 (563)\metadata.opf" size="3077" crc="88ff3d2d" md5="a9e5d2c286494286b53aaa35024e10ce" sha1="88c25a080a486168f975d328cb97e7ff598eca71"/>
 		<rom name="Altina the Sword Princess_ Loose Threads (164)\Altina the Sword Princess_ Loose Threads - Yukiya Murasaki.epub" size="56326400" crc="1802c261" md5="509583a03b51a847ac92f97dae0f5396" sha1="c8e73f5da86a486e14476b99bd9aefe487f4b09b"/>
 		<rom name="Altina the Sword Princess_ Loose Threads (164)\cover.jpg" size="2695506" crc="216c7010" md5="11acab916b82a760f68f99705defb774" sha1="5789095c1107038857506cbbaebe93417378e32e"/>
 		<rom name="Altina the Sword Princess_ Loose Threads (164)\metadata.opf" size="3161" crc="f3a88c2f" md5="edb5168e9d03600b4d1edb1b8cd4207c" sha1="b2c9e5c5aac5c7570c0e963463a3a33d3ae8fc8f"/>
@@ -1898,6 +2072,9 @@
 		<rom name="A Late-Start Tamer's Laid-Back Life, Vol. 01 (498)\A Late-Start Tamer's Laid-Back Life, Vol. - Yuu Tanaka.epub" size="10578625" crc="aa0e0abf" md5="c3cd6ea11a5fb837426a12b8899e8aaa" sha1="805d31447e3005fb605fd7d31222aafe358605dc"/>
 		<rom name="A Late-Start Tamer's Laid-Back Life, Vol. 01 (498)\cover.jpg" size="950860" crc="9aabafdb" md5="fc97c7f22c9f61d05c4409313459b281" sha1="6ad3396b25fcea2f346a354ed89d5f61ccf88dd6"/>
 		<rom name="A Late-Start Tamer's Laid-Back Life, Vol. 01 (498)\metadata.opf" size="3114" crc="acbc600c" md5="510a500d7e04784f46b45b15c03f814b" sha1="d739d93c3ce6d749fe11fda6958468e756bc51fc"/>
+		<rom name="A Late-Start Tamer's Laid-Back Life, Vol. 02 (556)\A Late-Start Tamer's Laid-Back Life, Vol. - Yuu Tanaka.epub" size="10742092" crc="128bc498" md5="136422556fbc18f52416af82ace9b105" sha1="573c9b25f7811196bda8e238924cee61767c9129"/>
+		<rom name="A Late-Start Tamer's Laid-Back Life, Vol. 02 (556)\cover.jpg" size="1054632" crc="fec2d07a" md5="6a37c8e47c0a29d80d23aa98f0438624" sha1="be7245e1a59a161f1a446b727f3f511d2d82ff47"/>
+		<rom name="A Late-Start Tamer's Laid-Back Life, Vol. 02 (556)\metadata.opf" size="2658" crc="25fb4312" md5="6c3f11c6cecc021ddfb1b5c4dc7b33a1" sha1="c30cf807423e10921df10faf71a21bcbf81b251a"/>
 	</machine>
 	<machine name="Yuumikan">
 		<description>Yuumikan</description>
@@ -1914,19 +2091,22 @@
 		<rom name="Bofuri_ I Don't Want to Get Hurt, So I'll Max Out My Defense., Vol. 04 (544)\cover.jpg" size="590963" crc="3668926d" md5="c855f6d1cc7749a7c4459a42e127cb11" sha1="086e03ddde918ce69d62b3f6b5b5ceda7a26c660"/>
 		<rom name="Bofuri_ I Don't Want to Get Hurt, So I'll Max Out My Defense., Vol. 04 (544)\metadata.opf" size="2923" crc="afa75bb9" md5="85a5181986f1717a884a777adbef787b" sha1="67da288706cc1eb3fbe790da9e240b7c407d38c7"/>
 	</machine>
-	<machine name="Zappon">
-		<description>Zappon</description>
-		<rom name="Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 01 (178)\Banished From the Hero's Party, I Decided - Zappon.epub" size="14230441" crc="2d3df47f" md5="de9ae4684b401060929b386618b95ebd" sha1="b1f5af698c9c4256e21106873c226e4b8914dd0b"/>
+	<machine name="ZAPPON">
+		<description>ZAPPON</description>
+		<rom name="Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 01 (178)\Banished From the Hero's Party, I Decided - ZAPPON.epub" size="14230441" crc="2d3df47f" md5="de9ae4684b401060929b386618b95ebd" sha1="b1f5af698c9c4256e21106873c226e4b8914dd0b"/>
 		<rom name="Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 01 (178)\cover.jpg" size="626105" crc="8a2e4018" md5="825e9648976bafd0cd09b53e08194705" sha1="376f1b28d28d973494815b0e29feaf5a02ae2b10"/>
-		<rom name="Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 01 (178)\metadata.opf" size="2979" crc="17e4f2d3" md5="8ffd56329307f0f774dd0e15ef1f4d00" sha1="962d8de1dbcfcf66c6ef19d0743d24bf31e7bb39"/>
-		<rom name="Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 02 (179)\Banished From the Hero's Party, I Decided - Zappon.epub" size="13931723" crc="baee04e8" md5="70a9fccc89e2fa380446410957ecf4e3" sha1="54075576226659e401102855f33d5e525c0b89a9"/>
+		<rom name="Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 01 (178)\metadata.opf" size="2979" crc="25f29fd5" md5="8cc2db35f7eb6493fc5ea27150b95a58" sha1="e7de8a9ced886752b04b289abeaa49abf41bce2d"/>
+		<rom name="Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 02 (179)\Banished From the Hero's Party, I Decided - ZAPPON.epub" size="13931723" crc="baee04e8" md5="70a9fccc89e2fa380446410957ecf4e3" sha1="54075576226659e401102855f33d5e525c0b89a9"/>
 		<rom name="Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 02 (179)\cover.jpg" size="576923" crc="2c128ae4" md5="ae8d3034dfab213e5a8ca5be5c28d07e" sha1="9991402bb01326928a7d89a1a6ff49da6c19b2f3"/>
-		<rom name="Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 02 (179)\metadata.opf" size="2910" crc="79711d69" md5="00c46012f2b5c322803d6b1a95711d4a" sha1="993990f2fce1c3e13266fb49ac669dfc08b811b4"/>
-		<rom name="Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 03 (180)\Banished From the Hero's Party, I Decided - Zappon.epub" size="14421015" crc="6f4434fc" md5="99c5e03b5c928a4911d28e89a514372f" sha1="34af2cdf95cc6c61b32cc9fd438eabb551a006c2"/>
+		<rom name="Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 02 (179)\metadata.opf" size="2910" crc="bd94153d" md5="3e7e6e73b266e26f0b6e72115486f208" sha1="8cc5bf4f858bf61d5c7d46280d7573614172268f"/>
+		<rom name="Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 03 (180)\Banished From the Hero's Party, I Decided - ZAPPON.epub" size="14421015" crc="6f4434fc" md5="99c5e03b5c928a4911d28e89a514372f" sha1="34af2cdf95cc6c61b32cc9fd438eabb551a006c2"/>
 		<rom name="Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 03 (180)\cover.jpg" size="506814" crc="61a751dd" md5="c8c28068058481e5f65dce1d4e69af44" sha1="5f47e25768f7a27e031eb93086a8b61c8c2f25fc"/>
-		<rom name="Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 03 (180)\metadata.opf" size="2746" crc="ce30e025" md5="5cc9611ad2ef280e8fe9853d532d5d80" sha1="33433a1064efbd763a6cff6e6f295bc593b8625d"/>
-		<rom name="Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 04 (491)\Banished From the Hero's Party, I Decided - Zappon.epub" size="15334376" crc="5d75b79a" md5="fd4d6f9daa3ade54479cd056f08ab99d" sha1="9c8bf7756b3b2a83c7149c87639439bf4b57c208"/>
+		<rom name="Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 03 (180)\metadata.opf" size="2746" crc="f8ee8903" md5="ca6fc118457d8649c52804b9a07cd08b" sha1="e2f6eeb56ebb506e622d62621ad69efa7c82716d"/>
+		<rom name="Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 04 (491)\Banished From the Hero's Party, I Decided - ZAPPON.epub" size="15334376" crc="5d75b79a" md5="fd4d6f9daa3ade54479cd056f08ab99d" sha1="9c8bf7756b3b2a83c7149c87639439bf4b57c208"/>
 		<rom name="Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 04 (491)\cover.jpg" size="607701" crc="252d4144" md5="fe02ad469efca6775f8109eb71d560f2" sha1="923711e062cc8b4ed33612b471ead80abe9248f6"/>
-		<rom name="Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 04 (491)\metadata.opf" size="3092" crc="5872102f" md5="e780544704d47a2eb37b332346879cc8" sha1="6658ec71375f93605591647cf3f9f4738556390c"/>
+		<rom name="Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 04 (491)\metadata.opf" size="3085" crc="62599222" md5="21144056ca7b1309a321b48ea448974a" sha1="d92e503a44d5dfe352404fb18975d6bd795785f5"/>
+		<rom name="Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 05 (559)\Banished From the Hero's Party, I Decided - ZAPPON.epub" size="17730000" crc="f72f015f" md5="4323d6b80cde539b8e8a6f6d0ecc03e0" sha1="ff171557dc9f55ea67a5f7e33593a9809bacdf87"/>
+		<rom name="Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 05 (559)\cover.jpg" size="573358" crc="de830f5c" md5="9a130cc1a62b34db0575688ef0ae7fa1" sha1="db04819880f8253b74cd8d81c5c69a1e9470757a"/>
+		<rom name="Banished From the Hero's Party, I Decided to Live a Quiet Life in the Countryside, Vol. 05 (559)\metadata.opf" size="3067" crc="8cc4fead" md5="01654c1cb326bceaf32c1f2c36530656" sha1="44a3a1e7bbb9bcb18752c06458b37a8be042a3f2"/>
 	</machine>
 </datafile>

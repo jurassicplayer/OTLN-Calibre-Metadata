@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">604</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7550606-4a7d-4ee8-a72b-4b62ca8247c2</dc:identifier>
+        <dc:title>Durarara!! SH, Vol. 03</dc:title>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Yasuda, Suzuhito" opf:role="aut">Ryohgo Narita</dc:creator>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Yasuda, Suzuhito" opf:role="aut">Suzuhito Yasuda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-22T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;Love and hate are two sides of the same coin.&lt;/p&gt;
+&lt;p&gt;A year and a half has passed since the end of the Dollars, and now a series of assaults has the streets in a frenzy. The culprit? Someone cosplaying a character from an anime set in Ikebukuro! Meanwhile, Yahiro’s group has started solving local squabbles under the moniker “Snake Hands.” Their latest clients are Yumasaki and Karisawa, who want them to find the costumed assailant. This string of incidents also reminds the Headless Rider of the terror wrought by a certain slasher not too long ago… When people become consumed by their own obsessions, are extreme fans and extreme haters really all that different? Ikebukuro is about to find out!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975323493</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">58852550</dc:identifier>
+        <dc:identifier opf:scheme="ISBN-13">9781975323486</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">durarara-sh-vol-3-light-novel</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ryohgo Narita&quot;: &quot;&quot;, &quot;Suzuhito Yasuda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Durarara!! SH"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-11T01:41:47.532447+00:00"/>
+        <meta name="calibre:title_sort" content="Durarara!! SH, Vol. 03"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

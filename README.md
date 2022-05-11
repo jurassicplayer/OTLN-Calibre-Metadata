@@ -15,6 +15,7 @@ These instructions will copy files from the ToSort folders to the target Calibre
 - Execute RomVault and perform the following configurations:
     - On the menu bar, use `Add ToSort` and select the OTLN folder to add OTLN as a source path
     - Use `Add ToSort` again and select the `OTLN-Calibre-Metadata/metadata` folder as a source path
+        ![main_window](https://user-images.githubusercontent.com/5753435/167808225-0a76a1b7-69c1-40d8-aa6b-9976c02a2e32.png)
     - On the menu bar, open the `Settings => RomVault Settings`
         - Add the following filename rules in the large text input box:
             ```
@@ -25,6 +26,8 @@ These instructions will copy files from the ToSort folders to the target Calibre
             *.zip
             ```
         - Press OK
+
+        ![romvault_settings](https://user-images.githubusercontent.com/5753435/167808189-04bfd90c-0f66-49de-821a-a77b14f921cc.png)
     - On the menu bar, open the `Settings => Directory Settings`
         - Set the `Dir Location` to your `Light Novels` Calibre Library folder
         - Set `Archive Type` to `File`
@@ -34,6 +37,8 @@ These instructions will copy files from the ToSort folders to the target Calibre
             *.jpg
             ```
         - Press the `Apply` button and then `Done`
+        
+        ![directory_settings](https://user-images.githubusercontent.com/5753435/167808489-d0b23a98-58dc-4803-97c6-fa0e6b0dc16a.png)
     - Close and re-open RomVault (This step is just in case)
     - Click `Update DATs`, then `Scan ROMs`, then `Find Fixes`, then `Fix ROMs`
     - Wait for the fixing to be completed (button will change to `Close`)

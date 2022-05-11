@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">608</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">21fbe120-d622-4e15-a5ad-e5d425d076e2</dc:identifier>
+        <dc:title>Even Dogs Go to Other Worlds: Life in Another World with My Beloved Hound, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Ryuuou &amp; Ririnra" opf:role="aut">Ryuuou</dc:creator>
+        <dc:creator opf:file-as="Ryuuou &amp; Ririnra" opf:role="aut">Ririnra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-31T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;Everyone Knows Humans Get Transported to Other Worlds, But Now Dogs Do Too?!&lt;/p&gt;
+&lt;p&gt;Takumi is a wage slave who works overtime all the time. Only his little Maltese, Leo, can brighten his day. One day, however, he wakes up to find himself deep in an unknown forest. At his side is his pampered pup…who’s now a giant mythical wolf! With his silver fenrir companion and his mysterious new “Herb Cultivation” power, he’ll finally have the laid-back life he’s always dreamed of!&lt;/p&gt;
+&lt;p&gt;Join Takumi and his giant fluffy hound in a carefree romp through this otherworld fantasy tale!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Cross Infinite World</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9798885600095</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">61034038</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">even-dogs-go-to-other-worlds-life-in-another-world-with-my-beloved-hound-vol-1</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ryuuou&quot;: &quot;&quot;, &quot;Ririnra&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Even Dogs Go to Other Worlds: Life in Another World with My Beloved Hound"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-11T02:35:48.172448+00:00"/>
+        <meta name="calibre:title_sort" content="Even Dogs Go to Other Worlds: Life in Another World with My Beloved Hound, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

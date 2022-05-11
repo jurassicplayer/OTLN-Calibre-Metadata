@@ -1,7 +1,7 @@
 # OTLN-Calibre-Metadata
 Curated calibre metadata for OTLN, going through the suffering so you don't have to.
 
-### Installation
+## Installation
 **WARNING: This isn't strenuously tested or anything. Safest route is to use a new library. Otherwise use Calibre Library => Library Maintenance => Library Metadata Backup Status => Queue all books for backup. Backup your files some place safe. Make sure to read the instructions and follow them EXACTLY.**
 
 These instructions will copy files from the ToSort folders to the target Calibre Library
@@ -37,7 +37,7 @@ These instructions will copy files from the ToSort folders to the target Calibre
             *.jpg
             ```
         - Press the `Apply` button and then `Done`
-        
+
         ![directory_settings](https://user-images.githubusercontent.com/5753435/167808489-d0b23a98-58dc-4803-97c6-fa0e6b0dc16a.png)
     - Close and re-open RomVault (This step is just in case)
     - Click `Update DATs`, then `Scan ROMs`, then `Find Fixes`, then `Fix ROMs`
@@ -48,7 +48,7 @@ These instructions will copy files from the ToSort folders to the target Calibre
     - Select `Change cover => Set from e-book files` and press OK
 - Theoretically you should now have the same setup as me.
 
-### Updating
+## Updating
 - Open up a terminal in the `OTLN-Calibre-Metadata` directory and get the latest changes with `git pull origin`
 - If your `OTLN-Calibre-Metadata/dist/<metadata_set>.dat` is not OR can't be symlinked, copy the .dat to the `ROMVault/DatRoot` folder
 - Open RomVault and perform the following actions:
@@ -61,7 +61,7 @@ These instructions will copy files from the ToSort folders to the target Calibre
     - Select `Change cover => Set from e-book files`
     - (Optional) Enable `Compress cover images` and change the value to 90 (reduce aggregate cover size by roughly 58.8%)
     - Press OK
-### FAQ
+## FAQ
 - Why split the metadata into .opf files?
     - I wouldn't be able to distribute anything if I were to embed them, and keeping the unaltered original files is nice for validity checks.
 - Why go through the effort?
@@ -82,42 +82,42 @@ These instructions will copy files from the ToSort folders to the target Calibre
         - Yuri (Girl's Love): Focuses on female/female relationships, usually the physical kind
 - When will X series get metadata?
     - Possibly never. It's slow, tedious, boring work with no help. I'm going in alphabetical order, so if anything you can be hopeful for earlier letters.
-### Guidelines
+## Guidelines
 - Metadata source preference when available: YenPress/YenOn/J-Novel Club/etc. > Kobo > GoodReads > Amazon
-#### Book IDs
+### Book IDs
 - In order of importance: ISBN, AmazonID, GoodReads
 - All books should have an ISBN number, search in kobo if it's not readily available elsewhere.
-#### Tags
+### Tags
 - Remove all `Manga` tags 
 - Add `Light Novel` and `Official Translation` tags
 - Add `Seinen`, `Shounen`, `Shoujo`, `Josei`, `Shounen Ai`, `Shoujo Ai`, `Yuri`, and `Yaoi` tags if possible, refer to the FAQ for a vague description of each category
     - Check wikipedia/novelupdates/somewhere about the series and see if they list it
 - Add `Completed` status to light novels that are completed series
 - Add genre tags from metadata source and NovelUpdates to all books in the series (non-spoiler tags)
-#### Titles
+### Titles
 - Uniform title structure
 - Remove any `Novel` or `Light Novel`
 - Volumes should be denoted after the title as `<Title>, Vol. XX`
 - Subtitles should be added after the volume `<Title>, Vol. XX: Subtitle`
 - Series should be named the same as the title without extras `<Title>`
-#### Authors/Artists/Publishers
+### Authors/Artists/Publishers
 - Include artist as an author when available.
-#### Publishers
+### Publishers
 - Publishers should have both publisher and publishing imprint if available. Ex. Yen Press publishes light novels under Yen On, so Yen Press LNs should have `Yen Press (Yen On)` as the publisher.
 - Publishing date should be the date that the English release became widely available (digital or hard copy).
 - Digital Manga (publisher) has imprint names that are horrendous for this guideline, I'm open to ideas.
     - By horrendous, I mean DMG and DMP are `Digital Manga (Digital Manga Guild)` and `Digital Manga (Digital Manga Publishing)` respectively.
     - Juné, Lilyka, and Project-H are fine though.
-#### Descriptions
+### Descriptions
 - Try to keep consistent sources for descriptions.
 - Use your brain. If Yen Press has the same description for multiple volumes, but GoodReads has a unique description, opt for the unique one unless it deviates too far from the other descriptions structure. (Ex. 86 vol.5 & vol.6)
 
-### To-Do
+## To-Do
 - Make a script that move files from a fresh copy to the correct folders with the correct filenames (generate list from my list and use checksums to determine filepaths?)
 - Provide a clean update path and directions for updating set
 - Revisit series: Code Geass, Dance in the Vampire Bund, Death Note
     - These are older light novels with only OCR scans and some metadata may be incorrect.
 
-### Current Progress (based on v18.4)
+## Current Progress (based on v18.4)
 106/489 (21.68%) Series (#-E)
 0/43 (0.0%) Yaoi Series

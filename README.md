@@ -76,5 +76,5 @@ These instructions will move files from the ToSort folders to the target Calibre
     - These are older light novels with only OCR scans and some metadata may be incorrect.
 
 ### Current Progress (based on v18.4)
-100/489 (20.45%) Series
+106/489 (21.68%) Series (#-E)
 0/43 (0.0%) Yaoi Series

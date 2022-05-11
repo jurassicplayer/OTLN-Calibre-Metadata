@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">605</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e304bfbc-1310-462e-9003-4f8cc4ad85af</dc:identifier>
+        <dc:title>ECHO</dc:title>
+        <dc:creator opf:file-as="Akira &amp; Oguchi &amp; Crusher-P" opf:role="aut">Akira</dc:creator>
+        <dc:creator opf:file-as="Akira &amp; Oguchi &amp; Crusher-P" opf:role="aut">Oguchi</dc:creator>
+        <dc:creator opf:file-as="Akira &amp; Oguchi &amp; Crusher-P" opf:role="aut">Crusher-P</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-11-24T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The VOCALOID song "ECHO" with 8 million views has now been novelized! Written by Akira (from the novelization of “Yume NIkki” and “Ensemble Stars”) and illustrated by Oguchi (an official illustrator for Kancolle), this song of madness from Crusher-P is weaved into a story in which the TV girl, or “Primadonna’s” identity is finally revealed!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718301665</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">echo-70</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Thriller</dc:subject>
+        <dc:subject>Horror</dc:subject>
+        <dc:subject>Completed</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Akira&quot;: &quot;&quot;, &quot;Oguchi&quot;: &quot;&quot;, &quot;Crusher-P&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2022-05-11T02:35:46.894774+00:00"/>
+        <meta name="calibre:title_sort" content="ECHO"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

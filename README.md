@@ -35,10 +35,11 @@ These instructions will copy files from the ToSort folders to the target Calibre
             ```
             *.db
             *.jpg
+            *.json
             ```
         - Press the `Apply` button and then `Done`
 
-        ![directory_settings](https://user-images.githubusercontent.com/5753435/167808489-d0b23a98-58dc-4803-97c6-fa0e6b0dc16a.png)
+        ![directory_settings](https://user-images.githubusercontent.com/5753435/167813321-07ace6fb-cb34-4c1f-80bb-dc68f30b2244.png)
     - Close and re-open RomVault (This step is just in case)
     - Click `Update DATs`, then `Scan ROMs`, then `Find Fixes`, then `Fix ROMs`
     - Wait for the fixing to be completed (button will change to `Close`)

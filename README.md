@@ -4,7 +4,7 @@ Curated calibre metadata for OTLN, going through the suffering so you don't have
 ## Installation
 **WARNING: This isn't strenuously tested or anything. Safest route is to use a new library. Otherwise use Calibre Library => Library Maintenance => Library Metadata Backup Status => Queue all books for backup. Backup your files some place safe. Make sure to read the instructions and follow them EXACTLY.**
 
-These instructions will copy files from the ToSort folders to the target Calibre Library
+These instructions will copy files from the ToSort folders to the target Calibre Library and remove ones not listed in the OTLN_metadata.dat and make updating LNs+metadata relatively painless (provided I update the .dat as regularly as OTLN releases).
 - Make a new Calibre Library (folder called `Light Novels` within this example)
 - Clone the OTLN-Calibre-Metadata project to somewhere permanent (preferably using git clone rather than downloading the .zip)
 - Get a ROM manager (these instructions will use [RomVault](https://www.romvault.com/)) and extract it somewhere permanent
@@ -80,9 +80,11 @@ These instructions will copy files from the ToSort folders to the target Calibre
         - Shoujo Ai: Usually focuses on developing female/female relationships (not necessarily love, can be close friendships, but usually nothing physical)
         - Yaoi (Boy's Love): Focuses on male/male relationships, usually the physical kind
         - Yuri (Girl's Love): Focuses on female/female relationships, usually the physical kind
+- Why is the metadata of X light novel incorrect?
+    - It's slow, tedious, and boring work with no help. If it's wrong, I probably missed it or made a mistake. Please make a github issue and I'll double-check/correct any issues.
 - When will X series get metadata?
-    - Possibly never. It's slow, tedious, boring work with no help. I'm going in alphabetical order, so if anything you can be hopeful for earlier letters.
-## Guidelines
+    - It's slow, tedious, and boring work with no help. I'm going in alphabetical order by folder, so if anything you can be hopeful for earlier letters.
+## Metadata Guidelines
 - Metadata source preference when available: YenPress/YenOn/J-Novel Club/etc. > Kobo > GoodReads > Amazon
 ### Book IDs
 - In order of importance: ISBN, AmazonID, GoodReads

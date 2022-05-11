@@ -37,7 +37,7 @@ These instructions will copy files from the ToSort folders to the target Calibre
     - Close and re-open RomVault (This step is just in case)
     - Click `Update DATs`, then `Scan ROMs`, then `Find Fixes`, then `Fix ROMs`
     - Wait for the fixing to be completed (button will change to `Close`)
-- Open Calibre and switch to your new Calibre Library
+- Open Calibre and switch to your `Light Novels` Calibre Library folder
     - Navigate to `Calibre Library => Library Maintenance => Restore database` and press OK
     - Select all of the imported light novels and then press `Edit metadata`
     - Select `Change cover => Set from e-book files` and press OK
@@ -47,9 +47,15 @@ These instructions will copy files from the ToSort folders to the target Calibre
 - Open up a terminal in the `OTLN-Calibre-Metadata` directory and get the latest changes with `git pull origin`
 - If your `OTLN-Calibre-Metadata/dist/<metadata_set>.dat` is not OR can't be symlinked, copy the .dat to the `ROMVault/DatRoot` folder
 - Open RomVault and perform the following actions:
-    - Click `Update DATs`, then `Scan ROMs`, then `Find Fixes`, then `Fix ROMs`
+    - On the menu bar, use the `Update DATs => Refresh All DATs` option
+    - Click `Scan ROMs`, then `Find Fixes`, then `Fix ROMs`
     - Wait for the fixing to be completed (button will change to `Close`)
-
+- Open Calibre and switch to your `Light Novels` Calibre Library folder
+    - Navigate to `Calibre Library => Library Maintenance => Restore database` and press OK
+    - Select all of the newly imported light novels and then press `Edit metadata`
+    - Select `Change cover => Set from e-book files`
+    - (Optional) Enable `Compress cover images` and change the value to 90 (reduce aggregate cover size by roughly 58.8%)
+    - Press OK
 ### FAQ
 - Why split the metadata into .opf files?
     - I wouldn't be able to distribute anything if I were to embed them, and keeping the unaltered original files is nice for validity checks.

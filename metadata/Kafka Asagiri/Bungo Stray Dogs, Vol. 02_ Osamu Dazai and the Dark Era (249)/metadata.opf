@@ -6,14 +6,14 @@
         <dc:title>Bungo Stray Dogs, Vol. 02: Osamu Dazai and the Dark Era</dc:title>
         <dc:creator opf:file-as="Asagiri, Kafka &amp; Harukawa, Sango" opf:role="aut">Kafka Asagiri</dc:creator>
         <dc:creator opf:file-as="Asagiri, Kafka &amp; Harukawa, Sango" opf:role="aut">Sango Harukawa</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-10-29T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
-&lt;p id="book-description-full"&gt;Before he joined the Armed Detective Agency, Osamu Dazai was the youngest-ever executive with the Port Mafia, the most notorious underground crime syndicate in all of Yokohama. Three of its members-Dazai, Odasaku, and Ango-formed a camaraderie despite their vast disparities in rank. When Ango suddenly goes missing, Odasaku, a lowly Mafia grunt, receives direct orders from their boss to find him...only for Ango's trail to lead Odasaku to a mysterious, foreign criminal organization called Mimic.&lt;/p&gt;
+&lt;p&gt;Before he joined the Armed Detective Agency, Osamu Dazai was the youngest-ever executive with the Port Mafia, the most notorious underground crime syndicate in all of Yokohama. Three of its members-Dazai, Odasaku, and Ango-formed a camaraderie despite their vast disparities in rank. When Ango suddenly goes missing, Odasaku, a lowly Mafia grunt, receives direct orders from their boss to find him...only for Ango's trail to lead Odasaku to a mysterious, foreign criminal organization called Mimic.&lt;/p&gt;
 &lt;p&gt;At last, the reason why Dazai parted ways with the Port Mafia is revealed!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Yen Press (Yen On)</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781975303242</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">44782524</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781975303242</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Contemporary</dc:subject>
@@ -29,7 +29,7 @@
         <meta name="calibre:series" content="Bungō Stray Dogs"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2021-08-13T03:45:02.913821+00:00"/>
+        <meta name="calibre:timestamp" content="2021-08-13T03:45:02+00:00"/>
         <meta name="calibre:title_sort" content="Bungo Stray Dogs, Vol. 02: Osamu Dazai and the Dark Era"/>
     </metadata>
     <guide>

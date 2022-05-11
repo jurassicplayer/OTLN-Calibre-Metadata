@@ -6,15 +6,15 @@
         <dc:title>Demon King Daimaou, Vol. 08</dc:title>
         <dc:creator opf:file-as="Mizuki, Shoutarou &amp; Itou, Souichi" opf:role="aut">Shoutarou Mizuki</dc:creator>
         <dc:creator opf:file-as="Mizuki, Shoutarou &amp; Itou, Souichi" opf:role="aut">Souichi Itou</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-11-09T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
-&lt;p&gt;2V, with the newly-awakened First Demon King, Zero, has successfully taken over the Empire. All Liradans, including Korone, are under her control. And with Akuto out of commission and no one allowed to use magic, no one can stop her from commanding every aspect of the citizen's lives. What is 2V's true goal behind creating this Liradan-centered, magicless society? &lt;/p&gt;
+&lt;p&gt;2V, with the newly-awakened First Demon King, Zero, has successfully taken over the Empire. All Liradans, including Korone, are under her control. And with Akuto out of commission and no one allowed to use magic, no one can stop her from commanding every aspect of the citizen's lives. What is 2V's true goal behind creating this Liradan-centered, magicless society?&lt;/p&gt;
 &lt;p&gt;Meanwhile, the injured Akuto has taken refuge in a black mage village with Fujiko, Keena, and Yoshie. What will he do when he meets someone who holds the secret to his mysterious birth...?&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9784894259669</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">B07HLDQ829</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">42202448</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07HLDQ829</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9784894259669</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>
@@ -33,7 +33,7 @@
         <meta name="calibre:series" content="Demon King Daimaou"/>
         <meta name="calibre:series_index" content="8"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-31T05:53:14.825206+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-31T05:53:14+00:00"/>
         <meta name="calibre:title_sort" content="Demon King Daimaou, Vol. 08"/>
     </metadata>
     <guide>

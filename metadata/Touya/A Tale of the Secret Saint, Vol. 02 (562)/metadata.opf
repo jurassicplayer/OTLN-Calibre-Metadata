@@ -9,11 +9,11 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-04-12T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
-&lt;p&gt;&lt;strong&gt;DRAGONS AND DISCOVERIES&lt;/strong&gt; &lt;/p&gt;
+&lt;p style="font-weight: 600"&gt;DRAGONS AND DISCOVERIES&lt;/p&gt;
 &lt;p&gt;Fia finally achieved her dream of becoming a knight, and was even assigned to the prestigious First Knight Brigade! But her unusual feats of strength and magic are already attracting unwanted attention. Keeping her saint powers a secret is proving harder than expected. Now, a black dragon has been sighted in Starfall Forest, and Fia is sent on a mission to find it…but does this black dragon have anything to do with her familiar, Zavilia?&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781648276477</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">60477421</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781648276477</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>
@@ -24,7 +24,7 @@
         <meta name="calibre:series" content="A Tale of the Secret Saint"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2022-05-10T06:12:09.623974+00:00"/>
+        <meta name="calibre:timestamp" content="2022-05-10T06:12:09+00:00"/>
         <meta name="calibre:title_sort" content="Tale of the Secret Saint, Vol. 02, A"/>
     </metadata>
     <guide>

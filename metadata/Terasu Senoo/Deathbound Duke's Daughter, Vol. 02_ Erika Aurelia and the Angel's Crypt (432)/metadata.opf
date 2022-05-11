@@ -6,14 +6,14 @@
         <dc:title>Deathbound Duke's Daughter, Vol. 02: Erika Aurelia and the Angel's Crypt</dc:title>
         <dc:creator opf:file-as="Senoo, Terasu &amp; Munashichi" opf:role="aut">Terasu Senoo</dc:creator>
         <dc:creator opf:file-as="Senoo, Terasu &amp; Munashichi" opf:role="aut">Munashichi</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-09-19T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
-&lt;p&gt;Having been reincarnated as the villainous daughter of a duke, Erika Aurelia has safely shattered the flag that would’ve one day seen her killed by an evil spirit. The next death flag awaiting her leads to her being devoured by a beast bound to Prince August of Ignitia. &lt;/p&gt;
+&lt;p&gt;Having been reincarnated as the villainous daughter of a duke, Erika Aurelia has safely shattered the flag that would’ve one day seen her killed by an evil spirit. The next death flag awaiting her leads to her being devoured by a beast bound to Prince August of Ignitia.&lt;/p&gt;
 &lt;p&gt;The royal capital is lively with the spirit of Adventmas as Erika drops by to prevent her next fated demise. There, she meets a young boy so beautiful he could be mistaken for an angel...&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club (J-Novel Heart)</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B08BPCZM8G</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">54361307</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08BPCZM8G</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Adventure</dc:subject>
         <dc:subject>Fantasy</dc:subject>
@@ -31,7 +31,7 @@
         <meta name="calibre:series" content="Deathbound Duke's Daughter"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-29T04:15:56.139660+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-29T04:15:56+00:00"/>
         <meta name="calibre:title_sort" content="Deathbound Duke's Daughter, Vol. 02: Erika Aurelia and the Angel's Crypt"/>
     </metadata>
     <guide>

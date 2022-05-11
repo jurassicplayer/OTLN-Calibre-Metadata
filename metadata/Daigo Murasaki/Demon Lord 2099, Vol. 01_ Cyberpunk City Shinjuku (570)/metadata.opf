@@ -9,12 +9,12 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2022-03-15T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
-&lt;p style="font-weight: 600"&gt;THE FUTURE WAITS FOR NO ONE &lt;/p&gt;
+&lt;p style="font-weight: 600"&gt;THE FUTURE WAITS FOR NO ONE&lt;/p&gt;
 &lt;p&gt;​The cyberpunk metropolis Shinjuku—a massive city-state bedecked with neon signs, towering skyscrapers, and the latest cutting-edge technology. It is here, in year 2099 of the Fused Era, where the legendary Demon Lord Veltol has his second coming five centuries in the making. But this landscape is nothing like the one he conquered all those years ago, for the fusion of magic and engineering has elevated civilization to dazzling, unprecedented heights. Veltol may have been reduced to a historical footnote, but make no mistake…this brave new world will be his for the taking!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Yen Press (Yen On)</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781975338626</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">60630557</dc:identifier>
         <dc:identifier opf:scheme="ISBN-13">9781975338626</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781975338626</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Science Fiction</dc:subject>
@@ -28,7 +28,7 @@
         <meta name="calibre:series" content="Demon Lord 2099"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2022-05-10T06:13:58.817745+00:00"/>
+        <meta name="calibre:timestamp" content="2022-05-10T06:13:58+00:00"/>
         <meta name="calibre:title_sort" content="Demon Lord 2099, Vol. 01: Cyberpunk City Shinjuku"/>
     </metadata>
     <guide>

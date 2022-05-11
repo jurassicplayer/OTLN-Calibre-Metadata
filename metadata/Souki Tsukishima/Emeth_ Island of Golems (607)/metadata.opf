@@ -10,7 +10,7 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-11-05T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
-&lt;p&gt;&lt;strong&gt;Cross Infinite World is excited to bring you &lt;/strong&gt;&lt;span style="font-weight: 600; font-style: italic"&gt;emeth: Island of Golems , Grand Prize Winner of the 3rd Square Enix Novels’ Award, fully revised with new art by Mura Karuki and new scenes added by the authors for its first-ever English release! Co-authors Souki Tsukishima and Tora Tsukishima have served as writers for many epic games and novels, such as Final Fantasy Type 0 -The Last Truth- , Final Fantasy Agito , Imaginary Range&lt;/span&gt; , &lt;span style="font-weight: 600; font-style: italic"&gt;Root Double&lt;/span&gt;&lt;strong&gt; , &lt;/strong&gt;&lt;span style="font-weight: 600; font-style: italic"&gt;Ingress the Animation&lt;/span&gt;&lt;strong&gt; , and more!&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="font-weight: 600"&gt;Cross Infinite World is excited to bring you &lt;em&gt;emeth: Island of Golems&lt;/em&gt;, Grand Prize Winner of the 3rd Square Enix Novels’ Award, fully revised with new art by Mura Karuki and new scenes added by the authors for its first-ever English release! Co-authors Souki Tsukishima and Tora Tsukishima have served as writers for many epic games and novels, such as &lt;em&gt;Final Fantasy Type 0 -The Last Truth-, Final Fantasy Agito, Imaginary Range, Root Double, Ingress the Animation&lt;/em&gt;, and more!&lt;/p&gt;
 &lt;p&gt;“Creating Life”—such power is blasphemy against God.&lt;/p&gt;
 &lt;p&gt;In emeth’s world, the manufacturing of Golems—automatic dolls that move according to human will—has become the norm. This sets the stage for an epic adventure against the backdrop of St. Rollins Archipelago, where the Torah Church presides over all creation and operation of these Golems.&lt;/p&gt;
 &lt;p&gt;Step into the story through the perspective of Cliff, a boy living in the slums of a Torah-controlled island who so fervently wants to become a Golem Tamer that he has begun to illegally build one. His mundane world is suddenly shattered one day when he crosses paths with a mysterious girl. This meeting sets the gears in motion for a thrilling journey involving powerful Golems, corruption, and the very fate of the island itself!&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -27,7 +27,7 @@
         <dc:subject>Official Translation</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Souki Tsukishima&quot;: &quot;&quot;, &quot;Tora Tsukishima&quot;: &quot;&quot;, &quot;Mura Karuki&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="6"/>
-        <meta name="calibre:timestamp" content="2022-05-11T02:35:48.057099+00:00"/>
+        <meta name="calibre:timestamp" content="2022-05-11T02:35:48+00:00"/>
         <meta name="calibre:title_sort" content="Emeth: Island of Golems"/>
     </metadata>
     <guide>

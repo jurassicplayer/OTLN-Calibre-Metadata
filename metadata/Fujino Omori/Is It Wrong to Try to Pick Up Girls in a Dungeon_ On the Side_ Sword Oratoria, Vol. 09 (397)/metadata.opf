@@ -7,17 +7,17 @@
         <dc:creator opf:file-as="Omori, Fujino &amp; Haimura, Kiyotaka &amp; Yasuda, Suzuhito" opf:role="aut">Fujino Omori</dc:creator>
         <dc:creator opf:file-as="Omori, Fujino &amp; Haimura, Kiyotaka &amp; Yasuda, Suzuhito" opf:role="aut">Kiyotaka Haimura</dc:creator>
         <dc:creator opf:file-as="Omori, Fujino &amp; Haimura, Kiyotaka &amp; Yasuda, Suzuhito" opf:role="aut">Suzuhito Yasuda</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-06-18T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
-&lt;p id="book-description-full"&gt;&lt;strong&gt;T&lt;/strong&gt;&lt;strong&gt;he times may change, but the legends of adventuring never will!&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="font-weight: 600"&gt;The times may change, but the legends of adventuring never will!&lt;/p&gt;
 &lt;p&gt;After Bete helps bring an end to the Amazon hunt, there's hardly a moment to rest before a new threat approaches Orario! The Kingdom of Rakia has dispatched a massive invading army, and adventurers answer the call to halt their advance.&lt;/p&gt;
 &lt;p&gt;As Loki Familia readies itself for battle once more, a young girl's unexpected question opens the door to the past when Riveria shares one small, private story about her days during Aiz's childhood.&lt;/p&gt;
 &lt;p&gt;While the fragments of memory lead the high elves' thoughts to times long gone, the grown-up Aiz feels conflicted after finding herself in a village that worships a dragon...Has she changed since her first fitful days of fighting monsters, or is some part of her still the Doll Princess?&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Yen Press (Yen On)</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781975327811</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">B07L2WLZ5Y</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">43193035</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07L2WLZ5Y</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781975327811</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>
@@ -32,7 +32,7 @@
         <meta name="calibre:series" content="Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria"/>
         <meta name="calibre:series_index" content="9"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-27T01:38:00.637506+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-27T01:38:00+00:00"/>
         <meta name="calibre:title_sort" content="Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side: Sword Oratoria, Vol. 09"/>
     </metadata>
     <guide>

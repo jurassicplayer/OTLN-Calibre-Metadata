@@ -6,14 +6,18 @@
         <dc:title>Chivalry of a Failed Knight, Vol. 01</dc:title>
         <dc:creator opf:file-as="Misora, Riku &amp; Won" opf:role="aut">Riku Misora</dc:creator>
         <dc:creator opf:file-as="Misora, Riku &amp; Won" opf:role="aut">Won</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-11-16T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
-&lt;p&gt;Modern mages, known as Mage-Knights, materialize their souls as armaments. Attending a school for Mage-Knights is Ikki Kurogane, a failed knight—the Worst One. &lt;br&gt;One day, he is challenged by Stella, a Rank A knight, to a duel, putting lifelong servitude on the line. What Ikki lacks in magical power, however, he makes up for with his unorthodox mastery of the sword, leading him to victory! &lt;br&gt;“I’ll do it! Make me do whatever you want! Stupid creep!” Though she regrets her defeat, Stella begins to fall for Ikki. &lt;br&gt;Meanwhile, in the battle for the top of the knight world, the Worst One begins to grab the attention of every Mage-Knight out there, becoming known as Another One! &lt;br&gt;The curtain rises on Ikki’s school-based, sword-action underdog tale as he cuts through one powerful foe after another! &lt;/p&gt;&lt;/div&gt;</dc:description>
+&lt;p&gt;Modern mages, known as Mage-Knights, materialize their souls as armaments. Attending a school for Mage-Knights is Ikki Kurogane, a failed knight—the Worst One.&lt;/p&gt;
+&lt;p&gt;One day, he is challenged by Stella, a Rank A knight, to a duel, putting lifelong servitude on the line. What Ikki lacks in magical power, however, he makes up for with his unorthodox mastery of the sword, leading him to victory!&lt;/p&gt;
+&lt;p&gt;“I’ll do it! Make me do whatever you want! Stupid creep!” Though she regrets her defeat, Stella begins to fall for Ikki.&lt;/p&gt;
+&lt;p&gt;Meanwhile, in the battle for the top of the knight world, the Worst One begins to grab the attention of every Mage-Knight out there, becoming known as Another One!&lt;/p&gt;
+&lt;p&gt;The curtain rises on Ikki’s school-based, sword-action underdog tale as he cuts through one powerful foe after another!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Sol Press LLC</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">48713051</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9784797374681</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B07ZY8NN4S</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">48713051</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Light Novel</dc:subject>
@@ -28,7 +32,7 @@
         <meta name="calibre:series" content="Chivalry of a Failed Knight"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-20T07:58:30.373885+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-20T07:58:30+00:00"/>
         <meta name="calibre:title_sort" content="Chivalry of a Failed Knight, Vol. 01"/>
     </metadata>
     <guide>

@@ -5,10 +5,10 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">c1b86c9a-2675-4470-bf1a-3210aa89aec1</dc:identifier>
         <dc:title>Dance in the Vampire Bund: Secret Chronicles</dc:title>
         <dc:creator opf:file-as="Tamaki, Nozomu" opf:role="aut">Nozomu Tamaki</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2014-10-21T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
-&lt;p&gt;OPEN THE VAULTS: THE DANCE IN THE VAMPIRE BUND SHORT STORY COLLECTION IS HERE!&lt;/p&gt;
+&lt;p style="font-weight: 600"&gt;OPEN THE VAULTS: THE DANCE IN THE VAMPIRE BUND SHORT STORY COLLECTION IS HERE!&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Dance in the Vampire Bund: Secret Chronicles&lt;/em&gt; contains over 700 pages of previously unpublished novellas and short stories, featuring the first appearances of many beloved characters from Nozomu Tamaki’s &lt;em&gt;Dance in the Vampire Bund&lt;/em&gt; manga series. &lt;/p&gt;
 &lt;p&gt;Written by fellow collaborators under the direction of Nozomu Tamaki, the author self-published the collection in ten separate doujinshi for the Comiket fan convention in Tokyo. Now, for the first time ever, Seven Seas is pleased to present this rare collection to the English-speaking audiences!&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Dance in the Vampire Bund’s: Secret Chronicles&lt;/em&gt; contains seventeen stories from Nozomu Tamaki’s doujinshi, accompanied by new illustrations by the author himself, as well as other exciting material that will shed light on the Bund’s darkest secrets.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -23,9 +23,9 @@
         <dc:subject>Supernatural</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Nozomu Tamaki&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Dance in the Vampire Bund"/>
-        <meta name="calibre:series_index" content="1.20"/>
+        <meta name="calibre:series_index" content="1.2"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-29T04:14:48.461801+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-29T04:14:48+00:00"/>
         <meta name="calibre:title_sort" content="Dance in the Vampire Bund: Secret Chronicles"/>
     </metadata>
     <guide>

@@ -6,15 +6,15 @@
         <dc:title>Code Geass: Lelouch of the Rebellion, Vol. 02: Stage -1- Shadow</dc:title>
         <dc:creator opf:file-as="Ohkouchi, Ichirou &amp; Taniguchi, Goro" opf:role="aut">Ichirou Ohkouchi</dc:creator>
         <dc:creator opf:file-as="Ohkouchi, Ichirou &amp; Taniguchi, Goro" opf:role="aut">Goro Taniguchi</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2009-03-03T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
-&lt;p&gt;Lelouch is rebelling against the Holy Empire of Britannia to protect his sister Nunnally. He has donned a mask and calls himself 'Zero', the leader of the Black Knights. &lt;/p&gt;
+&lt;p&gt;Lelouch is rebelling against the Holy Empire of Britannia to protect his sister Nunnally. He has donned a mask and calls himself 'Zero', the leader of the Black Knights.&lt;/p&gt;
 &lt;p&gt;But as he leads the Black Knights into battle at Narita, what awaits for his friends and allies may be their destruction…&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Bandai Entertainment</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">3265295</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781594099823</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1594099820</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">3265295</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Completed</dc:subject>
@@ -28,7 +28,7 @@
         <meta name="calibre:series" content="Code Geass Series"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-29T04:14:09.803451+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-29T04:14:09+00:00"/>
         <meta name="calibre:title_sort" content="Code Geass: Lelouch of the Rebellion, Vol. 02: Stage -1- Shadow"/>
     </metadata>
     <guide>

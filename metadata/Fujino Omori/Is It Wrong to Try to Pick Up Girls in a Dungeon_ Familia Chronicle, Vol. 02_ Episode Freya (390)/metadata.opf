@@ -7,16 +7,16 @@
         <dc:creator opf:file-as="Omori, Fujino &amp; Niritsu &amp; Yasuda, Suzuhito" opf:role="aut">Fujino Omori</dc:creator>
         <dc:creator opf:file-as="Omori, Fujino &amp; Niritsu &amp; Yasuda, Suzuhito" opf:role="aut">Niritsu</dc:creator>
         <dc:creator opf:file-as="Omori, Fujino &amp; Niritsu &amp; Yasuda, Suzuhito" opf:role="aut">Suzuhito Yasuda</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-10-27T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
-&lt;p id="book-description-full"&gt;THE SEARCH FOR LOVE IS ON!&lt;/p&gt;
-&lt;p&gt;A fey mood strikes Freya, sparking a new quest to find her Odr, the one destined to stand forever by her side. Naturally, her followers are against it. They remember all too well the disaster that her last adventure turned out to be. &lt;/p&gt;
+&lt;p style="font-weight: 600"&gt;THE SEARCH FOR LOVE IS ON!&lt;/p&gt;
+&lt;p&gt;A fey mood strikes Freya, sparking a new quest to find her Odr, the one destined to stand forever by her side. Naturally, her followers are against it. They remember all too well the disaster that her last adventure turned out to be.&lt;/p&gt;
 &lt;p&gt;Unfortunately for them, such a minor setback has never been enough to stop the goddess of beauty from following wherever her heart leads-which, this time, happens to be the sandy dunes of Kaios. Freya is eager to spread her wings to see what discoveries this new land has to offer, even as her familia frantically searches for her, no matter the cost...!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Yen Press (Yen On)</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781975327552</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">B089GJD32V</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">53916639</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B089GJD32V</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>
@@ -28,7 +28,7 @@
         <meta name="calibre:series" content="Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Chronicle"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-27T01:37:43.429479+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-27T01:37:43+00:00"/>
         <meta name="calibre:title_sort" content="Is It Wrong to Try to Pick Up Girls in a Dungeon? Familia Chronicle, Vol. 02: Episode Freya"/>
     </metadata>
     <guide>

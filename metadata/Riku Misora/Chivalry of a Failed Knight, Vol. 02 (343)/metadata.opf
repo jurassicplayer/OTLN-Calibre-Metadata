@@ -6,17 +6,17 @@
         <dc:title>Chivalry of a Failed Knight, Vol. 02</dc:title>
         <dc:creator opf:file-as="Misora, Riku &amp; Won" opf:role="aut">Riku Misora</dc:creator>
         <dc:creator opf:file-as="Misora, Riku &amp; Won" opf:role="aut">Won</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-11-16T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
-&lt;p&gt;With the battle selection progressing well for Ikki and his friends, Ikki who has been sensing someone's presence for a week, finally decides to call out the stalker. &lt;/p&gt;
-&lt;p&gt;The stalker, Ayase Ayatsuji, a third year student and daughter to a swordsman reveals that she has been on a slump and proceeds to ask Ikki to become her teacher in swordsmanship. &lt;/p&gt;
-&lt;p&gt;Accepting her request as he begins to train her, Ikki starts to find out there is more to Ayase than meets the eye when a Blazer from another school becomes involve and harasses Ayase. &lt;/p&gt;
+&lt;p&gt;With the battle selection progressing well for Ikki and his friends, Ikki who has been sensing someone's presence for a week, finally decides to call out the stalker.&lt;/p&gt;
+&lt;p&gt;The stalker, Ayase Ayatsuji, a third year student and daughter to a swordsman reveals that she has been on a slump and proceeds to ask Ikki to become her teacher in swordsmanship.&lt;/p&gt;
+&lt;p&gt;Accepting her request as he begins to train her, Ikki starts to find out there is more to Ayase than meets the eye when a Blazer from another school becomes involve and harasses Ayase.&lt;/p&gt;
 &lt;p&gt;The situation worsened as he and Ayase are pitted against each other for their next match.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Sol Press LLC</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9784797375480</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">B07ZY7MXFV</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">48750213</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07ZY7MXFV</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9784797375480</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Official Translation</dc:subject>
         <dc:subject>Light Novel</dc:subject>
@@ -31,7 +31,7 @@
         <meta name="calibre:series" content="Chivalry of a Failed Knight"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-20T07:58:30.607104+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-20T07:58:30+00:00"/>
         <meta name="calibre:title_sort" content="Chivalry of a Failed Knight, Vol. 02"/>
     </metadata>
     <guide>

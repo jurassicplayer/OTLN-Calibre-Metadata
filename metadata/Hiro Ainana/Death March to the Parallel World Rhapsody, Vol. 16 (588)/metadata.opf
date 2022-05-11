@@ -9,13 +9,13 @@
         <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-03-09T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
-&lt;p&gt;Showdown in Castle Town!&lt;/p&gt;
+&lt;p style="font-weight: 600"&gt;Showdown in Castle Town!&lt;/p&gt;
 &lt;p&gt;Having successfully averted the airship attack, Satou and company arrive safely in the royal capital. There, they are reunited with Nana’s “sisters”—Numbers 1 through 8— and give them the gift of a lifetime. But as is tradition with every trip to the capital, Satou must rub elbows with the aristocracy before he can enjoy his sightseeing. He even receives a surprise visit or two, including a summons from Sir Juleburg of the Eight Swordsman of Shiga! Because no leisurely trip would be complete without a friendly duel…&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Yen Press (Yen On)</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781975320850</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">59608428</dc:identifier>
         <dc:identifier opf:scheme="ISBN-13">9781975320843</dc:identifier>
         <dc:identifier opf:scheme="KOBO">death-march-to-the-parallel-world-rhapsody-vol-16-light-novel</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">59608428</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>
@@ -32,7 +32,7 @@
         <meta name="calibre:series" content="Death March to the Parallel World Rhapsody"/>
         <meta name="calibre:series_index" content="16"/>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2022-05-10T07:48:09.462433+00:00"/>
+        <meta name="calibre:timestamp" content="2022-05-10T07:48:09+00:00"/>
         <meta name="calibre:title_sort" content="Death March to the Parallel World Rhapsody, Vol. 16"/>
     </metadata>
     <guide>

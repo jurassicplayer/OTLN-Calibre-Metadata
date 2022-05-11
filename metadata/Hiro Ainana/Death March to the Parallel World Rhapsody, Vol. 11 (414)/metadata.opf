@@ -6,10 +6,10 @@
         <dc:title>Death March to the Parallel World Rhapsody, Vol. 11</dc:title>
         <dc:creator opf:file-as="Ainana, Hiro &amp; shri" opf:role="aut">Hiro Ainana</dc:creator>
         <dc:creator opf:file-as="Ainana, Hiro &amp; shri" opf:role="aut">shri</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-05-26T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
-&lt;p id="book-description-full"&gt;&lt;strong&gt;N&lt;/strong&gt;&lt;strong&gt;o good deed goes unpunished!&lt;/strong&gt;&lt;/p&gt;
+&lt;p style="font-weight: 600"&gt;No good deed goes unpunished!&lt;/p&gt;
 &lt;p&gt;Though Satou's stay in Labyrinth City got off to a rocky start, he's determined to put Celivera on the road to redemption! Acts of charity, such as founding an orphanage and putting the Plunderer King behind bars, are no big deal for him. But despite his best efforts, mysterious drugs continue to circulate. Incidentally, the noble in green, Sir Poputema, has been acting rather suspicious lately. Could he be linked to the spike in demonic activity...?&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Yen Press (Yen On)</dc:publisher>
         <dc:identifier opf:scheme="AMAZON">B0827J1TGP</dc:identifier>
@@ -31,7 +31,7 @@
         <meta name="calibre:series" content="Death March to the Parallel World Rhapsody"/>
         <meta name="calibre:series_index" content="11"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-28T06:20:09.481151+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-28T06:20:09+00:00"/>
         <meta name="calibre:title_sort" content="Death March to the Parallel World Rhapsody, Vol. 11"/>
     </metadata>
     <guide>

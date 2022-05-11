@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">596</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1ec80f66-4838-4f4c-ab0e-539e7d431295</dc:identifier>
+        <dc:title>Durarara!!, Vol. 09</dc:title>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Yasuda, Suzuhito" opf:role="aut">Ryohgo Narita</dc:creator>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Yasuda, Suzuhito" opf:role="aut">Suzuhito Yasuda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-03-27T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A twisted love for humanity...&lt;/p&gt;
+&lt;p&gt;Izaya Orihara is used to getting his hands dirty, manipulating others for his so-called "love." While working with the Awakusu-kai to locate a group distributing drugs, the information broker finds himself trapped in a dark room with a burlap sack over his head. As with all things Izaya, on of several reasons for his current predicament can be traced to his youth. Meanwhile, Shinra opens up to Celty about his time in middle school with Izaya and the boy's connection to his car. Through all the chaos, does Izaya have everything under control in Ikebukuro?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316474337</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0776S5CWX</dc:identifier>
+        <dc:identifier opf:scheme="ISBN-13">9780316474313</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">durarara-vol-9-light-novel</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ryohgo Narita&quot;: &quot;&quot;, &quot;Suzuhito Yasuda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Durarara!!"/>
+        <meta name="calibre:series_index" content="9"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-11T01:41:04.667844+00:00"/>
+        <meta name="calibre:title_sort" content="Durarara!!, Vol. 09"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

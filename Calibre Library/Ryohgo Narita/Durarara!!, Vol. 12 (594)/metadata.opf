@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">594</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ff4adca-d60e-425f-ad59-3f7fd87aa54f</dc:identifier>
+        <dc:title>Durarara!!, Vol. 12</dc:title>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Yasuda, Suzuhito" opf:role="aut">Ryohgo Narita</dc:creator>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Yasuda, Suzuhito" opf:role="aut">Suzuhito Yasuda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-03-26T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Can a monster protect anyone?&lt;/p&gt;
+&lt;p&gt;Ikebukuro is falling apart. Kujiragi uses Saika to subjugate Shinra, and when the Headless Rider witnesses this, the dullahan becomes a true monster. Masaomi's old enemy Ran Izumii reappears and attacks him. Meanwhile, Saki visits Anri to find out how she feels about Masaomi. Kadota disappears from his hospital room, Celty's head is in someone else's hands, and Shizuo finally comes face-to-face with the one he hates the most...In the midst of all the chaos, what kind of power has Mikado seized-and how does he intend to use it?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316474382</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">40696989</dc:identifier>
+        <dc:identifier opf:scheme="ISBN-13">9780316474382</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">durarara-vol-12-light-novel</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ryohgo Narita&quot;: &quot;&quot;, &quot;Suzuhito Yasuda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Durarara!!"/>
+        <meta name="calibre:series_index" content="12"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-11T01:41:04.257681+00:00"/>
+        <meta name="calibre:title_sort" content="Durarara!!, Vol. 12"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

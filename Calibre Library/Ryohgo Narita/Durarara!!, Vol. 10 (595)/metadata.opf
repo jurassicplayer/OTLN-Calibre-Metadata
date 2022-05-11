@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">595</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e0a0436d-7530-42ec-be0a-e15ea70bcf73</dc:identifier>
+        <dc:title>Durarara!!, Vol. 10</dc:title>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Yasuda, Suzuhito" opf:role="aut">Ryohgo Narita</dc:creator>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Yasuda, Suzuhito" opf:role="aut">Suzuhito Yasuda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-07-17T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Ikebukuro, Tokyo. The Dollars and anyone associated with them have been disappearing one after the other. Is it because those who once called themselves comrades have decided to strike off on their own? Maybe it's because of a plot concocted by the adults of the Awakusu Group, the black market dealers, and the information brokers?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316474344</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">36546637</dc:identifier>
+        <dc:identifier opf:scheme="ISBN-13">9780316474344</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ryohgo Narita&quot;: &quot;&quot;, &quot;Suzuhito Yasuda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Durarara!!"/>
+        <meta name="calibre:series_index" content="10"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-11T01:41:04.450333+00:00"/>
+        <meta name="calibre:title_sort" content="Durarara!!, Vol. 10"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

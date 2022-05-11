@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">591</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cc0b241c-29fa-46fe-b67b-803f853905c9</dc:identifier>
+        <dc:title>Durarara!!, Vol. 02</dc:title>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Yasuda, Suzuhito" opf:role="aut">Ryohgo Narita</dc:creator>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Yasuda, Suzuhito" opf:role="aut">Suzuhito Yasuda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-17T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;&lt;span style="color: #abb2bf"&gt;“I love people. Who do I love, you ask? No, no! I love everyone–all of humanity! What do I love about them? Don’t ask such rude questions! I love everything about them. Everything! But I cannot love you. And you—you should love me.” &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #abb2bf"&gt;Ikebukuro, Tokyo. A place where the clumsy and inept at love gather. A high school girl worried about her status. A third-rate magazine reporter covering the Ikebukuro beat. A teacher suspected of sexual harassment. A thug wearing a yellow bandanna, who is said to be toughest around. A young man who deals in all manner of sensitive information. And a headless rider on a coal-black motorcycle. &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="color: #abb2bf"&gt;As these individuals and more are drawn into a whirl of unlucky incidents, Ikebukuro itself will begin to crumble…! &lt;/span&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316304900</dc:identifier>
+        <dc:identifier opf:scheme="ISBN-13">9780316304764</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">durarara-vol-2-light-novel-2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ryohgo Narita&quot;: &quot;&quot;, &quot;Suzuhito Yasuda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Durarara!!"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-11T01:41:03.060003+00:00"/>
+        <meta name="calibre:title_sort" content="Durarara!!, Vol. 02"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

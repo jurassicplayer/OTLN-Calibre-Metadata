@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">597</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">371c9427-fb28-408e-8cf6-6e3f4548b544</dc:identifier>
+        <dc:title>Durarara!!, Vol. 08</dc:title>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Yasuda, Suzuhito" opf:role="aut">Ryohgo Narita</dc:creator>
+        <dc:creator opf:file-as="Narita, Ryohgo &amp; Yasuda, Suzuhito" opf:role="aut">Suzuhito Yasuda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-14T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;(Volume 7)&lt;/p&gt;
+&lt;p&gt;"I'm not doing anything. All the Dollars did that together..."&lt;/p&gt;
+&lt;p&gt;The holiday isn't over yet. The day after Izaya was stabbed, the scars of the recent incident are still fresh on the city. A pair of classmates wander the town together. A sister keeps an eye on the girl hanging around her brother. A girl tries to strengthen herself to kill the strongest man in town. A set of mischievous twins don't bother to care about their brother. A Russian woman mourns her future. A yakuza clings to his past. A doctor who travels to enjoy his holiday with a recently-relaxed headless dullahan... Ikebukuro is going to be busy!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780316474306</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">38530651</dc:identifier>
+        <dc:identifier opf:scheme="ISBN-13">9780316474306</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">durarara-vol-8-light-novel-2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Ryohgo Narita&quot;: &quot;&quot;, &quot;Suzuhito Yasuda&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Durarara!!"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-11T01:41:04.853189+00:00"/>
+        <meta name="calibre:title_sort" content="Durarara!!, Vol. 08"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

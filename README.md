@@ -12,6 +12,11 @@ These instructions will copy files from the ToSort folders to the target Calibre
 - Copy/symlink the `OTLN-Calibre-Metadata/dist/<metadata_set>.dat` to the `ROMVault/DatRoot` folder and remove any pre-existing files
     - Currently there is only one metadata set (OTLN_metadata.dat with just epubs), but in the future I'll add pdf when I get to it.
     - Symlinks are basically "shortcuts" in Windows, though I don't know if Windows shortcuts will work.
+    - Relative path symlinking may or may not require being within the folder of either the destination or source:
+    ```
+    ln -s OTLN_metadata.dat ../../ROMVault_3.4.5/DatRoot/OTLN_epub_metadata.dat
+    ln -s ../../OTLN-Calibre-Metadata/dist/OTLN_metadata.dat OTLN_epub_metadata.dat
+    ```
 - Execute RomVault and perform the following configurations:
     - On the menu bar, use `Add ToSort` and select the OTLN folder to add OTLN as a source path
     - Use `Add ToSort` again and select the `OTLN-Calibre-Metadata/metadata` folder as a source path
@@ -63,6 +68,8 @@ These instructions will copy files from the ToSort folders to the target Calibre
     - (Optional) Enable `Compress cover images` and change the value to 90 (reduce aggregate cover size by roughly 58.8%)
     - Press OK
 ## FAQ
+- Why does ROMVault show that my metadata.opf has changed even though I haven't updated anything?
+    - Calibre is a great program that seems to randomly sort the identifiers (isbn, kobo, amazon, etc.) and likes to put it's version number into the file. It's safe to ignore any of those changes as long as you personally haven't added any new metadata (read/unread status, etc.)
 - Why split the metadata into .opf files?
     - I wouldn't be able to distribute anything if I were to embed them, and keeping the unaltered original files is nice for validity checks.
 - Why go through the effort?

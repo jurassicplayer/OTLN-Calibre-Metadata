@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">626</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">30d25e82-fe1d-4edf-a3c1-ddd0ffcb3a76</dc:identifier>
+        <dc:title>FLCL, Vol. 02</dc:title>
+        <dc:creator opf:file-as="Enokido, Yoji &amp; GAINAX" opf:role="aut">Yoji Enokido</dc:creator>
+        <dc:creator opf:file-as="Enokido, Yoji &amp; GAINAX" opf:role="aut">GAINAX</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-09-09T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Nothing ever seems to rouse the population of Mabase, yet everyone is stirring with gossip when the mayor's adulterous affair is publicized. This is especially hard on the mayor's daughter, Ninamori, class president and Naota's friend. The other women in Naota's life aren't helping his stress level either. Haruko is closing in on her interplanetary foes, and Mamimi's downward spiral into madness is only spinning faster...&lt;/p&gt;
+&lt;p&gt;Plunge deeper into the demented dreamscape of a high school nothing turned mutant warrior in this volume of FLCL!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>TokyoPop</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781427804990</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">5038172</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yoji Enokido&quot;: &quot;&quot;, &quot;GAINAX&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="FLCL"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-12T11:09:22.071834+00:00"/>
+        <meta name="calibre:title_sort" content="FLCL, Vol. 02"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">620</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b957378e-6605-4ba7-b089-d0ce6a216a30</dc:identifier>
+        <dc:title>FLCL, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Enokido, Yoji &amp; GAINAX" opf:role="aut">Yoji Enokido</dc:creator>
+        <dc:creator opf:file-as="Enokido, Yoji &amp; GAINAX" opf:role="aut">GAINAX</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-03-11T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Naota's life is not simple. He lives with his eccentric father and grandfather in a city distinguished by a gigantic hand-iron shaped factory perched on a hill. His brother's ex-girlfriend makes passes at him. And to top it all off, an impish, playful alien has run him over with her Vespa and smacked him in the head with a bass guitar! Little does he know that this is only the beginning of his involvement in an interplanetary ideological war.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>TokyoPop</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781427804983</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">1227846</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Yoji Enokido&quot;: &quot;&quot;, &quot;GAINAX&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="FLCL"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-12T11:08:02.072680+00:00"/>
+        <meta name="calibre:title_sort" content="FLCL, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

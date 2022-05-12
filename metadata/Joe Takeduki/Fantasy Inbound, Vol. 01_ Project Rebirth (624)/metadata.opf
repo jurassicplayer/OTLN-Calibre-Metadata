@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">624</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8d171b2f-5c16-4627-ac5d-9b1307cb8a64</dc:identifier>
+        <dc:title>Fantasy Inbound, Vol. 01: Project Rebirth</dc:title>
+        <dc:creator opf:file-as="Takeduki, Joe &amp; Shirabii" opf:role="aut">Joe Takeduki</dc:creator>
+        <dc:creator opf:file-as="Takeduki, Joe &amp; Shirabii" opf:role="aut">Shirabii</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-02-15T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The world is in peril. Legends live, fairy tales walk, and fantasies become reality, threatening to&lt;/p&gt;&lt;p&gt;turn Earth into a waking nightmare. When the flames of war reach Japan’s shores, the vestiges&lt;/p&gt;&lt;p&gt;of a shattered nation fail to protect what remains of its people against an unknown enemy, and&lt;/p&gt;&lt;p&gt;all seems lost. Those left behind and those that failed to flee now live in scattered communities&lt;/p&gt;&lt;p&gt;among the remnants of a better time.&lt;/p&gt;
+&lt;p&gt;Yu Ichinose is just another survivor, a quiet, scrawny middle-schooler trying to get by. That is,&lt;/p&gt;&lt;p&gt;until he finds his fate bound to a mysterious, elvish girl who seems to hold the key to hope. Now,&lt;/p&gt;&lt;p&gt;the time has come to stand and take up the sword against sorcery. To become the hero who&lt;/p&gt;&lt;p&gt;saves the world.&lt;/p&gt;
+&lt;p&gt;The time has come to awaken the Asura Frame.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718380486</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">60405958</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">fantasy-inbound-volume-1</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Mecha</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Joe Takeduki&quot;: &quot;&quot;, &quot;Shirabii&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Fantasy Inbound"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-12T11:08:02.912422+00:00"/>
+        <meta name="calibre:title_sort" content="Fantasy Inbound, Vol. 01: Project Rebirth"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

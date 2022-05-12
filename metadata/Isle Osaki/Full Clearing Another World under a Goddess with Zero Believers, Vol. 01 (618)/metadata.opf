@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">618</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a36fd3c4-3393-46ac-bc3f-365453e6bd80</dc:identifier>
+        <dc:title>Full Clearing Another World under a Goddess with Zero Believers, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Osaki, Isle &amp; Tam-U" opf:role="aut">Isle Osaki</dc:creator>
+        <dc:creator opf:file-as="Osaki, Isle &amp; Tam-U" opf:role="aut">Tam-U</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-03T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Makoto Takatsuki is a normal high school student and a hardcore RPG player. However, “normal” goes out the window when his whole class is involved in a bus crash and whisked away to another world! Powerful gods rule this strange new land of magic and monsters, and every newcomer is blessed with strong stats and unique skills. Well, not quite. Makoto’s stats turn out to be pathetic, and his skills are super weak compared to his classmates’...he’s even stuck as an apprentice mage. Worse still, he’s given only ten years to live!&lt;/p&gt;
+&lt;p&gt;Luckily, Makoto soon meets a minor goddess named Noah, who appears in Makoto’s dreams and asks him to become her first believer. With the help of Noah's blessings and a divine weapon, Makoto seeks to become strong enough to rescue his goddess from the dungeon where she’s been trapped. By training hard and using his weak skills in unorthodox ways, Makoto proves that, even when playing on hardcore difficulty, an RPG player always makes it to the end!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718384989</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">full-clearing-another-world-under-a-goddess-with-zero-believers-volume-1</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Isle Osaki&quot;: &quot;&quot;, &quot;Tam-U&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Full Clearing Another World under a Goddess with Zero Believers"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-12T11:08:01.554000+00:00"/>
+        <meta name="calibre:title_sort" content="Full Clearing Another World under a Goddess with Zero Believers, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

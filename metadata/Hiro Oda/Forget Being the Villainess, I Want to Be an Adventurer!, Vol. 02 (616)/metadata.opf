@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">616</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">39b82e52-2ccf-4d97-926d-9b297b3064eb</dc:identifier>
+        <dc:title>Forget Being the Villainess, I Want to Be an Adventurer!, Vol. 02</dc:title>
+        <dc:creator opf:file-as="Oda, Hiro &amp; Tobi" opf:role="aut">Hiro Oda</dc:creator>
+        <dc:creator opf:file-as="Oda, Hiro &amp; Tobi" opf:role="aut">Tobi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-03-31T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Serephione’s plan to avoid becoming the villainess is going smoothly. She’s made it to her second year of knight school and become an A-rank adventurer at Trundle Guild, all by the age of fourteen! However, just when everything was going well, she faces an unexpected enemy. A background character from the book has taken control of a holy beast, and they want to force Serephione to fight on their side as well! Overpowered, she is forced to resort to her escape plan: flee the country and live on her own as an adventurer. It’ll be hard to make it without her beloved family and Lou, but she has some old friends to help her along the way!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club (J-Novel Heart)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718388499</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B09QVRKMF1</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">60409547</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Shoujo</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hiro Oda&quot;: &quot;&quot;, &quot;Tobi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Forget Being the Villainess, I Want to Be an Adventurer!"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-12T11:07:58.322738+00:00"/>
+        <meta name="calibre:title_sort" content="Forget Being the Villainess, I Want to Be an Adventurer!, Vol. 02"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">617</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">950ba3ad-5c7b-442a-83ad-2f1a0b90b5d6</dc:identifier>
+        <dc:title>Forget Being the Villainess, I Want to Be an Adventurer!, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Oda, Hiro &amp; Tobi" opf:role="aut">Hiro Oda</dc:creator>
+        <dc:creator opf:file-as="Oda, Hiro &amp; Tobi" opf:role="aut">Tobi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-21T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Serephione Granzeus is your average three-year-old girl...or so she thinks, until she meets Lou, the super-fluffy Holy Guardian White Tiger. Memories of her past life as a Japanese businesswoman come flooding back to her, and she realizes she’s part of a fantasy book she read before, but as the villainess. Yet her past life isn’t all that she remembers; she can recall her life as the original Serephione, and her sadness, and her pain...&lt;/p&gt;
+&lt;p&gt;After making a contract with Lou, she comes up with a plan to change the plot and avoid the villainess’s dark fate: become an adventurer and avoid everyone from the book! But the more she diverges from the plot, the more unpredictable the other characters become. How will she keep everyone from learning her secrets and spoiling her plans?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club (J-Novel Heart)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718388475</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">59662704</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">forget-being-the-villainess-i-want-to-be-an-adventurer-volume-1</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Magic</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Shoujo</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Hiro Oda&quot;: &quot;&quot;, &quot;Tobi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Forget Being the Villainess, I Want to Be an Adventurer!"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-12T11:08:00.665275+00:00"/>
+        <meta name="calibre:title_sort" content="Forget Being the Villainess, I Want to Be an Adventurer!, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

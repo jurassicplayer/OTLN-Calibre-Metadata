@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">625</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1ae166a4-9206-45dc-b576-59cf8a41725d</dc:identifier>
+        <dc:title>FAUST, Vol. 02</dc:title>
+        <dc:creator opf:file-as="NISIOISIN &amp; Ueda, Hajime &amp; Kadono, Kouhei &amp; Otsuichi &amp; Satō, Yūya &amp; Takimoto, Tatsuhiko &amp; Watanabe, Koji &amp; Otomo, Katsuhiro &amp; Terada, Katsuya" opf:role="aut">nisioisin</dc:creator>
+        <dc:creator opf:file-as="NISIOISIN &amp; Ueda, Hajime &amp; Kadono, Kouhei &amp; Otsuichi &amp; Satō, Yūya &amp; Takimoto, Tatsuhiko &amp; Watanabe, Koji &amp; Otomo, Katsuhiro &amp; Terada, Katsuya" opf:role="aut">Hajime Ueda</dc:creator>
+        <dc:creator opf:file-as="NISIOISIN &amp; Ueda, Hajime &amp; Kadono, Kouhei &amp; Otsuichi &amp; Satō, Yūya &amp; Takimoto, Tatsuhiko &amp; Watanabe, Koji &amp; Otomo, Katsuhiro &amp; Terada, Katsuya" opf:role="aut">Kouhei Kadono</dc:creator>
+        <dc:creator opf:file-as="NISIOISIN &amp; Ueda, Hajime &amp; Kadono, Kouhei &amp; Otsuichi &amp; Satō, Yūya &amp; Takimoto, Tatsuhiko &amp; Watanabe, Koji &amp; Otomo, Katsuhiro &amp; Terada, Katsuya" opf:role="aut">Otsuichi</dc:creator>
+        <dc:creator opf:file-as="NISIOISIN &amp; Ueda, Hajime &amp; Kadono, Kouhei &amp; Otsuichi &amp; Satō, Yūya &amp; Takimoto, Tatsuhiko &amp; Watanabe, Koji &amp; Otomo, Katsuhiro &amp; Terada, Katsuya" opf:role="aut">Yūya Satō</dc:creator>
+        <dc:creator opf:file-as="NISIOISIN &amp; Ueda, Hajime &amp; Kadono, Kouhei &amp; Otsuichi &amp; Satō, Yūya &amp; Takimoto, Tatsuhiko &amp; Watanabe, Koji &amp; Otomo, Katsuhiro &amp; Terada, Katsuya" opf:role="aut">Tatsuhiko Takimoto</dc:creator>
+        <dc:creator opf:file-as="NISIOISIN &amp; Ueda, Hajime &amp; Kadono, Kouhei &amp; Otsuichi &amp; Satō, Yūya &amp; Takimoto, Tatsuhiko &amp; Watanabe, Koji &amp; Otomo, Katsuhiro &amp; Terada, Katsuya" opf:role="aut">Koji Watanabe</dc:creator>
+        <dc:creator opf:file-as="NISIOISIN &amp; Ueda, Hajime &amp; Kadono, Kouhei &amp; Otsuichi &amp; Satō, Yūya &amp; Takimoto, Tatsuhiko &amp; Watanabe, Koji &amp; Otomo, Katsuhiro &amp; Terada, Katsuya" opf:role="aut">Katsuhiro Otomo</dc:creator>
+        <dc:creator opf:file-as="NISIOISIN &amp; Ueda, Hajime &amp; Kadono, Kouhei &amp; Otsuichi &amp; Satō, Yūya &amp; Takimoto, Tatsuhiko &amp; Watanabe, Koji &amp; Otomo, Katsuhiro &amp; Terada, Katsuya" opf:role="aut">Katsuya Terada</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-06-23T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A brilliant anthology featuring manga-inspired fiction from today’s best writers with artwork from top manga creators, including&lt;/p&gt;
+&lt;p&gt;“ECCO,” by Tatsuhiko Takimoto (illustrated by D.K): Is life nothing but a cruel joke? One young rebel decides to find out.&lt;/p&gt;
+&lt;p&gt;“Jagdtiger,” by Kouhei Kadono (illustrated by Ueda Hajime): She’s a combat-ready synthetic human with a dangerous flaw: a heart.&lt;/p&gt;
+&lt;p&gt;“Where the Wind Blows,” by Otsuichi (illustrated by Takeshi Obata): A newspaper from the future carries a very disturbing story for one particular woman: She will die by the hand of the man she loves.&lt;/p&gt;
+&lt;p&gt;“Magical Girl Risuka,” by NISIOISIN (illustrated by Kinu Nishimura): She’s a beautiful witch with magical powers that could change the world. And he’s the boy who will give her a reason to do it.&lt;/p&gt;
+&lt;p&gt;“Gray-Colored Diet Coke” by Yûya Satô: He’s nineteen, surrounded by morons, and desperate to escape his crummy part-time job. His best friend’s plan worked great, but surely suicide can’t be the only way out.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Del Rey</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345503572</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">3430918</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Anthology</dc:subject>
+        <dc:subject>Discontinued</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;nisioisin&quot;: &quot;&quot;, &quot;Hajime Ueda&quot;: &quot;&quot;, &quot;Kouhei Kadono&quot;: &quot;&quot;, &quot;Otsuichi&quot;: &quot;&quot;, &quot;Yūya Satō&quot;: &quot;&quot;, &quot;Tatsuhiko Takimoto&quot;: &quot;&quot;, &quot;Koji Watanabe&quot;: &quot;&quot;, &quot;Katsuhiro Otomo&quot;: &quot;&quot;, &quot;Katsuya Terada&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="FAUST"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-12T11:08:03.191010+00:00"/>
+        <meta name="calibre:title_sort" content="FAUST, Vol. 02"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">628</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3fe2b65d-16ff-4d18-ae94-7da74f2495ba</dc:identifier>
+        <dc:title>FAUST, Vol. 01</dc:title>
+        <dc:creator opf:file-as="nisioisin &amp; Kadono, Kouhei &amp; Maijo, Otaro &amp; Otsuichi &amp; Nasu, Kinoko &amp; Watanabe, Koji &amp; Kouga, Yun" opf:role="aut">nisioisin</dc:creator>
+        <dc:creator opf:file-as="nisioisin &amp; Kadono, Kouhei &amp; Maijo, Otaro &amp; Otsuichi &amp; Nasu, Kinoko &amp; Watanabe, Koji &amp; Kouga, Yun" opf:role="aut">Kouhei Kadono</dc:creator>
+        <dc:creator opf:file-as="nisioisin &amp; Kadono, Kouhei &amp; Maijo, Otaro &amp; Otsuichi &amp; Nasu, Kinoko &amp; Watanabe, Koji &amp; Kouga, Yun" opf:role="aut">Otaro Maijo</dc:creator>
+        <dc:creator opf:file-as="nisioisin &amp; Kadono, Kouhei &amp; Maijo, Otaro &amp; Otsuichi &amp; Nasu, Kinoko &amp; Watanabe, Koji &amp; Kouga, Yun" opf:role="aut">Otsuichi</dc:creator>
+        <dc:creator opf:file-as="nisioisin &amp; Kadono, Kouhei &amp; Maijo, Otaro &amp; Otsuichi &amp; Nasu, Kinoko &amp; Watanabe, Koji &amp; Kouga, Yun" opf:role="aut">Kinoko Nasu</dc:creator>
+        <dc:creator opf:file-as="nisioisin &amp; Kadono, Kouhei &amp; Maijo, Otaro &amp; Otsuichi &amp; Nasu, Kinoko &amp; Watanabe, Koji &amp; Kouga, Yun" opf:role="aut">Koji Watanabe</dc:creator>
+        <dc:creator opf:file-as="nisioisin &amp; Kadono, Kouhei &amp; Maijo, Otaro &amp; Otsuichi &amp; Nasu, Kinoko &amp; Watanabe, Koji &amp; Kouga, Yun" opf:role="aut">Yun Kouga</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-08-19T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A stunning new collection of fiction inspired by the fantastic world of manga–and featuring artwork by the best in the business, including&lt;/p&gt;
+&lt;p&gt;“Outerholic,” by NISIOISIN (illustrated by CLAMP): CLAMP fans everywhere will appreciate the original art in this tale excerpted from NISIOISIN’s upcoming novel–set in the world of CLAMP’s bestselling xxxHOLiC–about a woman compelled to choose disaster.&lt;/p&gt;
+&lt;p&gt;“F-sensei’s Pocket,” by Otsuichi (illustrated by Takeshi Obata): What would you do if you could make all your dreams come true? Here’s the story of a girl who is really very ordinary–until a bunch of magic gadgets suddenly blow onto her porch.&lt;/p&gt;
+&lt;p&gt;“Outlandos d’Amour,” by Kouhei Kadono (illustrated by Ueda Hajime): For a boy who can make lightning strike, the only thing harder than learning how to control his powers is falling in love.&lt;/p&gt;
+&lt;p&gt;“The Garden of Sinners,” by Kinoko Nasu (illustrated by Takashi Takeuchi [TYPE-MOON]): Too many young girls are flying and dying. It has to stop–and only Shiki can put an end to it.&lt;/p&gt;
+&lt;p&gt;“Drill Hole in My Brain,” (Written and illustrated by Otaro Maijo): The ill-fated love story of a boy with a hole in his head and a girl with a horn on hers. It was great while it lasted, but the end of their affair just might mean the end of the world.&lt;/p&gt;
+&lt;p&gt;PLUS more illustrated stories, columns, interviews, and bonus features!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Del Rey</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780345502063</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">034550206X</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">3430687</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Anthology</dc:subject>
+        <dc:subject>Discontinued</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Manga</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;nisioisin&quot;: &quot;&quot;, &quot;Kouhei Kadono&quot;: &quot;&quot;, &quot;Otaro Maijo&quot;: &quot;&quot;, &quot;Otsuichi&quot;: &quot;&quot;, &quot;Kinoko Nasu&quot;: &quot;&quot;, &quot;Koji Watanabe&quot;: &quot;&quot;, &quot;Yun Kouga&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="FAUST"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-12T11:09:45.278119+00:00"/>
+        <meta name="calibre:title_sort" content="FAUST, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

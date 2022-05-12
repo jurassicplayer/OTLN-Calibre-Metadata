@@ -6,8 +6,8 @@
 		<name>Officially Translated Light Novels</name>
 		<description>OTLN v18.4 + Metadata v18.4</description>
 		<category>Standard DatFile</category>
-		<version>2022/05/11</version>
-		<date>2022/05/11</date>
+		<version>2022/05/12</version>
+		<date>2022/05/12</date>
 		<author>jurassicplayer</author>
 		<email>--</email>
 		<homepage>https://github.com/jurassicplayer/OTLN-Calibre-Metadata</homepage>
@@ -356,6 +356,13 @@
 		<rom name="Bungo Stray Dogs, Vol. 05_ Dead Apple (251)\Bungo Stray Dogs, Vol. 05_ Dead Apple - Hiro Iwahata.epub" size="12512099" crc="5a87e195" md5="9aac933806cac2b7a7f29ee926488277" sha1="4eaaf6bcf59790a034dc540cbc9e61d4ecd3dd26"/>
 		<rom name="Bungo Stray Dogs, Vol. 05_ Dead Apple (251)\metadata.opf" size="2854" crc="c86df31a" md5="268e139da4c68954135279fe8f319be2" sha1="764ca39617733a6bbe8b989eaa6c667275bd1b73"/>
 	</machine>
+	<machine name="Hiro Oda">
+		<description>Hiro Oda</description>
+		<rom name="Forget Being the Villainess, I Want to Be an Adventurer!, Vol. 01 (617)\Forget Being the Villainess, I Want to Be - Hiro Oda.epub" size="12173113" crc="d8fc36ba" md5="8c76b7cf8e5566e04b5e95cfd1a0be18" sha1="14fe02c4dd691c38aefca882d6bf33cd4f46bfa2"/>
+		<rom name="Forget Being the Villainess, I Want to Be an Adventurer!, Vol. 01 (617)\metadata.opf" size="3209" crc="be0fbab1" md5="17091e6eea7508751934ad66c09eeefa" sha1="3acc34a63c28d32eac6d10ec3f86f5f38edd4515"/>
+		<rom name="Forget Being the Villainess, I Want to Be an Adventurer!, Vol. 02 (616)\Forget Being the Villainess, I Want to Be - Hiro Oda.epub" size="24834760" crc="eed992ca" md5="c815e5573cfdd0858538bb8b5ab6b71e" sha1="71a109a6e142eac64aa9d0701fbe11df4cccbe30"/>
+		<rom name="Forget Being the Villainess, I Want to Be an Adventurer!, Vol. 02 (616)\metadata.opf" size="2999" crc="f5e4a890" md5="bef7435fcc580ae8c45fb02e8444965b" sha1="56fee5c8acb62895b98fdbb0dabb5887b6080815"/>
+	</machine>
 	<machine name="Hiromu">
 		<description>Hiromu</description>
 		<rom name="Chitose Is in the Ramune Bottle, Vol. 01 (566)\Chitose Is in the Ramune Bottle, Vol. 01 - Hiromu.epub" size="16662927" crc="ff145fb6" md5="55cee83166afb25ef64dad93104b4690" sha1="910ec3f3e20a60e8972546e239094649981d0131"/>
@@ -503,6 +510,15 @@
 		<rom name="As the Villainess, I Reject These Happy-Bad Endings! (115)\As the Villainess, I Reject These Happy-Ba - Iota AIUE.epub" size="22262497" crc="7649ed58" md5="e3e2562205d9c82c14595914e8979fc4" sha1="565f0487725410b680d68ddcd01c8b9b72d411ce"/>
 		<rom name="As the Villainess, I Reject These Happy-Bad Endings! (115)\metadata.opf" size="2737" crc="03772186" md5="63989adc90e61f48a8c1b12290ac32ca" sha1="5f76892dcc6d88b36153ff0f85a6283cbedda22a"/>
 	</machine>
+	<machine name="Isle Osaki">
+		<description>Isle Osaki</description>
+		<rom name="Full Clearing Another World under a Goddess with Zero Believers, Vol. 01 (618)\Full Clearing Another World under a Goddes - Isle Osaki.epub" size="13943419" crc="f9462e64" md5="58fb8e3cac42ea08fada5d140c34ccae" sha1="4ce8e171a849e72a6e5ec32ec574017bab6b50ca"/>
+		<rom name="Full Clearing Another World under a Goddess with Zero Believers, Vol. 01 (618)\metadata.opf" size="3412" crc="3d8e4a18" md5="bc732299acb3112e6babf98215586666" sha1="6652007856be332518685ffc8acdc58f29f10b7e"/>
+		<rom name="Full Clearing Another World under a Goddess with Zero Believers, Vol. 02 (614)\Full Clearing Another World under a Goddes - Isle Osaki.epub" size="12963740" crc="3c174f54" md5="5f4ef13fb2a142cee944adcb0e3b33a7" sha1="8b619b81a1f75e285dcfaa70649dde3682c41146"/>
+		<rom name="Full Clearing Another World under a Goddess with Zero Believers, Vol. 02 (614)\metadata.opf" size="3382" crc="336a238b" md5="8b955b632ebf1a205039c340f317828c" sha1="61c6cdc9ba929469e03b3e6793586486ca8e1d67"/>
+		<rom name="Full Clearing Another World under a Goddess with Zero Believers, Vol. 03 (613)\Full Clearing Another World under a Goddes - Isle Osaki.epub" size="15439174" crc="be01a707" md5="9e12902c6674fd5393a60c8e0a934f81" sha1="95892b98a55718f590b645e8b47dc175bf94e2f6"/>
+		<rom name="Full Clearing Another World under a Goddess with Zero Believers, Vol. 03 (613)\metadata.opf" size="3460" crc="2715a61d" md5="7cc0321df0b9663b122970d8015f2e6f" sha1="2468441f62950da95a84fefde62d56dabb3ef0b6"/>
+	</machine>
 	<machine name="Isshiki Ichika">
 		<description>Isshiki Ichika</description>
 		<rom name="Berserk of Gluttony, Vol. 01 (189)\Berserk of Gluttony, Vol. 01 - Isshiki Ichika.epub" size="9932367" crc="58ed998f" md5="bff9129ffebc86787f0590714e431dd4" sha1="4ab3159861009102d11ca2617b778a055c039859"/>
@@ -518,6 +534,18 @@
 		<rom name="Berserk of Gluttony, Vol. 06 (580)\Berserk of Gluttony, Vol. 06 - Isshiki Ichika.epub" size="14731771" crc="457cedf6" md5="dab2ab3f47239b3195f32b7c89de72c5" sha1="cc683d0d4cf039f4964941f70000162ac89788f7"/>
 		<rom name="Berserk of Gluttony, Vol. 06 (580)\metadata.opf" size="2743" crc="096c31af" md5="f2f8cdb2df609f96fb16918c8e285635" sha1="9ccfe6afda70d6d71b4af68396e22f904ab46267"/>
 	</machine>
+	<machine name="Joe Takeduki">
+		<description>Joe Takeduki</description>
+		<rom name="Fantasy Inbound, Vol. 01_ Project Rebirth (624)\Fantasy Inbound, Vol. 01_ Project Rebirth - Joe Takeduki.epub" size="16950364" crc="12323472" md5="521d2300ed3851bf851eb4bccdf3cbe0" sha1="cdaa12d548cff2200fd905c86d4d9b2e67c54c64"/>
+		<rom name="Fantasy Inbound, Vol. 01_ Project Rebirth (624)\metadata.opf" size="3188" crc="094c5a2f" md5="5b27b7ee2d867e9f72ea6617d374269e" sha1="66fa1248c8dd637cfb28194a4f42415c13311881"/>
+		<rom name="Fantasy Inbound, Vol. 02_ The King's Return (623)\Fantasy Inbound, Vol. 02_ The King's Retur - Joe Takeduki.epub" size="12591520" crc="9318a118" md5="1ce423ede2f45967666c959a63a45a92" sha1="6183c381b770dd28d30077a68b405ac4cc96a2ff"/>
+		<rom name="Fantasy Inbound, Vol. 02_ The King's Return (623)\metadata.opf" size="2876" crc="bb02afd7" md5="73b79a4cf8aaf587374fceefdfdd38ad" sha1="09e75f4c62777216c86a10c5024fdd2758e69508"/>
+	</machine>
+	<machine name="Jun Eishima">
+		<description>Jun Eishima</description>
+		<rom name="Final Fantasy XV_ The Dawn of the Future (622)\Final Fantasy XV_ The Dawn of the Future - Jun Eishima.epub" size="21167547" crc="4d566a2e" md5="637a9dbdddce459c057bb7ead4116736" sha1="c92196df8c79a855339b571979c7179a8755bba5"/>
+		<rom name="Final Fantasy XV_ The Dawn of the Future (622)\metadata.opf" size="3034" crc="fb5a6ad8" md5="bd1799d36547c1d13a84c60e67dff3b7" sha1="f75169b91dbe68fbb7cf84d2a8ef69c7c05b3ab5"/>
+	</machine>
 	<machine name="Kafka Asagiri">
 		<description>Kafka Asagiri</description>
 		<rom name="Bungo Stray Dogs, Vol. 01_ Osamu Dazai's Entrance Exam (248)\Bungo Stray Dogs, Vol. 01_ Osamu Dazai's E - Kafka Asagiri.epub" size="11593585" crc="8ffe9e52" md5="8a02e918f99e949001b3451f0ece5cd6" sha1="9bf4f7eb7d5f03d690defe82817c24c7e82b2d26"/>
@@ -532,6 +560,15 @@
 		<rom name="Bungo Stray Dogs, Vol. 06_ Beast (252)\metadata.opf" size="2771" crc="ea48c680" md5="e1e73e011641881a832d6cb1032b3283" sha1="62c4d0594735c754bae622c2994605e81670ac82"/>
 		<rom name="Bungo Stray Dogs, Vol. 07_ Dazai, Chuuya, Age Fifteen (546)\Bungo Stray Dogs, Vol. 07_ Dazai, Chuuya, - Kafka Asagiri.epub" size="11472242" crc="f771783f" md5="f7fbf2d7b557821fd4257065b2975bbf" sha1="491df0733bdfd7791f384f06d7001dce15625642"/>
 		<rom name="Bungo Stray Dogs, Vol. 07_ Dazai, Chuuya, Age Fifteen (546)\metadata.opf" size="2881" crc="fb1aba5c" md5="4c8ffe639f898107f736a142de6d0b6a" sha1="20f822f27dc2af4f84af98321f8cc21856a6f8e0"/>
+	</machine>
+	<machine name="Kaoru Shinozaki">
+		<description>Kaoru Shinozaki</description>
+		<rom name="Failure Frame_ I Became the Strongest and Annihilated Everything With Low-Level Spells, Vol. 01 (610)\Failure Frame_ I Became the Strongest and - Kaoru Shinozaki.epub" size="17277597" crc="56daa8ea" md5="08d7a781f87384f4843997fcb6d77a49" sha1="50b0df4ebadd6cf4eccd26fab7f181093c44c2b1"/>
+		<rom name="Failure Frame_ I Became the Strongest and Annihilated Everything With Low-Level Spells, Vol. 01 (610)\metadata.opf" size="3422" crc="5c5196c8" md5="4fac9d41f733d77ac1cce9f3d7481847" sha1="a6b5327179d2f870ce1501d74b5d6e666c78f696"/>
+		<rom name="Failure Frame_ I Became the Strongest and Annihilated Everything With Low-Level Spells, Vol. 02 (612)\Failure Frame_ I Became the Strongest and - Kaoru Shinozaki.epub" size="8588258" crc="920abc7c" md5="96da7b5a0594591993a6cb574c973fe5" sha1="584047d2a294eb93a056301bd0b0de667407144d"/>
+		<rom name="Failure Frame_ I Became the Strongest and Annihilated Everything With Low-Level Spells, Vol. 02 (612)\metadata.opf" size="3205" crc="95aadf54" md5="193029f5653e542ee4f07f1a25dc5b46" sha1="de84bf9e8da2f99afad3d9d0c9984dfc9e4a029d"/>
+		<rom name="Failure Frame_ I Became the Strongest and Annihilated Everything With Low-Level Spells, Vol. 03 (611)\Failure Frame_ I Became the Strongest and - Kaoru Shinozaki.epub" size="13195513" crc="4ffe3301" md5="058e9b76f05082a8b09b9998db5bd4fd" sha1="3d181ff640acc8800b8d3ccf1e97723b0138d218"/>
+		<rom name="Failure Frame_ I Became the Strongest and Annihilated Everything With Low-Level Spells, Vol. 03 (611)\metadata.opf" size="3215" crc="e7f0aad7" md5="41b75e40cdd432c7aa859889cc5f9d0f" sha1="ee90804464ce7a30d9c3721348acf679c638678b"/>
 	</machine>
 	<machine name="Kazuma Kamachi">
 		<description>Kazuma Kamachi</description>
@@ -853,6 +890,10 @@
 		<description>nisioisin</description>
 		<rom name="Death Note_ Another Note - the Los Angeles BB Murder Cases (429)\Death Note_ Another Note - the Los Angeles - nisioisin.epub" size="341691" crc="6be522b2" md5="bed1232ccd699776321fb1d63259dc1f" sha1="8b262112906c1f8227c97a6066901c0a7d6d474f"/>
 		<rom name="Death Note_ Another Note - the Los Angeles BB Murder Cases (429)\metadata.opf" size="3070" crc="659d3ecb" md5="5c33b7d17ae355315433facdfc9918bd" sha1="04d332aad4cb4f0d8352fdbdcdbc50b93210275d"/>
+		<rom name="FAUST, Vol. 01 (628)\FAUST, Vol. 01 - nisioisin.pdf" size="113550801" crc="dcabddff" md5="3092b713c0247790ae15b093288cb86a" sha1="064a9ca3a790ca84877686f1d65b01d5c086b003"/>
+		<rom name="FAUST, Vol. 01 (628)\metadata.opf" size="4897" crc="b7f857cc" md5="ac98bc060874fbbb63a38f2942859b1d" sha1="61ab3899caebea106cbd2a3ec90d112afee0c5c8"/>
+		<rom name="FAUST, Vol. 02 (625)\FAUST, Vol. 02 - nisioisin.pdf" size="74986619" crc="295fb68d" md5="52c6044eb28ac09b10fdc981e4c20899" sha1="ec49d3005c7a44dbe4ec74952b2625ab305e7256"/>
+		<rom name="FAUST, Vol. 02 (625)\metadata.opf" size="5404" crc="b5d74cef" md5="e841465285fe02db50cb4790f37afa2d" sha1="61dc079fa3e9df8c926614059db1e64cf6abbfe6"/>
 	</machine>
 	<machine name="Nozomu Tamaki">
 		<description>Nozomu Tamaki</description>
@@ -1113,6 +1154,11 @@
 		<rom name="Even Dogs Go to Other Worlds_ Life in Another World with My Beloved Hound, Vol. 01 (608)\Even Dogs Go to Other Worlds_ Life in Anot - Ryuuou.epub" size="17865805" crc="237f659c" md5="c3d33d28a98da18d58be4b199acc192e" sha1="0cf5518c7d9aded2cb17c3e9657df81c40e375b8"/>
 		<rom name="Even Dogs Go to Other Worlds_ Life in Another World with My Beloved Hound, Vol. 01 (608)\metadata.opf" size="2977" crc="5de7b7ca" md5="1a16e8fbca8be65783d97e57878bc621" sha1="9800e2c600cdf10b363a8607e68b5e14c1773b85"/>
 	</machine>
+	<machine name="Sametaro Fukada">
+		<description>Sametaro Fukada</description>
+		<rom name="From Toxic Classmate to Girlfriend Goals, Vol. 01 (615)\From Toxic Classmate to Girlfriend Goals, - Sametaro Fukada.epub" size="15888276" crc="4348c248" md5="f7f38c1125362da74172c737da92297b" sha1="89876130c54b7ed433b3c9bfbf847095cc9bcc0c"/>
+		<rom name="From Toxic Classmate to Girlfriend Goals, Vol. 01 (615)\metadata.opf" size="2893" crc="c82f5aee" md5="e2243ec6cca2ea2e797ff3be55cb82a1" sha1="ee186d911bb508b543df2bc9179792daeeda15de"/>
+	</machine>
 	<machine name="Sana Shirakawa">
 		<description>Sana Shirakawa</description>
 		<rom name="Alice in the Country of Diamonds_ Bet on My Heart (331)\Alice in the Country of Diamonds_ Bet on M - Sana Shirakawa.epub" size="21211088" crc="eefdbbf5" md5="181bb0a9181bd5a30b7ec4d54a525487" sha1="f97dfc43db6b3a38ac003bac6709d7a5dfa124d5"/>
@@ -1215,6 +1261,11 @@
 		<rom name="Demon King Daimaou, Vol. 12 (442)\metadata.opf" size="2679" crc="7fb5acbe" md5="e4c5dcc4de6a1ac522b74ca2cee45d1f" sha1="5fdcb16af6d7dbf2393755d63b5e69778ec89f8b"/>
 		<rom name="Demon King Daimaou, Vol. 13 (440)\Demon King Daimaou, Vol. 13 - Shoutarou Mizuki.epub" size="26078605" crc="022007c6" md5="7a342585682984d0bfec38014d39fd30" sha1="74cc47463406b1bfbe2caff4a4c6df496a5db4e6"/>
 		<rom name="Demon King Daimaou, Vol. 13 (440)\metadata.opf" size="2819" crc="4317054e" md5="32635fc3b10efa3a7ef944b888720212" sha1="efe880212d3cc7931d633d8f0e5a1b5774665c29"/>
+	</machine>
+	<machine name="Shunji Iwai">
+		<description>Shunji Iwai</description>
+		<rom name="Fireworks, Should We See It From the Side or the Bottom_ (621)\Fireworks, Should We See It From the Side - Shunji Iwai.epub" size="1141437" crc="378f3351" md5="1464b574a4cc0066fbdc1c34457be34a" sha1="c87a2bf2e08246f934487db23eb05e159949f55d"/>
+		<rom name="Fireworks, Should We See It From the Side or the Bottom_ (621)\metadata.opf" size="2795" crc="141f838d" md5="3a879cd04531e1df333bfc82119bd67b" sha1="14963b160d39bc288d6cc5f9098c2b101b856242"/>
 	</machine>
 	<machine name="Souki Tsukishima">
 		<description>Souki Tsukishima</description>
@@ -1323,6 +1374,15 @@
 		<rom name="Can Someone Please Explain What's Going On_!, Vol. 08 (560)\metadata.opf" size="2862" crc="5b69835e" md5="2bedeb5e95b87a1b66b1474b5f2147ea" sha1="b6eef3b57044ab2e1d789caebfc2cd2ac9c6a6f9"/>
 		<rom name="Can Someone Please Explain What's Going On_!, Vol. 09 (584)\Can Someone Please Explain What's Going On - Tsuredurebana.epub" size="17629714" crc="86eb76fa" md5="5d8625e106f68849559930723c80dc62" sha1="d50419cb9611048295c5c1b2a9ac60976557e638"/>
 		<rom name="Can Someone Please Explain What's Going On_!, Vol. 09 (584)\metadata.opf" size="2697" crc="1416394f" md5="0269b8122ab497cdd8706f0ca611fe6e" sha1="f8ee330fb8134640f2d6271f18d72faad344ecf5"/>
+	</machine>
+	<machine name="Yoji Enokido">
+		<description>Yoji Enokido</description>
+		<rom name="FLCL, Vol. 01 (620)\FLCL, Vol. 01 - Yoji Enokido.pdf" size="19376754" crc="cec769ff" md5="a32b364eccd17938b2af0ec1bbfd95f7" sha1="a2a6b5affbadb87bcc1b60b1ad40d78942836a0d"/>
+		<rom name="FLCL, Vol. 01 (620)\metadata.opf" size="2451" crc="513eef2b" md5="46443800363bda0fd89d2798e71ed715" sha1="f6f474f177b13f8187c6a8a0a0a71d59703a4c8c"/>
+		<rom name="FLCL, Vol. 02 (626)\FLCL, Vol. 02 - Yoji Enokido.pdf" size="22549141" crc="c894080d" md5="24bd29f3d39264f6f3686db7b50d0f17" sha1="83d4389741f8fb014b98be510a204d5f0b5863fe"/>
+		<rom name="FLCL, Vol. 02 (626)\metadata.opf" size="2563" crc="31817f8b" md5="829aac8555f3a924575b70e389802a0b" sha1="60fc6126491eab1a8fb430ed9dd31136db672dc6"/>
+		<rom name="FLCL, Vol. 03 (619)\FLCL, Vol. 03 - Yoji Enokido.pdf" size="24635499" crc="e9b03946" md5="ee277aa2e5e13ca56890a5402daab866" sha1="bec1c62e2cd6f3b2393bb263ac4f12ba9d5edc99"/>
+		<rom name="FLCL, Vol. 03 (619)\metadata.opf" size="2413" crc="045d3345" md5="ef46e6271dc85da26b98d91543c6dc53" sha1="ab5f47cfcadaf7cbf2b40f76b9b082374c9c5797"/>
 	</machine>
 	<machine name="Yomi Hirasaka">
 		<description>Yomi Hirasaka</description>

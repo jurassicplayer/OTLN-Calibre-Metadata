@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">610</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">378a99a2-5d73-40ee-9633-eb1dfcb0b21e</dc:identifier>
+        <dc:title>Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Shinozaki, Kaoru &amp; KWKM" opf:role="aut">Kaoru Shinozaki</dc:creator>
+        <dc:creator opf:file-as="Shinozaki, Kaoru &amp; KWKM" opf:role="aut">KWKM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-12-10T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;Revenge in another world--with an abnormal twist! (And don't miss the manga version, also from Seven Seas.)&lt;/p&gt;
+&lt;p&gt;Abruptly catapulted into a fantasy world, Mimori Touka and his classmates have been summoned by the world’s resident Goddess to serve as heroes. Luckily, most of the students display amazing skills upon arrival—except for Mimori, whose abilities bottom out at a measly E-rank. With no further use for him, the Goddess banishes Mimori to a dungeon from which no one has ever returned alive. Yet, as it turns out, Mimori’s skills aren’t so much worthless as they are &lt;em&gt;abnormal&lt;/em&gt;. Abnormally &lt;em&gt;powerful&lt;/em&gt; , even. If Mimori can only claw his way back to the surface, nothing will stand in his way from getting revenge.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781648270697</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">54589740</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Martial Arts</dc:subject>
+        <dc:subject>Psychological</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Tragedy</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kaoru Shinozaki&quot;: &quot;&quot;, &quot;KWKM&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-12T11:07:48+00:00"/>
+        <meta name="calibre:title_sort" content="Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

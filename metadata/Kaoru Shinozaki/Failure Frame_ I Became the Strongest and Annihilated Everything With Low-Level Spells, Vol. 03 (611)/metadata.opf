@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">611</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a134791-4eb2-46fb-b126-505d3488cadc</dc:identifier>
+        <dc:title>Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells, Vol. 03</dc:title>
+        <dc:creator opf:file-as="Shinozaki, Kaoru &amp; KWKM" opf:role="aut">Kaoru Shinozaki</dc:creator>
+        <dc:creator opf:file-as="Shinozaki, Kaoru &amp; KWKM" opf:role="aut">KWKM</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-11-11T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;FIGHT ANOTHER DAY&lt;/p&gt;
+&lt;p&gt;After defeating the strongest human in the world with his "useless" spells, Mimori Touka's quest for vengeance is back on track! He knows he's still too weak to defeat the foul Goddess, so he sets out to find more information about the Forbidden Magic that could be key to taking her down. His search will bring him into the path of a corrupt duke, a fierce beastwoman gladiator, and a fighting tournament where the stakes are life and death!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781648279683</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells-light-novel-vol-3</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Harem</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Martial Arts</dc:subject>
+        <dc:subject>Psychological</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Tragedy</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Kaoru Shinozaki&quot;: &quot;&quot;, &quot;KWKM&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-12T11:07:50.393734+00:00"/>
+        <meta name="calibre:title_sort" content="Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells, Vol. 03"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

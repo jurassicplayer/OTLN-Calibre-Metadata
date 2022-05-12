@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">621</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dda66fba-28a2-42a3-9e9f-897ab7cd8022</dc:identifier>
+        <dc:title>Fireworks, Should We See It From the Side or the Bottom?</dc:title>
+        <dc:creator opf:file-as="Iwai, Shunji &amp; One, Hitoshi" opf:role="aut">Shunji Iwai</dc:creator>
+        <dc:creator opf:file-as="Iwai, Shunji &amp; One, Hitoshi" opf:role="aut">Hitoshi One</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-08-21T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p style="font-weight: 600"&gt;Does a firework look different depending on the angle it's viewed from?&lt;/p&gt;
+&lt;p&gt;Norimichi lives in a quiet seaside town. On the day of the big summer fireworks display, he agrees to visit the town lighthouse with his childhood friends so they can see the fireworks "from the side." That evening, however, Norimichi receives a sudden invitation to "elope" with Nazuna, the girl from class he has a secret crush on. The pair's plan fails when Nazuna's mother shows up and drags her daughter away. Hoping to get Nazuna back, Noromichi makes a wish: If only he could get one more try...&lt;/p&gt;
+&lt;p&gt;A miraculous story of young love awaits at the end of a single day repeated.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Yen Press (Yen On)</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781975353261</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">38635871</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B079L5LWX1</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Completed</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Seinen</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shunji Iwai&quot;: &quot;&quot;, &quot;Hitoshi One&quot;: &quot;&quot;}"/>
+        <meta name="calibre:rating" content="6"/>
+        <meta name="calibre:timestamp" content="2022-05-12T11:08:02+00:00"/>
+        <meta name="calibre:title_sort" content="Fireworks, Should We See It From the Side or the Bottom?"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

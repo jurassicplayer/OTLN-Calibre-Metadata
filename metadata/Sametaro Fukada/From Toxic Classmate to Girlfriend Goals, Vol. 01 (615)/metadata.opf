@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">615</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6bda4b8c-0783-45f4-98e7-f338f19c7b33</dc:identifier>
+        <dc:title>From Toxic Classmate to Girlfriend Goals, Vol. 01</dc:title>
+        <dc:creator opf:file-as="Fukada, Sametaro &amp; Fumi" opf:role="aut">Sametaro Fukada</dc:creator>
+        <dc:creator opf:file-as="Fukada, Sametaro &amp; Fumi" opf:role="aut">Fumi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-05-10T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;A sugary romcom with a happy ending—the author guarantees it!&lt;/p&gt;
+&lt;p&gt;Koyuki Shirogane is feared throughout her school for her sharp tongue, so much so that she’s become known as “The Queen of Thorns!”&lt;/p&gt;
+&lt;p&gt;One day, Naoya Sasahara rescues her from a pushy guy’s advances. That’s when he learns that she’s nothing more than a normal girl who’s adopted her harsh demeanor as a façade to protect herself. Koyuki ends up falling for the gallant Naoya, while he ends up smitten with her more vulnerable side.&lt;/p&gt;
+&lt;p&gt;Are the two capable of being honest about their feelings? Find out as, little by little, their hearts begin to open up!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Tentai Books</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9788419056016</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">8419056014</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Ecchi</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <dc:subject>Slice of Life</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Sametaro Fukada&quot;: &quot;&quot;, &quot;Fumi&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="From Toxic Classmate to Girlfriend Goals"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-12T11:07:55.982982+00:00"/>
+        <meta name="calibre:title_sort" content="From Toxic Classmate to Girlfriend Goals, Vol. 01"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

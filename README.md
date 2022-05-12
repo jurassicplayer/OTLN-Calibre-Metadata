@@ -123,8 +123,9 @@ These instructions will copy files from the ToSort folders to the target Calibre
 - Use your brain. If Yen Press has the same description for multiple volumes, but GoodReads has a unique description, opt for the unique one unless it deviates too far from the other descriptions structure. (Ex. 86 vol.5 & vol.6)
 
 ## To-Do
-- Make a script that move files from a fresh copy to the correct folders with the correct filenames (generate list from my list and use checksums to determine filepaths?)
-- Provide a clean update path and directions for updating set
+- Make a metadata clean-up script that deals with most simple issues (almost done)
+- Make a script to generate the .dat file from the metadata and remove unimportant entries 
+- Make an installation script that downloads RomVault cli to a folder, create ToSort, symlink dat, generate/modify RomVault3cfg.xml, prompt for OTLN folder and Calibre library folder, and run RomVault cycle
 - Revisit series: Code Geass, Dance in the Vampire Bund, Death Note
     - These are older light novels with only OCR scans and some metadata may be incorrect.
 

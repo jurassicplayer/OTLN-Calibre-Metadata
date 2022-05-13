@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">641</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">852cb3b6-a429-440b-92ef-d63efd056a60</dc:identifier>
+        <dc:title>Full Metal Panic!, Vol. 12: Forever Stand by Me Part 2</dc:title>
+        <dc:creator opf:file-as="Gatou, Shouji &amp; Shikidouji" opf:role="aut">Shouji Gatou</dc:creator>
+        <dc:creator opf:file-as="Gatou, Shouji &amp; Shikidouji" opf:role="aut">Shikidouji</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-05-28T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Clouseau and Mao lead the charge in Afghanistan to prevent nuclear war, while Sousuke and Tessa invade Merida Island, intent on stopping Leonard and his world-changing TARTAROS device. With resources depleted and the very world changing around them, their desperation to find each other is all they have left. Will Kaname awaken from her nightmare? Will Sousuke get through to her in time? Will anyone survive?! All bets are off in the explosive final volume of Full Metal Panic!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718342224</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">58425301</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">full-metal-panic-volume-12</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Mecha</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shouji Gatou&quot;: &quot;&quot;, &quot;Shikidouji&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Full Metal Panic!"/>
+        <meta name="calibre:series_index" content="12"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-13T01:36:56.784280+00:00"/>
+        <meta name="calibre:title_sort" content="Full Metal Panic!, Vol. 12: Forever Stand by Me Part 2"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">647</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">86c90123-8d62-4566-b444-657db76613b2</dc:identifier>
+        <dc:title>Full Metal Panic!, Vol. 06: Dancing Very Merry Christmas</dc:title>
+        <dc:creator opf:file-as="Gatou, Shouji &amp; Shikidouji" opf:role="aut">Shouji Gatou</dc:creator>
+        <dc:creator opf:file-as="Gatou, Shouji &amp; Shikidouji" opf:role="aut">Shikidouji</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-03-29T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;What could be more romantic than Christmas Eve on a cruise ship? That's what Kaname is thinking when her school decides to schedule a make-up class trip... at least, until Sousuke declares that he's made other plans. He'll soon find that he's needed, though, as the ship finds itself beset by half-hearted terrorists, killer robots in the hold, and worst of all—a wannabe hero who's seen too much Die Hard! With the specter of Amalgam hanging over everything, can Sousuke probe the mystery behind them, while also keeping Kaname safe from harm?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718342101</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">50350522</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">full-metal-panic-volume-6</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Mecha</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shouji Gatou&quot;: &quot;&quot;, &quot;Shikidouji&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Full Metal Panic!"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-13T01:37:01.778568+00:00"/>
+        <meta name="calibre:title_sort" content="Full Metal Panic!, Vol. 06: Dancing Very Merry Christmas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

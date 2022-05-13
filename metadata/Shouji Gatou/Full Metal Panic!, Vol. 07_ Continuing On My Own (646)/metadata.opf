@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">646</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">db56514b-0bdc-4c6c-a886-7cb2bcfee821</dc:identifier>
+        <dc:title>Full Metal Panic!, Vol. 07: Continuing On My Own</dc:title>
+        <dc:creator opf:file-as="Gatou, Shouji &amp; Shikidouji" opf:role="aut">Shouji Gatou</dc:creator>
+        <dc:creator opf:file-as="Gatou, Shouji &amp; Shikidouji" opf:role="aut">Shikidouji</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-06-29T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The Pacific Chrysalis was Mithril's first true victory over Amalgam, but their success has only led to escalation. Between growing suspicion at school and cryptic warnings from Tessa's brother that everything is about to change, Sousuke begins to realize that his peaceful life in Tokyo might not last much longer. Before he can even prepare, though, Sousuke finds himself running a gauntlet beyond anything he could have imagined. He'll have to fight not just for his own life, but for the life of everyone he knows!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718342125</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">full-metal-panic-volume-7</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Mecha</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shouji Gatou&quot;: &quot;&quot;, &quot;Shikidouji&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Full Metal Panic!"/>
+        <meta name="calibre:series_index" content="7"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-13T01:37:00.969061+00:00"/>
+        <meta name="calibre:title_sort" content="Full Metal Panic!, Vol. 07: Continuing On My Own"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

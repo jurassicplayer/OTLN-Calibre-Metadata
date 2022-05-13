@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">643</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0ba41956-9f5e-45a9-beef-8b1ee2ccfe57</dc:identifier>
+        <dc:title>Full Metal Panic!, Vol. 10: Approaching Nick of Time</dc:title>
+        <dc:creator opf:file-as="Gatou, Shouji &amp; Shikidouji" opf:role="aut">Shouji Gatou</dc:creator>
+        <dc:creator opf:file-as="Gatou, Shouji &amp; Shikidouji" opf:role="aut">Shikidouji</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-02-20T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;All hope is not lost! Mithril might be scattered to the four winds for now, but its members continue to work toward the same goal. While Tessa concocts a plan to strike back at Amalgam, Hunter conspires to create a new ace machine to turn the tide. Meanwhile Sousuke—even with few allies, limited resources, and a body riddled by mortal wounds—remains determined to free Kaname from Leonard's clutches. Can these disconnected factions meet up and begin working together in time?!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718342187</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">full-metal-panic-volume-10</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Mecha</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shouji Gatou&quot;: &quot;&quot;, &quot;Shikidouji&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Full Metal Panic!"/>
+        <meta name="calibre:series_index" content="10"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-13T01:36:58.247156+00:00"/>
+        <meta name="calibre:title_sort" content="Full Metal Panic!, Vol. 10: Approaching Nick of Time"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

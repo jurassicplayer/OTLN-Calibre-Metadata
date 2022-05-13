@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">648</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1954f5bb-1cf6-4bad-9b70-000f4c96f1b9</dc:identifier>
+        <dc:title>Full Metal Panic!, Vol. 05: Ending Day by Day Part 2</dc:title>
+        <dc:creator opf:file-as="Gatou, Shouji &amp; Shikidouji" opf:role="aut">Shouji Gatou</dc:creator>
+        <dc:creator opf:file-as="Gatou, Shouji &amp; Shikidouji" opf:role="aut">Shikidouji</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-12-30T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;On orders from Mithril, Sousuke has been forced to abandon Kaname to focus on learning the secrets the Arbalest and the lambda driver. Meanwhile, Kaname—left to the care of a remote and anonymous intelligence agent—feels the threat from a mysterious pursuer drawing ever closer. Their challenges will lead them both to the tension-racked streets of Hong Kong, a city even more divided than the burgeoning couple's destinies. And a series of climactic showdowns will bring them to a reckoning with enemies old and new!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9783899218800</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">1601874</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">full-metal-panic-volume-5</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Mecha</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shouji Gatou&quot;: &quot;&quot;, &quot;Shikidouji&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Full Metal Panic!"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-13T01:37:02.472512+00:00"/>
+        <meta name="calibre:title_sort" content="Full Metal Panic!, Vol. 05: Ending Day by Day Part 2"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

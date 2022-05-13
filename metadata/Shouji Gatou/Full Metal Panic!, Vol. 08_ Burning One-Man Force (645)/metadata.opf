@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">645</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a7cb955-26b7-4418-acbe-e446e607a427</dc:identifier>
+        <dc:title>Full Metal Panic!, Vol. 08: Burning One-Man Force</dc:title>
+        <dc:creator opf:file-as="Gatou, Shouji &amp; Shikidouji" opf:role="aut">Shouji Gatou</dc:creator>
+        <dc:creator opf:file-as="Gatou, Shouji &amp; Shikidouji" opf:role="aut">Shikidouji</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-09-02T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Sousuke has been torn away, not just from Kaname, but from the entire life he’s made for himself. His flight brings him to a lawless border town in Southeast Asia, whose economy revolves around mech battles played out for sport and profit. On a lead that Amalgam is involved with the corrupt authorities there, Sousuke joins a ragtag team headed by an impetuous young local and her reluctant foreign sponsor. But as he seeks what he’s lost, will Sousuke lose what he’s gained?&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718342149</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">54238105</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">full-metal-panic-volume-8</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>School Life</dc:subject>
+        <dc:subject>Mecha</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Shouji Gatou&quot;: &quot;&quot;, &quot;Shikidouji&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Full Metal Panic!"/>
+        <meta name="calibre:series_index" content="8"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-13T01:36:59.960886+00:00"/>
+        <meta name="calibre:title_sort" content="Full Metal Panic!, Vol. 08: Burning One-Man Force"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

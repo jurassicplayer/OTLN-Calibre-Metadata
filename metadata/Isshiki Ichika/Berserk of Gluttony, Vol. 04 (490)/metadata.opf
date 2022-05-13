@@ -4,9 +4,9 @@
         <dc:identifier opf:scheme="calibre" id="calibre_id">490</dc:identifier>
         <dc:identifier opf:scheme="uuid" id="uuid_id">d09c4a40-99a0-4c07-81fb-cf8a89499e0a</dc:identifier>
         <dc:title>Berserk of Gluttony, Vol. 04</dc:title>
-        <dc:creator opf:file-as="Ichika, Isshiki &amp; Fame" opf:role="aut">Isshiki Ichika</dc:creator>
-        <dc:creator opf:file-as="Ichika, Isshiki &amp; Fame" opf:role="aut">fame</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:creator opf:file-as="Ichika, Isshiki &amp; fame" opf:role="aut">Isshiki Ichika</dc:creator>
+        <dc:creator opf:file-as="Ichika, Isshiki &amp; fame" opf:role="aut">fame</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-09-30T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;ROTTEN TO THE CORE&lt;/p&gt;
@@ -28,7 +28,7 @@
         <meta name="calibre:series" content="Berserk of Gluttony"/>
         <meta name="calibre:series_index" content="4"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-11-09T05:52:02.157930+00:00"/>
+        <meta name="calibre:timestamp" content="2021-11-09T05:52:02+00:00"/>
         <meta name="calibre:title_sort" content="Berserk of Gluttony, Vol. 04"/>
     </metadata>
     <guide>

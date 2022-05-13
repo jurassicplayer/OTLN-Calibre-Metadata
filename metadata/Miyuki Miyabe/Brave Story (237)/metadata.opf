@@ -5,15 +5,15 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">b79fc3ce-8fb3-44c8-b1f4-2ddea791838b</dc:identifier>
         <dc:title>Brave Story</dc:title>
         <dc:creator opf:file-as="Miyabe, Miyuki" opf:role="aut">Miyuki Miyabe</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2009-11-17T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A young boy finds his destiny in a world of fantasy.&lt;/p&gt;
 &lt;p&gt;Young Wataru Mitani's life is a mess. Desperately, he searches for some way to change his life--a way to alter his fate. To achieve his goal, he must navigate the magical world of Vision, a land filled with creatures both fierce and friendly. And to complicate matters, he must outwit a merciless rival from the real world.&lt;/p&gt;
 &lt;p&gt;Wataru's ultimate destination is the Tower of Destiny where a goddess of fate awaits. Only when he has finished his journey and collected five elusive gemstones will he possess the Demon's Bane--the key that will unlock the future. Charity, bravery, faith, grace and the power of darkness and light: these are the provinces of each gemstone. Brought together, they have the immeasurable power to bring Wataru's family back together again.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>VIZ Media LLC (Haikasoru)</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781421527734</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">6884698</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781421527734</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Adventure</dc:subject>
         <dc:subject>Fantasy</dc:subject>

@@ -6,14 +6,14 @@
         <dc:title>Boogiepop, Novel 05: Boogiepop Overdrive: The King of Distortion</dc:title>
         <dc:creator opf:file-as="Kadono, Kouhei &amp; Ogata, Kouji" opf:role="aut">Kouhei Kadono</dc:creator>
         <dc:creator opf:file-as="Kadono, Kouhei &amp; Ogata, Kouji" opf:role="aut">Kouji Ogata</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-08-09T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;I Am The King of Distortion&lt;/p&gt;
 &lt;p&gt;An accident at the Moon Temple traps visitors inside the strange building, where a mysterious creature called the King of Distortion begins to whisper to them. Boogiepop comes to the rescue, but this might be a fight even he can’t win. What happens when two entities that only exist in the minds of men square off against each other?&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B07DWR3K6D</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">41077982</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07DWR3K6D</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Completed</dc:subject>
         <dc:subject>Drama</dc:subject>
@@ -29,7 +29,7 @@
         <meta name="calibre:series" content="Boogiepop"/>
         <meta name="calibre:series_index" content="5"/>
         <meta name="calibre:rating" content="6"/>
-        <meta name="calibre:timestamp" content="2021-08-12T04:13:09.256394+00:00"/>
+        <meta name="calibre:timestamp" content="2021-08-12T04:13:09+00:00"/>
         <meta name="calibre:title_sort" content="Boogiepop, Novel 05: Boogiepop Overdrive: The King of Distortion"/>
     </metadata>
     <guide>

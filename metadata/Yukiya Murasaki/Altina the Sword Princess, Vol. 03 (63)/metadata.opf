@@ -6,7 +6,7 @@
         <dc:title>Altina the Sword Princess, Vol. 03</dc:title>
         <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz" opf:role="aut">Yukiya Murasaki</dc:creator>
         <dc:creator opf:file-as="Murasaki, Yukiya &amp; himesuz" opf:role="aut">himesuz</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-04-05T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;“I’ll go to the capital. Even if nothing but darkness awaits me there!”&lt;/p&gt;
@@ -15,9 +15,9 @@
 &lt;p&gt;But have those dead set on obstructing Altina’s ambitions already made the first move...!?&lt;/p&gt;
 &lt;p&gt;Here is the third volume of a tale of war, love, and politics, woven by the bookworm and the sword princess.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="GOODREADS">50624883</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">B0842YNCNY</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781718365025</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0842YNCNY</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">50624883</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Official Translation</dc:subject>

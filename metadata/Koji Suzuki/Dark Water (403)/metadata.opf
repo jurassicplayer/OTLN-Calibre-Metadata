@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">6fcd35a0-7b10-46ae-bf47-531c4ecd1846</dc:identifier>
         <dc:title>Dark Water</dc:title>
         <dc:creator opf:file-as="Suzuki, Koji" opf:role="aut">Koji Suzuki</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2006-06-06T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;A haunting collection of short stories from Koji Suzuki, author of the smash thriller, &lt;em&gt;Ring&lt;/em&gt; , which spawned the hit film and sequels. The first story in this collection has been adapted to film ( &lt;em&gt;Dark Water&lt;/em&gt; , Walter Salles), and another, " &lt;em&gt;Adrift&lt;/em&gt; " is currently in production with Dimension Films.&lt;/p&gt;&lt;/div&gt;</dc:description>
@@ -24,7 +24,7 @@
         <dc:subject>Thriller</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Koji Suzuki&quot;: &quot;&quot;}"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-27T02:59:39.600460+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-27T02:59:39+00:00"/>
         <meta name="calibre:title_sort" content="Dark Water"/>
     </metadata>
     <guide>

@@ -6,7 +6,7 @@
         <dc:title>Dungeon Busters, Vol. 01</dc:title>
         <dc:creator opf:file-as="Shinozaki, Toma &amp; SenriGAN" opf:role="aut">Toma Shinozaki</dc:creator>
         <dc:creator opf:file-as="Shinozaki, Toma &amp; SenriGAN" opf:role="aut">SenriGAN</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-01-03T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Clear all the dungeons! There are 666 of them and 10 years to do it. If not, the only thing that awaits...is total annihilation.&lt;/p&gt;
@@ -28,7 +28,7 @@
         <meta name="calibre:series" content="Dungeon Busters"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-11-10T06:19:43.375664+00:00"/>
+        <meta name="calibre:timestamp" content="2021-11-10T06:19:43+00:00"/>
         <meta name="calibre:title_sort" content="Dungeon Busters, Vol. 01"/>
     </metadata>
     <guide>

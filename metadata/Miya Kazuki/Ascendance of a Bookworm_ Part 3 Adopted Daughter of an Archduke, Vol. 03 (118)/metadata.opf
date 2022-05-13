@@ -6,15 +6,15 @@
         <dc:title>Ascendance of a Bookworm: Part 3 Adopted Daughter of an Archduke, Vol. 03</dc:title>
         <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You" opf:role="aut">Miya Kazuki</dc:creator>
         <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You" opf:role="aut">You Shiina</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-01-04T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;In the midst of an approaching winter, Rozemyne the High Bishop is traveling between the temple and castle more than ever, participating in noble society, the baptism ceremony, and the Dedication Ritual. With her hands full teaching kids too young for the Royal Academy and even tutoring guard knights with bad grades, she's incomparably busier than last year.&lt;/p&gt;
 &lt;p&gt;Her influence in both noble society and the temple is increasing steadily, and her squad of Gutenbergs work on improving the printing press while she sells picture books in the castle. Her love for books keeps growing, and the mana within her is likewise becoming progressively stronger! She must hunt the Lord of Winter with the Knight's Order, then gather ingredients for her jureve potion during Spring Prayer.&lt;/p&gt;
 &lt;p&gt;This is another action-packed volume of this biblio-fantasy, where the Saint of Ehrenfest overcomes a winter of mysticism and battle! Including two lengthy short stories and a four-panel manga drawn by You Shiina!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="GOODREADS">55628002</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B08KSLBFN3</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">55628002</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Isekai</dc:subject>
@@ -30,7 +30,7 @@
         <dc:subject>Shounen</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Miya Kazuki&quot;: &quot;&quot;, &quot;You Shiina&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Ascendance of a Bookworm"/>
-        <meta name="calibre:series_index" content="3.30"/>
+        <meta name="calibre:series_index" content="3.3"/>
         <meta name="calibre:rating" content="10"/>
         <meta name="calibre:timestamp" content="2021-05-13T00:40:19+00:00"/>
         <meta name="calibre:title_sort" content="Ascendance of a Bookworm: Part 3 Adopted Daughter of an Archduke, Vol. 03"/>

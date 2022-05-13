@@ -6,14 +6,14 @@
         <dc:title>Demon King Daimaou, Vol. 10</dc:title>
         <dc:creator opf:file-as="Mizuki, Shoutarou &amp; Itou, Souichi" opf:role="aut">Shoutarou Mizuki</dc:creator>
         <dc:creator opf:file-as="Mizuki, Shoutarou &amp; Itou, Souichi" opf:role="aut">Souichi Itou</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-03-22T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;New empress Keena causes chaos in the school with an order to create a rice renaissance?! Yoshie, who's now hanging around at school for some reason, invents something terrifying! What could it be? What happens to the trio when they run away from Lily?&lt;/p&gt;
 &lt;p&gt;Nozomi Sasahara, a new character who's the only daughter of a Japanese inn, causes all kind of chaos in a series of short stories in volume 10!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B07NPDDF1L</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">44008215</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07NPDDF1L</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>
@@ -32,7 +32,7 @@
         <meta name="calibre:series" content="Demon King Daimaou"/>
         <meta name="calibre:series_index" content="10"/>
         <meta name="calibre:rating" content="6"/>
-        <meta name="calibre:timestamp" content="2021-10-31T05:53:15.457575+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-31T05:53:15+00:00"/>
         <meta name="calibre:title_sort" content="Demon King Daimaou, Vol. 10"/>
     </metadata>
     <guide>

@@ -6,14 +6,14 @@
         <dc:title>Dragon Daddy Diaries: A Girl Grows to Greatness, Vol. 02</dc:title>
         <dc:creator opf:file-as="Kaeruda, Ameko &amp; Sencha" opf:role="aut">Ameko Kaeruda</dc:creator>
         <dc:creator opf:file-as="Kaeruda, Ameko &amp; Sencha" opf:role="aut">Sencha</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.34.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-11-19T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Now in her second year at the Florence Royal Academy for Girls, Olivia can’t wait to start paying it forward by fulfilling her duty to look after the younger kids. However, little does she know that one of the new first-years is a bona fide powerhouse—and a new rival who’s eager to nab the King’s Pupil title away from her!&lt;/p&gt;
 &lt;p&gt;Meanwhile, by the vicissitudes of fate, the dragon, the Dark Queen, and Clowria all end up at the academy as well. Is Olivia's school ready for all these big personalities?&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781718383500</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">59021246</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781718383500</dc:identifier>
         <dc:identifier opf:scheme="KOBO">dragon-daddy-diaries-a-girl-grows-to-greatness-volume-2</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
@@ -29,7 +29,7 @@
         <meta name="calibre:series" content="Dragon Daddy Diaries: A Girl Grows to Greatness"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2022-01-08T13:30:16.773431+00:00"/>
+        <meta name="calibre:timestamp" content="2022-01-08T13:30:16+00:00"/>
         <meta name="calibre:title_sort" content="Dragon Daddy Diaries: A Girl Grows to Greatness, Vol. 02"/>
     </metadata>
     <guide>

@@ -6,14 +6,14 @@
         <dc:title>Demon Lord, Retry!, Vol. 05</dc:title>
         <dc:creator opf:file-as="Kanzaki, Kurone &amp; Iino, Makoto" opf:role="aut">Kurone Kanzaki</dc:creator>
         <dc:creator opf:file-as="Kanzaki, Kurone &amp; Iino, Makoto" opf:role="aut">Makoto Iino</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-11-23T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Having rescued Luna’s childhood friend, a demi-human named Eagle, from the Tzardom of the Light, the Demon Lord finally advances through Animania into Hellion territory, finding himself in a slave market. He launches a full-on war against the Hellions in order to free the enslaved humans.&lt;/p&gt;
 &lt;p&gt;What will happen when the Grand Devil Belphegor, Olgan’s father, hears word of this? The Demon Lord plunges further into the turmoils of this fantasy world, as he continues to search for the truth behind this world and his place in it.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B08GKBV3KR</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">55250969</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08GKBV3KR</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Comedy</dc:subject>
@@ -27,7 +27,7 @@
         <meta name="calibre:series" content="Demon Lord, Retry!"/>
         <meta name="calibre:series_index" content="5"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-31T06:55:02.026190+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-31T06:55:02+00:00"/>
         <meta name="calibre:title_sort" content="Demon Lord, Retry!, Vol. 05"/>
     </metadata>
     <guide>

@@ -6,15 +6,15 @@
         <dc:title>Boogiepop, Novel 06: Boogiepop at Dawn</dc:title>
         <dc:creator opf:file-as="Kadono, Kouhei &amp; Ogata, Kouji" opf:role="aut">Kouhei Kadono</dc:creator>
         <dc:creator opf:file-as="Kadono, Kouhei &amp; Ogata, Kouji" opf:role="aut">Kouji Ogata</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2008-08-05T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;The origin of Boogiepop revealed at last!&lt;/p&gt;
 &lt;p&gt;In this long-awaited prequel to the famed &lt;em&gt;Boogiepop Phantom&lt;/em&gt; anime series, uncover the secrets of Boogiepop’s past and see how it all started. Follow this dark tale of our very strange individuals who cross paths with the phantasmal crime fighter known as Boogiepop–a detective, an eater of fear, a pulp phantom and a skilled assassin. It all begins here!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781934876060</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B07DWR4LYG</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">2472201</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781934876060</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Completed</dc:subject>
         <dc:subject>Drama</dc:subject>
@@ -30,7 +30,7 @@
         <meta name="calibre:series" content="Boogiepop"/>
         <meta name="calibre:series_index" content="6"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-08-12T04:13:09.109007+00:00"/>
+        <meta name="calibre:timestamp" content="2021-08-12T04:13:09+00:00"/>
         <meta name="calibre:title_sort" content="Boogiepop, Novel 06: Boogiepop at Dawn"/>
     </metadata>
     <guide>

@@ -6,7 +6,7 @@
         <dc:title>Boogiepop, Novel 03: Boogiepop Returns: Vs. Imaginator Part 2</dc:title>
         <dc:creator opf:file-as="Kadono, Kouhei &amp; Ogata, Kouji" opf:role="aut">Kouhei Kadono</dc:creator>
         <dc:creator opf:file-as="Kadono, Kouhei &amp; Ogata, Kouji" opf:role="aut">Kouji Ogata</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2006-10-15T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;“It is my function to remake the world.”&lt;/p&gt;
@@ -30,7 +30,7 @@
         <meta name="calibre:series" content="Boogiepop"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-08-12T04:13:08.577131+00:00"/>
+        <meta name="calibre:timestamp" content="2021-08-12T04:13:08+00:00"/>
         <meta name="calibre:title_sort" content="Boogiepop, Novel 03: Boogiepop Returns: Vs. Imaginator Part 2"/>
     </metadata>
     <guide>

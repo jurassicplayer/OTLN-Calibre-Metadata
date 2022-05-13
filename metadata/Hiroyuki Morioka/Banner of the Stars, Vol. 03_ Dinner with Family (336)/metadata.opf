@@ -6,14 +6,14 @@
         <dc:title>Banner of the Stars, Vol. 03: Dinner with Family</dc:title>
         <dc:creator opf:file-as="Morioka, Hiroyuki &amp; Ono, Toshihiro" opf:role="aut">Hiroyuki Morioka</dc:creator>
         <dc:creator opf:file-as="Morioka, Hiroyuki &amp; Ono, Toshihiro" opf:role="aut">Toshihiro Ono</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-05-17T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;The Countdom of Hyde, Jint’s star system of birth, has been freed from enemy occupation. The Empire must now reestablish its dominion there, with Jint as its liege by birthright. Yet the self-sufficient planet Martin is as fiercely and hostilely anti-imperial as ever. Moreover, he has to negotiate with the planet’s heads of state... his own foster parents!&lt;/p&gt;
 &lt;p&gt;While he may have Lafier and more former comrades of his to help him in his struggles, only he can ultimately decide where his true loyalties lie - with Martin, or with the Empire.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B085TD3HYJ</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">52451440</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B085TD3HYJ</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>
@@ -28,7 +28,7 @@
         <meta name="calibre:series" content="Seikai Series"/>
         <meta name="calibre:series_index" content="6"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-15T04:42:09.141763+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-15T04:42:09+00:00"/>
         <meta name="calibre:title_sort" content="Banner of the Stars, Vol. 03: Dinner with Family"/>
     </metadata>
     <guide>

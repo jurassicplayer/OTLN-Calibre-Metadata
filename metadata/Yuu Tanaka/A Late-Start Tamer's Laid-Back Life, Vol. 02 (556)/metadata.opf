@@ -11,9 +11,9 @@
         <dc:description>&lt;div&gt;
 &lt;p&gt;Despite the newfound infamy his titles have brought him, Yuto has been enjoying his MMO life, unconcerned with his reputation. With the birth of Bear-Bear, a new tamed monster hatched from an egg acquired at the Magical Beasts Guild, Yuto finds himself surrounded by a growing herd of adorable critters. Unbeknownst to Yuto, however, a group of players who have had their eyes on him, hoping to learn what secrets Yuto knows about the monsters, have begun laying plans of their own...&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781718382503</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">B09JXVY6B4</dc:identifier>
         <dc:identifier opf:scheme="KOBO">a-late-start-tamer-s-laid-back-life-volume-2</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B09JXVY6B4</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781718382503</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Adventure</dc:subject>
         <dc:subject>Comedy</dc:subject>
@@ -25,7 +25,7 @@
         <meta name="calibre:series" content="A Late-Start Tamer’s Laid-Back Life"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2022-05-10T05:35:07.713928+00:00"/>
+        <meta name="calibre:timestamp" content="2022-05-10T05:35:07+00:00"/>
         <meta name="calibre:title_sort" content="Late-Start Tamer’s Laid-Back Life, Vol. 02, A"/>
     </metadata>
     <guide>

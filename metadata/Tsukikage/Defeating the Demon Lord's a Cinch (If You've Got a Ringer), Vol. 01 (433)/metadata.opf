@@ -6,15 +6,15 @@
         <dc:title>Defeating the Demon Lord's a Cinch (If You've Got a Ringer), Vol. 01</dc:title>
         <dc:creator opf:file-as="Tsukikage &amp; bob" opf:role="aut">Tsukikage</dc:creator>
         <dc:creator opf:file-as="Tsukikage &amp; bob" opf:role="aut">bob</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-08-21T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Ten years have passed since the Demon Lord Kranos declared war on mankind. As the situation grows desperate, the Ruxe Kingdom summons a hero from another world to stand against this threat. Assigned by the Church to join the hero's party, a battle-worn priest arrives to fulfill his obligations but is shocked to find that his companions are utterly inept! A mage who can only use fire magic, a swordswoman recently defected from her father's fighting school, and a hero obsessed with women?!&lt;/p&gt;
 &lt;p&gt;With an average level totaling just 15, there's no way these novices are capable of taking down a demon lord! But a job's a job, so it's up to the man of God (who thankfully has power to spare) to support these buffoons from the shadows. With an extraordinary healer on their side, defeating their target will be a cinch! ...Hopefully.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Yen Press (Yen On)</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781975327354</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">B077RY5879</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">38751755</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B077RY5879</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781975327354</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Comedy</dc:subject>
         <dc:subject>Fantasy</dc:subject>
@@ -27,7 +27,7 @@
         <meta name="calibre:series" content="Defeating the Demon Lord's a Cinch (If You've Got a Ringer)"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-31T05:44:53.872630+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-31T05:44:53+00:00"/>
         <meta name="calibre:title_sort" content="Defeating the Demon Lord's a Cinch (If You've Got a Ringer), Vol. 01"/>
     </metadata>
     <guide>

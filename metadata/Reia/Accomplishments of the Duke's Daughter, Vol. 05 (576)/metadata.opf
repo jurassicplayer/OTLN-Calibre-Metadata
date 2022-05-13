@@ -12,9 +12,9 @@
 &lt;p style="font-weight: 600"&gt;THE PRICE OF WAR&lt;/p&gt;
 &lt;p&gt;The war Iris always feared has finally come. No longer content to send spies to spread discontent in Tasmeria, Tweil descends with their army. Iris must rush back to her duchy to defend her people and rally the other territories to her cause. But no one survives war unscathed, and all too soon Iris will face a loss even she may not be able to endure.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">59765169</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781638582878</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1638582874</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">59765169</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Fantasy</dc:subject>
         <dc:subject>Isekai</dc:subject>
@@ -27,7 +27,7 @@
         <meta name="calibre:series" content="Accomplishments of the Duke’s Daughter"/>
         <meta name="calibre:series_index" content="5"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2022-05-10T07:45:29.375748+00:00"/>
+        <meta name="calibre:timestamp" content="2022-05-10T07:45:29+00:00"/>
         <meta name="calibre:title_sort" content="Accomplishments of the Duke's Daughter, Vol. 05"/>
     </metadata>
     <guide>

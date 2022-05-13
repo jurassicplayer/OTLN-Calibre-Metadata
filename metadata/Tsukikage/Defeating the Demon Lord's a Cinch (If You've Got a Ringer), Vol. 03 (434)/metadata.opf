@@ -6,15 +6,15 @@
         <dc:title>Defeating the Demon Lord's a Cinch (If You've Got a Ringer), Vol. 03</dc:title>
         <dc:creator opf:file-as="Tsukikage &amp; bob" opf:role="aut">Tsukikage</dc:creator>
         <dc:creator opf:file-as="Tsukikage &amp; bob" opf:role="aut">bob</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-03-19T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Having wrapped up their battles in Yutith's Tomb, Holy Warrior Naotsugu Toudou and crew (with Ares Crown hot on their heels) make their way to Golem Valley to level up. But there's no end in sight for Ares's troubles-his newest recruit, Stephenne Veronide, may be a talented holy caster, but she's also a world-class ditz!&lt;/p&gt;
 &lt;p&gt;With her around, anything that can go wrong will go wrong. Will Ares be able to keep his cool as he maneuvers both her and the Holy Warrior out of harm's way? Or has this priest finally reached the end of his rope?&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Yen Press (Yen On)</dc:publisher>
         <dc:identifier opf:scheme="AMAZON">B07H7FVG89</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">41806280</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781975303709</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">41806280</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Comedy</dc:subject>
         <dc:subject>Fantasy</dc:subject>
@@ -27,7 +27,7 @@
         <meta name="calibre:series" content="Defeating the Demon Lord's a Cinch (If You've Got a Ringer)"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="6"/>
-        <meta name="calibre:timestamp" content="2021-10-31T05:44:54.013172+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-31T05:44:54+00:00"/>
         <meta name="calibre:title_sort" content="Defeating the Demon Lord's a Cinch (If You've Got a Ringer), Vol. 03"/>
     </metadata>
     <guide>

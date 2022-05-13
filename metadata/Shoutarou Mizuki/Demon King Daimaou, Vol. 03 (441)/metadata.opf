@@ -6,15 +6,15 @@
         <dc:title>Demon King Daimaou, Vol. 03</dc:title>
         <dc:creator opf:file-as="Mizuki, Shoutarou &amp; Itou, Souichi" opf:role="aut">Shoutarou Mizuki</dc:creator>
         <dc:creator opf:file-as="Mizuki, Shoutarou &amp; Itou, Souichi" opf:role="aut">Souichi Itou</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-11-02T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Akuto Sai and his classmates are off on a school seaside retreat, but even here, he cannot escape the looming prediction that he will become the Demon King.&lt;/p&gt;
 &lt;p&gt;The island they travel to has a legend about a hero who will defeat the Demon King... could it be true? And to make things even more complicated, why is the normally cheerful Hiroshi so bitter about his family... and even stranger, why is Korone suddenly trying to seduce Akuto? So much for a quiet, ordinary school life.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="GOODREADS">36214317</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9784894257597</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B075HP7CNB</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">36214317</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>
@@ -33,7 +33,7 @@
         <meta name="calibre:series" content="Demon King Daimaou"/>
         <meta name="calibre:series_index" content="3"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-31T05:53:13.839743+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-31T05:53:13+00:00"/>
         <meta name="calibre:title_sort" content="Demon King Daimaou, Vol. 03"/>
     </metadata>
     <guide>

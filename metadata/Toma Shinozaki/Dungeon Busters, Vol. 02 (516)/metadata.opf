@@ -6,15 +6,15 @@
         <dc:title>Dungeon Busters, Vol. 02</dc:title>
         <dc:creator opf:file-as="Shinozaki, Toma &amp; SenriGAN" opf:role="aut">Toma Shinozaki</dc:creator>
         <dc:creator opf:file-as="Shinozaki, Toma &amp; SenriGAN" opf:role="aut">SenriGAN</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-05-27T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;One fateful day, Ezoe Kazuhiko stepped foot inside the dungeon that appeared inside his yard and ended up triggering the Dungeon Outbreak Phenomenon. Together with the companions he’s gathered under his new company, Dungeon Busters Inc., he successfully clears Sapporo Dungeon. Within its deepest parts, he discovers...reliefs confirming the existence of an entity behind the emergences?! As humankind celebrates its first ever victory, Ezoe decides where to take the company going forward and cooperates with the Japanese government in pushing the adventurer initiative ever further.&lt;/p&gt;
 &lt;p&gt;At the same time, the successive appearance of even more dungeons forces other countries around the world to decide exactly what it is that they will be doing about the dungeons. How will the major powers of Gamerica and Sina move? Change is coming, and fast!&lt;/p&gt;
 &lt;p&gt;The world continues plunging into even further chaos in the second volume of this dungeon-delving epic with overwhelming realism!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781718377004</dc:identifier>
         <dc:identifier opf:scheme="KOBO">dungeon-busters-volume-2</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781718377004</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Comedy</dc:subject>
@@ -27,7 +27,7 @@
         <meta name="calibre:series" content="Dungeon Busters"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-11-10T06:19:45.562101+00:00"/>
+        <meta name="calibre:timestamp" content="2021-11-10T06:19:45+00:00"/>
         <meta name="calibre:title_sort" content="Dungeon Busters, Vol. 02"/>
     </metadata>
     <guide>

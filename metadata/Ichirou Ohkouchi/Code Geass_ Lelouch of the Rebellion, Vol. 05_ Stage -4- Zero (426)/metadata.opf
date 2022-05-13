@@ -6,14 +6,14 @@
         <dc:title>Code Geass: Lelouch of the Rebellion, Vol. 05: Stage -4- Zero</dc:title>
         <dc:creator opf:file-as="Ohkouchi, Ichirou &amp; Taniguchi, Goro" opf:role="aut">Ichirou Ohkouchi</dc:creator>
         <dc:creator opf:file-as="Ohkouchi, Ichirou &amp; Taniguchi, Goro" opf:role="aut">Goro Taniguchi</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2010-02-23T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;The final volume of the Season One novelization!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Bandai Entertainment</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781604961850</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1604961856</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">6303575</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781604961850</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Completed</dc:subject>
@@ -27,7 +27,7 @@
         <meta name="calibre:series" content="Code Geass Series"/>
         <meta name="calibre:series_index" content="5"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-29T04:14:26.201808+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-29T04:14:26+00:00"/>
         <meta name="calibre:title_sort" content="Code Geass: Lelouch of the Rebellion, Vol. 05: Stage -4- Zero"/>
     </metadata>
     <guide>

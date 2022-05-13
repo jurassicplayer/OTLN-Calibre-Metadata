@@ -6,15 +6,15 @@
         <dc:title>Demon King Daimaou, Vol. 02</dc:title>
         <dc:creator opf:file-as="Mizuki, Shoutarou &amp; Itou, Souichi" opf:role="aut">Shoutarou Mizuki</dc:creator>
         <dc:creator opf:file-as="Mizuki, Shoutarou &amp; Itou, Souichi" opf:role="aut">Souichi Itou</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2017-08-28T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Ever since the Demon King prophecy, Akuto Sai has had nothing but bad luck. He’s still having trouble controlling his magic, and to make matters worse, he yet again ended up blowing off Junko Hattori’s clothes. While attempting to train his mind through meditation, he finds an ancient treasure map.&lt;/p&gt;
 &lt;p&gt;Not wanting to deal with yet another distraction from his studies, he tries to keep the map a secret, but to no avail. Once the map leaks out, the school breaks out in chaos as the students try to find the lost treasure.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9784894257030</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B073SJZQR3</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">35653761</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9784894257030</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>
@@ -33,7 +33,7 @@
         <meta name="calibre:series" content="Demon King Daimaou"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-31T05:53:12.412372+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-31T05:53:12+00:00"/>
         <meta name="calibre:title_sort" content="Demon King Daimaou, Vol. 02"/>
     </metadata>
     <guide>

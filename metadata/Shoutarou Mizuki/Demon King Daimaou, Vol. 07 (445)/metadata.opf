@@ -6,14 +6,14 @@
         <dc:title>Demon King Daimaou, Vol. 07</dc:title>
         <dc:creator opf:file-as="Mizuki, Shoutarou &amp; Itou, Souichi" opf:role="aut">Shoutarou Mizuki</dc:creator>
         <dc:creator opf:file-as="Mizuki, Shoutarou &amp; Itou, Souichi" opf:role="aut">Souichi Itou</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-09-24T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;2V has come up with a plan to kill Akuto using virtual phase space, and he recruits the teenage genius scientist Yoshie Kita to help. Akuto and the rest of the school are sealed in a game of Yoshie's creation, and to make it out, he'll have to play the role of the Demon King and battle against the other students. But there is another secret hidden inside the game that breaks all the rules...&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9784894259294</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">B07G74NGKK</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">41062327</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07G74NGKK</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>
@@ -32,7 +32,7 @@
         <meta name="calibre:series" content="Demon King Daimaou"/>
         <meta name="calibre:series_index" content="7"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-31T05:53:15.100554+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-31T05:53:15+00:00"/>
         <meta name="calibre:title_sort" content="Demon King Daimaou, Vol. 07"/>
     </metadata>
     <guide>

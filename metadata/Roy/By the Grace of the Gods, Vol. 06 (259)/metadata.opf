@@ -6,7 +6,7 @@
         <dc:title>By the Grace of the Gods, Vol. 06</dc:title>
         <dc:creator opf:file-as="Roy &amp; Ririnra" opf:role="aut">Roy</dc:creator>
         <dc:creator opf:file-as="Roy &amp; Ririnra" opf:role="aut">Ririnra</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-02-21T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;Invited by the guildmaster, Ryoma attends a training meetup for new adventurers as one of the teachers.&lt;/p&gt;
@@ -27,7 +27,7 @@
         <meta name="calibre:series" content="By the Grace of the Gods"/>
         <meta name="calibre:series_index" content="6"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-08-14T02:57:04.953704+00:00"/>
+        <meta name="calibre:timestamp" content="2021-08-14T02:57:04+00:00"/>
         <meta name="calibre:title_sort" content="By the Grace of the Gods, Vol. 06"/>
     </metadata>
     <guide>

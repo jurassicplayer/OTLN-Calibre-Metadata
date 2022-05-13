@@ -6,7 +6,7 @@
         <dc:title>Ascendance of a Bookworm: Part 3 Adopted Daughter of an Archduke, Vol. 05</dc:title>
         <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You" opf:role="aut">Miya Kazuki</dc:creator>
         <dc:creator opf:file-as="Kazuki, Miya &amp; Shiina, You" opf:role="aut">You Shiina</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-05-06T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Rozemyne now only needs the ruelle fruit she failed to gather last year. With it, she and Ferdinand can brew a potent potion known as a jureve, the power of which will finally make her a normal, healthy girl! Well, probably...&lt;/p&gt;
@@ -14,8 +14,8 @@
 &lt;p&gt;But as everyone prepares for winter, the political struggle between nobles intensifies. Their plots sow discord within the temple, and what happens next will change Rozemyne’s future forever...&lt;/p&gt;
 &lt;p&gt;Shocking developments abound in this climactic conclusion to Part 3! This volume ends with a series of short stories leading into Part 4, alongside the now familiar four-panel manga drawn by You Shiina!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B08XDMT4MT</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">57239489</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B08XDMT4MT</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Adventure</dc:subject>
         <dc:subject>Comedy</dc:subject>
@@ -31,7 +31,7 @@
         <dc:subject>Shounen</dc:subject>
         <meta name="calibre:author_link_map" content="{&quot;Miya Kazuki&quot;: &quot;&quot;, &quot;You Shiina&quot;: &quot;&quot;}"/>
         <meta name="calibre:series" content="Ascendance of a Bookworm"/>
-        <meta name="calibre:series_index" content="3.50"/>
+        <meta name="calibre:series_index" content="3.5"/>
         <meta name="calibre:rating" content="8"/>
         <meta name="calibre:timestamp" content="2021-08-09T01:55:51+00:00"/>
         <meta name="calibre:title_sort" content="Ascendance of a Bookworm: Part 3 Adopted Daughter of an Archduke, Vol. 05"/>

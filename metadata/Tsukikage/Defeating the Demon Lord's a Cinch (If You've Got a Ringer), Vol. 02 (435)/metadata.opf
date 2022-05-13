@@ -6,15 +6,15 @@
         <dc:title>Defeating the Demon Lord's a Cinch (If You've Got a Ringer), Vol. 02</dc:title>
         <dc:creator opf:file-as="Tsukikage &amp; bob" opf:role="aut">Tsukikage</dc:creator>
         <dc:creator opf:file-as="Tsukikage &amp; bob" opf:role="aut">bob</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-11-27T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Next stop on the party's quest to defeat the Demon Lord: Yutith's Tomb, home to undead monsters. It's a great place to level up a bunch of novices, but there's just one problem -- the hero is terrified of the undead!&lt;/p&gt;
 &lt;p&gt;On the bright side, the party may have finally found a priest to join their quest. She's an apprentice and can't cast any spells, but that's still better than nothing, right? In the meantime, the party's previous priest, Ares, trails behind them, providing support in secret -- and pulling a few strings -- until they can defeat the Demon Lord once and for all.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Yen Press (Yen On)</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B07CWQBS5H</dc:identifier>
-        <dc:identifier opf:scheme="GOODREADS">40603409</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781975327378</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">40603409</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B07CWQBS5H</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Comedy</dc:subject>
         <dc:subject>Fantasy</dc:subject>
@@ -27,7 +27,7 @@
         <meta name="calibre:series" content="Defeating the Demon Lord's a Cinch (If You've Got a Ringer)"/>
         <meta name="calibre:series_index" content="2"/>
         <meta name="calibre:rating" content="6"/>
-        <meta name="calibre:timestamp" content="2021-10-31T05:44:54.168156+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-31T05:44:54+00:00"/>
         <meta name="calibre:title_sort" content="Defeating the Demon Lord's a Cinch (If You've Got a Ringer), Vol. 02"/>
     </metadata>
     <guide>

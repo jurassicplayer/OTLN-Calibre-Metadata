@@ -5,7 +5,7 @@
         <dc:identifier opf:scheme="uuid" id="uuid_id">894c44b8-9675-4588-b33a-9b1477a7786a</dc:identifier>
         <dc:title>Death Note: Another Note - the Los Angeles BB Murder Cases</dc:title>
         <dc:creator opf:file-as="nisioisin" opf:role="aut">nisioisin</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2008-02-19T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;&lt;strong&gt;There's a Serial Killer Loose&lt;/strong&gt; in Los Angeles and the local authorities need help fast. For some reason the killer has been leaving a string of maddeningly arcane clues at each crime scene. Each of these clues, it seems, is an indecipherable roadmap to the next murder.&lt;/p&gt;
@@ -28,7 +28,7 @@
         <meta name="calibre:series" content="Death Note Series"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2021-10-30T04:15:03.142000+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-30T04:15:03+00:00"/>
         <meta name="calibre:title_sort" content="Death Note: Another Note - the Los Angeles BB Murder Cases"/>
     </metadata>
     <guide>

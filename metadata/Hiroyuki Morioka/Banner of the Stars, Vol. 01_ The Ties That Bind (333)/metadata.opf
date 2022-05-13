@@ -6,7 +6,7 @@
         <dc:title>Banner of the Stars, Vol. 01: The Ties That Bind</dc:title>
         <dc:creator opf:file-as="Morioka, Hiroyuki &amp; Ono, Toshihiro" opf:role="aut">Hiroyuki Morioka</dc:creator>
         <dc:creator opf:file-as="Morioka, Hiroyuki &amp; Ono, Toshihiro" opf:role="aut">Toshihiro Ono</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-12-17T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;You journeyed with Jint and Lafier through three volumes of interplanetary-scale action and intrigue in CREST OF THE STARS. Through pain and companionship, they forged their way through an impossible ordeal unscathed. But that adventure, though grand, was just the introduction to a larger, decades-spanning chronicle of galactic war.&lt;/p&gt;
@@ -28,7 +28,7 @@
         <meta name="calibre:series" content="Seikai Series"/>
         <meta name="calibre:series_index" content="4"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-15T04:42:07.819571+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-15T04:42:07+00:00"/>
         <meta name="calibre:title_sort" content="Banner of the Stars, Vol. 01: The Ties That Bind"/>
     </metadata>
     <guide>

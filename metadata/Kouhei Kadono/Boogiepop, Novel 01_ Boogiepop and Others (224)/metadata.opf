@@ -6,7 +6,7 @@
         <dc:title>Boogiepop, Novel 01: Boogiepop and Others</dc:title>
         <dc:creator opf:file-as="Kadono, Kouhei &amp; Ogata, Kouji" opf:role="aut">Kouhei Kadono</dc:creator>
         <dc:creator opf:file-as="Kadono, Kouhei &amp; Ogata, Kouji" opf:role="aut">Kouji Ogata</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2006-01-14T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;Who am I? My name is Boogiepop…&lt;/p&gt;
@@ -14,8 +14,8 @@
 &lt;p&gt;When a rash of disappearances involving female students breaks out at Shinyo Academy, the police and faculty assume they just have a bunch of runaways on their hands. Yet Nagi Kirima knows better. Something mysterious and foul is afoot. Is it Boogiepop or something even more sinister…?&lt;/p&gt;
 &lt;p&gt;Experience the story through several characters’ eyes as you piece together the true order of disturbing events, in this unforgettable prelude to the &lt;em&gt;Boogiepop Phantom&lt;/em&gt; anime series!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9781933164168</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">1933164166</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781933164168</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">391987</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Completed</dc:subject>
@@ -32,7 +32,7 @@
         <meta name="calibre:series" content="Boogiepop"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-08-12T04:13:08.097584+00:00"/>
+        <meta name="calibre:timestamp" content="2021-08-12T04:13:08+00:00"/>
         <meta name="calibre:title_sort" content="Boogiepop, Novel 01: Boogiepop and Others"/>
     </metadata>
     <guide>

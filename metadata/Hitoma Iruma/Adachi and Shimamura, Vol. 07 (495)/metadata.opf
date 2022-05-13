@@ -6,15 +6,15 @@
         <dc:title>Adachi and Shimamura, Vol. 07</dc:title>
         <dc:creator opf:file-as="Iruma, Hitoma &amp; Non" opf:role="aut">Hitoma Iruma</dc:creator>
         <dc:creator opf:file-as="Iruma, Hitoma &amp; Non" opf:role="aut">Non</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-10-21T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;SUMMER LOVIN'&lt;/p&gt;
 &lt;p&gt;Summer break is coming to an end, and Adachi and Shimamura are headed back to school--as a newly minted couple! It's taken them a while to come this far, but the road ahead is still bumpy as they try to figure out this whole dating business. What will the new semester bring?&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>Seven Seas Entertainment (Airship)</dc:publisher>
+        <dc:identifier opf:scheme="KOBO">adachi-and-shimamura-light-novel-vol-7</dc:identifier>
         <dc:identifier opf:scheme="ISBN">9781638584582</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">59424085</dc:identifier>
-        <dc:identifier opf:scheme="KOBO">adachi-and-shimamura-light-novel-vol-7</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Contemporary</dc:subject>
         <dc:subject>Fiction</dc:subject>
@@ -27,7 +27,7 @@
         <meta name="calibre:series" content="Adachi and Shimamura"/>
         <meta name="calibre:series_index" content="7"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-11-09T05:52:35.108581+00:00"/>
+        <meta name="calibre:timestamp" content="2021-11-09T05:52:35+00:00"/>
         <meta name="calibre:title_sort" content="Adachi and Shimamura, Vol. 07"/>
     </metadata>
     <guide>

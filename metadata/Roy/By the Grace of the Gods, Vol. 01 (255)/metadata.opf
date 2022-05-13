@@ -6,7 +6,7 @@
         <dc:title>By the Grace of the Gods, Vol. 01</dc:title>
         <dc:creator opf:file-as="Roy &amp; Ririnra" opf:role="aut">Roy</dc:creator>
         <dc:creator opf:file-as="Roy &amp; Ririnra" opf:role="aut">Ririnra</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.23.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-02-01T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;Under the protection of the gods, a relaxed life with slimes in another world begins!&lt;/p&gt;
@@ -14,8 +14,8 @@
 &lt;p&gt;Receiving a most cordial and divine welcome from the gods, Ryoma decides to live leisurely on his own in the forest for the time being. Working diligently at magic and hunting, Ryoma’s greatest passion comes to be researching his tamed slimes?! Training a variety of slimes (some newly discovered), the curtain rises on this easygoing life fantasy celebrating a second life with kind people in another world!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
         <dc:identifier opf:scheme="ISBN">9781718353800</dc:identifier>
-        <dc:identifier opf:scheme="AMAZON">B082BGHKGF</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">55358125</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B082BGHKGF</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Adventure</dc:subject>
         <dc:subject>Fantasy</dc:subject>
@@ -28,7 +28,7 @@
         <meta name="calibre:series" content="By the Grace of the Gods"/>
         <meta name="calibre:series_index" content="1"/>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2021-08-14T02:57:02.853179+00:00"/>
+        <meta name="calibre:timestamp" content="2021-08-14T02:57:02+00:00"/>
         <meta name="calibre:title_sort" content="By the Grace of the Gods, Vol. 01"/>
     </metadata>
     <guide>

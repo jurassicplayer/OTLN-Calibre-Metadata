@@ -6,7 +6,7 @@
         <dc:title>A Sister's All You Need., Vol. 11</dc:title>
         <dc:creator opf:file-as="Hirasaka, Yomi &amp; Kantoku" opf:role="aut">Yomi Hirasaka</dc:creator>
         <dc:creator opf:file-as="Hirasaka, Yomi &amp; Kantoku" opf:role="aut">Kantoku</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.31.1) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2021-10-19T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p style="font-weight: 600"&gt;IT’S TIME FOR NEW BEGINNINGS—AND NEW ENDINGS&lt;/p&gt;
@@ -29,7 +29,7 @@
         <meta name="calibre:series" content="A Sister's All You Need."/>
         <meta name="calibre:series_index" content="11"/>
         <meta name="calibre:rating" content="10"/>
-        <meta name="calibre:timestamp" content="2021-11-09T05:52:44.826202+00:00"/>
+        <meta name="calibre:timestamp" content="2021-11-09T05:52:44+00:00"/>
         <meta name="calibre:title_sort" content="Sister's All You Need., Vol. 11, A"/>
     </metadata>
     <guide>

@@ -6,15 +6,15 @@
         <dc:title>Demon King Daimaou, Vol. 05</dc:title>
         <dc:creator opf:file-as="Mizuki, Shoutarou &amp; Itou, Souichi" opf:role="aut">Shoutarou Mizuki</dc:creator>
         <dc:creator opf:file-as="Mizuki, Shoutarou &amp; Itou, Souichi" opf:role="aut">Souichi Itou</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2018-06-03T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Akuto has awakened as the Demon King, and has declared that he will kill the gods. Flying on the back of his dragon Peterhausen, he soars into the sky above Constant Magical Academy to face thousands of troops — including Eiko Teruya and his good friend Junko Hattori. He's also opposed by his friend Hiroshi Miwa who, unbeknownst to the world, is secretly the anti-magical supersuit-wearing hero known as "Brave."&lt;/p&gt;
 &lt;p&gt;Akuto has Fujiko and his horde of demon beasts on his side, but will it be enough? Meanwhile, Keena seems to hold the key to Boichiro's appearance, and to the greatest mystery of all: the future of humanity.&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9784894258303</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B07CDCS685</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">39701761</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9784894258303</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>
@@ -33,7 +33,7 @@
         <meta name="calibre:series" content="Demon King Daimaou"/>
         <meta name="calibre:series_index" content="5"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-31T05:53:17.675548+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-31T05:53:17+00:00"/>
         <meta name="calibre:title_sort" content="Demon King Daimaou, Vol. 05"/>
     </metadata>
     <guide>

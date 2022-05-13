@@ -6,14 +6,14 @@
         <dc:title>Banner of the Stars, Vol. 02: What Needs Defending</dc:title>
         <dc:creator opf:file-as="Morioka, Hiroyuki &amp; Ono, Toshihiro" opf:role="aut">Hiroyuki Morioka</dc:creator>
         <dc:creator opf:file-as="Morioka, Hiroyuki &amp; Ono, Toshihiro" opf:role="aut">Toshihiro Ono</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.29.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2020-02-22T08:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;Lafier has been appointed the interim liege of yet another newly conquered star system, with Jint her ill-defined adjunct. Only the planet of Rohbnahss is by far the most vexing of the Empire’s latest acquisitions—because it’s a giant prison on the verge of a world-scale uprising!&lt;/p&gt;
 &lt;p&gt;Can the iconic duo form a working government there? What will become of them and their bond once the enemy’s offensive and her Abliar obligations force Lafier to abandon Jint on a powderkeg ready to blow? Find out in this, the second exciting installment of Banner of the Stars!&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="AMAZON">B0836Z4ZYS</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">50357387</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0836Z4ZYS</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
         <dc:subject>Adventure</dc:subject>
@@ -28,7 +28,7 @@
         <meta name="calibre:series" content="Seikai Series"/>
         <meta name="calibre:series_index" content="5"/>
         <meta name="calibre:rating" content="8"/>
-        <meta name="calibre:timestamp" content="2021-10-15T04:42:08.074377+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-15T04:42:08+00:00"/>
         <meta name="calibre:title_sort" content="Banner of the Stars, Vol. 02: What Needs Defending"/>
     </metadata>
     <guide>

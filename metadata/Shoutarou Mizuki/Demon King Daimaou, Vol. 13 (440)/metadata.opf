@@ -6,14 +6,14 @@
         <dc:title>Demon King Daimaou, Vol. 13</dc:title>
         <dc:creator opf:file-as="Mizuki, Shoutarou &amp; Itou, Souichi" opf:role="aut">Shoutarou Mizuki</dc:creator>
         <dc:creator opf:file-as="Mizuki, Shoutarou &amp; Itou, Souichi" opf:role="aut">Souichi Itou</dc:creator>
-        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.30.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
         <dc:date>2019-10-13T07:00:00+00:00</dc:date>
         <dc:description>&lt;div&gt;
 &lt;p&gt;The Earth has been destroyed by a meteor from outer space. In the afterlife, Akuto and the heroines find a recreation of the world as it was before he became demon king. However, in this world, Liradans do not exist, and the demon king is a distant memory.&lt;/p&gt;
 &lt;p&gt;What is the true nature of the “story” invading peoples’ minds? The final chapter of the series approaches the truth...&lt;/p&gt;&lt;/div&gt;</dc:description>
         <dc:publisher>J-Novel Club</dc:publisher>
-        <dc:identifier opf:scheme="ISBN">9784798607993</dc:identifier>
         <dc:identifier opf:scheme="AMAZON">B07W37P7FR</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9784798607993</dc:identifier>
         <dc:identifier opf:scheme="GOODREADS">52103844</dc:identifier>
         <dc:language>eng</dc:language>
         <dc:subject>Action</dc:subject>
@@ -33,7 +33,7 @@
         <meta name="calibre:series" content="Demon King Daimaou"/>
         <meta name="calibre:series_index" content="13"/>
         <meta name="calibre:rating" content="6"/>
-        <meta name="calibre:timestamp" content="2021-10-31T05:53:13.211738+00:00"/>
+        <meta name="calibre:timestamp" content="2021-10-31T05:53:13+00:00"/>
         <meta name="calibre:title_sort" content="Demon King Daimaou, Vol. 13"/>
     </metadata>
     <guide>

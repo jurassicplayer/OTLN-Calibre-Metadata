@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">634</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10c6dd96-69a9-4d95-8317-6ee0adecd625</dc:identifier>
+        <dc:title>Fushi No Kami: Rebuilding Civilization Starts With a Village, Vol. 03</dc:title>
+        <dc:creator opf:file-as="Amakawa, Mizuumi &amp; Okuma, Mai" opf:role="aut">Mizuumi Amakawa</dc:creator>
+        <dc:creator opf:file-as="Amakawa, Mizuumi &amp; Okuma, Mai" opf:role="aut">Mai Okuma</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-04-07T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Ash, who is studying in Itsutsu city to revive the convenient and plentiful life from the legends of the ancient civilization, managed to successfully produce compost and reintroduce tomatoes as an officially accepted edible food. After recovering from his fight with the werewolf, he once again aims to further improve the living standards of the city!&lt;/p&gt;
+&lt;p&gt;Amidst all that, his fellow student Hermes is mocked for crafting a model airplane and daring to dream of soaring through the skies. In a world without the internal combustion engine, let alone cars, such ambitions only provoke laughter amongst his classmates, but Hermes persists.&lt;/p&gt;
+&lt;p&gt;Deeply impressed by Hermes’ passion for flying, and slightly motivated by self-interest, Ash decides to help him revive aeronautical technology. He is determined to have the last laugh.&lt;/p&gt;
+&lt;p&gt;This is the third chapter of the story about a young boy who sets out to revolutionize the world in order to rebuild civilization and create his ideal life!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718330726</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">56965776</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">fushi-no-kami-rebuilding-civilization-starts-with-a-village-volume-3</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mizuumi Amakawa&quot;: &quot;&quot;, &quot;Mai Okuma&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Fushi no Kami: Rebuilding Civilization Starts With a Village"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-13T01:36:55.492017+00:00"/>
+        <meta name="calibre:title_sort" content="Fushi No Kami: Rebuilding Civilization Starts With a Village, Vol. 03"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">633</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">26da04ae-a3f7-4d83-8ecc-f83414fa2232</dc:identifier>
+        <dc:title>Fushi No Kami: Rebuilding Civilization Starts With a Village, Vol. 04</dc:title>
+        <dc:creator opf:file-as="Amakawa, Mizuumi &amp; Okuma, Mai" opf:role="aut">Mizuumi Amakawa</dc:creator>
+        <dc:creator opf:file-as="Amakawa, Mizuumi &amp; Okuma, Mai" opf:role="aut">Mai Okuma</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-06-16T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;After spending two years studying in Itsutsu city to bring back the life of convenience and abundance from the legends of the ancient civilization, Ash graduates from the military academy. He is now assigned to the newly established Territory Reform Promotion Office, where he works hard to improve this world’s living standards.&lt;/p&gt;
+&lt;p&gt;When it is brought to Ash’s attention that Ajole, the hometown of his co-worker Renge’s childhood friend, is on the verge of extinction, he decides to embark on a rescue mission. The inspection task force led by Ash and Maika encounters barren fields and skinny villagers. It appears that they have no choice but to break the taboo and use animal manure as compost.&lt;/p&gt;
+&lt;p&gt;To make matters worse, there is news of another threat to the village: the demons known as treants! Can Ash find a way to save the village?&lt;/p&gt;
+&lt;p&gt;This is the fourth chapter of the story about a young boy who sets out to revolutionize the world in order to rebuild civilization and create his ideal life!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718330740</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">59732060</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">fushi-no-kami-rebuilding-civilization-starts-with-a-village-volume-4</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mizuumi Amakawa&quot;: &quot;&quot;, &quot;Mai Okuma&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Fushi no Kami: Rebuilding Civilization Starts With a Village"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-13T01:36:55.154090+00:00"/>
+        <meta name="calibre:title_sort" content="Fushi No Kami: Rebuilding Civilization Starts With a Village, Vol. 04"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

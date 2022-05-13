@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">632</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">11c94a94-0b5c-464f-a607-bf8041cbc6e2</dc:identifier>
+        <dc:title>Fushi No Kami: Rebuilding Civilization Starts With a Village, Vol. 05</dc:title>
+        <dc:creator opf:file-as="Amakawa, Mizuumi &amp; Okuma, Mai" opf:role="aut">Mizuumi Amakawa</dc:creator>
+        <dc:creator opf:file-as="Amakawa, Mizuumi &amp; Okuma, Mai" opf:role="aut">Mai Okuma</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-10T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;After defeating the treants in Ajole village, Ash and the Territory Reform Promotion Office embark on a trip to the Sukun region, famous for its hot springs. Maika sees this as the perfect opportunity to confess her feelings for Ash but is beaten to the draw by the boy’s words, “I like you, but my heart lies somewhere else.”&lt;/p&gt;
+&lt;p&gt;Following her rejection, Maika makes it her mission to change Ash’s mind by participating in the Royal Sword Tournament, where the winner is granted any wish. It’s the same tournament that was once won by her father, Klein, who used his victory to ask for Yuika’s hand in marriage! Thus, Maika prepares to put on a legendary performance in the name of love!&lt;/p&gt;
+&lt;p&gt;This is the fifth chapter of the story about a young boy who sets out to revolutionize the world in order to rebuild civilization and create his ideal life!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718330764</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">59056572</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">fushi-no-kami-rebuilding-civilization-starts-with-a-village-volume-5</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mizuumi Amakawa&quot;: &quot;&quot;, &quot;Mai Okuma&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Fushi no Kami: Rebuilding Civilization Starts With a Village"/>
+        <meta name="calibre:series_index" content="5"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-13T01:36:54.942760+00:00"/>
+        <meta name="calibre:title_sort" content="Fushi No Kami: Rebuilding Civilization Starts With a Village, Vol. 05"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

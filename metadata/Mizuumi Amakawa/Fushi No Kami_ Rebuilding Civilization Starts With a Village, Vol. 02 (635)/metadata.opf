@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">635</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7cd94580-1838-4df4-8603-effbb5c02ea8</dc:identifier>
+        <dc:title>Fushi No Kami: Rebuilding Civilization Starts With a Village, Vol. 02</dc:title>
+        <dc:creator opf:file-as="Amakawa, Mizuumi &amp; Okuma, Mai" opf:role="aut">Mizuumi Amakawa</dc:creator>
+        <dc:creator opf:file-as="Amakawa, Mizuumi &amp; Okuma, Mai" opf:role="aut">Mai Okuma</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-10T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Aided by his past-life memories, Ash went through strenuous efforts at his village to recreate the convenient and bountiful life recorded in the legends of the ancient civilization in this world. As a result, he obtained the right to study alongside Maika in Itsutsu city, where a vast collection of unseen books awaits him.&lt;/p&gt;
+&lt;p&gt;At his arrival, Ash is welcomed by the acting count Itsuki, as well as a girl disguised as the former’s younger brother, Arthur. But more importantly, he is faced with the disappointing reality of the city’s lacking resources and outdated technology.&lt;/p&gt;
+&lt;p&gt;Ash enlists Maika and Arthur to change that reality. They start by trying to figure out a way to use some supposedly poisonous crops and repurpose the dangerous compost. Meanwhile, the “demons” responsible for the decline of humanity are lurking in the shadows.&lt;/p&gt;
+&lt;p&gt;This is the second chapter of the story about a young boy who sets out to revolutionize the world in order to rebuild civilization and create his ideal life!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>J-Novel Club</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781718330702</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">58572166</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">fushi-no-kami-rebuilding-civilization-starts-with-a-village-volume-2</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Isekai</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Romance</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Mizuumi Amakawa&quot;: &quot;&quot;, &quot;Mai Okuma&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Fushi no Kami: Rebuilding Civilization Starts With a Village"/>
+        <meta name="calibre:series_index" content="2"/>
+        <meta name="calibre:rating" content="10"/>
+        <meta name="calibre:timestamp" content="2022-05-13T01:36:55.710050+00:00"/>
+        <meta name="calibre:title_sort" content="Fushi No Kami: Rebuilding Civilization Starts With a Village, Vol. 02"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

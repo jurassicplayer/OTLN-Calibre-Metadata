@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">639</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">77bd633a-55a3-485d-b12e-d048a0e4e4ce</dc:identifier>
+        <dc:title>Fullmetal Alchemist, Vol. 01: The Land of Sand</dc:title>
+        <dc:creator opf:file-as="Inoue, Makoto &amp; Arakawa, Hiromu" opf:role="aut">Makoto Inoue</dc:creator>
+        <dc:creator opf:file-as="Inoue, Makoto &amp; Arakawa, Hiromu" opf:role="aut">Hiromu Arakawa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-12-14T08:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Complete the &lt;em&gt;Fullmetal&lt;/em&gt; experience with these best-selling novels featuring original stories.&lt;/p&gt;
+&lt;p&gt;Somewhere between magic, art and science exists a world of alchemy. And into this world travel Edward and Alphonse Elric—two brothers in search of the Philosopher's Stone, the ultimate alchemical treasure!&lt;/p&gt;
+&lt;p&gt;The mining town of Xenotime has seen better days. Once renowned for its skilled goldsmiths, it now lies forgotten in a sea of sand, its mines empty and its fields barren. The townsfolk’s only hope lies with the talented state alchemist Edward Elric and his brother, Alphonse. But who is the real Edward Elric? When the Fullmetal Alchemist and his brother arrive in Xenotime searching for the Philosopher’s Stone, they discover that two strangers have stolen their names and their reputations! Will the real Elric brothers set things right, or will the battle between the true and false brothers shatter Xenotime’s only chance for survival?&lt;/p&gt;
+&lt;p&gt;Plus a bonus story, &lt;em&gt;The Phantom of Warehouse 13&lt;/em&gt;!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>VIZ Media LLC</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781974725786</dc:identifier>
+        <dc:identifier opf:scheme="GOODREADS">57147099</dc:identifier>
+        <dc:identifier opf:scheme="ISBN-13">978-1-9747-2578-6</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Makoto Inoue&quot;: &quot;&quot;, &quot;Hiromu Arakawa&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Fullmetal Alchemist"/>
+        <meta name="calibre:series_index" content="1"/>
+        <meta name="calibre:rating" content="8"/>
+        <meta name="calibre:timestamp" content="2022-05-13T01:36:56.678317+00:00"/>
+        <meta name="calibre:title_sort" content="Fullmetal Alchemist, Vol. 01: The Land of Sand"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

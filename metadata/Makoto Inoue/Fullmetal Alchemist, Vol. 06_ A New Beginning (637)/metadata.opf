@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">637</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">08a17bc4-35e9-49e5-9e4f-ddfbe70c03b6</dc:identifier>
+        <dc:title>Fullmetal Alchemist, Vol. 06: A New Beginning</dc:title>
+        <dc:creator opf:file-as="Inoue, Makoto &amp; Arakawa, Hiromu" opf:role="aut">Makoto Inoue</dc:creator>
+        <dc:creator opf:file-as="Inoue, Makoto &amp; Arakawa, Hiromu" opf:role="aut">Hiromu Arakawa</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.42.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-10-12T07:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Winry, childhood friend of the Elric brothers, is ecstatic to advance her training as an automail mechanic in Rush Valley. Her passion and skills are tested when she crosses paths with a boy who lost a leg and can’t get back on his feet. Meanwhile, Edward and Alphonse Elric just can’t seem to stay out of trouble, even when they’re trying to get noticed for doing good deeds!&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>VIZ Media LLC</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781974727858</dc:identifier>
+        <dc:identifier opf:scheme="ISBN-13">978-1-9747-2577-9</dc:identifier>
+        <dc:identifier opf:scheme="KOBO">fullmetal-alchemist-a-new-beginning</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Action</dc:subject>
+        <dc:subject>Adventure</dc:subject>
+        <dc:subject>Comedy</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantasy</dc:subject>
+        <dc:subject>Mystery</dc:subject>
+        <dc:subject>Science Fiction</dc:subject>
+        <dc:subject>Shounen</dc:subject>
+        <dc:subject>Supernatural</dc:subject>
+        <dc:subject>Official Translation</dc:subject>
+        <dc:subject>Light Novel</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;Makoto Inoue&quot;: &quot;&quot;, &quot;Hiromu Arakawa&quot;: &quot;&quot;}"/>
+        <meta name="calibre:series" content="Fullmetal Alchemist"/>
+        <meta name="calibre:series_index" content="6"/>
+        <meta name="calibre:timestamp" content="2022-05-13T01:36:56.457781+00:00"/>
+        <meta name="calibre:title_sort" content="Fullmetal Alchemist, Vol. 06: A New Beginning"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

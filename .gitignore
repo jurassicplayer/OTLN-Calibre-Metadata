@@ -13,5 +13,7 @@
 *.json
 *.db
 *.zip
-ROMVault_*/
+config.sh
+sabretools/
+sabretools_prebuilt/
 Officially Translated Light Novels/

@@ -2,71 +2,47 @@
 Curated calibre metadata for OTLN, going through the suffering so you don't have to.
 
 ## Installation
-**WARNING: This isn't strenuously tested or anything. Safest route is to use a new library. Otherwise use Calibre Library => Library Maintenance => Library Metadata Backup Status => Queue all books for backup. Backup your files some place safe. Make sure to read the instructions and follow them EXACTLY.**
+**WARNING: This isn't strenuously tested or anything. Safest route is to use a new library. Otherwise use Calibre Library => Library Maintenance => Library Metadata Backup Status => Queue all books for backup. Backup your files some place safe.**
 
-These instructions will copy files from the ToSort folders to the target Calibre Library and remove ones not listed in the OTLN_metadata.dat and make updating LNs+metadata relatively painless (provided I update the .dat as regularly as OTLN releases).
+These instructions will copy files from your designated OTLN folder and the metadata folder to the target Calibre Library. Updating LNs+metadata should be relatively painless (provided I update the .xml as regularly as OTLN releases), but fixes related to author/title will require manual intervention to delete the offending folders before restoring the calibre database.
 - Make a new Calibre Library (folder called `Light Novels` within this example)
 - Clone the OTLN-Calibre-Metadata project to somewhere permanent (preferably using git clone rather than downloading the .zip)
-- Get a ROM manager (these instructions will use [RomVault](https://www.romvault.com/)) and extract it somewhere permanent
-- Make a folder called `ToSort` in the RomVault folder (old versions will accumulate here)
-- Copy/symlink the `OTLN-Calibre-Metadata/dist/<metadata_set>.dat` to the `ROMVault/DatRoot` folder and remove any pre-existing files
-    - Currently there is only one metadata set (OTLN_metadata.dat with just epubs), but in the future I'll add pdf when I get to it.
-    - Symlinks are basically "shortcuts" in Windows, though I don't know if Windows shortcuts will work.
-    - Relative path symlinking may or may not require being within the folder of either the destination or source:
-    ```
-    ln -s OTLN_metadata.dat ../../ROMVault_3.4.5/DatRoot/OTLN_epub_metadata.dat
-    ln -s ../../OTLN-Calibre-Metadata/dist/OTLN_metadata.dat OTLN_epub_metadata.dat
-    ```
-- Execute RomVault and perform the following configurations:
-    - On the menu bar, use `Add ToSort` and select the OTLN folder to add OTLN as a source path
-    - Use `Add ToSort` again and select the `OTLN-Calibre-Metadata/metadata` folder as a source path
-        ![main_window](https://user-images.githubusercontent.com/5753435/167808225-0a76a1b7-69c1-40d8-aa6b-9976c02a2e32.png)
-    - On the menu bar, open the `Settings => RomVault Settings`
-        - Add the following filename rules in the large text input box:
+- Have any of the following options installed/setup on your system in order to use [SabreTools](https://github.com/SabreTools/SabreTools):
+    - The dotnet-runtime and net3.1 framework
+        - For archlinux:
             ```
-            *.epub
-            *.pdf
-            *.opf
-            *.jpg
-            *.zip
-            ```
-        - Press OK
-
-        ![romvault_settings](https://user-images.githubusercontent.com/5753435/167808189-04bfd90c-0f66-49de-821a-a77b14f921cc.png)
-    - On the menu bar, open the `Settings => Directory Settings`
-        - Set the `Dir Location` to your `Light Novels` Calibre Library folder
-        - Set `Archive Type` to `File`
-        - Add the following filename rule to the `Filenames not to remove from RomDir's`
-            ```
-            *.db
-            *.jpg
-            *.json
-            ```
-        - Press the `Apply` button and then `Done`
-
-        ![directory_settings](https://user-images.githubusercontent.com/5753435/167813321-07ace6fb-cb34-4c1f-80bb-dc68f30b2244.png)
-    - Close and re-open RomVault (This step is just in case)
-    - Click `Update DATs`, then `Scan ROMs`, then `Find Fixes`, then `Fix ROMs`
-    - Wait for the fixing to be completed (button will change to `Close`)
+            pacman -S dotnet-runtime
+            curl -s https://dot.net/v1/dotnet-install.sh -o dotnet-install.sh
+            chmod +x dotnet-install.sh
+            sudo ./dotnet-install.sh --install-dir /usr/share/dotnet -channel 3.1
+            ``` 
+    - A compiled native binary of sabretools and required libraries placed in the `dist/sabretools` folder
+        - I might put this up somewhere and then automate the download/extract.
+- Run the install_update.sh script
+    - Select the `Light Novels` Calibre Library folder
+    - Select the `OTLN` source folder
+    - Confirm the action and wait for the process to finish.
 - Open Calibre and switch to your `Light Novels` Calibre Library folder
-    - Navigate to `Calibre Library => Library Maintenance => Restore database` and press OK
     - Select all of the imported light novels and then press `Edit metadata`
-    - Select `Change cover => Set from e-book files` and press OK
+    - Select `Change cover => Set from e-book files`
+    - (Optional) Enable `Compress Cover images` and reduce quality to 85 (reduce aggregate cover size by roughly 66.7%)
+    - Press OK
 - Theoretically you should now have the same setup as me.
 
 ## Updating
 - Open up a terminal in the `OTLN-Calibre-Metadata` directory and get the latest changes with `git pull origin`
-- If your `OTLN-Calibre-Metadata/dist/<metadata_set>.dat` is not OR can't be symlinked, copy the .dat to the `ROMVault/DatRoot` folder
-- Open RomVault and perform the following actions:
-    - On the menu bar, use the `Update DATs => Refresh All DATs` option
-    - Click `Scan ROMs`, then `Find Fixes`, then `Fix ROMs`
-    - Wait for the fixing to be completed (button will change to `Close`)
+- Run the install_update.sh script
+    - Confirm the action and wait for the process to finish (this will overwrite files in your `Light Novels` Calibre Library).
+    - If there are ebook filepaths not in the `OTLN_metadata.xml`, the script will list these paths and prompt you to delete them.
+        - These could be due to author or title changes that affected the filepath of the ebook and are currently not handled by the script so as to prevent accidentally deleting people's files if they didn't read the warning.
+        - These could also be due to external additions to the library which could conflict with additions from updated metadata (calibre book id conflicts).
+    - Remove the offending filepaths before confirming the action and wait for the process to finish.
 - Open Calibre and switch to your `Light Novels` Calibre Library folder
-    - Navigate to `Calibre Library => Library Maintenance => Restore database` and press OK
     - Select all of the newly imported light novels and then press `Edit metadata`
     - Select `Change cover => Set from e-book files`
-    - (Optional) Enable `Compress cover images` and change the value to 90 (reduce aggregate cover size by roughly 58.8%)
+    - (Optional) Enable `Compress Cover images` and reduce quality to 85 (reduce aggregate cover size by roughly 66.7%)
     - Press OK
+
 ## FAQ
 - Why does ROMVault show that my metadata.opf has changed even though I haven't updated anything?
     - Calibre is a great program that seems to randomly sort the identifiers (isbn, kobo, amazon, etc.) and likes to put it's version number into the file. It's safe to ignore any of those changes as long as you personally haven't added any new metadata (read/unread status, etc.)
